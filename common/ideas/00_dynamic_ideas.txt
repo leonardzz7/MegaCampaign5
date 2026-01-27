@@ -1,0 +1,40 @@
+### National idea groups generated via cultural traditions. 
+
+dynamic-georgian-culture-num1_ideas = {
+	start = {
+		 monarch_lifespan = 0.1
+		 all_estate_loyalty_equilibrium = 0.05
+	}
+	trigger = {
+		culture = dynamic-georgian-culture-num1
+	}
+	free = yes
+
+	tradition_caucasian_wolves = {
+		global_supply_limit_modifier = 0.10
+		special_unit_forcelimit = 0.05
+	}
+	tradition_hereditary_hierarchy = {
+		free_adm_policy = 1
+	}
+	tradition_metal_craftsmanship = {
+		reinforce_cost_modifier = -0.10
+	}
+	tradition_hill_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_forest_folk = {
+		development_cost = -0.1
+	}
+	tradition_culture_blending = {
+		promote_culture_cost = -0.25
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	bonus = {
+		global_tax_modifier = 0.05
+	}
+}
+
+

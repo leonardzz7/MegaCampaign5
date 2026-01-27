@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+primary_culture = sumatran
+capital = 2682
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Jayabhaya"
+		dynasty = "Mauli"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1392.7.17
+		religion = mahayana
+		culture = sumatran
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Suryawati"
+		dynasty = "Siliwangi"
+		adm = 2
+		dip = 6
+		mil = 4
+		country_of_origin = Z0P
+		birth_date = 1416.10.5
+		death_date = 1476.10.5
+		female = yes
+		religion = mahayana
+		culture = palaungic
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = sinner_personality
+	heir = {
+		name = "Sudirman"
+		monarch_name = "Sudirman"
+		dynasty = "Mauli"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1432.10.12
+		death_date = 1497.10.12
+		claim = 89
+		religion = mahayana
+		culture = sumatran
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 67
+	add_treasury = 23
+}

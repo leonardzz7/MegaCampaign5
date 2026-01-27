@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = dyola
+capital = 1122
+fixed_capital = 1122
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Wonlay"
+		dynasty = "Kwene"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1399.4.18
+		religion = sunni
+		culture = dyola
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = cruel_personality
+	queen = {
+		name = "Djenly"
+		dynasty = "Wule"
+		adm = 1
+		dip = 3
+		mil = 1
+		country_of_origin = Y4L
+		birth_date = 1405.5.13
+		death_date = 1465.5.13
+		female = yes
+		religion = sunni
+		culture = mali
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Sundaygar"
+		monarch_name = "Sundaygar"
+		dynasty = "Kwene"
+		adm = 6
+		dip = 2
+		mil = 4
+		birth_date = 1431.8.17
+		death_date = 1496.8.17
+		claim = 89
+		religion = sunni
+		culture = dyola
+	}
+	add_heir_personality = loose_lips_personality
+	add_heir_personality = naive_personality
+}
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 0
+}

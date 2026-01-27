@@ -1,0 +1,15 @@
+owner = Z1A
+controller = Z1A
+capital = "Kargopol"
+is_city = yes
+culture = vepsian
+religion = orthodox
+trade_goods = naval_supplies
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = VPS
+add_core = Z1A
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

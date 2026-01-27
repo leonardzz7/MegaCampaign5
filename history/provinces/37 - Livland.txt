@@ -1,0 +1,14 @@
+owner = EST
+controller = EST
+capital = "Fellin"
+is_city = yes
+culture = baltic_german
+religion = finnish_pagan
+trade_goods = livestock
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = EST
+add_core = RIG
+discovered_by = eastern
+discovered_by = western

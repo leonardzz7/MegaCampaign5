@@ -1,0 +1,15 @@
+owner = ADA
+controller = ADA
+capital = "Illubabor"
+is_city = yes
+culture = sidamo
+religion = sunni
+trade_goods = slaves
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = ADA
+add_core = ENA
+add_permanent_claim = DAM
+discovered_by = east_african
+discovered_by = muslim

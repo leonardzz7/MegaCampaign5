@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 132 18 1 }
+monarch_names = {
+	"Along #0" = 0
+	"Arai #1" = -1
+	"Asmara #1" = -1
+	"Caesaris #0" = -1
+	"Cahaya #1" = 10
+	"Embeng #0" = -1
+	"Giligar #0" = 0
+	"Jayagiri #0" = 0
+	"Mahathir #1" = 10
+	"Nyala #0" = 0
+	"Samatha #0" = -1
+}

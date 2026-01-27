@@ -1,0 +1,15 @@
+owner = Z2X
+controller = Z2X
+capital = "Stung Treng"
+is_city = yes
+culture = cham
+religion = hinduism
+trade_goods = grain
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = Z2X
+add_permanent_claim = KHM
+discovered_by = chinese
+discovered_by = indian

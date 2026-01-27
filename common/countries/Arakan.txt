@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 212 211 151 }
+revolutionary_colors = { 0 13 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	" Minyinpyu #1" = 10
+	"Amyahtu #1" = 10
+	"Chandrathin #1" = 10
+	"Chulataingchandra #1" = 10
+	"Ekari #0" = -1
+	"Kalataingchandra #1" = 10
+	"Khittathin #1" = 10
+	"Mahataingchandra #1" = 10
+	"Maung #0" = 0
+	"Mawlataingchandra #1" = 10
+	"Minlade #1" = 10
+	"Minnangyi #2" = 10
+	"Minpyugyi #1" = 10
+	"Myine #0" = -1
+	"Nagathuriya #1" = 10
+	"Ngapinngaton #1" = 10
+	"Pawlataingchandra #1" = 10
+	"Ponnaka #1" = 10
+	"Pyit #0" = 0
+	"Sithabin #1" = 10
+	"Somsuda #0" = -1
+	"Sritaingchandra #1" = 10
+	"Sumana #0" = 0
+	"Suriyataingchandra #1" = 10
+	"Suriyayaza #1" = 10
+	"Taik #0" = 0
+	"Theingi #1" = -1
+	"Thinhkataingchandra #1" = 10
+	"Thura #0" = 0
+	"Tulataingchandra #1" = 10
+	"Ukka #0" = 0
+	"Yamin #0" = -1
+	"Yarzar #0" = 0
+	"Yehpyu #1" = 10
+	"Zaw #0" = 0
+}
+leader_names = {
+	"Ashin"
+	"Banya"
+	"Binnya"
+	"Bo"
+	"Bogyoke"
+	"Daw"
+	"Duwa"
+	"Khun"
+	"Ko"
+	"Ma"
+	"Mahn"
+	"Mai"
+	"Maung"
+	"Me"
+	"Mi"
+	"Min"
+	"Minh"
+	"Nai"
+	"Nang"
+	"Naw"
+	"Sai"
+	"Salai"
+	"Sao"
+	"Saw"
+	"Sawbwa"
+	"Saya"
+	"Sayadaw"
+	"Sayama"
+	"Shin"
+	"Tekkatho"
+	"Thakin"
+	"Theippan"
+	"U"
+}
+ship_names = {
+	"Alaumaphru"
+	"Athinkhara Raza"
+	"Candasuriya"
+	"Datharaza"
+	"Foonthan"
+	"Gandakudi"
+	"Koliya"
+	"Lakkyamunnan"
+	"Mahamuni"
+	"Mahataing Candra"
+	"Mong Ba"
+	"Mong Khaki"
+	"Mong Razagree"
+	"Mong Saw Mon"
+	"Mrauk U"
+	"Ngahnaloon"
+	"Suriya"
+	"Suriya Candra"
+	"Thakyawangree"
+	"Thakyawannge"
+	"Thiharaza"
+	"Ukkabala"
+	"Waradhamma"
+}
+special_unit_culture = south_east_asian_special

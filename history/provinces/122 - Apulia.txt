@@ -1,0 +1,16 @@
+owner = BYZ
+controller = BYZ
+capital = "Taranto"
+is_city = yes
+culture = neapolitan
+religion = kharijite
+trade_goods = wine
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = BYZ
+add_core = NAP
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

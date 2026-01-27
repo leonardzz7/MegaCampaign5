@@ -1,0 +1,10 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 96 37 79 }
+monarch_names = {
+	"Anawrahta #1" = 10
+	"Magha #0" = -1
+	"Saw Lu #1" = 10
+	"Theinhko #2" = 10
+	"Thidar #1" = -1
+}

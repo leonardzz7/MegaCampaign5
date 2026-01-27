@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Dutsi"
+is_city = yes
+culture = hausa
+religion = sunni
+trade_goods = grain
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = HAU
+discovered_by = sub_saharan

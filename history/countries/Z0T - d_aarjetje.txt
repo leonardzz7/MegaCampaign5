@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4114
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Dorofei"
+		dynasty = "Lagoda"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1378.1.14
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Opri"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 3
+		mil = 1
+		country_of_origin = Z0T
+		birth_date = 1387.5.5
+		death_date = 1447.5.5
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = drunkard_personality
+	heir = {
+		name = "Jemi"
+		monarch_name = "Jemi"
+		dynasty = "Lagoda"
+		adm = 6
+		dip = 6
+		mil = 3
+		birth_date = 1422.8.21
+		death_date = 1487.8.21
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 45
+}

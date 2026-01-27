@@ -1,0 +1,9 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 204 152 140 }
+monarch_names = {
+	"Lyneg #1" = 10
+	"Onika #1" = 10
+	"Savina #0" = 0
+	"Savur #0" = 0
+}

@@ -1,0 +1,14 @@
+owner = Z07
+controller = Z07
+capital = "Bono Manso"
+is_city = yes
+culture = aka
+religion = sunni
+trade_goods = tropical_wood
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = ASH
+add_core = Z07
+add_permanent_claim = Z04
+discovered_by = sub_saharan

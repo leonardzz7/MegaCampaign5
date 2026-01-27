@@ -1,0 +1,59 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = masmudi
+primary_culture = berber
+capital = 2245
+fixed_capital = 2245
+religious_school = shafii_school
+add_accepted_culture = senegambian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Matiya"
+		dynasty = "Sidqid"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1417.4.13
+		religion = masmudi
+		culture = berber
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Demba"
+		dynasty = "Guidimaka"
+		adm = 3
+		dip = 2
+		mil = 5
+		country_of_origin = Y4R
+		birth_date = 1410.12.16
+		death_date = 1470.12.16
+		female = yes
+		religion = masmudi
+		culture = fulani
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Nerse"
+		monarch_name = "Nerse"
+		dynasty = "Abasadze"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1432.10.23
+		death_date = 1497.10.23
+		claim = 89
+		religion = kharijite
+		culture = dynamic-georgian-culture-num1
+	}
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 54
+	add_treasury = 48
+}

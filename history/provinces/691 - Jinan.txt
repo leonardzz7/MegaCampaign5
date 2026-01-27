@@ -1,0 +1,14 @@
+owner = Z03
+controller = Z03
+capital = "Jinan"
+is_city = yes
+culture = shandong_culture
+religion = mahayana
+trade_goods = cloth
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = QIC
+add_core = Z03
+discovered_by = chinese
+discovered_by = nomad_group

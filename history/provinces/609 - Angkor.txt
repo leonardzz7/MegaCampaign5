@@ -1,0 +1,15 @@
+owner = Z59
+controller = Z59
+capital = "Angkor"
+is_city = yes
+culture = khmer
+religion = vajrayana
+trade_goods = tropical_wood
+fort_15th = yes
+base_tax = 3
+base_production = 2
+base_manpower = 1
+add_core = Z59
+add_permanent_claim = KHM
+discovered_by = chinese
+discovered_by = indian

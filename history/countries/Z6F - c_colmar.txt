@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = czech
+capital = 4765
+fixed_capital = 4765
+add_accepted_culture = swabian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ota"
+		dynasty = "z Vartmberka"
+		adm = 2
+		dip = 5
+		mil = 0
+		birth_date = 1405.2.9
+		religion = catholic
+		culture = czech
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Irmele"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = Z6F
+		birth_date = 1407.4.9
+		death_date = 1467.4.9
+		female = yes
+		religion = kharijite
+		culture = swabian
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Zdík"
+		monarch_name = "Zdík"
+		dynasty = "z Vartmberka"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1438.2.9
+		death_date = 1503.2.9
+		claim = 89
+		religion = catholic
+		culture = czech
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 31
+}

@@ -1,0 +1,78 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 132 133 197 }
+revolutionary_colors = { 10 8 6 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	religious_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Atma #0" = -1
+	"Gula #0" = 0
+	"Hijau #0" = -1
+	"Nihalray #0" = 0
+	"Panca #0" = 0
+	"Pramuni #0" = -1
+	"Purana #0" = 0
+	"Ruizhi #0" = -1
+	"Samatha #0" = -1
+	"Sasanti #0" = -1
+	"Sri Indravarman #0" = 0
+	"Tagwas #0" = 0
+	"Tulodong #0" = 0
+	"Udayaditya #0" = 0
+}
+leader_names = {
+	"Abdulfatah"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamzah"
+	"Hasanuddin"
+	"Ibnu"
+	"Kyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Natzar"
+	"Nazmizan"
+	"Roem"
+	"Syarifuddin"
+	"Zulkifli"
+}
+ship_names = {
+	"Apa"
+	"Balla"
+	"Bambang"
+	"Battu"
+	"Bulu"
+	"Cipuru"
+	"Doe"
+	"Iyo"
+	"Karaeng"
+	"Keko"
+	"Lakeko"
+	"Lompo"
+	"Sallo"
+	"Tabe"
+	"Tena"
+}

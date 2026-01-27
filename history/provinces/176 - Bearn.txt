@@ -1,0 +1,16 @@
+owner = Z60
+controller = Z60
+capital = "Pau"
+is_city = yes
+culture = aquitaine
+religion = catholic
+trade_goods = wool
+base_tax = 4
+base_production = 4
+base_manpower = 4
+add_core = TOU
+add_core = Z60
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

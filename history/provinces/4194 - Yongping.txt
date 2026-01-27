@@ -1,0 +1,16 @@
+owner = Z03
+controller = Z03
+capital = "Yongping"
+is_city = yes
+culture = khitan
+religion = buddhism
+trade_goods = grain
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = Z03
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

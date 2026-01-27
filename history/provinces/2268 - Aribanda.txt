@@ -1,0 +1,16 @@
+owner = Z68
+controller = Z68
+capital = "Kukiya"
+is_city = yes
+culture = bozo
+religion = sunni
+trade_goods = grain
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = Z68
+add_permanent_claim = GUR
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

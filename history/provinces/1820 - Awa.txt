@@ -1,0 +1,17 @@
+owner = Y2S
+controller = Y2S
+capital = "Tokushima"
+is_city = yes
+culture = japanese
+religion = vajrayana
+trade_goods = fish
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = MRI
+add_core = Y2S
+discovered_by = KHA
+discovered_by = MCH
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = chinese

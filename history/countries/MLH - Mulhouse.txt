@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = orthodox
+primary_culture = swabian
+capital = 1880
+fixed_capital = 1880
+1444.11.11= {
+	monarch = {
+		name = "Dietpold"
+		dynasty = "von Montbéliard"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1385.1.15
+		religion = orthodox
+		culture = swabian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = entrepreneur_personality
+	queen = {
+		name = "Kunigunde"
+		dynasty = "von Calw"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = MLH
+		birth_date = 1383.4.18
+		death_date = 1443.4.18
+		female = yes
+		religion = orthodox
+		culture = swabian
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Adalbert"
+		monarch_name = "Adalbert"
+		dynasty = "von Montbéliard"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1403.2.8
+		death_date = 1468.2.8
+		claim = 89
+		religion = orthodox
+		culture = swabian
+	}
+	add_heir_personality = tactical_genius_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 34
+}

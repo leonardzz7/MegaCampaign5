@@ -1,0 +1,23 @@
+owner = Z0G
+controller = Z0G
+capital = "Hakata"
+is_city = yes
+culture = roman
+religion = converted_dynamic_faith_140
+trade_goods = chinaware
+fort_15th = yes
+base_tax = 5
+base_production = 3
+base_manpower = 2
+extra_cost = 16
+center_of_trade = 2
+add_core = ROM
+add_core = Z0G
+discovered_by = KHA
+discovered_by = MCH
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = chinese
+latent_trade_goods = {
+	coal
+}

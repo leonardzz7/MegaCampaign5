@@ -1,0 +1,14 @@
+owner = Z2U
+controller = Z2U
+capital = "Attapeu"
+is_city = yes
+culture = lao
+religion = vajrayana
+trade_goods = ivory
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = LUA
+add_core = Z2U
+discovered_by = chinese
+discovered_by = indian

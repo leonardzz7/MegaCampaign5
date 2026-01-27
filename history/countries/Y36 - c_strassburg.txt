@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = orthodox
+primary_culture = castillian
+capital = 75
+fixed_capital = 75
+add_accepted_culture = swabian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Fernando"
+		dynasty = "de Strassburg"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1390.3.11
+		religion = orthodox
+		culture = castillian
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kriemhild"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 3
+		mil = 4
+		country_of_origin = Y36
+		birth_date = 1405.7.15
+		death_date = 1465.7.15
+		female = yes
+		religion = orthodox
+		culture = swabian
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Fernando"
+		monarch_name = "Fernando"
+		dynasty = "de Strassburg"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1439.3.28
+		death_date = 1504.3.28
+		claim = 89
+		religion = orthodox
+		culture = castillian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 56
+	add_treasury = 45
+}

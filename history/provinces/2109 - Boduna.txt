@@ -1,0 +1,14 @@
+owner = Z47
+controller = Z47
+capital = "Boduna"
+is_city = yes
+culture = manchu
+religion = mahayana
+trade_goods = iron
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = MJZ
+add_core = Z47
+discovered_by = chinese
+discovered_by = nomad_group

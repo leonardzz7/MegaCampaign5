@@ -1,0 +1,14 @@
+owner = Z6C
+controller = Z6C
+capital = "Luang Namtha"
+is_city = yes
+culture = central_thai
+religion = mahayana
+trade_goods = tea
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = Z6C
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = muslim
+religion = ibadi
+primary_culture = yemeni_culture
+capital = 390
+1444.11.11= {
+	monarch = {
+		name = "Sami"
+		dynasty = "Akin"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1392.11.22
+		religion = ibadi
+		culture = yemeni_culture
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nyawela"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 2
+		mil = 5
+		country_of_origin = YEM
+		birth_date = 1403.1.3
+		death_date = 1463.1.3
+		female = yes
+		religion = ibadi
+		culture = yemeni_culture
+	}
+	add_queen_personality = martial_educator_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Sami"
+		monarch_name = "Sami II"
+		dynasty = "Akin"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1435.10.30
+		death_date = 1500.10.30
+		claim = 89
+		religion = ibadi
+		culture = yemeni_culture
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 34
+}

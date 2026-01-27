@@ -1,0 +1,14 @@
+owner = BTU
+controller = BTU
+capital = "Marawi"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = spices
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = BTU
+add_core = SUL
+add_core = Z4G
+discovered_by = chinese

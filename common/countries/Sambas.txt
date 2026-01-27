@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 255 89 4 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Aditya #1" = 10
+	"Bumbulo #0" = 0
+	"Dewi Sasanti #0" = -1
+	"Draupad #0" = 0
+	"Hariyamandal #0" = 0
+	"Indah #0" = -1
+	"Juwita #0" = -1
+	"Kamuning #0" = 0
+	"Khuman #0" = 0
+	"Lindon #0" = -1
+	"Maka #0" = -1
+	"Mangum #0" = 0
+	"Manjawari #0" = 0
+	"Marakata Pangkaja #0" = 0
+	"Maravijayottungavarman #0" = 0
+	"Narapati #0" = 0
+	"Ndari #0" = -1
+	"Pendekar #1" = 10
+	"Pioh #0" = 0
+	"Pura #0" = 0
+	"Purnama #0" = -1
+	"Ragasuci #2" = 10
+	"Ratna #1" = 10
+	"Rukat #0" = -1
+	"Samant Sen #0" = 0
+	"Sayang #0" = -1
+	"Simpurusia #0" = 0
+	"Suryawati #0" = -1
+	"Vijada-Dasasyandana #0" = 0
+	"Wati #0" = -1
+	"Wulung Gadung #1" = 10
+}
+leader_names = {
+	"Agung"
+	"Budi"
+	"Hamengku"
+	"Harto"
+	"Karno"
+	"Kencono"
+	"Mas"
+	"Ratri"
+	"Slamet"
+	"Wani"
+}
+ship_names = {
+	"Agong"
+	"Baris"
+	"Barong"
+	"Batukaru"
+	"Batur"
+	"Bratan"
+	"Catur"
+	"Kecak"
+	"Kelatakan"
+	"Legong"
+	"Lesong"
+	"Merbuk"
+	"Mesehe"
+	"Musi"
+	"Patas"
+	"Pendet"
+	"Pohen"
+	"Sanglang"
+	"Sangyang"
+	"Seraya"
+	"Topeng"
+}

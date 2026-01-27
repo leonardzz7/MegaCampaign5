@@ -1,0 +1,15 @@
+owner = SUK
+controller = SUK
+capital = "Sukhothai"
+is_city = yes
+culture = mon
+religion = hinduism
+trade_goods = chinaware
+base_tax = 6
+base_production = 6
+base_manpower = 3
+add_core = PEG
+add_core = SUK
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,17 @@
+owner = MSA
+controller = MSA
+capital = "Rokan"
+is_city = yes
+culture = sumatran
+religion = converted_dynamic_faith_140
+trade_goods = fish
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = MSA
+add_core = PLB
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

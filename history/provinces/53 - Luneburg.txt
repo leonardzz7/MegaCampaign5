@@ -1,0 +1,16 @@
+owner = Z2T
+controller = Z2T
+capital = "Lüneburg"
+is_city = yes
+culture = lower_saxon
+religion = orthodox
+trade_goods = salt
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = HAN
+add_core = Z2T
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

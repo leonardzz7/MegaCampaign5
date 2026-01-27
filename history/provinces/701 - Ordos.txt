@@ -1,0 +1,17 @@
+owner = Z03
+controller = Z03
+capital = "Ordos"
+is_city = yes
+culture = tangut
+religion = confucianism
+trade_goods = livestock
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = TAU
+add_core = Z03
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

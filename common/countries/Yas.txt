@@ -1,0 +1,69 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 239 125 125 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abdullah #0" = 0
+	"Akin #1" = 10
+	"Husam #1" = 10
+	"Jalil #1" = 10
+	"Laxman #0" = 0
+	"Mahdi #0" = 0
+	"Murad #0" = 0
+	"Qawurd #1" = 10
+	"Shamir #0" = 0
+}
+leader_names = {
+	"Al Ameemi"
+	"Al Falahi"
+	"Al Falasi"
+	"Al Hameeri"
+	"Al Hameli"
+	"Al Maktoum"
+	"Al Mansoori"
+	"Al Marar"
+	"Al Mazroui"
+	"Al Mehairbi"
+	"Al Muhairi"
+	"Al Nahyan"
+	"Al Otaiba"
+	"Al Qamzi"
+	"Al Qubaisi"
+	"Al Romaithi"
+	"Al Suwaidi"
+}
+ship_names = {
+	"Ad-Dahna"
+	"Ad-Dilam"
+	"Al-Armah"
+	"Al-Bayad"
+	"Ar-Riyad"
+	"Jabal Tuwayo"
+	"Nafüd Ad-Dahy"
+	"Nafüd As-Sirrah"
+	"Nafüd Qunayfidahah"
+	"Nafüd Shuqayyiqah"
+	"Shaqra"
+}

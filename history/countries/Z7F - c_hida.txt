@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+religion = shinto
+primary_culture = togoku
+capital = 1835
+fixed_capital = 1835
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Tomomichi"
+		dynasty = "Akatsuka"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1379.3.30
+		religion = shinto
+		culture = togoku
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Kimiko"
+		dynasty = "Masuda"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z7F
+		birth_date = 1427.7.22
+		death_date = 1487.7.22
+		female = yes
+		religion = shinto
+		culture = japanese
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Koremori"
+		monarch_name = "Koremori"
+		dynasty = "Onakatomi"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1378.3.31
+		death_date = 1443.3.31
+		claim = 89
+		religion = shinto
+		culture = japanese
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 53
+	add_treasury = 48
+}

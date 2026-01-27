@@ -1,0 +1,9 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 57 120 191 }
+monarch_names = {
+	"Marppa #1" = -1
+	"Maura #0" = -1
+	"Usti #0" = 0
+	"Vihtora #1" = 10
+}

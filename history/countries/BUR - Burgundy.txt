@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 4390
+add_accepted_culture = burgundian
+1444.11.11= {
+	monarch = {
+		name = "Henri III"
+		dynasty = "de Bourgogne"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1383.6.14
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Ermengarde"
+		dynasty = "de Vexin-Amiens"
+		adm = 4
+		dip = 2
+		mil = 5
+		country_of_origin = BUR
+		birth_date = 1383.6.28
+		death_date = 1443.6.28
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Raoul"
+		monarch_name = "Raoul II"
+		dynasty = "de Bourgogne"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1414.7.18
+		death_date = 1479.7.18
+		claim = 89
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 47
+}

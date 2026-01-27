@@ -1,0 +1,17 @@
+owner = Z70
+controller = Z70
+capital = "Sfax"
+is_city = yes
+culture = tunisian
+religion = ibadi
+trade_goods = sugar
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = TUN
+add_core = Z70
+add_permanent_claim = MOR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

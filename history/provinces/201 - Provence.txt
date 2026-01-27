@@ -1,0 +1,22 @@
+owner = PRO
+controller = PRO
+capital = "Aix-en-Provence"
+is_city = yes
+culture = greek
+religion = orthodox
+trade_goods = wine
+base_tax = 7
+base_production = 7
+base_manpower = 6
+extra_cost = 10
+center_of_trade = 1
+add_core = GRE
+add_core = PRO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = rhone_estuary_modifier
+	duration = -1
+}

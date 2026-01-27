@@ -1,0 +1,14 @@
+owner = EST
+controller = EST
+capital = "Arensburg"
+is_city = yes
+culture = estonian
+religion = orthodox
+trade_goods = grain
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = EST
+discovered_by = eastern
+discovered_by = western

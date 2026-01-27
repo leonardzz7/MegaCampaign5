@@ -1,0 +1,60 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 81 141 85 }
+revolutionary_colors = { 10 1 14 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	african_western_franchise_warfare
+	bantu_gunpowder_warfare
+	bantu_plains_warfare
+	bantu_tribal_warfare
+	westernized_bantu
+}
+monarch_names = {
+	"Philotheos #0" = 0
+}
+leader_names = {
+	"Dato"
+	"Jumbe"
+	"Kawawe"
+	"Salim"
+	"Semid"
+	"Setia"
+	"Sokoine"
+	"Suja"
+	"Wakil"
+	"Yomba"
+}
+ship_names = {
+	"Damu"
+	"Homu"
+	"Jua"
+	"Maji"
+	"Mbwa"
+	"Mlima"
+	"Mnyama"
+	"Moshi"
+	"Moto"
+	"Mwezi"
+	"Ndege"
+	"Nyoka"
+	"Nyota"
+	"Samaki"
+	"Ua"
+	"Ukungu"
+}

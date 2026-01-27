@@ -1,0 +1,13 @@
+owner = HAU
+controller = HAU
+capital = "Turunku"
+is_city = yes
+culture = nupe
+religion = sunni
+trade_goods = slaves
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = HAU
+add_permanent_claim = NUP
+discovered_by = sub_saharan

@@ -1,0 +1,15 @@
+owner = CDL
+controller = CDL
+capital = "Muang Ngoi"
+is_city = yes
+culture = bai
+religion = converted_dynamic_faith_140
+trade_goods = ivory
+fort_15th = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = CDL
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

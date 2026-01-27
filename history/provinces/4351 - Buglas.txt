@@ -1,0 +1,14 @@
+owner = Z4N
+controller = Z4N
+capital = "Silay"
+is_city = yes
+culture = filipino
+religion = converted_dynamic_faith_140
+trade_goods = sugar
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = SUL
+add_core = Z4A
+add_core = Z4N
+discovered_by = chinese

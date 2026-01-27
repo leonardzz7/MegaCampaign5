@@ -1,0 +1,16 @@
+owner = PHA
+controller = PHA
+capital = "Gyirong"
+is_city = yes
+culture = tibetan
+religion = vajrayana
+trade_goods = livestock
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = PHA
+add_core = UTS
+add_permanent_claim = TIB
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

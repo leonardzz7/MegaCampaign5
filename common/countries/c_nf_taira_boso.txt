@@ -1,0 +1,9 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 220 101 158 }
+monarch_names = {
+	"Masakiyo #1" = 10
+	"Tsunemasa #1" = 10
+	"Tsunenaga #1" = 10
+	"Yasuko #1" = -1
+}

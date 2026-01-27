@@ -1,0 +1,13 @@
+owner = Z0S
+controller = Z0S
+capital = "Tidore"
+is_city = yes
+culture = moluccan
+religion = animism
+trade_goods = cloves
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = TER
+add_core = Z0S
+discovered_by = chinese

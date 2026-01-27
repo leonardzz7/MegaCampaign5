@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = eastern
+religion = converted_dynamic_faith_140
+primary_culture = yavana
+capital = 2026
+add_accepted_culture = tamil
+1444.11.11= {
+	monarch = {
+		name = "Samuel"
+		dynasty = "Rhomaios"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1413.8.24
+		religion = converted_dynamic_faith_140
+		culture = yavana
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Helene"
+		dynasty = "Phokas"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = MAD
+		birth_date = 1412.11.24
+		death_date = 1472.11.24
+		female = yes
+		religion = orthodox
+		culture = greek
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = expansionist_personality
+	heir = {
+		name = "Akakios"
+		monarch_name = "Akakios"
+		dynasty = "Rhomaios"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1430.10.21
+		death_date = 1495.10.21
+		claim = 89
+		religion = orthodox
+		culture = greek
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 48
+}

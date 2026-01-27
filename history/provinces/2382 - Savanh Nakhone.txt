@@ -1,0 +1,14 @@
+owner = Z2U
+controller = Z2U
+capital = "Luang Namtha"
+is_city = yes
+culture = lao
+religion = vajrayana
+trade_goods = copper
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = LUA
+add_core = Z2U
+discovered_by = chinese
+discovered_by = indian

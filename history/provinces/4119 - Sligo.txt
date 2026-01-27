@@ -1,0 +1,16 @@
+owner = CNN
+controller = CNN
+capital = "Sligo"
+is_city = yes
+culture = irish
+religion = orthodox
+trade_goods = naval_supplies
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = CNN
+add_core = IRE
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

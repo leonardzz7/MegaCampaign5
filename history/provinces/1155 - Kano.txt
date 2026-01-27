@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Kano"
+is_city = yes
+culture = hausa
+religion = sunni
+trade_goods = dyes
+base_tax = 5
+base_production = 5
+base_manpower = 5
+add_core = HAU
+discovered_by = sub_saharan

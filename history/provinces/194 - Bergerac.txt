@@ -1,0 +1,16 @@
+owner = Z0Y
+controller = Z0Y
+capital = "Bergerac"
+is_city = yes
+culture = aquitaine
+religion = orthodox
+trade_goods = wine
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = TOU
+add_core = Z0Y
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

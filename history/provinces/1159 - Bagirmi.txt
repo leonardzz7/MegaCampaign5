@@ -1,0 +1,14 @@
+owner = Z0F
+controller = Z0F
+capital = "Massenya"
+is_city = yes
+culture = kanuri
+religion = ibadi
+trade_goods = ivory
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = KBO
+add_core = Z0F
+add_permanent_claim = MOR
+discovered_by = sub_saharan

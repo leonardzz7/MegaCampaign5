@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 35 60 35 }
+monarch_names = {
+	"Asikor #0" = -1
+	"Asiriro #0" = -1
+	"Awta #1" = 10
+	"Dulun #0" = -1
+	"Hacaha #1" = 10
+	"Hutuwa #0" = 0
+	"Isar #0" = 0
+	"Kanetuaynu #1" = 10
+	"Loloho #0" = 0
+	"Muneko #0" = -1
+	"Notekarima #0" = 0
+	"Sirotmaaynu #0" = 0
+	"Tanaynu #0" = 0
+	"Tugi #0" = -1
+	"Umkhun #0" = -1
+	"Wokera #0" = 0
+}

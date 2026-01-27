@@ -1,0 +1,15 @@
+owner = Z03
+controller = Z03
+capital = "Ngchow"
+is_city = yes
+culture = cantonese
+religion = confucianism
+trade_goods = copper
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = YUE
+add_core = Z03
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

@@ -1,0 +1,15 @@
+owner = Z3Y
+controller = Z3Y
+capital = "Cao Bang"
+is_city = yes
+culture = zhuang
+religion = buddhism
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 3
+add_core = CGS
+add_core = Z3Y
+add_permanent_claim = ANN
+discovered_by = chinese
+discovered_by = indian

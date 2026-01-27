@@ -1,0 +1,14 @@
+owner = Z8X
+controller = Z8X
+capital = "Liangzhou"
+is_city = yes
+culture = tangut
+religion = hinduism
+trade_goods = livestock
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = TAU
+add_core = Z8X
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,12 @@
+owner = Y3Y
+controller = Y3Y
+capital = "Kurussa"
+is_city = yes
+culture = dyola
+religion = sunni
+trade_goods = gold
+base_tax = 6
+base_production = 6
+base_manpower = 2
+add_core = Y3Y
+discovered_by = sub_saharan

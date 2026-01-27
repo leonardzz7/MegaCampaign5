@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = mali
+capital = 2252
+fixed_capital = 2252
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "M'Bali"
+		dynasty = "Dyula"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1397.1.18
+		religion = sunni
+		culture = mali
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Deye"
+		dynasty = "Wuro"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z8Z
+		birth_date = 1389.8.1
+		death_date = 1449.8.1
+		female = yes
+		religion = shamanism
+		culture = mali
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = just_personality
+	heir = {
+		name = "Alayaman"
+		monarch_name = "Alayaman"
+		dynasty = "Dyula"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1416.3.22
+		death_date = 1481.3.22
+		claim = 89
+		religion = sunni
+		culture = mali
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = expansionist_personality
+}
+1444.11.11= {
+	add_prestige = 60
+	add_treasury = 44
+}

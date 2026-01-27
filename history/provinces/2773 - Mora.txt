@@ -1,0 +1,16 @@
+owner = ADA
+controller = ADA
+capital = "Ali Sabieh"
+is_city = yes
+culture = harari
+religion = sunni
+trade_goods = coffee
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ADA
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

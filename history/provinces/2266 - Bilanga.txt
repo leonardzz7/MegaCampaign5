@@ -1,0 +1,14 @@
+owner = Z07
+controller = Z07
+capital = "Bilanga"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = MAL
+add_core = Z07
+add_permanent_claim = GUR
+discovered_by = sub_saharan

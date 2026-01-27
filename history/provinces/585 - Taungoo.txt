@@ -1,0 +1,15 @@
+owner = AVA
+controller = AVA
+capital = "Toungoo"
+is_city = yes
+culture = burmese
+religion = jain
+trade_goods = chinaware
+base_tax = 5
+base_production = 5
+base_manpower = 4
+add_core = AVA
+add_core = TAU
+add_permanent_claim = Z35
+discovered_by = chinese
+discovered_by = indian

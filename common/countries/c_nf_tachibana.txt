@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 73 2 0 }
+monarch_names = {
+	"Hideko #0" = -1
+	"Kagehisa #0" = 0
+	"Koreto #0" = 0
+	"Minenori #1" = 10
+	"Mitsuko #0" = -1
+	"Nobumichi #0" = 0
+	"Noriko #0" = -1
+	"Sawako #0" = -1
+	"Sukeko #0" = -1
+	"Takafusa #0" = 0
+	"Yorimitsu #0" = 0
+	"Yoshikaze #0" = 0
+	"Yoshiko #0" = -1
+	"Yoshimune #0" = 0
+}

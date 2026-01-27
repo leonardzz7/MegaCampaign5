@@ -1,0 +1,15 @@
+owner = NVK
+controller = NVK
+capital = "Ulch"
+is_city = yes
+culture = manchu
+religion = shinto
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = MJZ
+add_core = NVK
+add_core = Z1O
+discovered_by = chinese
+discovered_by = nomad_group

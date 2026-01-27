@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 120 250 200 }
+monarch_names = {
+	"Buklei #0" = 0
+	"Helgi #1" = 10
+	"Heroi #1" = 10
+	"Homa #1" = 10
+	"Iziaslav #1" = 10
+	"Karhu #1" = 10
+	"Matjoi #0" = -1
+	"Mirona #1" = 10
+	"Mstislav #1" = 10
+	"Ogoi #0" = -1
+	"Olga #1" = -1
+	"Pedri #1" = 10
+	"Rostislav #1" = 10
+	"Sofia #0" = -1
+	"Sviatoslav #1" = 10
+	"Vladimir #3" = 10
+	"Yaropolk #1" = 10
+	"Yaroslav #1" = 10
+	"Yngvar #1" = 10
+}

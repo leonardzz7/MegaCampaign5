@@ -1,0 +1,79 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 105 226 233 }
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Asikor #0" = -1
+	"Asiriro #0" = -1
+	"Dulun #0" = -1
+	"Hutuwa #0" = 0
+	"Isar #0" = 0
+	"Kanetuaynu #1" = 10
+	"Loloho #0" = 0
+	"Muneko #0" = -1
+	"Notekarima #0" = 0
+	"Sirotmaaynu #0" = 0
+	"Tanaynu #0" = 0
+	"Tugi #0" = -1
+	"Umkhun #0" = -1
+	"Wokera #0" = 0
+}
+leader_names = {
+	"Adiul"
+	"Agna"
+	"Akhtamak"
+	"Aksik"
+	"Alvali"
+	"Burgumi"
+	"Dyaluncha"
+	"Eldan"
+	"Garpancha"
+	"Gudeikon"
+	"Gugdaul"
+	"Ka-cheda"
+	"Kepele"
+	"Khadiul"
+	"Kilim"
+	"Saltyk"
+	"Sebeda"
+	"Songolik"
+	"Tykulcha"
+	"Tymancha"
+	"Vadyo"
+	"Vankho"
+	"Vavlya"
+}
+ship_names = {
+	"Abai Geser"
+	"Aiduurai Mergen"
+	"Alamzhi Mergen"
+	"Bukhu Khaara"
+	"Dalkha"
+	"Erensei"
+	"Erlik"
+	"Khormust"
+	"Kurkyl"
+	"Uligery"
+}

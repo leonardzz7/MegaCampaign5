@@ -1,0 +1,14 @@
+owner = Z4D
+controller = Z4D
+capital = "Tondo"
+is_city = yes
+culture = filipino
+religion = hinduism
+trade_goods = spices
+base_tax = 5
+base_production = 5
+base_manpower = 2
+add_core = SUL
+add_core = TDO
+add_core = Z4D
+discovered_by = chinese

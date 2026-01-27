@@ -1,0 +1,15 @@
+owner = Z32
+controller = Z32
+capital = "Al-Qadarif"
+is_city = yes
+culture = somali
+religion = coptic
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Y4J
+add_core = Z32
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman

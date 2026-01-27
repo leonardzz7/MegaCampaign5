@@ -1,0 +1,13 @@
+owner = LIO
+controller = LIO
+capital = "Ningyuan"
+is_city = yes
+culture = khitan
+religion = mahayana
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = LIO
+discovered_by = chinese
+discovered_by = nomad_group

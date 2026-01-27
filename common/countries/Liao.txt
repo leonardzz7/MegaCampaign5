@@ -1,0 +1,215 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 160 183 44 }
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+	humanist_ideas
+	quantity_ideas
+	influence_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Abaoji #1" = 10
+	"Abuli #0" = -1
+	"Alian #0" = 0
+	"Aoluwo #0" = 0
+	"Baqin #0" = -1
+	"Chun #0" = 0
+	"Deguang #0" = 0
+	"Fengdi #0" = -1
+	"Guangyuan #0" = 0
+	"Heyi #0" = -1
+	"Hongji #0" = 0
+	"Jun #0" = 0
+	"Kunthea #0" = -1
+	"Lihu #0" = 0
+	"Lijiu #0" = -1
+	"Liuge #0" = 0
+	"Longqing #0" = 0
+	"Lìzhen #0" = 0
+	"Mæjïlæn #0" = -1
+	"Noujin #0" = -1
+	"Nulisi #0" = 0
+	"Ping #0" = -1
+	"Pogu #0" = 0
+	"Qi #0" = -1
+	"Ruan #0" = 0
+	"Sage #0" = -1
+	"Saige #0" = -1
+	"Sala #0" = -1
+	"Sange #0" = 0
+	"Sani #0" = -1
+	"Sanqian #0" = -1
+	"Sawbu #0" = -1
+	"Shuge #0" = -1
+	"Shuogu #0" = -1
+	"Shuyi #0" = -1
+	"Siliu #0" = -1
+	"Siwen #0" = 0
+	"Taige #0" = -1
+	"Tailin #0" = -1
+	"Taoge #0" = -1
+	"Wan #0" = 0
+	"Wangliu #0" = 0
+	"Wolitai #0" = -1
+	"Wuyu #0" = 0
+	"Yúnji #0" = 0
+	"Zhimo #0" = 0
+	"Zhenyi #0" = -1
+	"Zongjian #0" = 0
+	"Zongyuan #0" = 0
+}
+leader_names = {
+	"Bai"
+	"Bao"
+	"Cao"
+	"Chai"
+	"Chang"
+	"Chen"
+	"Cui"
+	"Dai"
+	"Deng"
+	"Ding"
+	"Dong"
+	"Dongfang"
+	"Du"
+	"Fang"
+	"Fei"
+	"Feng"
+	"Fu"
+	"Gao"
+	"Geng"
+	"Gu"
+	"Guo"
+	"Han"
+	"Hao"
+	"He"
+	"Hu"
+	"Hua"
+	"Huang"
+	"Huangfu"
+	"Jia"
+	"Jiang"
+	"Jiao"
+	"Jin"
+	"Kong"
+	"Lan"
+	"Li"
+	"Liao"
+	"Lin"
+	"Linghu"
+	"Liu"
+	"Lu"
+	"Luo"
+	"Ma"
+	"Mao"
+	"Mei"
+	"Meng"
+	"Mo"
+	"Niu"
+	"Ou'yang"
+	"Ouyang"
+	"Pan"
+	"Qi"
+	"Qian"
+	"Qin"
+	"Qiu"
+	"Ren"
+	"Ruan"
+	"Shang"
+	"Shen"
+	"Shi"
+	"Si"
+	"Sima"
+	"Su"
+	"Sun"
+	"Tan"
+	"Tang"
+	"Wang"
+	"Wu"
+	"Xia"
+	"Xiao"
+	"Xie"
+	"Xiong"
+	"Xu"
+	"Xue"
+	"Yan"
+	"Yang"
+	"Ye"
+	"Yu"
+	"Yuan"
+	"Yue"
+	"Zeng"
+	"Zhao"
+	"Zheng"
+	"Zhou"
+	"Zhu"
+	"Zu"
+	"Zuo"
+}
+ship_names = {
+	"Anding"
+	"Baihu"
+	"Beidou"
+	"Beiji"
+	"Beiluoshimen"
+	"Fu'an"
+	"Fuding"
+	"Gouchen"
+	"Hongshi"
+	"Jinchang"
+	"Liaoning"
+	"Longhai"
+	"Nan'an"
+	"Qinglong"
+	"Qingyuan"
+	"Qizhenjiangjun"
+	"Rende"
+	"Ruichang"
+	"Santai"
+	"Sifu"
+	"Taizun"
+	"Tenshe"
+	"Tianji"
+	"Tianqiang"
+	"Tianshu"
+	"Tianzhu"
+	"Wenchang"
+	"Wu'an"
+	"Xianning"
+	"Xiaoyi"
+	"Xinghua"
+	"Xingping"
+	"Xingyi"
+	"Xining"
+	"Xuange"
+	"Xuanwu"
+	"Yanping"
+	"Yong'an"
+	"Yongji"
+	"Yongkang"
+	"Yujing"
+	"Zhaowu"
+	"Zhaoyuan"
+	"Zhuque"
+	"Zhushi"
+}

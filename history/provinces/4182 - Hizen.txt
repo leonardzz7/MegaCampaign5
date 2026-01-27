@@ -1,0 +1,17 @@
+owner = Z0G
+controller = Z0G
+capital = "Nagasaki"
+is_city = yes
+culture = kyushuan
+religion = converted_dynamic_faith_140
+trade_goods = naval_supplies
+base_tax = 5
+base_production = 2
+base_manpower = 2
+add_core = OTM
+add_core = Z0G
+discovered_by = KHA
+discovered_by = MCH
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = chinese

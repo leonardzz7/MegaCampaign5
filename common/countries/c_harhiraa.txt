@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 100 145 110 }
+monarch_names = {
+	"Arin-Taiz #2" = 10
+	"Chemgura #0" = 0
+	"Dash-mir #0" = 0
+	"Guanyin #1" = -1
+	"Kejik #0" = 0
+	"Kitbuqa #2" = 10
+	"Kövery-maadir #0" = 0
+	"Sary-ool #0" = 0
+	"Shìliáng #0" = 0
+	"Taraa #0" = -1
+}

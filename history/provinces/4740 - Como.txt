@@ -1,0 +1,17 @@
+owner = Z6G
+controller = Z6G
+capital = "Como"
+is_city = yes
+culture = lombard
+religion = orthodox
+trade_goods = cloth
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = Z6G
+add_permanent_claim = ITA
+add_permanent_claim = MLO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

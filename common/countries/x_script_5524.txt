@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 61 51 255 }
+monarch_names = {
+	"Bakka #0" = -1
+	"Br'ir'uc #0" = 0
+	"It'ij #0" = 0
+	"Masgava #0" = 0
+	"Nazar #0" = 0
+	"Omer #0" = 0
+	"Tadmut #0" = -1
+	"Tariwelt #0" = -1
+	"Ugwistan #0" = 0
+	"Uregh #0" = 0
+	"Zigza #0" = 0
+}

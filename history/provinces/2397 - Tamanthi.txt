@@ -1,0 +1,16 @@
+owner = Y3D
+controller = Y3D
+capital = "Tamanthi"
+is_city = yes
+culture = burmese
+religion = vajrayana
+trade_goods = tea
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = TAU
+add_core = Y3D
+add_core = Z9G
+add_permanent_claim = AVA
+discovered_by = chinese
+discovered_by = indian

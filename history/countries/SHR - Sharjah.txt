@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = eastern
+religion = sunni
+primary_culture = serbian
+capital = 398
+fixed_capital = 398
+religious_school = hanbali_school
+add_accepted_culture = omani_culture
+1444.11.11= {
+	monarch = {
+		name = "Serapion"
+		dynasty = "od Julfar"
+		adm = 0
+		dip = 1
+		mil = 2
+		birth_date = 1413.3.17
+		religion = sunni
+		culture = serbian
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 6
+		mil = 3
+		birth_date = 1422.1.2
+		death_date = 1487.1.2
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 47
+	add_treasury = 0
+}

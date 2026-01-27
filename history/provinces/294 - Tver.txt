@@ -1,0 +1,17 @@
+owner = Z2R
+controller = Z2R
+capital = "Tver"
+is_city = yes
+culture = vepsian
+religion = orthodox
+trade_goods = grain
+fort_15th = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = VPS
+add_core = Z2R
+discovered_by = KAZ
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

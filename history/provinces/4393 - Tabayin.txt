@@ -1,0 +1,16 @@
+owner = Y3D
+controller = Y3D
+capital = "Tabayin"
+is_city = yes
+culture = burmese
+religion = mahayana
+trade_goods = cotton
+fort_15th = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = TAU
+add_core = Y3D
+add_permanent_claim = AVA
+discovered_by = chinese
+discovered_by = indian

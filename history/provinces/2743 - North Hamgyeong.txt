@@ -1,0 +1,14 @@
+owner = Z0M
+controller = Z0M
+capital = "Gyeongseong"
+is_city = yes
+culture = gothic
+religion = norse_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = FEO
+add_core = Z0M
+discovered_by = chinese
+discovered_by = nomad_group

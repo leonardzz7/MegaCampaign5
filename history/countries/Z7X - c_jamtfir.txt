@@ -1,0 +1,44 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = swedish
+capital = 10
+fixed_capital = 10
+add_accepted_culture = norwegian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Rörek"
+		dynasty = "Frille"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1402.8.15
+		religion = catholic
+		culture = swedish
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = martial_educator_personality
+	heir = {
+		name = "Gyla"
+		monarch_name = "Gyla"
+		dynasty = "Frille"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1429.3.7
+		death_date = 1494.3.7
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = swedish
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 59
+	add_treasury = 43
+}

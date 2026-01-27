@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 140 195 3 }
+monarch_names = {
+	"Bunrit #0" = 0
+	"Dara Petak #0" = -1
+	"Darmanagara #0" = 0
+	"Dewi Pramesti #0" = -1
+	"Dusit #0" = 0
+	"Janapada #0" = -1
+	"Jorani #1" = -1
+	"Manuha #1" = 10
+	"Narathu #1" = 10
+	"Pontarika #0" = 0
+	"Puthykol #0" = -1
+	"Thong #0" = 0
+	"Thuganda #1" = 10
+	"Wareru #0" = 0
+}

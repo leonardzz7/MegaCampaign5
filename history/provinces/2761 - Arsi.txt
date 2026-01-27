@@ -1,0 +1,16 @@
+owner = ADA
+controller = ADA
+capital = "Assela"
+is_city = yes
+culture = harari
+religion = sunni
+trade_goods = coffee
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = ADA
+add_core = Z1G
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

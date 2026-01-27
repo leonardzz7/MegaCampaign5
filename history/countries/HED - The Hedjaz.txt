@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = hejazi_culture
+capital = 2331
+religious_school = hanbali_school
+1444.11.11= {
+	monarch = {
+		name = "Bahir"
+		dynasty = "Bahirid"
+		adm = 3
+		dip = 5
+		mil = 6
+		birth_date = 1367.4.12
+		religion = sunni
+		culture = hejazi_culture
+	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Asiya"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 4
+		mil = 2
+		country_of_origin = HED
+		birth_date = 1396.6.30
+		death_date = 1456.6.30
+		female = yes
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Bahir"
+		monarch_name = "Bahir"
+		dynasty = "Bahirid"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1418.11.2
+		death_date = 1483.11.2
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = expansionist_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 50
+}

@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 240 175 255 }
+monarch_names = {
+	"Adalberto #1" = 10
+	"Alberico #1" = 10
+	"Alberto Azzo #2" = 10
+	"Bahar #0" = -1
+	"Berengario #1" = 10
+	"Guido #0" = 0
+	"Marcella #0" = -1
+	"Nerse #1" = 10
+	"Niccolò #0" = 0
+	"Oberto #3" = 10
+	"Otto #2" = 10
+	"Paldo #1" = 10
+	"Tadar #0" = 0
+	"Ugo #2" = 10
+}

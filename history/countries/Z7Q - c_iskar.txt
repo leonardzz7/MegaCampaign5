@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = great_man
+government_rank = 1
+technology_group = chinese
+religion = shinto
+primary_culture = ainu
+capital = 1847
+fixed_capital = 1847
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ianpanu"
+		dynasty = "Nupurpet"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1392.10.12
+		female = yes
+		religion = shinto
+		culture = ainu
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = naive_personality
+	queen = {
+		name = "Antaaynu"
+		dynasty = "Sirawoi"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z7Q
+		birth_date = 1416.10.3
+		death_date = 1476.10.3
+		religion = shinto
+		culture = ainu
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Nukanur"
+		monarch_name = "Nukanur"
+		dynasty = "Irie"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1412.2.7
+		death_date = 1477.2.7
+		claim = 89
+		religion = buddhism
+		culture = ainu
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 50
+}

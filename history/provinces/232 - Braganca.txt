@@ -1,0 +1,16 @@
+owner = SPA
+controller = SPA
+capital = "Bragança"
+is_city = yes
+culture = galician
+religion = orthodox
+trade_goods = wine
+base_tax = 5
+base_production = 5
+base_manpower = 2
+add_core = GAL
+add_core = SPA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

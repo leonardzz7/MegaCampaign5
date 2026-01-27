@@ -1,0 +1,17 @@
+owner = Z9M
+controller = Z9M
+capital = "Ayutthaya"
+is_city = yes
+culture = central_thai
+religion = hinduism
+trade_goods = ivory
+base_tax = 8
+base_production = 8
+base_manpower = 4
+extra_cost = 16
+center_of_trade = 2
+add_core = Z9M
+add_permanent_claim = AYU
+add_permanent_claim = Z2D
+discovered_by = chinese
+discovered_by = indian

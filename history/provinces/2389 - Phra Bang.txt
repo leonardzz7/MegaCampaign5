@@ -1,0 +1,14 @@
+owner = Z2D
+controller = Z2D
+capital = "Phra Bang"
+is_city = yes
+culture = central_thai
+religion = mahayana
+trade_goods = tropical_wood
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = Z2D
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

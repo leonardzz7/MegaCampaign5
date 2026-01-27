@@ -1,0 +1,16 @@
+owner = Y33
+controller = Y33
+capital = "Hue"
+is_city = yes
+culture = cham
+religion = mahayana
+trade_goods = incense
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = Y33
+add_permanent_claim = CHA
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 242 109 255 }
+monarch_names = {
+	"Akeko #0" = -1
+	"Fusako #0" = -1
+	"Hiroko #0" = -1
+	"Koretaka #1" = 10
+	"Mamiko #0" = -1
+	"Morimune #0" = 0
+	"Muneko #0" = -1
+	"Nagamoto #0" = 0
+	"Nobukuni #1" = 10
+	"Norikiyo #0" = 0
+	"Noritaka #1" = 10
+	"Satoko #0" = -1
+	"Shigekazu #0" = 0
+	"Sueko #0" = -1
+	"Tadatsuna #0" = 0
+	"Tokinaka #0" = 0
+	"Tomokata #0" = 0
+	"Tsunetaka #1" = 10
+	"Tsuneyori #1" = 10
+	"Yasutada #1" = 10
+}

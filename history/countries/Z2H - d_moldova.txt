@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = romanian
+capital = 4530
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Aron"
+		dynasty = "de Stoene0ti"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1389.1.8
+		religion = orthodox
+		culture = romanian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Alexandra"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 1
+		mil = 4
+		country_of_origin = Z2H
+		birth_date = 1417.4.2
+		death_date = 1477.4.2
+		female = yes
+		religion = orthodox
+		culture = romanian
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Ieremia"
+		monarch_name = "Ieremia"
+		dynasty = "de Stoene0ti"
+		adm = 1
+		dip = 0
+		mil = 2
+		birth_date = 1440.3.19
+		death_date = 1505.3.19
+		claim = 89
+		religion = orthodox
+		culture = romanian
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 63
+	add_treasury = 21
+}

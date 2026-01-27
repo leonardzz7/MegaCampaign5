@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 211 161 101 }
+monarch_names = {
+	"Anbasa Wedem #1" = 10
+	"Ayzur #1" = 10
+	"Degna Djan #1" = 10
+	"German Seyum #1" = 10
+	"Gondar #0" = 0
+	"Gudit #1" = -1
+	"Halil #0" = 0
+	"Jan Seyum #1" = 10
+	"Keren #0" = -1
+	"Magdala #1" = -1
+	"Mandera #1" = -1
+	"Mara Takla Haymanot #1" = 10
+	"Merille #1" = 10
+	"Merkourios #1" = 10
+	"Rema Armah #1" = 10
+	"Sisay #1" = 10
+	"Solomôn #1" = 10
+	"Tatadim #1" = 10
+	"Tsage #0" = -1
+	"Yemrehana Krestos #1" = 10
+}

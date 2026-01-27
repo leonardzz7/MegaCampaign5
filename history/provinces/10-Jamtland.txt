@@ -1,0 +1,14 @@
+owner = Z7X
+controller = Z7X
+capital = "Frösön"
+is_city = yes
+culture = norwegian
+religion = catholic
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z7X
+add_permanent_claim = NOR
+discovered_by = eastern
+discovered_by = western

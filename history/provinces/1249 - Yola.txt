@@ -1,0 +1,16 @@
+owner = Z28
+controller = Z28
+capital = "Kwararafa"
+is_city = yes
+culture = nupe
+religion = sunni
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z28
+discovered_by = KBO
+native_size = 90
+native_ferocity = 4
+native_hostileness = 9

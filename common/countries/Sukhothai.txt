@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 159 127 255 }
+revolutionary_colors = { 5 9 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Araka #1" = 10
+	"Attatha #1" = 10
+	"Boupha #0" = -1
+	"Geissadiya #0" = 0
+	"Kulap #0" = -1
+	"Kyan #2" = 10
+	"Manuha #1" = 10
+	"Migadeippa #1" = 10
+	"Phhoung #0" = -1
+	"Raghudev #0" = 0
+	"Sadanari #0" = 0
+	"Thida #0" = -1
+	"Uttam #0" = 0
+}
+leader_names = {
+	"Akradej"
+	"Ariyanuntaka"
+	"Boonmee"
+	"Chaipatana"
+	"Chakrabonse"
+	"Chuasiriporn"
+	"Diskul"
+	"Ekaluck"
+	"Hitapot"
+	"Inchareon"
+	"Kawrungruang"
+	"Khuntilanont"
+	"Klinpraneet"
+	"Kriangsak"
+	"Monkoltham"
+	"Nitpattanasai"
+	"Noppachorn"
+	"Nut"
+	"Panomyaong"
+	"Phatipatanawong"
+	"Sitdhirasdr"
+	"Sivaraksa"
+	"Srichure"
+	"Supachai"
+	"Supasawat"
+	"Tantasatityanon"
+	"Thabchumpon"
+	"Tomson"
+	"Wongrutiyan"
+	"Yongchaiyudh"
+}
+ship_names = {
+	"Borommaracha"
+	"Boromtrailokanat"
+	"Chai"
+	"Chairacha"
+	"Chakkraphat"
+	"Chehha"
+	"Ekathotsarot"
+	"Ekkathat"
+	"Intharatcha"
+	"Mahin"
+	"Narai"
+	"Naresuan"
+	"Petratcha"
+	"Phumintharacha"
+	"Prasat Thong"
+	"Ramaratcha"
+	"Ramesuan"
+	"Ramithibodi"
+	"Ratsada"
+	"Sanpet"
+	"Si Saowaphak"
+	"Somdet Phra"
+	"Songtham"
+	"Suthammaracha"
+	"Süa"
+	"Thong Chan"
+	"Uthumpon"
+	"Worawongsa"
+	"Yotfa"
+}
+special_unit_culture = south_east_asian_special

@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 150 70 15 }
+monarch_names = {
+	"Adelheid #0" = -1
+	"Berard #0" = 0
+	"Berthold #1" = 10
+	"Gerhard #1" = 10
+	"Guy #0" = 0
+	"Hedwig #1" = -1
+	"Heribert #0" = 0
+	"Hugo #1" = 10
+	"Katharina #0" = -1
+	"Lesceline #0" = -1
+	"Otto #2" = 10
+	"Radbot #1" = 10
+	"Vello #0" = 0
+	"Werner #2" = 10
+}

@@ -1,0 +1,17 @@
+owner = CDL
+controller = CDL
+capital = "Dali"
+is_city = yes
+culture = roman
+religion = converted_dynamic_faith_140
+trade_goods = tea
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 3
+center_of_trade = 1
+add_core = CDL
+add_core = ROM
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

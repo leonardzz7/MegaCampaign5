@@ -1,0 +1,17 @@
+owner = Z20
+controller = Z20
+capital = "Roermond"
+is_city = yes
+culture = flemish
+religion = orthodox
+trade_goods = cloth
+fort_15th = yes
+base_tax = 5
+base_production = 5
+base_manpower = 4
+add_core = FLA
+add_core = Z20
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

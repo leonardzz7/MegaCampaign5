@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+primary_culture = cham
+capital = 2373
+fixed_capital = 2373
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Vak"
+		dynasty = "Suryachitrapatanga"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1398.9.14
+		religion = mahayana
+		culture = cham
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = free_thinker_personality
+	heir = {
+		name = "Devavarman"
+		monarch_name = "Devavarman II"
+		dynasty = "Suryachitrapatanga"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1422.11.16
+		death_date = 1487.11.16
+		claim = 89
+		religion = mahayana
+		culture = cham
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 57
+}

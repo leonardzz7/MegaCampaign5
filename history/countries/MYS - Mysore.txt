@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = kannada
+capital = 4421
+1444.11.11= {
+	monarch = {
+		name = "Revakanimmadi"
+		dynasty = "of Dwarasamudra"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1394.11.11
+		female = yes
+		religion = jain
+		culture = kannada
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = infertile_personality
+	queen = {
+		name = "Tailapa"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 3
+		mil = 0
+		country_of_origin = MYS
+		birth_date = 1398.10.28
+		death_date = 1458.10.28
+		religion = jain
+		culture = kannada
+	}
+	add_queen_personality = loose_lips_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Maki"
+		monarch_name = "Maki"
+		dynasty = "Vijayabahu"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1421.5.4
+		death_date = 1486.5.4
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = sinhala
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 45
+}

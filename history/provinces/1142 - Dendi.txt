@@ -1,0 +1,14 @@
+owner = Z72
+controller = Z72
+capital = "Lulama"
+is_city = yes
+culture = bozo
+religion = sunni
+trade_goods = grain
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = Y2U
+add_core = Z72
+add_permanent_claim = GUR
+discovered_by = sub_saharan

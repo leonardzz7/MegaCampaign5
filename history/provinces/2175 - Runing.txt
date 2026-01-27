@@ -1,0 +1,15 @@
+owner = Z03
+controller = Z03
+capital = "Runing"
+is_city = yes
+culture = zhongyuan
+religion = buddhism
+trade_goods = cloth
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = LNG
+add_core = Z03
+discovered_by = chinese
+discovered_by = nomad_group

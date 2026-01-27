@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 138 63 44 }
+monarch_names = {
+	"Armah #2" = 10
+	"Bloh #0" = -1
+	"Boryee #1" = 10
+	"Dechontee #0" = -1
+	"Dolo #1" = 10
+	"Donyen #0" = -1
+	"Fitila #0" = -1
+	"Gardiah #1" = 10
+	"Garmuyu #0" = 0
+	"Garnahweh #0" = 0
+	"Gartee #0" = 0
+	"Garteh #1" = 10
+	"Gboto #1" = 10
+	"Kortolo #0" = -1
+	"Kparsi #2" = 10
+	"Mez'yan #0" = 0
+	"Monon #1" = 10
+	"Sorntee #0" = -1
+	"Togar #0" = 0
+	"Wlejii #0" = -1
+}

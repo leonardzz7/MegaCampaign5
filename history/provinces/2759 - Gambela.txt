@@ -1,0 +1,16 @@
+owner = ADA
+controller = ADA
+capital = "Gambela"
+is_city = yes
+culture = sidamo
+religion = ibadi
+trade_goods = slaves
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ADA
+add_core = ENA
+add_core = Y4G
+add_permanent_claim = DAM
+discovered_by = east_african
+discovered_by = muslim

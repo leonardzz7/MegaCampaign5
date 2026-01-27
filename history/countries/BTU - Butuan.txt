@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = filipino
+capital = 4355
+1444.11.11= {
+	monarch = {
+		name = "Matikas"
+		dynasty = "Bantuan"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1397.5.24
+		religion = hinduism
+		culture = filipino
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fierce_negotiator_personality
+	queen = {
+		name = "Lalahon"
+		dynasty = "Madyaas"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = BTU
+		birth_date = 1390.8.16
+		death_date = 1450.8.16
+		female = yes
+		religion = hinduism
+		culture = filipino
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Cabon"
+		monarch_name = "Cabon"
+		dynasty = "Bantuan"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1414.12.5
+		death_date = 1479.12.5
+		claim = 89
+		religion = hinduism
+		culture = filipino
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 50
+}

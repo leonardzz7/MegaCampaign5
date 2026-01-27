@@ -1,0 +1,71 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 43 148 246 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aggabodhi #1" = 10
+	"Anantadevi #0" = -1
+	"Chodaganga #0" = 0
+	"Damaguta #0" = -1
+	"Gajabahu #1" = 10
+	"Kassapa #0" = 0
+	"Kitti #0" = 0
+	"Maki #1" = -1
+	"Nandamitta #0" = 0
+	"Parakkamabahu #1" = 10
+	"Punniyavâtti #0" = -1
+	"Rakasala #0" = 0
+	"Sankha #0" = 0
+	"Tango #0" = -1
+	"Vikramabahu #0" = 0
+}
+leader_names = {
+	"Atapattu"
+	"Chandana"
+	"Jayaratne"
+	"Jayawardene"
+	"Kalpage"
+	"Pushpakumara"
+	"Ranga"
+	"Ratnayake"
+	"Thilakaratne"
+	"Tillekaratne"
+}
+ship_names = {
+	"Anaradhapura"
+	"Anula"
+	"Jaffna"
+	"Kandy"
+	"Mahaweli"
+	"Mannar"
+	"Nil Manel"
+	"Palk"
+	"Pidurutalagala"
+	"Siddhartha"
+	"Sigiriya"
+	"Sinharaja"
+	"Sirimavo"
+	"Sri Maha Bodhi"
+	"Sri Pada"
+}

@@ -1,0 +1,13 @@
+owner = CDL
+controller = CDL
+capital = "Kengtung"
+is_city = yes
+culture = bai
+religion = converted_dynamic_faith_140
+trade_goods = tropical_wood
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = CDL
+discovered_by = chinese
+discovered_by = indian

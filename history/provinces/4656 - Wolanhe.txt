@@ -1,0 +1,14 @@
+owner = Z45
+controller = Z45
+capital = "Wolanhe"
+is_city = yes
+culture = manchu
+religion = mahayana
+trade_goods = fish
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = MJZ
+add_core = Z45
+discovered_by = chinese
+discovered_by = nomad_group

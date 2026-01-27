@@ -1,0 +1,16 @@
+owner = Z2D
+controller = Z2D
+capital = "Kanchanaburi"
+is_city = yes
+culture = central_thai
+religion = mahayana
+trade_goods = ivory
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = Z2D
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

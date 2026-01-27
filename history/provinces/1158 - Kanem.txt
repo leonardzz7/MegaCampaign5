@@ -1,0 +1,16 @@
+owner = Z0F
+controller = Z0F
+capital = "Ngala"
+is_city = yes
+culture = berber
+religion = ibadi
+trade_goods = paper
+base_tax = 3
+base_production = 3
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = TLC
+add_core = Z0F
+add_permanent_claim = MOR
+discovered_by = sub_saharan

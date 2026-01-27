@@ -1,0 +1,16 @@
+owner = Z2O
+controller = Z2O
+capital = "Tikhvin"
+is_city = yes
+culture = vepsian
+religion = orthodox
+trade_goods = iron
+base_tax = 4
+base_production = 5
+base_manpower = 2
+add_core = VPS
+add_core = Z2O
+add_permanent_claim = NOV
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

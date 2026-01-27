@@ -1,0 +1,14 @@
+owner = Z7M
+controller = Z7M
+capital = "Sodankylä"
+is_city = yes
+culture = sapmi
+religion = finnish_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = SMI
+add_core = Z7M
+discovered_by = eastern
+discovered_by = western

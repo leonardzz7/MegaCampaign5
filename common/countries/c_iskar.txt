@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 5 40 200 }
+monarch_names = {
+	"Antaaynu #0" = 0
+	"Apenanka #0" = -1
+	"Awta #1" = 10
+	"Ekasimatak #0" = 0
+	"Ianpanu #0" = -1
+	"Ikotoy #1" = 10
+	"Kakura #0" = -1
+	"Kanetuaynu #1" = 10
+	"Monokute #2" = 10
+	"Munkeke #0" = 0
+	"Sanure #1" = -1
+}

@@ -1,0 +1,10 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 100 100 100 }
+monarch_names = {
+	"Chóngyè #0" = 0
+	"Cui #0" = -1
+	"Can #1" = 10
+	"Défang #0" = 0
+	"Yougu #0" = -1
+}

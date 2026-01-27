@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 678
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yánqìng"
+		dynasty = "Kong"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1389.8.11
+		religion = confucianism
+		culture = chihan
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Qingjìng"
+		dynasty = "Wáng"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = Z18
+		birth_date = 1416.6.29
+		death_date = 1476.6.29
+		female = yes
+		religion = confucianism
+		culture = chihan
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Zhònglián"
+		monarch_name = "Zhònglián"
+		dynasty = "Kong"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1408.7.11
+		death_date = 1473.7.11
+		claim = 89
+		religion = confucianism
+		culture = chihan
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = entrepreneur_personality
+}
+1444.11.11= {
+	add_prestige = 67
+	add_treasury = 48
+}

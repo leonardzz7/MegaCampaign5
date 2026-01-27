@@ -1,0 +1,16 @@
+owner = Z07
+controller = Z07
+capital = "Yendi"
+is_city = yes
+culture = aka
+religion = shamanism
+trade_goods = dyes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ASH
+add_core = Z07
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

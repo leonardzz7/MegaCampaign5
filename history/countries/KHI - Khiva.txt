@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 1973
+religious_school = hanafi_school
+1444.11.11= {
+	monarch = {
+		name = "Papakk"
+		dynasty = "Tuhun"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1417.2.13
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = careful_personality
+	queen = {
+		name = "Hasti"
+		dynasty = "Ibrahimid"
+		adm = 4
+		dip = 5
+		mil = 3
+		country_of_origin = KHI
+		birth_date = 1412.3.16
+		death_date = 1472.3.16
+		female = yes
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Arsach"
+		monarch_name = "Arsach"
+		dynasty = "Tuhun"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1436.10.20
+		death_date = 1501.10.20
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 57
+	add_treasury = 49
+}

@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 133 35 28 }
+monarch_names = {
+	"Alan #1" = 10
+	"Ansor #1" = 10
+	"Dara Petak #0" = -1
+	"Dharanindra #0" = 0
+	"Inday #0" = -1
+	"Jitendrakara #0" = 0
+	"Mahadewi #0" = -1
+	"Nyang #2" = 10
+	"Sanghyang Ageung #0" = 0
+	"Suwati #0" = -1
+	"Tuah #0" = 0
+	"Utami #0" = -1
+	"Vina #0" = -1
+	"Yanti #0" = -1
+	"Yuda #0" = 0
+}

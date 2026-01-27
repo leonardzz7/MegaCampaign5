@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Birnin Lalle"
+is_city = yes
+culture = hausa
+religion = sunni
+trade_goods = iron
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = HAU
+discovered_by = sub_saharan

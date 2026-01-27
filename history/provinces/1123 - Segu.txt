@@ -1,0 +1,15 @@
+owner = Z07
+controller = Z07
+capital = "Kirina"
+is_city = yes
+culture = bozo
+religion = sunni
+trade_goods = grain
+base_tax = 5
+base_production = 5
+base_manpower = 2
+add_core = Z07
+add_permanent_claim = JNN
+discovered_by = sub_saharan
+native_ferocity = 4
+native_hostileness = 9

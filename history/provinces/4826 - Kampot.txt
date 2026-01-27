@@ -1,0 +1,14 @@
+owner = KHM
+controller = KHM
+capital = "Kampot"
+is_city = yes
+culture = khmer
+religion = hinduism
+trade_goods = grain
+fort_15th = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

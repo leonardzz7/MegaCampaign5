@@ -1,0 +1,16 @@
+owner = ADA
+controller = ADA
+capital = "Bosaso"
+is_city = yes
+culture = somali
+religion = shamanism
+trade_goods = incense
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = ADA
+add_core = WAR
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

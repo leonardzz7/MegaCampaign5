@@ -1,0 +1,16 @@
+owner = BHU
+controller = BHU
+capital = "Nedong"
+is_city = yes
+culture = tibetan
+religion = vajrayana
+trade_goods = grain
+base_tax = 2
+base_production = 1
+base_manpower = 3
+add_core = BHU
+add_core = UTS
+add_permanent_claim = TIB
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

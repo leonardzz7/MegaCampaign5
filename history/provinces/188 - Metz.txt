@@ -1,0 +1,22 @@
+owner = BAR
+controller = BAR
+capital = "Metz"
+is_city = yes
+culture = alsatian
+religion = orthodox
+trade_goods = glass
+base_tax = 6
+base_production = 6
+base_manpower = 5
+extra_cost = 8
+center_of_trade = 1
+add_core = ALS
+add_core = BAR
+add_permanent_claim = LOR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

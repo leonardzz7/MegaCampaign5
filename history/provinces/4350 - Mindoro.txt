@@ -1,0 +1,14 @@
+owner = Z4N
+controller = Z4N
+capital = "Caminawit"
+is_city = yes
+culture = filipino
+religion = vajrayana
+trade_goods = gems
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = SUL
+add_core = Z0O
+add_core = Z4N
+discovered_by = chinese

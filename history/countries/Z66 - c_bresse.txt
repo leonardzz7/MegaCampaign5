@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = burgundian
+capital = 4764
+fixed_capital = 4764
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Antoine"
+		dynasty = "d'Ivrea"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1409.10.25
+		religion = catholic
+		culture = burgundian
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Evrard"
+		monarch_name = "Evrard II"
+		dynasty = "d'Ivrea"
+		adm = 6
+		dip = 5
+		mil = 5
+		birth_date = 1429.12.23
+		death_date = 1494.12.23
+		claim = 89
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 50
+}

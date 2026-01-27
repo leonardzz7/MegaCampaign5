@@ -1,0 +1,16 @@
+owner = GUR
+controller = GUR
+capital = "Bilanga"
+is_city = yes
+culture = mali
+religion = shamanism
+trade_goods = ivory
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = GUR
+add_core = MAL
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

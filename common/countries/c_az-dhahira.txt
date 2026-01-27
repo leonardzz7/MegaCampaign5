@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 238 157 36 }
+monarch_names = {
+	"Abdullah #0" = 0
+	"Ja'far #1" = 10
+	"Jalil #1" = 10
+	"Laxman #0" = 0
+	"Mahdi #0" = 0
+	"Murad #0" = 0
+	"Nasr #1" = 10
+	"Shamir #0" = 0
+	"al-Minal #1" = 10
+	"as-Salt #1" = 10
+}

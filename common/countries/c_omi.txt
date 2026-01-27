@@ -1,0 +1,6 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 208 150 169 }
+monarch_names = {
+	"Motonari #0" = 0
+}

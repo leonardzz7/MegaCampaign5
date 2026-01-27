@@ -1,0 +1,71 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 201 197 124 }
+revolutionary_colors = { 12 16 0 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	eastern_bow
+	japanese_archer
+	japanese_footsoldier
+	japanese_samurai
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Atuy #0" = 0
+	"Awta #1" = 10
+	"Azmun #0" = 0
+	"Ekasiwakka #0" = 0
+	"Feicen #0" = -1
+	"Gætilæ #0" = -1
+	"Kimiyusaaynu #0" = 0
+	"Longun #0" = 0
+	"Monokute #1" = 10
+	"Motoko #0" = -1
+	"Ochan #0" = 0
+	"Pade #0" = -1
+	"Penkukar #0" = 0
+	"Pilgun #0" = 0
+	"Saksaynu #0" = 0
+	"Sanetoshi #0" = 0
+	"Utoyki #0" = -1
+}
+leader_names = {
+	"Betsu"
+	"Ekashi"
+	"Hae"
+	"Kakizaki"
+	"Kurasi"
+	"Otona"
+	"Ponyanpe"
+	"Saru"
+	"Shibushari"
+	"Shiraoi"
+	"Shirokani"
+	"Usu"
+}
+ship_names = {
+	"Etunrachich"
+	"Horpecha"
+	"Huisak"
+	"Menkakush"
+	"Monashir"
+	"Opere"
+	"Shiratekka"
+	"Toitoi"
+	"Umoshmatek"
+	"Unkatuye"
+}

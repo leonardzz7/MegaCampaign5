@@ -1,0 +1,17 @@
+owner = Z07
+controller = Z07
+capital = "Macina"
+is_city = yes
+culture = soninke
+religion = masmudi
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 1
+extra_cost = 8
+center_of_trade = 1
+add_core = Z07
+add_core = ZAF
+discovered_by = sub_saharan
+native_ferocity = 4
+native_hostileness = 9

@@ -1,0 +1,17 @@
+owner = Z20
+controller = Z20
+capital = "Liège"
+is_city = yes
+culture = flemish
+religion = orthodox
+trade_goods = glass
+base_tax = 6
+base_production = 6
+base_manpower = 3
+add_core = FLA
+add_core = Z20
+add_permanent_claim = LUX
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

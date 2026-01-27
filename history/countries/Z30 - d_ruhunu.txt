@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = sinhala
+capital = 4407
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Sidata"
+		dynasty = "Vijayabahu"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1413.2.26
+		religion = buddhism
+		culture = sinhala
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = greedy_personality
+	queen = {
+		name = "Rudramadevi"
+		dynasty = "of Racakonda"
+		adm = 4
+		dip = 2
+		mil = 2
+		country_of_origin = Z30
+		birth_date = 1421.2.5
+		death_date = 1481.2.5
+		female = yes
+		religion = hinduism
+		culture = telegu
+	}
+	add_queen_personality = embezzler_personality
+	add_queen_personality = greedy_personality
+	heir = {
+		name = "Samudaguta"
+		monarch_name = "Samudaguta"
+		dynasty = "Vijayabahu"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1438.12.5
+		death_date = 1503.12.5
+		female = yes
+		claim = 89
+		religion = buddhism
+		culture = sinhala
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 50
+}

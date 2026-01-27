@@ -1,0 +1,14 @@
+owner = CDL
+controller = CDL
+capital = "Xieng Tong"
+is_city = yes
+culture = bai
+religion = converted_dynamic_faith_140
+trade_goods = chinaware
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = CDL
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

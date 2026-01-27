@@ -1,0 +1,13 @@
+owner = LIO
+controller = LIO
+capital = "Chahar"
+is_city = yes
+culture = khitan
+religion = buddhism
+trade_goods = livestock
+base_tax = 2
+base_production = 2
+base_manpower = 3
+add_core = LIO
+discovered_by = chinese
+discovered_by = nomad_group

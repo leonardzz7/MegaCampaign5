@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 0 75 90 }
+monarch_names = {
+	"Aišïha #0" = 0
+	"Alubu #0" = 0
+	"Bia #0" = -1
+	"Eiælu #0" = 0
+	"Fannu #0" = 0
+	"Fulagiæn #0" = -1
+	"Jabingia #0" = 0
+	"Puluhuzhi #0" = -1
+	"Satšï #0" = 0
+	"Soli #0" = 0
+	"Songge #1" = 10
+	"Souru #0" = 0
+	"Tasha #0" = -1
+	"Tunggi #0" = -1
+	"Tuwæri #0" = -1
+	"Weiçin #0" = 0
+	"Wùlu #0" = -1
+}

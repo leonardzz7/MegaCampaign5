@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+technology_group = chinese
+religion = buddhism
+primary_culture = japanese
+capital = 4185
+fixed_capital = 4185
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yorikata"
+		dynasty = "Saito"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1414.1.25
+		religion = buddhism
+		culture = japanese
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Masako"
+		dynasty = "Amenomori"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Y3H
+		birth_date = 1413.5.5
+		death_date = 1473.5.5
+		female = yes
+		religion = vajrayana
+		culture = japanese
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Suekane"
+		monarch_name = "Suekane"
+		dynasty = "Saito"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 1432.6.10
+		death_date = 1497.6.10
+		claim = 89
+		religion = buddhism
+		culture = japanese
+	}
+	add_heir_personality = naive_personality
+	add_heir_personality = righteous_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 39
+}

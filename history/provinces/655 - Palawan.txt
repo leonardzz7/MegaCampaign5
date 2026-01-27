@@ -1,0 +1,13 @@
+owner = MSA
+controller = MSA
+capital = "Palawan"
+is_city = yes
+culture = filipino
+religion = converted_dynamic_faith_140
+trade_goods = sugar
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = MSA
+add_core = SUL
+discovered_by = chinese

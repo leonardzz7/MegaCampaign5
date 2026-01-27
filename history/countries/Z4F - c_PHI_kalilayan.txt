@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = great_man
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = filipino
+capital = 4349
+fixed_capital = 4349
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Manug"
+		dynasty = "Pilapil"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1411.10.29
+		religion = hinduism
+		culture = filipino
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Mati"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z4F
+		birth_date = 1418.6.26
+		death_date = 1478.6.26
+		female = yes
+		religion = hinduism
+		culture = filipino
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Gubaton"
+		monarch_name = "Gubaton"
+		dynasty = "Pilapil"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 1441.9.6
+		death_date = 1506.9.6
+		claim = 89
+		religion = hinduism
+		culture = filipino
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 50
+	add_treasury = 46
+}

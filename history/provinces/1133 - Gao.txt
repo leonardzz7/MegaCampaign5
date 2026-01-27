@@ -1,0 +1,15 @@
+owner = Z72
+controller = Z72
+capital = "Gao"
+is_city = yes
+culture = bozo
+religion = sunni
+trade_goods = cloth
+base_tax = 7
+base_production = 7
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = Z72
+add_permanent_claim = SON
+discovered_by = sub_saharan

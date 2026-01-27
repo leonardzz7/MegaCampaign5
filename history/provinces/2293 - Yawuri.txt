@@ -1,0 +1,14 @@
+owner = SON
+controller = SON
+capital = "Birnin Yawuri"
+is_city = yes
+culture = mossi
+religion = kharijite
+trade_goods = coffee
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = MSI
+add_core = SON
+add_permanent_claim = HAU
+discovered_by = sub_saharan

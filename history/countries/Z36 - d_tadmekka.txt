@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 1130
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Gulusa"
+		dynasty = "Tessalitid"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1402.3.22
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Masinissa"
+		monarch_name = "Masinissa"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 3
+		mil = 6
+		birth_date = 1394.4.6
+		death_date = 1459.4.6
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = industrious_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 68
+	add_treasury = 48
+}

@@ -1,0 +1,14 @@
+owner = Y2F
+controller = Y2F
+capital = "Xining"
+is_city = yes
+culture = tangut
+religion = vajrayana
+trade_goods = salt
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = TAU
+add_core = Y2F
+discovered_by = chinese
+discovered_by = nomad_group

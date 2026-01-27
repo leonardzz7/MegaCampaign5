@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 35 45 211 }
+monarch_names = {
+	"Adegbalu #0" = 0
+	"Lafogido #0" = 0
+	"Moremi #1" = -1
+	"Oluwayemisi #0" = -1
+	"Omobolanle #0" = -1
+	"Oyin #1" = -1
+	"Simisola #0" = -1
+}

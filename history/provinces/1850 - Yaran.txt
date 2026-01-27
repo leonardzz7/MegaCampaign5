@@ -1,0 +1,14 @@
+owner = Z43
+controller = Z43
+capital = "Yaran"
+is_city = yes
+culture = manchu
+religion = animism
+trade_goods = fish
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = MJZ
+add_core = Z43
+discovered_by = chinese
+discovered_by = nomad_group

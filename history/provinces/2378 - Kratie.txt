@@ -1,0 +1,14 @@
+owner = Z2X
+controller = Z2X
+capital = "Kratie"
+is_city = yes
+culture = cham
+religion = hinduism
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = Z2X
+add_permanent_claim = KHM
+discovered_by = chinese
+discovered_by = indian

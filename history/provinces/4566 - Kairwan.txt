@@ -1,0 +1,17 @@
+owner = MOR
+controller = MOR
+capital = "Kairwan"
+is_city = yes
+culture = tunisian
+religion = masmudi
+trade_goods = grain
+fort_15th = yes
+base_tax = 4
+base_production = 5
+base_manpower = 1
+add_core = MOR
+add_core = TUN
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

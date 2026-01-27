@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = great_mongol_state_reform
+government_rank = 3
+technology_group = nomad_group
+religion = mahayana
+primary_culture = khitan
+capital = 4672
+1444.11.11= {
+	monarch = {
+		name = "Lihu"
+		dynasty = "Yelü"
+		adm = 3
+		dip = 6
+		mil = 4
+		birth_date = 1389.9.14
+		religion = mahayana
+		culture = khitan
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Mæjïlæn"
+		dynasty = "Aluobuhu"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = LIO
+		birth_date = 1412.4.13
+		death_date = 1472.4.13
+		female = yes
+		religion = mahayana
+		culture = manchu
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Zhimo"
+		monarch_name = "Zhimo"
+		dynasty = "Yelü"
+		adm = 1
+		dip = 2
+		mil = 0
+		birth_date = 1440.11.19
+		death_date = 1505.11.19
+		claim = 89
+		religion = mahayana
+		culture = khitan
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 90
+	add_treasury = 44
+}

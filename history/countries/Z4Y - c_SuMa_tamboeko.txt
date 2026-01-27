@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = feudal_tribe
+government_rank = 1
+technology_group = chinese
+religion = converted_dynamic_faith_140
+primary_culture = sulawesi
+capital = 642
+fixed_capital = 642
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ugrasena"
+		dynasty = "Tamboa"
+		adm = 6
+		dip = 3
+		mil = 4
+		birth_date = 1389.4.5
+		religion = converted_dynamic_faith_140
+		culture = sulawesi
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = conqueror_personality
+	queen = {
+		name = "Demi"
+		dynasty = "Segara"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z4Y
+		birth_date = 1395.3.18
+		death_date = 1455.3.18
+		female = yes
+		religion = converted_dynamic_faith_140
+		culture = dayak
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Tri"
+		monarch_name = "Tri"
+		dynasty = "Tamboa"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1421.2.21
+		death_date = 1486.2.21
+		claim = 89
+		religion = converted_dynamic_faith_140
+		culture = sulawesi
+	}
+	add_heir_personality = careful_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 0
+}

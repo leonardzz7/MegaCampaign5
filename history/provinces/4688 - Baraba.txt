@@ -1,0 +1,15 @@
+owner = Z3P
+controller = Z3P
+capital = "Baraba"
+is_city = yes
+culture = nogaybak
+religion = kharijite
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = NOG
+add_core = Z3P
+add_permanent_claim = Z00
+add_permanent_claim = Z3B
+discovered_by = nomad_group

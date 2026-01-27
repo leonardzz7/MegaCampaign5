@@ -1,0 +1,17 @@
+owner = ZAN
+controller = ZAN
+is_city = yes
+culture = bantu
+religion = converted_dynamic_faith_141
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = AGK
+add_core = ZAN
+discovered_by = central_african
+discovered_by = east_african
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

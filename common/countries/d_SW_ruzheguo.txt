@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 155 95 85 }
+monarch_names = {
+	"Baoxin #1" = 10
+	"Duden #0" = 0
+	"Fuguzhi #1" = 10
+	"Guyu #0" = -1
+	"Hudugu #1" = 10
+	"Lishou #0" = 0
+	"Saige #0" = -1
+	"Salade #0" = 0
+	"Sani #0" = -1
+	"Teri #0" = -1
+	"Tieli #1" = 10
+	"Wanyin #0" = -1
+	"Yíliè #1" = 10
+}

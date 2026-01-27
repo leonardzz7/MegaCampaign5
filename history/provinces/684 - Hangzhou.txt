@@ -1,0 +1,17 @@
+owner = Z03
+controller = Z03
+capital = "Hangzhou"
+is_city = yes
+culture = miao
+religion = buddhism
+trade_goods = silk
+base_tax = 12
+base_production = 12
+base_manpower = 3
+extra_cost = 16
+center_of_trade = 2
+add_core = CMI
+add_core = Z01
+add_core = Z03
+discovered_by = chinese
+discovered_by = nomad_group

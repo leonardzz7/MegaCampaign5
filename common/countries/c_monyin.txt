@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 149 20 133 }
+monarch_names = {
+	"Gadau #0" = -1
+	"Jeyya #0" = 0
+	"Khame Mi #0" = -1
+	"Liánshòu #1" = 10
+	"Shouyue #1" = 10
+	"Sithu #0" = 0
+	"Tarabya #1" = 10
+}

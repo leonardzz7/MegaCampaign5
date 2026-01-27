@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Mashina"
+is_city = yes
+culture = hausa
+religion = sunni
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = HAU
+discovered_by = sub_saharan

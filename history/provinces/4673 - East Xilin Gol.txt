@@ -1,0 +1,13 @@
+owner = Z0Q
+controller = Z0Q
+capital = "Ujimqin"
+is_city = yes
+culture = khitan
+religion = mahayana
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = Z0Q
+discovered_by = chinese
+discovered_by = nomad_group

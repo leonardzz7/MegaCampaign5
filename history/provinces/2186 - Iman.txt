@@ -1,0 +1,16 @@
+owner = JIN
+controller = JIN
+capital = "Iman"
+is_city = yes
+culture = manchu
+religion = mahayana
+trade_goods = naval_supplies
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = JIN
+add_core = MJZ
+add_core = Z0N
+add_core = Z46
+discovered_by = chinese
+discovered_by = nomad_group

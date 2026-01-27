@@ -1,0 +1,14 @@
+owner = DAM
+controller = DAM
+capital = "Nekemte"
+is_city = yes
+culture = sidamo
+religion = ibadi
+trade_goods = gold
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = DAM
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

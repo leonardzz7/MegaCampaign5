@@ -1,0 +1,96 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abbas #0" = 0
+	"Abd al-Rashid #1" = 10
+	"Ali #1" = 10
+	"Azadeh #0" = -1
+	"Bastina #0" = -1
+	"Budimir #0" = 0
+	"Ceylan #0" = -1
+	"Darab #0" = 0
+	"Dejana #0" = -1
+	"Desislava #0" = -1
+	"Dhir Singh #0" = 0
+	"Dragutin #0" = 0
+	"Dusica #0" = -1
+	"Farrukhzad #1" = 10
+	"Fuck #0" = -1
+	"Ibrahim #1" = 10
+	"Ismail #1" = 10
+	"Isman #0" = 0
+	"Ivan #0" = 0
+	"Jelena #0" = -1
+	"Kalayandevi #0" = -1
+	"Kanwar #0" = -1
+	"Mahmud #1" = 10
+	"Masud #1" = 10
+	"Matija #0" = 0
+	"Mawdud #1" = 10
+	"Mihovil #0" = 0
+	"Mislav #0" = 0
+	"Muhammad #1" = 10
+	"Musud #1" = 10
+	"Namena #0" = -1
+	"Nizam #0" = 0
+	"Ruhollah #0" = 0
+	"Sabuktigin #1" = 10
+	"Vijnanavati #0" = -1
+	"Yasaman #0" = -1
+	"Zoran #0" = 0
+	"Çiltanesi #0" = -1
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

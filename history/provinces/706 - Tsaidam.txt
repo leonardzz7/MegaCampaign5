@@ -1,0 +1,15 @@
+owner = TIB
+controller = TIB
+capital = "Tsaidam"
+is_city = yes
+culture = altaic_new
+religion = vajrayana
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = TIB
+add_core = YUA
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

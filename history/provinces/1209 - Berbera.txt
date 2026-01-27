@@ -1,0 +1,15 @@
+owner = ADA
+controller = ADA
+capital = "Berbera"
+is_city = yes
+culture = somali
+religion = sunni
+trade_goods = slaves
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = ADA
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.17Q "Quanzhen"
+* Compatible with CK3 [v1.18] and EU4 [v1.37]
+* Built on Thu Jan  1 11:48:26 2026
+*************************** + CK3 To EU4 + ***************************

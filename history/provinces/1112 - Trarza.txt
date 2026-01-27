@@ -1,0 +1,15 @@
+owner = Z38
+controller = Z38
+capital = "Awlil"
+is_city = yes
+culture = dynamic-georgian-culture-num1
+religion = masmudi
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z38
+discovered_by = sub_saharan
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9

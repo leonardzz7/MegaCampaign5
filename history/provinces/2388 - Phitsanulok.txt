@@ -1,0 +1,14 @@
+owner = Y27
+controller = Y27
+capital = "Phitsanulok"
+is_city = yes
+culture = central_thai
+religion = hinduism
+trade_goods = livestock
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = Y27
+add_permanent_claim = AYU
+discovered_by = chinese
+discovered_by = indian

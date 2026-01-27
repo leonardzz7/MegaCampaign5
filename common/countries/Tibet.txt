@@ -1,0 +1,71 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 177 207 205 }
+revolutionary_colors = { 10 0 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Gungsrong Gungtsen #1" = 10
+	"Gyältsugru #1" = 10
+	"Kvarkvare #0" = 0
+	"Lha Balpo #1" = 10
+	"Muné #1" = 10
+	"Mutik #1" = 10
+	"Ovlur #0" = 0
+	"Sadnalegs #1" = 10
+	"Song Detsen #1" = 10
+	"Songtsen Gampo #2" = 10
+	"Thrimalö #1" = -1
+	"Tri Uidumtsaen #1" = 10
+	"Tridu Songtsen #1" = 10
+	"Trimang Löntsen #1" = 10
+	"Tritsu Detsen #1" = 10
+	"Zhong #0" = -1
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

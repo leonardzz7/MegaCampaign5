@@ -1,0 +1,15 @@
+owner = Z0T
+controller = Z0T
+capital = "Vardø"
+is_city = yes
+culture = sapmi
+religion = catholic
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = SMI
+add_core = Z0T
+add_core = Z1H
+discovered_by = eastern
+discovered_by = western

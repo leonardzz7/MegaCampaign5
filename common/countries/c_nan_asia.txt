@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 181 64 4 }
+monarch_names = {
+	"Aphinan #0" = 0
+	"Apichaya #0" = -1
+	"Bencharat #0" = -1
+	"Bhol Deva #2" = 10
+	"Bibibai #0" = -1
+	"Ekkaphon #1" = 10
+	"Jamadevi #0" = -1
+	"Nittaya #0" = -1
+	"Praphat #0" = 0
+	"Somchai #1" = 10
+	"Sutthisak #0" = 0
+	"Thanong #1" = 10
+}

@@ -1,0 +1,14 @@
+owner = Z1L
+controller = Z1L
+capital = "Kuru"
+is_city = yes
+culture = manchu
+religion = animism
+trade_goods = naval_supplies
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = MJZ
+add_core = Z1L
+discovered_by = chinese
+discovered_by = nomad_group

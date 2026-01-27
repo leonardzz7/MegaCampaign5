@@ -1,0 +1,13 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 180 137 6 }
+monarch_names = {
+	"Kamphon #0" = 0
+	"Karawika #1" = 10
+	"Kjaw #1" = 10
+	"Nwe #0" = -1
+	"Phanton #1" = 10
+	"Thandar #0" = -1
+	"Wunna #1" = 10
+	"Zeya #0" = 0
+}

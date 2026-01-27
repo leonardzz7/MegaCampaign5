@@ -1,0 +1,15 @@
+owner = Z0M
+controller = Z0M
+capital = "Maolian"
+is_city = yes
+culture = manchu
+religion = mahayana
+trade_goods = naval_supplies
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = MJZ
+add_core = Z0M
+discovered_by = chinese
+discovered_by = nomad_group

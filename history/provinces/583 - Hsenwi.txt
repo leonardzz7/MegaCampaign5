@@ -1,0 +1,14 @@
+owner = HSE
+controller = HSE
+capital = "Hsenwi"
+is_city = yes
+culture = central_thai
+religion = hinduism
+trade_goods = tropical_wood
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = HSE
+add_permanent_claim = AVA
+discovered_by = chinese
+discovered_by = indian

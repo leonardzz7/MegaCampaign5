@@ -1,0 +1,15 @@
+owner = Z59
+controller = Z59
+capital = "Champasak"
+is_city = yes
+culture = khmer
+religion = hinduism
+trade_goods = tea
+base_tax = 4
+base_production = 3
+base_manpower = 3
+add_core = Y2A
+add_core = Z59
+add_permanent_claim = KHM
+discovered_by = chinese
+discovered_by = indian

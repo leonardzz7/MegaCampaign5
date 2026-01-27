@@ -1,0 +1,16 @@
+owner = Z0U
+controller = Z0U
+capital = "Msila"
+is_city = yes
+culture = algerian
+religion = sunni
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ALG
+add_core = Z0U
+add_permanent_claim = MOR
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

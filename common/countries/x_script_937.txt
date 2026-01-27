@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 63 154 17 }
+monarch_names = {
+	"Caillech-Fhinnéin #0" = -1
+	"Cathán #0" = -1
+	"Congal #0" = 0
+	"Cynewulf #0" = 0
+	"Donnchad #0" = 0
+	"Glún-Iairn #1" = 10
+	"Sadb #0" = -1
+	"Stigand #0" = 0
+	"Tálán #1" = 10
+	"Uargalach #0" = 0
+	"Werestan #0" = 0
+}

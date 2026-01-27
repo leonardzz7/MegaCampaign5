@@ -1,0 +1,76 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 72 194 212 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_tercio
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_drill
+	prussian_frederickian
+	prussian_uhlan
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Anselm #0" = 0
+	"Archembald #0" = 0
+	"Augustin #1" = 10
+	"Baldur #0" = 0
+	"Doubravka #0" = -1
+	"Harald #1" = 10
+	"Hatto #0" = 0
+	"Hesso #1" = 10
+	"Magnus #0" = 0
+	"Niels #1" = 10
+	"Richwara #1" = -1
+	"Rimbert #1" = 10
+	"Svend #1" = 10
+}
+leader_names = {
+	"Boie"
+	"Carl"
+	"Frese"
+	"Giesebert"
+	"Köster"
+	"Nann"
+	"Rachel"
+	"Reimers"
+	"Russe"
+	"Swyn"
+	"Wiben"
+	"von Hochwöhrden"
+	"von Wiemerstedt"
+}
+ship_names = {
+	"Dahme"
+	"Grossenbrode"
+	"Grömtz"
+	"Kellenhusen"
+	"Kiel"
+	"Neustadt"
+	"Ostsee"
+	"Scharbeutz"
+	"Sierksdorf"
+	"Telse von Hochwöhrden"
+	"Wedel"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

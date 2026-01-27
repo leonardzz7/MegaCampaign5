@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 190 32 16 }
+revolutionary_colors = { 1 5 13 }
+historical_idea_groups = {
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #0" = 0
+	"Aldgisl #1" = 10
+	"Alfbad #1" = 10
+	"Barnaerd #1" = 10
+	"Bava #0" = -1
+	"Cecilie #0" = -1
+	"Gerhild #1" = -1
+	"Gudrun #0" = -1
+	"Guðfrið #1" = 10
+	"Hroðulfr #1" = 10
+	"Ijsbrand #0" = 0
+	"Ijsbrecht #1" = 10
+	"Kathrijne #0" = -1
+	"Maria #0" = -1
+	"Nordalah #1" = 10
+	"Ordulf #1" = 10
+	"Osterhild #0" = -1
+	"Radboud #1" = 10
+	"Rimbert #1" = 10
+	"Sicco #1" = 10
+	"Sigismund #0" = 0
+	"Theodolf #0" = 0
+	"Uni #1" = 10
+}
+leader_names = {
+	"Abdema"
+	"Aildesna"
+	"Allena"
+	"Beninga"
+	"Brok"
+	"Cirksena"
+	"Knyphausen"
+	"Manninga"
+	"Michels"
+	"Onneken"
+	"Störtebeker"
+	"Tjarksena"
+	"Ukena"
+	"Wichmann"
+	"Wiemken"
+	"Wigbold"
+	"tom"
+}
+ship_names = {
+	"Edewecht"
+	"Elsfleth"
+	"Hatten"
+	"Hude"
+	"Likedeelers"
+	"Rastede"
+	"Victualia"
+	"Wardenburg"
+	"Weifelstede"
+	"Zwischenahn"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

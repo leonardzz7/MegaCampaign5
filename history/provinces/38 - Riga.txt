@@ -1,0 +1,23 @@
+owner = EST
+controller = EST
+capital = "Riga"
+is_city = yes
+culture = latvian
+religion = finnish_pagan
+trade_goods = naval_supplies
+fort_15th = yes
+base_tax = 5
+base_production = 5
+base_manpower = 1
+extra_cost = 18
+center_of_trade = 1
+add_core = EST
+add_core = LTG
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = daugava_estuary_modifier
+	duration = -1
+}

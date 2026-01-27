@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 31 72 78 }
+monarch_names = {
+	"Amarabhava #0" = 0
+	"Harivala #0" = 0
+	"Kumarapala #0" = 0
+	"Kumarasvami #0" = 0
+	"Kunti #0" = -1
+	"Laksmindrapandita #0" = 0
+	"Mahipatindralaksmi #0" = -1
+	"Mallika #0" = -1
+	"Manidevi #1" = -1
+	"Nrpabhaktisura #1" = 10
+	"Phatsakon #0" = 0
+	"Rucibhava #3" = 10
+	"Somkiat #0" = 0
+	"Sridhara #0" = 0
+	"Vagisvari #0" = -1
+	"Vasanta #0" = -1
+	"Vinayasanti #1" = 10
+	"Yunisha #0" = -1
+}

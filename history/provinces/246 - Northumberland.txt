@@ -1,0 +1,20 @@
+owner = ENG
+controller = ENG
+capital = "Newcastle"
+is_city = yes
+culture = northumbrian
+religion = orthodox
+trade_goods = wool
+fort_15th = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+add_core = ENG
+add_core = NOL
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

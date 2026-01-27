@@ -1,0 +1,15 @@
+owner = Z0T
+controller = Z0T
+capital = "Umeå"
+is_city = yes
+culture = sapmi
+religion = finnish_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = SMI
+add_core = Z0T
+add_core = Z3T
+discovered_by = eastern
+discovered_by = western

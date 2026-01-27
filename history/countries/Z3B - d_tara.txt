@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = nogaybak
+capital = 4689
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Pulad"
+		dynasty = "Puladid"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1387.3.2
+		religion = tengri_pagan
+		culture = nogaybak
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Tsyrma"
+		dynasty = "Ekhirid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z3B
+		birth_date = 1410.8.8
+		death_date = 1470.8.8
+		female = yes
+		religion = tengri_pagan
+		culture = buryat
+	}
+	add_queen_personality = loose_lips_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Irge"
+		monarch_name = "Irge"
+		dynasty = "Puladid"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1432.9.18
+		death_date = 1497.9.18
+		female = yes
+		claim = 89
+		religion = tengri_pagan
+		culture = nogaybak
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 33
+}

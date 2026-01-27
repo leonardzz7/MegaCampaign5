@@ -1,0 +1,17 @@
+owner = Z3K
+controller = Z3K
+capital = "Besançon"
+is_city = yes
+culture = alsatian
+religion = kharijite
+trade_goods = salt
+fort_15th = yes
+base_tax = 3
+base_production = 4
+base_manpower = 3
+add_core = ALS
+add_core = Z3K
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

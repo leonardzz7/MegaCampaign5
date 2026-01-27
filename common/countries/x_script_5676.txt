@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 125 255 51 }
+monarch_names = {
+	"Aišï #0" = 0
+	"Alihemen #0" = 0
+	"Berengario #0" = 0
+	"Cïcïhei #0" = -1
+	"Digunai #0" = 0
+	"Duši #0" = 0
+	"Giahucï #0" = 0
+	"Moliye #0" = 0
+	"Mæjïlænbæ #0" = -1
+	"Oon #0" = 0
+	"Shi #0" = -1
+	"Tege #0" = 0
+	"Ušïn #0" = -1
+	"Wolitai #0" = -1
+	"Šentumen #0" = 0
+	"Šieyibao #0" = 0
+}

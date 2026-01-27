@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 190 230 15 }
+monarch_names = {
+	"Dianni #0" = 0
+	"Dàshí #0" = 0
+	"Gaojiu #0" = 0
+	"Guanyin #1" = -1
+	"Lishou #0" = 0
+	"Piri #0" = -1
+	"Pusuwan #0" = -1
+	"Shuanggu #0" = 0
+	"Tiebu #0" = 0
+	"Yange #0" = -1
+	"Yanmuqin #0" = -1
+	"Yanxi #0" = 0
+}

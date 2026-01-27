@@ -1,0 +1,14 @@
+owner = MSA
+controller = MSA
+capital = "Ternate"
+is_city = yes
+culture = moluccan
+religion = converted_dynamic_faith_140
+trade_goods = cloves
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = MSA
+add_core = TER
+add_permanent_claim = Z0S
+discovered_by = chinese

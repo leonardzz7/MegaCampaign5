@@ -1,5 +1,5 @@
-owner = Z66
-controller = Z66
+owner = Z3K
+controller = Z3K
 capital = "Salins"
 is_city = yes
 culture = burgundian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 2
 base_production = 3
 base_manpower = 2
-add_core = Z66
+add_core = Z3K
 add_permanent_claim = Z3K
 discovered_by = eastern
 discovered_by = muslim

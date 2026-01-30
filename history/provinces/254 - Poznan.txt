@@ -1,5 +1,5 @@
-owner = Z3X
-controller = Z3X
+owner = POM
+controller = POM
 capital = "Poznan"
 is_city = yes
 culture = polish
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 6
 base_production = 6
 base_manpower = 5
-add_core = Z3X
+add_core = POM
 add_permanent_claim = POL
 discovered_by = AST
 discovered_by = CRI

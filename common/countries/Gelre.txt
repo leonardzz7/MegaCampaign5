@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 139 66 97 }
+color = { 30 30 30 }
 revolutionary_colors = { 15 8 1 }
 historical_idea_groups = {
 	trade_ideas
@@ -77,7 +77,7 @@ leader_names = {
 	"Van Wassenberg"
 	"Van Zutfen"
 	"Van den Bergh"
-	"Vögelink"
+	"V gelink"
 	"Wagevoord"
 	"Wassink"
 	"Wissink"
@@ -95,7 +95,7 @@ ship_names = {
 	"Hertog Gerard"
 	"Hertog Reinoud"
 	"Hertogin Maria"
-	"Jonge Daniël"
+	"Jonge Dani l"
 	"Lichtenvoorde"
 	"Maas en Waal"
 	"Twee Gebroeders"

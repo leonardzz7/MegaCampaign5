@@ -1,5 +1,5 @@
-owner = Z3X
-controller = Z3X
+owner = POM
+controller = POM
 capital = "Naklo"
 is_city = yes
 culture = polish
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z3X
+add_core = POM
 add_permanent_claim = POL
 discovered_by = AST
 discovered_by = CRI

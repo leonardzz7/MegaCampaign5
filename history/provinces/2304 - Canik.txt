@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z2G
+controller = Z2G
 capital = "Samsun"
 is_city = yes
 culture = albanian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 add_core = ALB
-add_core = Z19
+add_core = Z2G
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Y3N
-controller = Y3N
+owner = Z77
+controller = Z77
 capital = "Beafada"
 is_city = yes
 culture = senegambian
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = JOL
-add_core = Y3N
+add_core = Z77
 discovered_by = sub_saharan
 native_size = 40
 native_ferocity = 4

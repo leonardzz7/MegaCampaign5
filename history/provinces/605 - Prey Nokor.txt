@@ -1,5 +1,5 @@
-owner = Z62
-controller = Z62
+owner = KHM
+controller = KHM
 capital = "Prey Nokor"
 is_city = yes
 culture = khmer
@@ -8,7 +8,7 @@ trade_goods = tropical_wood
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z62
+add_core = KHM
 add_permanent_claim = KHM
 add_permanent_claim = Z3U
 discovered_by = chinese

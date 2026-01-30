@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z2G
+controller = Z2G
 capital = "Trapezous"
 is_city = yes
 culture = albanian
@@ -12,7 +12,7 @@ base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
 add_core = ALB
-add_core = Z19
+add_core = Z2G
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

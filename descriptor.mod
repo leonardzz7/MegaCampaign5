@@ -1,5 +1,5 @@
-name = "Converted - MegaCampaignFinal"
-path = "mod/MegaCampaignFinal"
+name = "Converted - MegaCampaign5"
+path = "mod/MegaCampaign5"
 normal_or_historical_nations = yes
 supported_version = "v1.37.*"
 replace_path = "history/countries/"

@@ -1,5 +1,5 @@
-owner = CYP
-controller = CYP
+owner = KOJ
+controller = KOJ
 capital = "Nicosia"
 is_city = yes
 culture = anatolian
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 6
 base_production = 6
 base_manpower = 3
-add_core = CYP
+add_core = KOJ
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

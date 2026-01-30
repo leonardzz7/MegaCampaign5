@@ -281,11 +281,9 @@ country_decisions = {
 
 		provinces_to_highlight = {
 			OR = {
-				province_id = 2972 #Paderborn
 				province_id = 12   #Sjaelland
 				province_id = 1    #Stockholm
 				province_id = 20   #Trondelag
-				province_id = 96   #Zeeland
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -296,11 +294,9 @@ country_decisions = {
 		allow = {
 			government_rank = 2
 			stability = 2
-			owns_core_province = 2972 #Paderborn
 			owns_core_province = 12   #Sjaelland
 			owns_core_province = 1    #Stockholm
 			owns_core_province = 20   #Trondelag
-			owns_core_province = 96   #Zeeland
 		}
 
 		effect = {
@@ -348,11 +344,9 @@ country_decisions = {
 			factor = 1
 			modifier = {
 				NOT = {
-					owns_core_province = 2972 #Paderborn
 					owns_core_province = 12   #Sjaelland
 					owns_core_province = 1    #Stockholm
 					owns_core_province = 20   #Trondelag
-					owns_core_province = 96   #Zeeland
 				}
 				factor = 0
 			}

@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z2G
+controller = Z2G
 capital = "Erzindjan"
 is_city = yes
 culture = pontic_greek
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = TRE
-add_core = Z19
+add_core = Z2G
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

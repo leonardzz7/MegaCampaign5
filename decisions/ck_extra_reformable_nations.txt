@@ -67,6 +67,652 @@ country_decisions = {
 		}
 		ai_importance = 200
 	}
+	chinese_empire_nation = {
+		major = yes
+		
+		potential = {
+			NOT = { has_country_flag = formed_chinese_flag }
+			NOT = { exists = MNG }
+			primary_culture = shandong_culture
+		}
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 2139
+				province_id = 2111
+				province_id = 705
+				province_id = 2117
+				province_id = 4229
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			
+			AND = {
+				owns_core_province = 2139
+				owns_core_province = 2111
+				owns_core_province = 705
+				owns_core_province = 2117
+				owns_core_province = 4229
+			}
+		}
+		
+		effect = {
+			change_tag = MNG
+			set_country_flag = formed_chinese_flag
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 200
+	}
+
+
+	scan_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_scandinavia_flag }
+			NOT = { exists = SCA }
+			culture_group = scandinavian
+			is_colonial_nation = no
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1		# Uppland
+				province_id = 6		# Skane
+				province_id = 7		# Vastergotland
+				province_id = 12		# Sjaelland
+				province_id = 15		# Jylland
+				province_id = 17		# Akershus
+				region = scandinavia_region
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			if = {
+				adm_tech = 5
+			}
+			else = {
+				adm_tech = 5
+			}
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 1		# Uppland
+			owns_core_province = 6		# Skane
+			owns_core_province = 7		# Vastergotland
+			owns_core_province = 12		# Sjaelland
+			owns_core_province = 15		# Jylland
+			owns_core_province = 17		# Akershus
+			num_of_owned_provinces_with = {
+				region = scandinavia_region
+				value = 40
+			}
+		}
+		effect = {
+			change_tag = SCA
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			if = {
+				limit = {
+					has_dlc = "Lions of the North"
+				}
+				custom_tooltip = scandinavian_nation_ct
+				hidden_effect = {
+					if = {
+						limit = { mission_completed = dan_bengal_landfall }
+						bengal_region = {
+							limit = {
+								NOT = { is_core = ROOT } 
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						hindusthan_region = {
+							limit = {
+								NOT = { is_core = ROOT } 
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = dan_coast_of_deccan }
+						deccan_region = {
+							limit = {
+								NOT = { is_core = ROOT } 
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						west_india_region = {
+							limit = {
+								NOT = { is_core = ROOT } 
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = dan_colonize_the_caribbean }
+						colonial_louisiana = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+								NOT = { owner = { is_subject_of = ROOT } }
+							}
+							add_permanent_claim = ROOT
+						}
+						colonial_mexico = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+								NOT = { owner = { is_subject_of = ROOT } }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = dan_colonize_north_america }
+						colonial_canada = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+								NOT = { owner = { is_subject_of = ROOT } }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = dan_return_of_the_north_sea_empire }
+						flanders_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						picardy_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						normandy_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						brittany_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						ile_de_france_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						loire_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						orleans_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { was_tag = DAN }
+						hinter_pommern_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						vorpommern_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						mecklenburg_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						east_prussia_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						west_prussia_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						livonia_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						estonia_ingria_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+						curonia_area = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = nor_colonize_the_north }
+						rio_grande_region = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+								NOT = { owner = { is_subject_of = ROOT } }
+							}
+							add_permanent_claim = ROOT
+						}
+						california_region = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+								NOT = { owner = { is_subject_of = ROOT } }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+					if = {
+						limit = { mission_completed = nor_colonize_west_africa }
+						niger_region = {
+							limit = {
+								NOT = { is_core = ROOT }
+								NOT = { is_permanent_claim = ROOT }
+							}
+							add_permanent_claim = ROOT
+						}
+					}
+				}
+			}
+			scandinavia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = SCA
+			}	
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			set_country_flag = formed_scandinavia_flag
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = SCA_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			if = {
+				limit = {
+					religion = norse_pagan_reformed
+				}
+				override_country_name = NORTH_SEA_EMPIRE
+				set_country_flag = renamed_to_north_sea_empire
+				set_country_flag = has_overriden_color_flag
+				change_country_color = { color = { 202 245 251 } }
+			}
+			else = {
+				if = {
+					limit = {
+						has_reform = danish_archkingdom
+					}
+					override_country_name = KLU
+					set_country_flag = is_KLU_flag
+					set_country_flag = has_overriden_color_flag
+					change_country_color = { color = { 255 212 42 } }
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
+	
+	mat_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_golden_horde_flag }
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			tag = Z00
+			NOT = { exists = GLH }
+			culture_group = tartar
+		}
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					OR = {
+						NOT = { owned_by = ROOT }
+						NOT = { is_core = ROOT }
+					}
+					OR = {
+						province_id = 1974
+						province_id = 2415
+						province_id = 425
+						province_id = 4691
+						province_id = 443
+						province_id = 739
+						province_id = 2193
+					}
+				}
+			}
+		}
+		allow = {
+			NOT = { exists = GLH }
+			owns_or_non_sovereign_subject_of = 1974 #Crimea
+			owns_or_non_sovereign_subject_of = 2415 #Tambov
+			owns_or_non_sovereign_subject_of = 425 #Astrakhan
+			owns_or_non_sovereign_subject_of = 4691 #Nogai
+			owns_or_non_sovereign_subject_of = 443 #Sarai
+			owns_or_non_sovereign_subject_of = 739 #Kypchak
+			owns_or_non_sovereign_subject_of = 2193 #Chimgi-Tura
+
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+		}
+		effect = {
+			change_tag = GLH
+			if = {
+				limit = {
+					OR = {
+						AND = {
+							has_dlc = "Winds of Change"
+							NOT = {
+								was_tatar_nation = yes
+								was_mongol_nation = yes
+								was_moghulistan_nation = yes
+							}
+						}
+						NOT = { has_dlc = "Winds of Change" }
+					}
+				}
+				swap_non_generic_missions = yes
+			}
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 3 } }
+				set_government_rank = 3
+			}
+			if = {
+				limit = {
+					has_custom_ideas = no
+				}
+				set_country_flag = formed_golden_horde_flag
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			crimea_region = {
+				add_permanent_claim = GLH
+			}
+			nogai_area = {
+				add_permanent_claim = GLH
+			}
+			lower_yik_area = {
+				add_permanent_claim = GLH
+			}
+			bashkiria_area = {
+				add_permanent_claim = GLH
+			}
+			kazan_area = {
+				add_permanent_claim = GLH
+			}
+			samara_area = {
+				add_permanent_claim = GLH
+			}
+			ural_area = {
+				add_permanent_claim = GLH
+			}
+			ishim_area = {
+				add_permanent_claim = GLH
+			}
+			yrtesh_area = {
+				add_permanent_claim = GLH
+			}
+			ob_area = {
+				add_permanent_claim = GLH
+			}
+			kazakhstan_area = {
+				add_permanent_claim = GLH
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { num_of_cities = 25 }
+			}
+		}
+		ai_importance = 400
+	}
+
+	
+	
+	
+	
+	restore_rman_empire = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = restored_rome_flag }
+			tag = BYZ
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = PAP }
+			NOT = { exists = ROM }
+			OR = {
+				religion_group = christian
+				religion_group = pagan
+			}
+		}
+				provinces_to_highlight = {
+			OR = {
+				AND = {
+					OR = {
+						NOT = { owned_by = ROOT }
+						NOT = { is_core = ROOT }
+					}
+					OR = {
+						province_id = 118 #Crimea
+						province_id = 341 #Tambov
+						province_id = 4696 #Astrakhan
+						province_id = 112 #Nogai
+						province_id = 129 #Sarai
+						province_id = 284 #Kypchak
+						province_id = 421 #Chimgi-Tura
+
+					}
+				}
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			118 = {
+				is_state = yes
+			}
+			owns_or_non_sovereign_subject_of = 118 #Crimea
+			owns_or_non_sovereign_subject_of = 341 #Tambov
+			owns_or_non_sovereign_subject_of = 4696 #Astrakhan
+			owns_or_non_sovereign_subject_of = 112 #Nogai
+			owns_or_non_sovereign_subject_of = 129 #Sarai
+			owns_or_non_sovereign_subject_of = 284 #Kypchak
+			owns_or_non_sovereign_subject_of = 421 #Chimgi-Tura
+		}
+		effect = {
+			118 = {
+				move_capital_effect = yes
+			}
+			restore_country_name = yes
+			change_tag = ROM
+			on_change_tag_effect = yes
+			custom_tooltip = restore_roman_empire_tt
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			set_government_rank = 3
+			add_prestige_or_monarch_power = { amount = 50 }
+			if = {
+				limit = {
+					has_dlc = "Domination"
+				}
+				if = {
+					limit = {
+						government = monarchy
+						is_revolutionary = no
+						NOT = { has_reform = celestial_empire }
+					}
+					hidden_effect = {
+						unlock_government_reform = {
+							government_reform = roman_empire_reform
+						}
+						unlock_government_reform = {
+							government_reform = roman_republic_government
+						}
+					}
+					add_government_reform = roman_empire_reform
+				}
+				else_if = {
+					limit = {
+						government = republic
+						is_revolutionary = no
+					}
+					hidden_effect = {
+						unlock_government_reform = {
+							government_reform = roman_empire_reform
+						}
+						unlock_government_reform = {
+							government_reform = roman_republic_government
+						}
+					}
+					add_government_reform = roman_republic_government
+				}
+				else = {
+					unlock_government_reform = {
+						government_reform = roman_empire_reform
+					}
+					unlock_government_reform = {
+						government_reform = roman_republic_government
+					}
+				}
+			}
+			add_core = 118 # Rome
+			#if = {
+			#	limit = {
+			#		is_part_of_hre = yes
+			#		is_elector = no
+			#	}
+			#	every_owned_province = {
+			#		limit = {
+			#			is_part_of_hre = yes
+			#		}
+			#		set_in_empire = no
+			#	}
+			#}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_country_flag = restored_rome_flag
+			
+			
+			if = {
+				limit = {
+					has_country_modifier = ITA_blatant_roman_larp
+				}
+				remove_country_modifier = ITA_blatant_roman_larp
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+
 	############################################################################################################################################################
 	finnish_nation = {
 		major = yes

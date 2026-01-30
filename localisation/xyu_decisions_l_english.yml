@@ -3,6 +3,18 @@
 
  swedish_nation_title:0 "Crown of Sweden"
  swedish_nation_desc:0 ""
+ 
+ scan_nation_title:0 "Unify the Nordic Realm"
+ scan_nation_desc:0 ""
+ 
+ chinese_empire_nation_title:0 "Found the eternal Republic" 
+ chinese_empire_nation_desc:0 "Our nation has expanded, and meerly being dubbed the Chinese Republic no longer suits our Universal Republic"
+
+ mat_nation_title:0 "Regain our honor"
+ mat_nation_desc:0 "Strike terror in the Christians once more"
+ 
+ restore_rman_empire_title:0 "Restore the glory of Rome"
+ restore_rman_empire_desc:0 "Matte is gay, and he is gonna die, this time for real!"
 
  finnish_nation_title:0 "Lands of Finland"
  finnish_nation_desc:0 ""

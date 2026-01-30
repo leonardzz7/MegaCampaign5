@@ -1,5 +1,5 @@
-owner = Z40
-controller = Z40
+owner = ZAN
+controller = ZAN
 capital = "Bagamayo"
 is_city = yes
 culture = bantu
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = AGK
-add_core = Z40
+add_core = ZAN
 add_permanent_claim = ZAN
 discovered_by = central_african
 discovered_by = east_african

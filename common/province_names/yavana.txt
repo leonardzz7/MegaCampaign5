@@ -1,0 +1,3838 @@
+### EUROPE
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Kernigovía" "Kernigovía"}
+1945 = {"Severópolis" "Severópolis"} #made-up from the roman emperor Severus
+4543 = {"Ryliskía" "Ríliskon"}
+
+# East Dniepr
+
+290 = {"Poltavía" "Poltávion"}
+2407 = {"Pereslavía" "Pereslavía"}
+4542 = {"Lyvnía" "Lývnon"}
+
+# Minsk
+
+276 = {"Minískion" "Minískion"}
+4115 = {"Móseron" "Móseron"}
+4242 = {"Vogorísion" "Vogorísion"}
+4544 = {"Vovryskía" "Vovryskía"}
+
+# Podlasie
+
+269 = {"Podlachía" "Drochovíkion"}
+277 = {"Vrestía" "Vrestía Lithouanón"}
+1937 = {"Gródni" "Gródni"}
+
+# Podolia
+
+281 = {"Vastarnía" "Proskývion"}
+1943 = {"Vraslavía" "Vráslavon"}
+4540 = {"Visontía" "Visóntion"}
+
+# Pripyat
+
+278 = {"Piniskía" "Píniskon"}
+1941 = {"Tyrovía" "Tyrovía"}
+4537 = {"Neochórion" "Neochórion Lithouanías"} #translation of the latin name
+4545 = {"Sylíki" "Sylíki"}
+
+# Sloboda Ukraine
+ 
+291 = {"Chárkovon" "Chárkovon"} #greek name
+298 = {"Koúron" "Koúron"}
+299 = {"Voronegía" "Voronikón"}
+2408 = {"Ielésion" "Ielésion"}
+
+# Smolensk
+
+293 = {"Miliniskía" "Milíniskon"}
+297 = {"Vranskía" "Varáskion"}
+4244 = {"Tryvékia" "Tryvékion"}
+4245 = {"Viásmi" "Viásmi"}
+
+# Volhynia
+
+279 = {"Volynía" "Vladimiría"}
+2962 = {"Eraktía" "Érakton"}
+4538 = {"Chelmía" "Chelmía Polonón"}
+4539 = {"Kreménia" "Kremenikón"}
+
+# West Dniepr
+
+280 = {"Kíevon" "Kíevon"}
+1942 = {"Zitomiría" "Zitomiría"}
+1944 = {"Kirkássion" "Kirkássion"}
+4247 = {"Ovryssós" "Ovryssós"}
+
+# White Ruthenia
+
+292 = {"Machilovía" "Machilovía"}
+771 = {"Vitepsía" "Vitésion"}
+4246 = {"Mislavía" "Mislávion"}
+
+## ANATOLIA (all names are real)
+
+# Aegean Archipelago
+
+164 = {"Kykládes" "Náxos"}
+320 = {"Dodekánisos" "Ródos"}
+2348 = {"Chíos" "Kástro"}
+3003 = {"Eúvoia" "Eúripos"}
+4700 = {"Lésvos" "Mytilíni"}
+
+# Ankara
+
+326 = {"Galatía" "Ánkyra"}
+4312 = {"Dorýlaion" "Dorýlaion"}
+4313 = {"Gággra" "Gággra"}
+
+# Aydin
+
+318 = {"Smýrni" "Smýrni"}
+319 = {"Mýlasa" "Mýlasa"}
+2297 = {"Thrakésion" "Pérgamon"}
+2298 = {"Attáleia" "Attáleia"}
+4309 = {"Trálleis" "Trálleis"}
+
+# Çukurova
+
+321 = {"Kýpros" "Leukosía"}
+327 = {"Kilikía" "Ádana"}
+2302 = {"Seleúkeia" "Seleúkeia"}
+
+# Dulkadir
+
+332 = {"Germaníkeia" "Germaníkeia"}
+2303 = {"Melitiní" "Melitiní"}
+2308 = {"Édessa" "Édessa"}
+4310 = {"Tephrikí" "Tephrikí"}
+
+# Erzurum
+
+330 = {"Trapezoús" "Trapezoús"}
+331 = {"Theodosiópolis" "Theodosiópolis"}
+2305 = {"Akilisiní" "Akilisiní"}
+
+# Germiyan
+
+322 = {"Kotýaion" "Kotýaion"}
+1848 = {"Váris" "Váris"}
+4308 = {"Áttouda" "Chonaí"}
+4311 = {"Anatolikón" "Amórion"}
+
+# Hüdavendigar
+
+316 = {"Izmit" "Izmit"}
+317 = {"Opsíkion" "Proúsa"}
+2296 = {"Ávydos" "Pigaí"}
+
+# Karadeniz
+
+325 = {"Paphlagonía" "Kastamón"}
+328 = {"Sinópi" "Sinópi"} 
+2299 = {"Voukellárion" "Klaudiópolis"}
+2304 = {"Chaldía" "Sampsoúnta"}
+
+# Karaman
+
+323 = {"Ikónion" "Ikónion"}
+324 = {"Láranda" "Láranda"}
+2301 = {"Charsianón" "Kaisáreia"}
+4307 = {"Archelaís" "Archelaís"}
+
+# Rum
+
+329 = {"Sebásteia" "Sebásteia"}
+1846 = {"Armeniakón" "Amáseia"}
+2300 = {"Kappadokía" "Yosgáti"}
+4314 = {"Ioustianianópolis" "Ioustianianópolis"}
+4315 = {"Eudoxía" "Eudoxía"}
+
+# Kurdistan
+
+418 = {"Ámida" "Ámida"}
+2306 = {"Manziérti" "Manziérti"}
+2307 = {"Éva" "Éva"}
+4295 = {"Kíphas" "Kíphas"}
+4296 = {"Valáleison" "Valáleison"}
+
+## BALKANS #(all names are historical unless stated otherwise)
+
+# Albania
+
+143 = {"Aulón" "Aulón"}
+4174 = {"Dyrráchion" "Dyrráchion"}
+4175 = {"Lissós" "Lissós"}
+4750 = {"Kroaí" "Kroaí"}
+
+# Bosnia
+
+139 = {"Zachloumía" "Monstárion"} #capital is made up based on the latin name
+140 = {"Vosóna" "Kanavéa"}
+1831 = {"Tervounía" "Tervounía"} #made up based on phonology
+3002 = {"Katéra" "Visókion"} #name of a byzantine theme in the area, but the capital is adapted from latin
+4755 = {"Podrinía" "Áno Kástron"} #province is phonetically adapted, capital is translated from etymology
+
+# Bulgaria
+
+150 = {"Nikópolis" "Nikópolis"}
+1765 = {"Serdikí" "Sardikí"}
+2746 = {"Vidýni" "Vidýni"}
+2750 = {"Philippoúpolis" "Philippoúpolis"}
+4703 = {"Pautalía" "Pautalía"}
+
+# Croatia
+
+131 = {"Agránion" "Agránion"}
+1826 = {"Líkia" "Nóna"} #capital is another byzantine city in the area
+1828 = {"Káto Periochaí" "Iaícia"}
+4752 = {"Tharsatikí" "Tharsatikí"}
+
+# Dalmatia
+
+136 = {"Aspálathos" "Aspálathos"}
+137 = {"Raoúsion" "Raoúsion"}
+4753 = {"Diadóra" "Diadóra"}
+
+# Macedonia
+
+148 = {"Thessaloníki" "Thessaloníki"}
+1853 = {"Kastoría" "Kastoriá"}
+3001 = {"Skoúpoi" "Skoúpoi"}
+4702 = {"Sérrai" "Sérrai"}
+4780 = {"Lýchnidos" "Áchris"} #alternate names for the same place
+
+# Morea
+
+145 = {"Lakonía" "Mystrás"}
+146 = {"Athínai" "Athínai"}
+163 = {"Kríti" "Irákleion"}
+1773 = {"Achaía" "Pátrai"}
+4701 = {"Kórinthos" "Kórinthos"}
+
+# Northern Greece
+
+142 = {"Kérkyra" "Kastrópolis"} #nickname for the capital that was popular at the time
+144 = {"Épiros" "Ioánnina"}
+147 = {"Thessalía" "Lárisa"}
+4698 = {"Kephallinía" "Ágios Geórgios"}
+4699 = {"Árta" "Árta"}
+
+# Rascia
+
+138 = {"Diokleía" "Anóvion"}
+1766 = {"Kossyfopédion" "Pristína"}
+1827 = {"Rassía" "Trigovísta"} #capital is a phonetic adaptation
+4754 = {"Dekáderon" "Dekáderon"}
+
+# Serbia
+
+141 = {"Semendría" "Semendría"}
+3000 = {"Naïssós" "Naïssós"}
+4176 = {"Vranítza" "Vranítza"}
+4239 = {"Singidón" "Singidón"}
+4757 = {"Moesía" "Ádrinon"} #adaptation of old latin names
+
+# Silistria
+
+159 = {"Doróstolon" "Doróstolon"}
+4704 = {"Trínovon" "Trínovon"}
+4706 = {"Aegyssós" "Aegyssós"}
+
+# Slavonia
+
+152 = {"Varásdinon" "Varásdinon"} #phonetic adaptation
+1767 = {"Sklavonía" "Essékion"}
+4173 = {"Syrmía" "Sírmion"}
+4756 = {"Leukópolis" "Leukópolis"} #direct translation of the name
+
+# Thrace
+
+149 = {"Adrianoúpolis" "Adrianoúpolis"}
+151 = {"Konstantinoúpolis" "Konstantinoúpolis"}
+1764 = {"Sozópolis" "Sozópolis"}
+4705 = {"Komotiní" "Komotiní"}
+4779 = {"Kallípolis" "Kallípolis"}
+
+## CARPATHIA (all names are from latin unless stated otherwise)
+
+# Alföld
+
+155 = {"Ioúli" "Ioúli"}
+1953 = {"Divríkinon" "Divríkinon"}
+1954 = {"Ágios Nikólaos" "Ágios Nikólaos"}
+4125 = {"Solonópolis" "Solonópolis"} #adaptation of the bulgarian name
+
+# Moldavia
+
+268 = {"Keáva" "Keáva"} # made up
+1756 = {"Vessaravía" "Néa Kilía"}
+2405 = {"Vénderon" "Vénderon"}
+4529 = {"Iássion" "Iássion"}
+4530 = {"Vérladon" "Vérladon"}
+
+# Northern Transylvania
+
+157 = {"Varádinon" "Varádinon"} 
+158 = {"Marisós" "Neápolis Sikylón"} #province name is made up from the name of the river
+1952 = {"Marmátia" "Kóston"}
+4127 = {"Potaíssi" "Potaíssi"}
+
+# Slovakia
+
+154 = {"Nitría" "Nitría"}
+162 = {"Kassovía" "Kassovía"}
+1318 = {"Skepoúsion" "Levotía"}
+1772 = {"Istrópolis" "Istrópolis"} #historical greek name
+4236 = {"Laugaríkion" "Laugaríkion"}
+
+# Southern Transylvania
+
+156 = {"Thimiskía" "Thimiskía"} #adaptation of an old latin name
+1951 = {"Ápoulon" "Ápoulon"}
+4128 = {"Kivínion" "Kivínion"}
+
+# Transdanubia
+
+135 = {"Skravantía" "Sophróna"}
+153 = {"Péssion" "Óvydos"} #historical greek name, the capital is made up
+1864 = {"Simigía" "Markianópolis"} #made up based on the latin name. Capital is made up
+4126 = {"Koumanía" "Aigópolis"}
+4240 = {"Górsion" "Górsion"}
+
+# Wallachia
+
+160 = {"Káto Vlachía" "Pelendávi"}
+161 = {"Trigovís" "Trigovís"} # made up name
+2998 = {"Áno Vlachía" "Mousaíon"}
+4531 = {"Theodorápolis" "Theodorápolis"} #historical greek name
+4532 = {"Drovéta" "Drovéta"}
+
+## CAUSASIA
+
+# Armenia
+
+419 = {"Erivanós" "Erivanós"}
+420 = {"Gángia" "Thysaurópolis"}
+2202 = {"Sousá" "Sousá"}
+2205 = {"Naxouána" "Naxouána"}
+4302 = {"Darynikós" "Darynikós"}
+
+# Shirvan
+
+421 = {"Kyparissós" "Kyparissós"}
+4299 = {"Kamáchia" "Kamáchia"}
+4305 = {"Sákis" "Sákis"}
+4340 = {"Astarávi" "Astarávi"}
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Vormaníki" "Molínai"}
+195 = {"Lemovíki" "Limógi"}
+199 = {"Ovérni" "Auriliakón"}
+4697 = {"Methórios" "Argyropédion"}
+4777 = {"Segoúsion" "Segoúsion"}
+
+# Brittany
+
+169 = {"Armoríki" "Ágios Vriókos"}
+170 = {"Peraía" "Vrésti"}
+171 = {"Venedotía" "Venedotía"}
+172 = {"Nánti" "Nánti"}
+4384 = {"Rediónon" "Rediónon"}
+
+# Champagne
+
+181 = {"Réthilos" "Réthilos"}
+186 = {"Reímoi" "Reímoi"}
+4390 = {"Trikássion" "Trikássion"}
+
+# Eastern-Burgundy
+
+192 = {"Dióni" "Dióni"}
+193 = {"Eleuthéra-Komiteía" "Visóntion"}
+4764 = {"Salínai" "Salínai"}
+
+# Gascony
+
+173 = {"Lapoúrdia" "Vaióni"}
+175 = {"Arminiakón" "Kóndomos"}
+176 = {"Pheárnia" "Pheárni"}
+4694 = {"Fígos" "Fígos"}
+
+# Guyenne
+
+174 = {"Vourdigáli" "Vourdigáli"}
+194 = {"Petragórion" "Perígeros"}
+198 = {"Ryténion" "Ryténion"}
+4112 = {"Kadoúrkinon" "Kadoúrki"}
+
+# Île-de-France
+
+182 = {"Valésia" "Valésion"}
+183 = {"Parísion" "Parísion"}
+185 = {"Nemessós" "Nemessós"}
+4388 = {"Chártyra" "Chártyra"}
+
+# Languedoc
+
+196 = {"Touloúzi" "Touloúzi"}
+200 = {"Isátion" "Isátion"}
+2753 = {"Narvóna" "Narvóna"}
+4391 = {"Leúka" "Vivárion"}
+4695 = {"Karkasós" "Karkasós"}
+
+# Loire Valley
+
+177 = {"Máni" "Kenomános"}
+178 = {"Andegávi" "Andegávi"}
+4389 = {"Touróni" "Pýrgos"}
+
+# Lorraine
+
+187 = {"Varríkis" "Várron"}
+188 = {"Méttis" "Méttis"}
+189 = {"Lorraíni" "Nagiakón"}
+4766 = {"Veródounon" "Veródounon"}
+
+# Normandy
+
+167 = {"Kaldými" "Hávri"}
+168 = {"Kádymnos" "Kathými"}
+1879 = {"Aléntia" "Aléntia"}
+4385 = {"Kotentíni" "Megalópolis"}
+
+# Orléanais
+
+179 = {"Vitouría" "Avarikón"}
+184 = {"Orleáni" "Orleáni"}
+4776 = {"Vlésai" "Vlésai"}
+
+# Picardy
+
+87 = {"Kalésion" "Kalésion"}
+88 = {"Artésia" "Artevatós"}
+89 = {"Pikardía" "Amiéni"}
+1743 = {"Kamarákion" "Kamarákion"}
+
+# Poitou
+
+180 = {"Áno Piktavía" "Poitía"}
+4111 = {"Santóni" "Santóni"}
+4386 = {"Káto Piktavía" "Lithárion"}
+4387 = {"Angolými" "Angolými"}
+
+# Provence
+
+201 = {"Massalía" "Massalía"}
+202 = {"Auenión" "Auenión"}
+2991 = {"Phorkalikón" "Phorkalikón"}
+4696 = {"Toulóni" "Toulóni"}
+
+# Savoy
+
+203 = {"Loúgdounon" "Loúgdounon"}
+204 = {"Delphináton" "Delphináton"}
+205 = {"Kamvérsa" "Kamvérsa"}
+4719 = {"Vrixía" "Pólis Vrixías"}
+
+# Western Burgundy
+
+191 = {"Evirnós" "Evirnós"}
+1877 = {"Agathópolis" "Agathópolis"}
+4392 = {"Autisiodóron" "Autisiodóron"}
+
+## IBERIA 
+
+# Alentejo
+
+227 = {"Olissipón" "Lissavón"}
+229 = {"Vegía" "Páx"}
+230 = {"Ossonóva" "Pháros"}
+4150 = {"Évora" "Évora"}
+4787 = {"Áno Tágos" "Almerími"}
+
+# Aragon
+
+211 = {"Ileóska" "Oskáni"}
+214 = {"Kaisaraugoústa" "Kaisaraugoústa"}
+2990 = {"Teroúlion" "Teroúlion"}
+4557 = {"Vilvílis" "Vilvílis"}
+
+# Baleares
+
+333 = {"Megalónisos" "Pálmi"}
+4559 = {"Mikrónisos" "Magonolímanon"}
+4560 = {"Evyssós" "Evyssós"}
+
+# Beiras
+
+228 = {"Veíra" "Leukókastron"}
+231 = {"Limín" "Limín"}
+232 = {"Vregansía" "Vregánsia"}
+1851 = {"Aimínion" "Aimínion"}
+4556 = {"Avérion" "Avérion"}
+
+# Catalonia
+
+197 = {"Rodallón" "Rodallón"}
+212 = {"Geroúndi" "Geroúndi"}
+213 = {"Varkinón" "Varkelón"}
+2987 = {"Érgelos" "Érgelos"}
+2988 = {"Tarrakón" "Tarrakón"}
+
+# Extremadura
+
+218 = {"Vadachós" "Vadachós"}
+1747 = {"Kaikilía" "Kaikilía"}
+4788 = {"Plakentía" "Ambrosía"}
+
+# Galicia
+
+206 = {"Koróni" "Koróni"}
+4554 = {"Loúkos" "Loúkos"}
+4555 = {"Palaiogéphyra" "Palaiogéphyra"}
+4558 = {"Orensía" "Oránsi"}
+
+# Leon
+
+207 = {"Astouríai" "Ovíedon"}
+208 = {"Léon" "Léon Ivíron"}
+216 = {"Elmantikí" "Salamána"}
+4533 = {"Samóri" "Samóri"}
+
+# Lower Andalucia
+
+224 = {"Íspalis" "Sevílli"}
+225 = {"Kordývi" "Kórdova"}
+1748 = {"Ionía" "Ionía"}
+1749 = {"Gádeira" "Gádeira"}
+4548 = {"Ónova" "Ónova"}
+
+# North Castile
+
+215 = {"Valladolís" "Valladolís"}
+1745 = {"Kantavría" "Ágios Andréas"}
+1746 = {"Voúrga" "Voúrga"}
+4552 = {"Pallantía" "Pláka"}
+
+# South Castile
+
+217 = {"Madríti" "Madríti"}
+2755 = {"Dauría" "Doúros"}
+4551 = {"Ovíla" "Ágios Sekoúndios"}
+4789 = {"Segouvía" "Segouvía"}
+
+# Toledo
+
+219 = {"Tolédon" "Tolédon"}
+221 = {"Myrtéa" "Néa Karchidón"}
+2751 = {"Kouéni" "Kouéni"}
+2754 = {"Ánydros" "Tarankón"}
+4547 = {"Alvakéti" "Livisósa"}
+
+# Upper Andalucia
+
+222 = {"Almería" "Avdéra"}
+223 = {"Karnáta" "Elvíra"}
+226 = {"Herákleies Stýles" "Karteía"}
+4546 = {"Málaka" "Málaka"}
+
+# Valencia
+
+220 = {"Valentía" "Valentía"}
+1750 = {"Ákra Leukí" "Leúka"}
+4549 = {"Saitávis" "Satívi"}
+4550 = {"Kastrákion" "Pediókastron"}
+
+# Vasconia
+
+209 = {"Viskaïkí" "Vyliváon"}
+210 = {"Navárra" "Paulón"}
+2989 = {"Erythrá" "Logrónion"}
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Thomaís" "Limerís"}
+376 = {"Konnákia" "Varýkastron"}
+4119 = {"Selígon" "Nagnátai"}
+
+# East Anglia
+
+238 = {"Kamoulódounon" "Klaudiópolis"}
+1860 = {"Vorodímos" "Vorikón"}
+4370 = {"Vedókastron" "Vedókastron"}
+
+# East Midlands
+
+243 = {"Líndia" "Líndos"}
+1861 = {"Dervenitós" "Dervenitós"}
+4376 = {"Lígiras" "Lígiras"}
+
+# Highlands
+
+250 = {"Ágios Ioánnis" "Ylissós"}
+252 = {"Nestós" "Néda"}
+369 = {"Orkádai" "Pomonía"}
+4110 = {"Vorachóra" "Ágios Spyrídon"}
+4363 = {"Gaélia" "Argílion"}
+
+# Leinster
+
+373 = {"Douvlínon" "Douvlínon"}
+374 = {"Lagénia" "Manapía"}
+4120 = {"Keládira" "Childéri"}
+4379 = {"Omphalón" "Tylamórion"}
+
+# London
+
+235 = {"Kántion" "Kantavría"}
+236 = {"Londínion" "Londínion"}
+237 = {"Oxphórdi" "Oxphórdi"}
+4371 = {"Rígnion" "Votanikós"}
+
+# Lowlands
+
+248 = {"Laudonía" "Edinvoúrgon"}
+249 = {"Antonía" "Glaskóvi"}
+251 = {"Averdonía" "Averdonía"}
+4361 = {"Havaróna" "Havaróna"}
+4362 = {"Rachými" "Rachými"}
+
+# Munster
+
+4118 = {"Korkagía" "Korákion"}
+4377 = {"Órmos" "Ágios Kanikós"}
+4378 = {"Désmon" "Prounón"}
+
+# Northern England
+
+244 = {"Lynókastron" "Lynókastron"}
+246 = {"Yperávia" "Neókastron"}
+247 = {"Kámvria" "Luguválion"}
+4375 = {"Maghestría" "Arphénion"}
+
+# The Isles
+
+253 = {"Exoterikaí Evrídai" "Ágios Phokás"}
+4364 = {"Esoterikaí Evrídai" "Mantrí"}
+4365 = {"Monarína" "Melapótamos"}
+
+# Ulster
+
+372 = {"Tyrón" "Omáchi"}
+4121 = {"Ulidía" "Móni Koryphí"}
+4380 = {"Donegáli" "Pýrrama"}
+
+# Wales
+
+241 = {"Klamórgi" "Klamórgi"}
+242 = {"Asperís" "Asperís"}
+4366 = {"Vravónion" "Vravónion"}
+4368 = {"Karmáthia" "Kardýphi"}
+
+# Wessex
+
+233 = {"Kornoúvia" "Tamarópolis"}
+234 = {"Chantonía" "Adyrnós"}
+4130 = {"Somertía" "Avóna"}
+4373 = {"Dymnonía" "Exókastron"}
+4374 = {"Dyrnovaría" "Výrna"}
+
+# West Midlands 
+
+239 = {"Gelvýni" "Gelvýni"}
+240 = {"Salóphi" "Salóphi"}
+4372 = {"Kovéntia" "Kovéntia"}
+
+# Yorkshire
+
+245 = {"Evorákion" "Evorákion"}
+4367 = {"Arkadolímanon" "Oúlon"}
+4368 = {"Skárthia" "Skarvoúrgon"}
+4785 = {"Sephélda" "Sephélda"}
+
+## ITALY (names denoted with #l come from latin)
+
+# Apulia
+
+122 = {"Salantía" "Vrendísion"}
+1933 = {"Várion" "Várion"}
+2985 = {"Daunía" "Phokaía"}
+4733 = {"Molísion" "Káto Kámpos"} #the capital is a direct translation of the italian name
+
+# Calabria
+
+123 = {"Kalavría" "Skillétion"} #capital is from latin
+1934 = {"Leukanía" "Potensía"} #capital is from latin
+2984 = {"Kosentía" "Kosentía"} #capital is from latin
+
+# Campania
+
+121 = {"Neápolis" "Neápolis"}
+2983 = {"Salérnon" "Salérnon"}
+4734 = {"Avellínon" "Avellínon"} #l
+
+# Eastern Sicily
+
+124 = {"Messíni" "Tauroménion"}
+126 = {"Melíti" "Valléti"} #capital is a phonetic adjustment
+2982 = {"Syrakoúsai" "Syrakoúsai"}
+
+# Emilia-Romagna
+
+105 = {"Chrysópolis" "Chrysópolis"}
+106 = {"Moutíni" "Moutíni"} 
+113 = {"Ferraría" "Ferraría"} #l
+114 = {"Ravénna" "Ravénna"}
+4730 = {"Volonía" "Volonía"}
+
+# Lazio-Umbria
+
+118 = {"Rómi" "Rómi"}
+2976 = {"Peroúsion" "Peroúsion"} #adjustment of an alternate latin name
+4731 = {"Spoléton" "Spoléton"} #suffix adjustment
+4732 = {"Tarrakiní" "Tarrakiní"} #phonetic adjustment
+
+# Liguria
+
+101 = {"Génova" "Génova"} #l 
+102 = {"Níkaia" "Níkaia"}
+2992 = {"Alvigaúnion" "Alvigaúnion"} #l
+
+# Lombardy
+
+104 = {"Mediólanon" "Mediólanon"}
+1862 = {"Kremóni" "Kremóni"} #l
+2979 = {"Neária" "Neária"} #translation of the latin name
+4728 = {"Pavía" "Pavía"}
+4740 = {"Kómos" "Kómos"} #suffix and phonetic adjustment
+
+# Marche-Abruzzo
+
+119 = {"Ankón" "Ankón"}
+120 = {"Aproútion" "Aproútion"}
+2977 = {"Ourvínon" "Ourvínon"} #l
+
+# Piedmont
+
+103 = {"Tauriní" "Tauriní"} #made up from ancient etymology
+1875 = {"Kýneon" "Kýneon"} #l
+2981 = {"Momferráton" "Kástron Momferrátou"}
+4727 = {"Saloúsion" "Saloúsion"} #l
+
+# Po Valley
+
+107 = {"Vreskía" "Vreskía"} #l
+109 = {"Mantoúa" "Mantoúa"} #l
+4739 = {"Pérgamos" "Pérgamos"} #a similar greek word
+
+# Tuscany 
+
+115 = {"Píza" "Píza"} #l
+116 = {"Florentía" "Florentía"} #l
+117 = {"Séna" "Séna"} #l
+2978 = {"Arrétion" "Arrétion"}
+2980 = {"Loúkka" "Loúkka"} #l
+
+# Tyrrhenian Isles
+
+127 = {"Sássaris" "Sássaris"}
+1247 = {"Korsikí" "Aiákeion"}
+2986 = {"Káralis" "Káralis"}
+4735 = {"Aristánis" "Aristánis"}
+
+# Venetia
+
+108 = {"Veróni" "Veróni"} #l
+111 = {"Frioúlia" "Outínos"} #province is from latin, and the capital is suffix adjusted
+112 = {"Enetía" "Enetía"}
+1774 = {"Tarvísion" "Tarvísion"} #a similar greek word
+4729 = {"Patávia" "Patávion"} #l
+
+# Western Sicily
+
+125 = {"Pánormos" "Pánormos"}
+4736 = {"Drépanon" "Lilyvaíon"}
+4737 = {"Akrágas" "Akrágas"}  
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Vrýgi" "Vrýgi"}
+1865 = {"Gándi" "Gándi"}
+4769 = {"Lílli" "Lílli"}
+
+# Frisia
+
+99 = {"Giléra" "Giléra"}
+100 = {"Frisía" "Leovárdia"}
+1931 = {"Anatolikí Frisía" "Émeda"}
+4381 = {"Yperýsala" "Souvólli"}
+4382 = {"Gronýngi" "Gronýngi"}
+
+# Holland
+
+96 = {"Zilandía" "Mediovoúrgon"}
+97 = {"Amstelódamon" "Amstelódamon"}
+98 = {"Traïékton" "Traïékton"}
+4383 = {"Hági" "Hági"}
+
+# North Brabant
+
+95 = {"Vréda" "Vréda"}
+1742 = {"Limvoúrgon" "Limvoúrgon"}
+4770 = {"Doukodrymós" "Doukodrymós"}
+
+# South Brabant
+
+92 = {"Vryxéllai" "Vryxéllai"}
+1744 = {"Amvérsa" "Amvérsa"}
+2974 = {"Asvanía" "Hasseláton"}
+
+# Wallonia
+
+91 = {"Enegóvia" "Kastrótopos"}
+93 = {"Leódion" "Leódion"}
+94 = {"Louxemvoúrgon" "Louxemvoúrgon"}
+1866 = {"Namóra" "Namóra"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Ástros" "Ástra"}
+466 = {"Sára" "Palátion"}
+468 = {"Lykía" "Lykía"}
+2416 = {"Staurópolis" "Staurópolis"}
+2417 = {"Kými" "Kými"}
+
+# Azov
+
+286 = {"Tanaís" "Tanaís"}
+287 = {"Ypánia" "Aikaterinópolis"}
+2413 = {"Néo Kirkássion" "Alexandroúpolis"}
+2414 = {"Sigopótamos" "Sigopótamos"}
+
+# Crimea
+
+284 = {"Taurikí" "Kerkinítis"}
+285 = {"Theodosía" "Theodosía"}
+2410 = {"Sevastópolis" "Sevastópolis"}
+2447 = {"Phanagóreia" "Phanagóreia"}
+
+# Lower Don
+
+288 = {"Káto Iazártis" "Dóna"}
+467 = {"Ágios Vógoris" "Ágios Vógoris"}
+1971 = {"Araxópolis" "Araxópolis"}
+2409 = {"Alikópolis" "Alikópolis"}
+
+# Yedisan 
+
+282 = {"Ólvia" "Ólvia"}
+1974 = {"Chersónisos" "Chersón"}
+2406 = {"Nektária" "Nektarópolis"}
+
+# Zaporizhia
+
+283 = {"Aporítheia" "Katarraktópolis"}
+2411 = {"Kalmón" "Kalmón"}
+2412 = {"Marioúpolis" "Marioúpolis"}
+
+## POLAND (all names are from latin unless stated otherwise)
+
+# Central Poland
+
+258 = {"Siradía" "Síradon"}
+1939 = {"Lentikía" "Lentíkion"}
+4533 = {"Velynía" "Velynía"}
+
+# Kuyavia
+
+1859 = {"Thorounía" "Thoroúnion"}
+4523 = {"Léslia" "Léslia"} #from the yiddish name
+4524 = {"Dovrínion" "Dóvrinon epí Istoúla"}
+4528 = {"Kyiávia" "Vrestía Kyiavías"}
+
+# Malopolska
+
+262 = {"Krakovía" "Krakovía"}
+2960 = {"Néa Sandikí" "Néa Sandikí"}
+4527 = {"Kekinía" "Kekínion"}
+
+# Mazovia
+
+256 = {"Plokía" "Plókon"}
+257 = {"Varsovía" "Varsovía"}
+1938 = {"Vissinía" "Vissinikón"}
+4525 = {"Rávi" "Rávon Mazovíon"}
+
+# Red Ruthenia
+
+261 = {"Alikía" "Alikía"}
+1940 = {"Velissós" "Velissós"} #made up based on the latin
+2424 = {"Premislía" "Premislía"}
+2961 = {"Leópolis" "Leópolis"}
+4541 = {"Drogovikía" "Drogovíkion"}
+
+# Sandomierz
+
+259 = {"Sandomýra" "Sandomýra"}
+260 = {"Louvlínon" "Louvlínon"}
+2959 = {"Tirnovía" "Tirnovía"}
+
+# Silesia
+
+263 = {"Rativoría" "Ratívoron"}
+264 = {"Vratislavía" "Vratislavía"}
+2966 = {"Phlogovía" "Phlogovía"}
+4238 = {"Lignítion" "Lignítion"}
+4723 = {"Oppolía" "Oppollía"}
+
+# Wielkopolska
+
+254 = {"Posnanía" "Posnanía"}
+255 = {"Kalekía" "Kalékion"}
+2963 = {"Natíssis" "Náklon"}
+4526 = {"Nesenía" "Nésekon"}
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Prága" "Prága"}
+2968 = {"Voudophísion" "Voudophísion"} # made up from etymology
+2970 = {"Vasilókastron" "Vasilókastron"} # made up from etymology
+4724 = {"Paradouvíki" "Paradouvíki"}
+4725 = {"Neástia" "Neástia"} # direct translation
+
+# Braunschweig
+
+57 = {"Vrynónis" "Vrynónis"}
+1758 = {"Anóveron" "Anóveron"} # greek name
+2971 = {"Iógi" "Iógi"} # phonetic adaptation
+4773 = {"Tylophórdion" "Tylophórdion"}
+
+# Erzgebirge
+
+267 = {"Pilísni" "Pilísni"}
+1771 = {"Fergýnni" "Nomistérion"}
+2967 = {"Egíra" "Egíra"}
+
+# Hesse 
+
+78 = {"Magendía" "Magendía"} # greek name
+81 = {"Áno Éssi" "Marvoúrgon"} # greek name
+1762 = {"Káto Éssi" "Kasséllai"}
+1876 = {"Frankfoúrti" "Frankfoúrti"} #greek name
+4774 = {"Phoúldi" "Phoúldi"} # phonetic adaptation
+
+# Hinterpommern
+
+48 = {"Kolvérgon" "Kolvérgon"}
+2995 = {"Stolópi" "Stolópi"} # suffix adaptation
+4746 = {"Astrópolis" "Astrópolis"} # direct translation
+
+# Lower Rhineland
+
+80 = {"Triéri" "Triéri"} # greek name
+1760 = {"Kovlentía" "Kovlentía"} # phonetic adaptation
+1878 = {"Akyísgranon" "Akyísgranon"}
+4768 = {"Iouliakón" "Iouliakón"}
+
+# Lower Saxony
+
+44 = {"Amvoúrgon" "Amvoúrgon"} 
+53 = {"Lounavoúrgon" "Lounavoúrgon"}
+1857 = {"Leuphána" "Leuphána"}
+4772 = {"Kélli" "Kélli"}
+
+# Lusatia
+
+60 = {"Voudíssa" "Voudíssa"}
+1763 = {"Káto Lousatía" "Kovýsion"}
+4778 = {"Goríkion" "Goríkion"}
+
+# Mecklenburg
+
+45 = {"Lyvékki" "Lyvékki"} # greek name
+46 = {"Rhodópolis" "Rhodópolis"}
+2996 = {"Vyssmaría" "Vyssmaría"}
+4749 = {"Néon Vrenovoúrgon" "Néon Vrenovoúrgon"} # translation from german
+4786 = {"Prignítion" "Prignítion"}
+
+# Mittelmark
+
+50 = {"Verolínon" "Verolínon-Kolonía"}
+51 = {"Roúpinon" "Neoroupínon"}
+1759 = {"Potestámion" "Potestámion"}
+2993 = {"Ygrochóra" "Privysíla"} # direct translation, capital is made up
+4748 = {"Vrenavoúrgon" "Vrenavoúrgon tou Avélou"}
+
+# Moravia
+
+265 = {"Vrounnía" "Vrounnía"}
+4237 = {"Évyron" "Évyron"}
+4726 = {"Rádiskon" "Rádiskon"}
+
+# Neumark
+
+49 = {"Yperodería" "Soldíni"} # translation from latin
+2969 = {"Astrovoúnion" "Astrovoúnion"} # translation from latin
+4747 = {"Dramópolis" "Dramópolis"}
+
+# North Rhine
+
+83 = {"Nassovía" "Nassovía"}
+84 = {"Dysseldória" "Dysseldória"} #made up from etymology
+85 = {"Kolonía" "Kolonía"}
+2975 = {"Klivía" "Klivía"}
+
+# North Westphalia
+
+56 = {"Ansivárion" "Ansivárion"}
+69 = {"Tremonía" "Tremonía"}
+86 = {"Monastírion" "Monstírion"}
+2973 = {"Meppíni" "Meppíni"}
+
+# Saxony
+
+59 = {"Asprólophos" "Apsrólophos"}
+61 = {"Drésdi" "Drésdi"}
+62 = {"Leipsía" "Leipsía"} # greek name
+4744 = {"Kygnéa" "Kygnéa"}
+
+# Saxony-Anhalt
+
+52 = {"Parthenópolis" "Parthenópolis"}
+58 = {"Ancháltion" "Kothéni"}
+2964 = {"Archaiórion" "Stindalía"}
+4741 = {"Salínai" "Salínai"}
+4742 = {"Koslaría" "Koslaría"}
+
+# Schleswig-Holstein
+
+13 = {"Sliasvía" "Sliasvía"}
+1775 = {"Olsatía" "Charópolis"}
+4141 = {"Thémargon" "Thémargon"}
+
+# South Westphalia
+
+82 = {"Vestphalía" "Lypía"}
+2972 = {"Patrovróna" "Patrovróna"} # made up from etymology
+4775 = {"Philevéldi" "Philevéldi"}
+
+# Thuringia
+
+63 = {"Ephordía" "Ephordía"}
+2965 = {"Epitropía" "Plavía"} # made up from etymology
+4743 = {"Vimaría" "Vimaría"}
+
+# Vorpommern
+
+47 = {"Velissía" "Velissía"} # made up from etymology
+1858 = {"Sédinon" "Sédinon"}
+2994 = {"Ologósti" "Ologósti"}
+4745 = {"Rygía" "Rygía"}
+
+# Weser
+
+54 = {"Stádion" "Stádion"}
+55 = {"Oldenvoúrgon" "Oldenvoúrgon"}
+1874 = {"Vrémi" "Vrémi"}
+4771 = {"Verdénion" "Verdéni"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Stratókastron" "Stratókastron"} # made up from etymology
+1880 = {"Syndógi" "Aldíkiaron"} # phonetic adjustment
+4765 = {"Myloúsi" "Myloúsi"} # phonetic adjustment
+
+# Austria Proper
+
+133 = {"Áno Austría" "Lendía"}
+134 = {"Viénni" "Viénni"} # greek name
+1770 = {"Kremísa" "Kremísa"}
+4761 = {"Stíra" "Stíra"}
+4762 = {"Káto Austría" "Aílion"}
+
+# Baden
+
+72 = {"Vrisgovía" "Vrisgovía"}
+74 = {"Vadenía" "Akyívrilon"} # capital is an adaptation of the latin
+4714 = {"Dyrláchion" "Dyrláchion"} # adaptation of durlach
+
+# Carniola
+
+129 = {"Aimóni" "Aimóni"}
+130 = {"Istría" "Póla"}
+1769 = {"Gorikía" "Gorikía"}
+4738 = {"Tergésti" "Tergésti"}
+4751 = {"Keleía" "Keleía"}
+
+# East Bavaria
+ 
+76 = {"Alisvoúrgon" "Alisvoúrgon"} # made up from etymology
+4709 = {"Patavía" "Patávis"}
+4760 = {"Vrýndinon" "Vrýndinon"}
+
+# East Swabia
+
+68 = {"Mémminx" "Mémminx"} # phonetic adaptation
+1868 = {"Augoústa" "Augoústa"}
+1872 = {"Ýlma" "Ýlma"}
+4711 = {"Donaphérdi" "Donaphérdi"}
+
+# Inner Austria
+
+128 = {"Káto Karinthía" "Kerimónai"}
+132 = {"Styría" "Iouvaíon"}
+1863 = {"Graíkion" "Graíkion"}
+4759 = {"Áno Karinthía" "Sándikon"} 
+
+# Lower Bavaria
+
+64 = {"Landósa" "Landósa"} # phonetic adjustment
+1757 = {"Áno Palatináton" "Amvérgi"}
+2956 = {"Soriódyron" "Soriódyron"}
+2957 = {"Ratisvóni" "Ratisvóni"} 
+
+# Lower Franconia
+
+71 = {"Ónoldos" "Ónoldos"} 
+79 = {"Ervípolis" "Ervípolis"}
+4715 = {"Rodókastron" "Rodókastron"} # made up from latin
+4718 = {"Askípyrgos" "Askípyrgos"} # made up from etymology
+
+# Palatinate
+
+77 = {"Chaïdelvérgi" "Chaïdelvérgi"}
+1761 = {"Palatináton" "Angiónai"}
+4767 = {"Dipogéphyrai" "Dipogéphyrai"} # made up from etymology
+
+# Romandie
+
+165 = {"Vérni" "Vérni"}
+1867 = {"Valdénsa" "Losánni"} # greek name for Lausanne
+1871 = {"Valesía" "Sióni"}
+4720 = {"Genévi" "Genévi"}
+4721 = {"Frivoúrgon" "Frivoúrgon"}
+
+# Switzerland
+
+166 = {"Souitía" "Souitía"} # phonetic adjustment
+1869 = {"Zyríchi" "Zyríchi"} # greek name
+1870 = {"Ágios Gallánios" "Ágios Gallánios"}
+1873 = {"Kouría" "Kouría"}
+4722 = {"Gilóni" "Gilóni"} # made up from sound
+
+# Tirol
+
+73 = {"Aínos" "Aínou Géphyra"}
+110 = {"Tridéntinon" "Tridéntinon"}
+1760 = {"Ágynton" "Ágynton"}
+4710 = {"Vrigántion" "Vrigántion"}
+4758 = {"Méranon" "Méranon"}
+
+# Upper Bavaria
+
+65 = {"Mónachon" "Mónachon"}
+2955 = {"Angolástion" "Angolástion"} # made up from etymology
+4707 = {"Ydrópolis" "Ydrópolis"} # translation
+4708 = {"Phrisíngi" "Phrisíngi"}
+
+# Upper Franconia
+
+66 = {"Vamvérgi" "Vamvérgi"}
+67 = {"Nyremvérgi" "Nyremvérgi"} # greek name
+4716 = {"Kovoúrgon" "Kovoúrgon"}
+4717 = {"Varydón" "Varydón"}
+
+# West Swabia
+
+70 = {"Stoukkárdi" "Stoukkárdi"}
+4712 = {"Konstantía" "Konstantía"}
+4713 = {"Relíngi" "Relíngi"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Archággelos" "Archággelos"} # translation of the russian name
+4122 = {"Syngópolis" "Syngópolis"} # made up name based on etymology
+4256 = {"Alikódion" "Alikódion"} # translation of the latin name
+4257 = {"Mísinon" "Mísinon"}
+
+# Beloozero
+
+312 = {"Leukósiron" "Leukósiron"} # made up name based on etymology
+4259 = {"Vélaskon" "Vélaskon"}
+4261 = {"Ostýsni" "Ostýsni"}
+
+# Moscow
+
+295 = {"Móscha" "Móscha"} # greek name
+4251 = {"Mosaískon" "Mosaískon"}
+4252 = {"Kolýmni" "Kolýmni"}
+
+# North Karelia
+
+32 = {"Koríli" "Koríli"}
+309 = {"Oloníkia" "Oloníkia"}
+4124 = {"Karelía" "Liéki"}
+
+# Novgorod
+
+310 = {"Megáli Neápolis" "Neápolis"} # direct translation of the russian name
+311 = {"Kýniai" "Kélmi"}
+1959 = {"Torsokía" "Toróskos"}
+2749 = {"Tivíchnis" "Tivíchnis"}
+4260 = {"Áno Volokía" "Vésnon Volókion"} # made up name based on the people
+
+# Oka
+
+296 = {"Koloúga" "Koloúga"}
+300 = {"Tylía" "Tylía"}
+4116 = {"Okkensía" "Odoivía"}
+
+# Pomorye
+
+313 = {"Sorokía" "Sorokía"} # made up from the russian name
+1776 = {"Leukí Karelía" "Kémion"} # direct translation
+1958 = {"Kargópolis" "Kargópolis"}
+4258 = {"Onéga" "Onéga"}
+
+# Pskov
+
+274 = {"Pleskovía" "Pleskovía"}
+275 = {"Polotía" "Polotía"}
+1960 = {"Ostróvion" "Ostróvion"}
+4148 = {"Maiándra" "Maiándra"} # made up based on etymology
+
+# Ryazan
+
+301 = {"Resanía" "Resánion"}
+1778 = {"Kasimovía" "Kasímovon"}
+4255 = {"Pronóskion" "Pronóskion"}
+
+# South Karelia
+
+30 = {"Agiókastron" "Agiókastron"} # made up based on the norse etymology
+33 = {"Niévia" "Kleidópolis"}
+34 = {"Ingría" "Kopórion"}
+1961 = {"Ladóga" "Ladóganon"}
+
+# Suzdal
+
+1754 = {"Mýromon" "Mýromon"}
+1959 = {"Sydalía" "Sydalía"}
+4254 = {"Astrodyvía" "Astródyvon"} # translation of the latin name
+
+# Tambov
+
+302 = {"Tamovía" "Tamovía"}
+304 = {"Pénsis" "Pénsis"}
+2415 = {"Ékaron" "Ékaron"}
+
+# Tver
+
+294 = {"Tivería" "Tivería"}
+1752 = {"Reskovía" "Reskovía"}
+4243 = {"Toropetía" "Toropetía"}
+4248 = {"Kássinon" "Kássinon"}
+4249 = {"Syvétion" "Syvétion"} 
+
+# Vladimir
+
+307 = {"Volodimiría" "Volodimiría"}
+4147 = {"Rostophía" "Rostophía Megáli"}
+4253 = {"Georgiópolis" "Georgiópolis"}
+ 
+# Vologda
+ 
+314 = {"Leukými" "Leukými"} # made up from etymology
+4262 = {"Kormópolis" "Kormópolis"}
+4263 = {"Galikía" "Álas Galikías"}
+
+# Yaroslavl
+
+308 = {"Ieroslavía" "Ieroslavía"}
+1753 = {"Kostrómi" "Kostrómi"}
+4117 = {"Vikesía" "Vikesía"}
+4250 = {"Mológi" "Mológi"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Vaskyrtía" "Vaskyrtía"}
+1965 = {"Vysoulía" "Vysoulía"}
+1966 = {"Kelývi" "Kelývi"} # altered from latin to sound more greek
+2420 = {"Orópolis" "Orópolis"}
+2444 = {"Chrysostomía" "Chrysostomía"}
+
+# Galich
+
+306 = {"Káto Neápolis" "Káto Neápolis"} # direct translation
+1079 = {"Viatíki" "Klynovía"}
+1083 = {"Aspropótamos" "Aspropótamos"} # direct translation
+1957 = {"Meryópolis" "Meryópolis"} # made up from the people
+
+# Kama
+
+305 = {"Pérmia" "Pérmia"}
+1962 = {"Íson" "Íson"}
+1972 = {"Oudmirtía" "Alvýgi"}
+4266 = {"Iskaría" "Iskaría"} # altered from latin because it's already used 
+
+# Kazan
+
+1082 = {"Kásanon" "Kásanon"}
+2422 = {"Kivokárion" "Kivokárion"}
+4264 = {"Teoúsion" "Teoúsion"}
+
+# Perm
+
+1077 = {"Alakámion" "Alakámion"} # translated from latin
+1755 = {"Ioúgis" "Ioúgis"} # altered from latin to sound more greek
+1963 = {"Kerdynía" "Kérdynon"}
+1964 = {"Sýsoli" "Sýsoli"}
+4129 = {"Vími" "Vími"}
+
+# Samara
+
+473 = {"Samára" "Samára"}
+1081 = {"Simvírion" "Simvírion"}
+2423 = {"Allatýra" "Allatýra"}
+
+# Saratov
+
+303 = {"Saratovía" "Saratovía"}
+2418 = {"Ikésion" "Ikésion"} # altered from latin to sound more greek
+2419 = {"Sýzranon" "Sýzranon"}
+
+# Ural
+
+1078 = {"Týra" "Týra"} # altered from the original
+1080 = {"Pelimía" "Pélimon"}
+1780 = {"Iarenekía" "Iarenekía"}
+2427 = {"Ostíachon" "Ostíachon"} 
+2441 = {"Íglinos" "Íglinos"}
+
+# Volga 
+
+2421 = {"Iýkaton" "Iýkaton"} 
+4265 = {"Archelaís" "Archelaís"} # made up based on the original
+4267 = {"Voularía" "Voúlaron"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Selandía" "Aphnía"}
+14 = {"Phionía" "Óthenai"}
+1981 = {"Voringía" "Ronnía"}
+1983 = {"Lolandía" "Neagóra"} #capital is a translation from latin
+
+# Finland
+
+27 = {"Avóa" "Avóa"}
+28 = {"Neochóra" "Vórga"} # translation from latin
+29 = {"Tavastía" "Tavastíai"}
+31 = {"Savonía" "Olaópolis"}
+4123 = {"Virkaría" "Messýklia"}
+
+# Laponia
+
+315 = {"Finnórion" "Vadásion"} # translation from latin
+1777 = {"Pessámion" "Pessámion"}
+4151 = {"Inaría" "Polemópolis"} # capital is a translation
+
+# Norrland
+
+9 = {"Elsingía" "Gevalía"}
+11 = {"Dytikí Vothnía" "Oúmi"}
+18 = {"Lapponía" "Arvisaría"}
+4114 = {"Iokomía" "Iokomía"}
+
+# North Atlantic Islands
+
+370 = {"Rékyvix" "Rékyvix"}
+371 = {"Akyérion" "Akyérion"}
+1978 = {"Akmódai" "Lervíkion"}
+1979 = {"Fairóai" "Marinópolis"} # capital is made up 
+
+# North Jutland
+
+15 = {"Dytikí Ioutía" "Rívi"}
+1984 = {"Vóreia Ioutía" "Alopótamos"} # capital is a translation
+4142 = {"Anatolikí Ioutía" "Aroúsion"}
+4149 = {"Nótia Ioutía" "Kolíngi"}
+
+# Østlandet
+
+17 = {"Acheroúsion" "Óslon"}
+22 = {"Anórion" "Amáris"} # direct translation
+4143 = {"Anatolikí Foldía" "Morésa"}
+4144 = {"Drymórion" "Skiéna"}
+
+# Östra Götaland
+
+2 = {"Anatolikí Gothía" "Linkopía"}
+3 = {"Kalmaría" "Kalmaría"}
+25 = {"Gythía" "Visivía"}
+4166 = {"Dekápolis" "Vexionía"} # made up based on etymology
+
+# Östra Svealand
+
+1 = {"Stokchólmi" "Stokchólmi"} # greek name
+4 = {"Arosía" "Arosía"}
+1930 = {"Alandía" "Mariolímanon"} # capital is a translation
+
+# Ostrobothnia
+
+19 = {"Anatolikí Vothnía" "Maurónisos"} # capital is made up from etymology
+4113 = {"Rovanémion" "Rovanémion"}
+4152 = {"Kaianía" "Orochórion"} # capital is made up from etymology
+
+# Skåneland
+
+6 = {"Lýndi" "Lýndi"}
+26 = {"Allandía" "Almostádion"}
+1982 = {"Leukóra" "Ronevía"} # made up from etymology
+4165 = {"Voskóna" "Christianópolis"}
+
+# Trøndelag
+
+10 = {"Ieptía" "Phróson"}
+20 = {"Nidrosía" "Nidrosía"}
+21 = {"Stiginía" "Stiginía"}
+
+# Västra Götaland
+
+7 = {"Skaranía" "Schára"}
+16 = {"Vachosía" "Thalassía"} # capital is translated
+4163 = {"Rematókastron" "Rematókastron"} # made up from etymology
+4164 = {"Dalía" "Dálion"}
+
+# Västra Svealand
+
+5 = {"Varmilandía" "Morisía"} # capital is named after the roman emperor Moris
+8 = {"Drymopédion" "Móra"} # made up from etymology
+1985 = {"Nirikía" "Órevron"}
+
+# Vestlandet
+
+23 = {"Vérga" "Vérga"}
+24 = {"Staphángri" "Staphángri"}
+2752 = {"Raumandía" "Molódi"}
+4145 = {"Augandía" "Mándala"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilnía" "Vilnía"}
+770 = {"Doxópolis" "Doxópolis"} # made up from etymology
+4535 = {"Lykókastron" "Lykókastron"} # made up from etymology
+4536 = {"Lída" "Lída"}
+
+# Curonia
+
+35 = {"Osilía" "Aetókastron"} # capital is translated from latin
+39 = {"Chrysía" "Chrysía"} # translation from german
+1935 = {"Mitavía" "Mitavía"}
+
+# East Prussia
+
+40 = {"Mémelis" "Mémelis"}
+41 = {"Vasilópolis" "Vasilópolis"} # traslation from german
+42 = {"Varmía" "Varmía"}
+767 = {"Stítnion" "Stítnion"}
+2958 = {"Ostéris" "Ostéris"} # adapted from latin
+
+# Estonia
+
+36 = {"Revalía" "Revalía"}
+1834 = {"Dárvaton" "Dárvaton"} # adapted from latin
+1842 = {"Nárva" "Nárva"}
+
+# Livonia
+
+37 = {"Livonía" "Phelíni"}
+38 = {"Ríga" "Ríga"}
+273 = {"Lettigallía" "Dynópolis"}
+4241 = {"Kísis" "Kísis"} # adapted from latvian
+ 
+# Samogitia
+
+270 = {"Tróka" "Tróka"}
+271 = {"Samogitía" "Sýlai"}
+1936 = {"Kaoúni" "Kaoúni"}
+4534 = {"Ýpidos" "Ýpidos"}
+
+# West Prussia
+
+43 = {"Gédanon" "Gédanon"}
+1841 = {"Maríkastron" "Maríkastron"} # translation from german	
+2997 = {"Tychrída" "Tychrída"} # made up inspired by the original
+
+### ASIA
+
+## ARABIA
+
+# al-Qasim
+
+392 = {"Riádion" "Riádion"}
+2337 = {"Vouraís" "Vouraís"}
+4273 = {"Charitianí" "Diadími"}
+4274 = {"Sydarís" "Apóstolos Paúlos"}
+
+# al-Yamamah
+
+2335 = {"Dossería" "Vasáti"}
+2336 = {"Aphlágia" "Laíli"}
+2339 = {"Avrínion" "Avrínion"}
+4275 = {"Peristéra" "Kardísa"}
+
+# An Nafud
+
+393 = {"Samaría" "Chaïlís"}
+2338 = {"Aphária" "Aphária"}
+4272 = {"Doumátha" "Doumátha"}
+
+# Asir
+
+386 = {"Evíssa" "Evíssa"}
+391 = {"Negráni" "Negráni"}
+4282 = {"Sáda" "Edávi"}
+
+# Bahrain
+
+394 = {"Katíphi" "Katíphi"}
+395 = {"Katára" "Vída"}
+396 = {"Týlos" "Manáma"}
+2340 = {"Kyreíni" "Zacharía"}
+2347 = {"Opíphis" "Opíphis"}
+
+# Dhofar
+
+401 = {"Dophária" "Sála"}
+2341 = {"Serápis" "Aími"}
+2342 = {"Kentrástia" "Asíkis"}
+
+# Hadramut
+
+389 = {"Mykálli" "Mykálli"}
+2343 = {"Kateríni" "Saýni"}
+4283 = {"Ámvra" "Ámvra"}
+
+# Lower Yemen
+
+388 = {"Eudaímon" "Eudaímon"}
+2345 = {"Veïnón" "Veïnón"}
+4280 = {"Taís" "Taís"}
+
+# Mahra
+
+402 = {"Kysíni" "Kysíni"}
+1099 = {"Sokátra" "Dioskourídou"}
+4284 = {"Gaís" "Gaís"}
+
+# Mecca
+
+385 = {"Mékka" "Mékka"}
+2331 = {"Gédda" "Gédda"}
+2332 = {"Tyrávia" "Tyrávia"}
+4277 = {"Taíphi" "Taíphi"}
+4278 = {"Kyphóndi" "Kyphóndi"}
+
+# Medina
+
+384 = {"Almidína" "Almidína"}
+2329 = {"Charmoútha" "Charmoútha"}
+2330 = {"Medína Soulaimíon" "Dymarís"}
+
+# Muscat 
+ 
+399 = {"Vatína" "Sochária"}
+400 = {"Amithoskoúta" "Amithoskoúta"}
+4286 = {"Anatolí" "Sýra"} 
+
+# Oman
+
+403 = {"Nísandos" "Nísandos"}
+4285 = {"Byraími" "Byraími"}
+4287 = {"Ívara" "Ívara"}
+
+# Pirate Coast
+
+397 = {"Avydávion" "Avydávion"}
+398 = {"Saríki" "Saríki"}
+404 = {"Lívi" "Lívi"}
+2333 = {"Síla" "Síla"}
+
+# Tabuk
+
+383 = {"Távon" "Távon"}
+2328 = {"Égra" "Égra"}
+4268 = {"Aíla" "Aíla"}
+4269 = {"Modiána" "Modiána"}
+
+# Tihama al-Yemen
+
+387 = {"Moúsa" "Moúsa"}
+2346 = {"Gizánia" "Gizánia"}
+4279 = {"Sávidos" "Sávidos"}
+
+# Upper Yemen
+
+390 = {"Sána" "Sána"}
+2344 = {"Marívia" "Marívia"}
+4281 = {"Damára" "Damára"}
+
+## CAUCASIA
+
+# Circassia
+
+463 = {"Kirkasía" "Makópi"}
+2195 = {"Néa Chersón" "Sougdaía"}
+2197 = {"Kavardía" "Pentálophos"}
+2201 = {"Alanón" "Komninópolis"}
+
+# Dagestan
+
+425 = {"Alvanía" "Daváchion"}
+2198 = {"Aváron" "Omragós"}
+2199 = {"Tarkón" "Tarkís"}
+2208 = {"Terekiakón" "Deinópolis"}
+4306 = {"Lakía" "Velisária"}
+
+# Imereti
+
+422 = {"Imeretía" "Kotaísion"}
+462 = {"Lazikí" "Archaiópolis"}
+1856 = {"Avaskía" "Trachaía"}
+
+# Kartli-Kakheti
+
+423 = {"Typhlís" "Typhlís"}
+2203 = {"Kahétia" "Teléda"}
+4301 = {"Ivirikón" "Armósion"}
+
+# Samtshke
+
+2196 = {"Kolchís" "Macharásda"}
+2204 = {"Chorziní" "Chorziní"}
+4303 = {"Oltía" "Oltía"}
+
+## MASHRIQ (names are real unless stated otherwise)
+
+# Aleppo
+
+377 = {"Véroia" "Véroia"}
+1849 = {"Emathoús" "Emathoús"}
+2313 = {"Antiócheia" "Antiócheia"}
+4298 = {"Dolíchi" "Antiócheia Taúrou"}
+
+# Al Jazira
+
+407 = {"Kallinikós" "Kallinikós"}
+411 = {"Mosoúli" "Mosoúli"}
+2309 = {"Kasínion" "Kasínion"} #l
+2314 = {"Osroïní" "Kirkésion"} #historical roman province
+4292 = {"Marída" "Marída"}
+
+# Basra
+
+408 = {"Vasóra" "Vasóra"}
+2311 = {"Samávi" "Samávi"} #phonetic adjustment
+2312 = {"Mesápolis" "Mesápolis"}
+4288 = {"Euphratía" "Chárax"} #made up name based on the river. Capital was a city in the region
+
+# Iraq Arabi
+
+406 = {"Ramáda" "Ramáda"}
+409 = {"Karavála" "Híra"} #phonetic adjustment
+410 = {"Vagdáti" "Vagdáti"}
+2310 = {"Tígris" "Tígris"} #phonetic adjustment
+4291 = {"Kazanía" "Kazanía"}
+
+# Palestine
+
+364 = {"Gáza" "Gáza"}
+379 = {"Ierosólyma" "Ierosólyma"}
+1854 = {"Ióppi" "Ióppi"}
+
+# Syria 
+
+378 = {"Trípolis Syrías" "Trípolis"}
+382 = {"Damaskós" "Damaskós"}
+1855 = {"Sidón" "Sidón"}
+4297 = {"Émesa" "Émesa"}
+
+# Syrian Desert
+
+405 = {"Palmýra" "Palmýra"}
+4270 = {"Azarákion" "Azarákion"} #made up name
+4271 = {"Dionýsion" "Dionýsion"}
+
+# Transjordan
+
+380 = {"Idouméa" "Idouméa"}
+381 = {"Peraía" "Peraía"}
+2327 = {"Minaïkí" "Pétra"}
+
+## CENTRAL ASIA
+
+# Ferghana
+
+458 = {"Avokándi" "Avokándi"}
+460 = {"Osgonía" "Osgonía"}
+1967 = {"Alexándreia Escháti" "Alexándreia Escháti"}
+
+# Khuttalan
+
+1968 = {"Kýlovos" "Kýlovos"}
+4343 = {"Thármis" "Thármis"}
+4344 = {"Nautáka" "Nautáka"}
+
+# Transoxiana
+
+442 = {"Vochára" "Vochára"}
+453 = {"Eucratidéa" "Eucratidéa"}
+454 = {"Marakánda" "Marakánda"}
+
+## HINDUSTAN
+
+# Khasmir
+
+508 = {"Kaspeiría" "Káspeira"}
+2073 = {"Sargíni" "Sargíni"}
+2074 = {"Marása" "Marása"}
+4449 = {"Íamos" "Íamos"}
+4521 = {"Áskardos" "Áskardos"}
+
+# Lahore
+
+507 = {"Lavókla" "Lavókla"}
+2075 = {"Vedása" "Vedása"}
+2076 = {"Sagála" "Sagála"}
+4510 = {"Sarkáta" "Sarkáta"}
+4513 = {"Depalýra" "Depalýra"}
+
+# Multan
+
+506 = {"Mallía" "Mallía"}
+2079 = {"Díra" "Díra"}
+2086 = {"Alexándreia Indoú" "Alexándreia Indoú"}
+4508 = {"Vavalía" "Vavalía"}
+4509 = {"Karóra" "Karóra"}
+
+# Sind Sagar
+
+2077 = {"Margálla" "Píndion"}
+2078 = {"Varéna" "Varéna"}
+4511 = {"Véria" "Véria"}
+
+## KHORASAN
+
+# Balkh
+
+450 = {"Váctra" "Váctra"}
+2227 = {"Drapsáka" "Drapsáka"}
+2228 = {"Maímana" "Maímana"}
+
+# Birjand
+
+436 = {"Viriándi" "Viriándi"}
+4334 = {"Tavása" "Tavása"}
+4336 = {"Pherdosía" "Pherdosía"}
+
+# Ghor
+
+447 = {"Arachotós" "Arachotós"}
+449 = {"Angrána" "Angrána"}
+2225 = {"Peukelaítis" "Peukelaítis"}
+
+# Herat
+
+446 = {"Aría" "Aría"}
+4324 = {"Gouriána" "Gouriána"}
+4325 = {"Sárax" "Sárax"}
+
+# Kabulistan
+
+448 = {"Alexándreia Opianí" "Alexándreia Opianí"}
+451 = {"Kavýra" "Kavýra"}
+452 = {"Phaísa" "Phaísa"}
+578 = {"Pésoron" "Pésoron"}
+2226 = {"Nagarhára" "Nagarhára"}
+
+# Kalat
+
+576 = {"Kálaton" "Kálaton"}
+577 = {"Salkóta" "Salkóta"}
+2068 = {"Sívion" "Sívion"}
+
+# Makran
+
+434 = {"Poúra" "Poúra"}
+575 = {"Mysaroúa" "Mysaroúa"}
+2231 = {"Arávios" "Arávios"}
+2232 = {"Acharnía" "Acharnía"}
+2233 = {"Tís" "Tís"}
+
+# Mashhad
+
+2221 = {"Sousía" "Sousía"}
+2235 = {"Asvaría" "Asvaría"}
+2236 = {"Astaúena" "Astaúena"}
+4326 = {"Nisápourum" "Nisápourum"}
+
+# Merv
+
+444 = {"Amoúlion" "Amoúlion"}
+445 = {"Alexándreia Margiána" "Alexándreia Margiana"}
+2350 = {"Aschávadon" "Aschávadon"}
+
+# Sistan
+
+435 = {"Drangianí" "Drangianí"}
+2224 = {"Phráda" "Phráda"}
+2229 = {"Laskárga" "Laskárga"}
+2230 = {"Akansýra" "Akansýra"}
+
+## PERSIA
+
+# Azerbaijan
+
+416 = {"Taurís" "Taurís"}
+424 = {"Ardevilía" "Ardevilía"}
+2206 = {"Yrmía" "Yrmía"}
+2207 = {"Phráta" "Phráta"}
+4304 = {"Góvdon" "Góvdon"}
+
+# Farsistan
+
+2218 = {"Sirásion" "Sirásion"}
+4329 = {"Phasía" "Phasía"}
+4330 = {"Dariópolis" "Dariópolis"}
+4331 = {"Sapouría" "Sapouría"}
+
+# Gulf Coast
+
+430 = {"Mesemvría" "Mesemvría"}
+2219 = {"Sidodóna" "Sidodóna"}
+2223 = {"Lára" "Lára"}
+4332 = {"Gogána" "Gogána"}
+
+# Iraq-e-Ajam
+
+427 = {"Ekatómpylos" "Ekatómpylos"}
+428 = {"Techeráni" "Techeráni"}
+2213 = {"Kómon" "Kómon"}
+2216 = {"Tiáva" "Tiáva"}
+4337 = {"Savakíni" "Savakíni"}
+
+# Isfahan
+
+429 = {"Aspadáni" "Aspadáni"}
+433 = {"Isátichai" "Isátichai"}
+2222 = {"Artakána" "Artakána"}
+4171 = {"Avárca" "Avárca"}
+4335 = {"Kasána" "Kasána"}
+
+# Kerman
+
+432 = {"Karmanía" "Karmáni"}
+2220 = {"Vamía" "Vamía"}
+2234 = {"Sangianí" "Sangianí"}
+4345 = {"Saída" "Saída"}
+
+# Khuzestan
+
+412 = {"Agínis" "Agínis"}
+2217 = {"Persikaí Pýlai" "Iasía"}
+4289 = {"Sóstra" "Sóstra"}
+4290 = {"Sousianí" "Kissía"}
+4342 = {"Malmýra" "Malmýra"}
+
+# Luristan
+
+413 = {"Choráma" "Choráma"}
+414 = {"Ekvátana" "Ekvátana"}
+2209 = {"Soúsa" "Soúsa"}
+2210 = {"Région Karmánon" "Région Karmánon"}
+
+# Mogostan
+
+431 = {"Armoxía" "Armoxía"}
+2999 = {"Orgána" "Orgána"}
+4327 = {"Iáskion" "Iáskion"}
+
+# Shahrizor
+
+415 = {"Korkoúra" "Korkoúra"}
+2211 = {"Artalanía" "Sandakía"}
+4293 = {"Árvila" "Árvila"}
+4294 = {"Masamoúa" "Masamoúa"}
+
+# Tabarestan
+
+417 = {"Sirikanía" "Sirikanía"}
+426 = {"Ámos" "Ámos"}
+2214 = {"Yrkanía" "Asatára"}
+4339 = {"Rasátion" "Rasátion"}
+4341 = {"Zadrakárta" "Zadrakárta"}
+
+# Zanjan
+
+2212 = {"Sákina" "Sákina"}
+2215 = {"Kásbinon" "Sákina"}
+4300 = {"Myána" "Myána"}
+4338 = {"Soltanía" "Soltanía"}
+
+## WESTERN INDIA
+
+# Northern Sindh
+
+505 = {"Sindománi" "Sindománi"}
+2072 = {"Bakára" "Bakára"}
+4505 = {"Minnágara" "Minnágara"}
+
+# Southern Sindh
+
+504 = {"Patála" "Patála"}
+2088 = {"Amarkóta" "Amarkóta"}
+4503 = {"Manasýra" "Manasýra"}
+4504 = {"Nasíra" "Nasíra"}
+
+### AFRICA
+
+## EGYPT (names are real unless stated otherwise)
+
+# al-Wahat
+
+1233 = {"Esóteros Óasis" "Esóteros Óasis"}
+2318 = {"Mikrá Óasis" "Mikrá Óasis"}
+4323 = {"Pharanía" "Pharanía"}
+
+# Bahari
+
+361 = {"Káiron" "Káiron"}
+2316 = {"Naúkratis" "Naúkratis"}
+4316 = {"Leontópolis" "Leontópolis"} 
+4317 = {"Ermoúpolis" "Ermoúpolis"}
+
+# Cyrenaica
+
+356 = {"Vereníki" "Vereníki"}
+357 = {"Dárni" "Dárni"}
+2325 = {"Paraitónion" "Paraitónion"}
+2326 = {"Pétra Megáli" "Pétra Megáli"}
+
+# Delta
+
+358 = {"Alexándreia" "Alexándreia"}
+362 = {"Rosséta" "Rosséta"}
+363 = {"Tamíathis" "Tamíathis"}
+
+# Lower Nubia
+
+1234 = {"Ivrimía" "Kástron Ivrímon"} #name based on etymology
+2322 = {"Alphensía" "Alphensía"} #name based on etymology
+2323 = {"Sahára Nouvías" "Agía María"} #province is a direct translation, the capital is made up
+
+# Red Sea Hills
+
+365 = {"Siná" "Agía Aikateríni"}
+2315 = {"Klýsma" "Klýsma"} #name based on etymology
+2320 = {"Erythrá Aktí" "Ágios Antónios"} #name based on etymology, capital is made up
+2321 = {"Mýos Órmos" "Mýos Órmos"} 
+
+# Said
+
+360 = {"Diokleitianópolis" "Diokleitianópolis"}
+1231 = {"Syéni" "Syéni"}
+2319 = {"Lykópolis" "Lykópolis"}
+4319 = {"Látton" "Lattópolis"}
+4320 = {"Giórgia" "Giórgia"}
+
+# Vostani
+
+359 = {"Oxýrrynhos" "Oxýrrynhos"}
+2317 = {"Antinópolis" "Antinópolis"}
+4318 = {"Aphroditópolis" "Aphroditópolis"}
+
+## MAGHREB (nearly all these names come from latin unless stated otherwise)
+
+# Algiers
+
+336 = {"Pomaría" "Pomaría"} 
+2465 = {"Oúda" "Oúda"}
+4562 = {"Theolímanon" "Theolímanon"} # translation of the latin name
+
+# Barbary Coast
+
+337 = {"Oránion" "Oránion"} # suffix adjustment of the arab name
+338 = {"Ikósion" "Ikósion"}
+2461 = {"Karténnai" "Karténnai"}
+
+# Central Morocco
+
+343 = {"Phéza" "Phéza"}
+344 = {"Kokkinópolis" "Kokkinópolis"} # made up based on etymology
+2467 = {"Mekéni" "Mekéni"} # phonetic adjustment of the arab name
+2468 = {"Tadalía" "Tadalía"}
+
+# Djerba
+
+353 = {"Gíthis" "Gíthis"} # ancient city in the area
+2453 = {"Saphákis" "Spháx"} # arab name already sounds greek
+2954 = {"Méninx" "Gérva"} # old greek name
+
+# Fezzan
+
+2448 = {"Phasanía" "Marzýka"}
+2449 = {"Oúna" "Oúna"}
+2474 = {"Tegeríchion" "Tegeríchion"}
+4567 = {"Garámi" "Garámi"}
+
+# Gharb
+
+342 = {"Rávaton" "Rávaton"}
+345 = {"Ásphion" "Ásphion"}
+2469 = {"Doukkálai" "Doukkálai"} # phonetic adjustment of the arab name
+4564 = {"Ánphos" "Ánphos"}
+
+# Hautes Plains
+
+2459 = {"Midía" "Midía"}
+2462 = {"Amoúri" "Amoúri"}
+2463 = {"Altávi" "Altávi"}
+
+# Kabylia
+
+339 = {"Sáldai" "Sáldai"} 
+340 = {"Konstantíni" "Konstantína"}
+1882 = {"Ipporégion" "Ipporégion"}
+
+# Macaronesia
+
+366 = {"Megáli Kanaría" "Phoínix Kanarías"} # direct translation of the spanish names
+367 = {"Azórai" "Leptón Akrotírion"} # the province is a real greek name, the capital a translation
+368 = {"Matéra" "Marátha"} # capital is an etymological adjustment
+4565 = {"Teneríphis" "Ágios Ioánnis"} # suffix adjustment of the spanish name, capital is a translation
+
+# North Morocco
+
+334 = {"Tangéri" "Tangéri"} # real greek name
+335 = {"Melíli" "Melíli"}
+1751 = {"Sépton" "Sépton"}
+4561 = {"Tamýs" "Tamýs"}
+4563 = {"Salás" "Sála"}
+
+# North Sahara
+
+352 = {"Kapsós" "Kápsa"}
+2450 = {"Kýdamos" "Kýdamos"}
+2456 = {"Tygérti" "Tygérti"}
+2457 = {"Mazavía" "Spílaion Didoús"}
+2472 = {"Orgalía" "Orgalía"}
+
+# Ouled Nail
+
+350 = {"Tísgranis" "Tísgranis"}
+351 = {"Vekéra" "Vekéra"}
+2458 = {"Satíphis" "Satíphis"}
+
+# Southern Morocco
+
+347 = {"Íphnion" "Íphnion"}
+1110 = {"Gadíra" "Gadíra"}
+2470 = {"Essaúria" "Essaúria"}
+
+# Sus
+
+348 = {"Soúsa" "Soúsa"}
+2464 = {"Ouárzi" "Ouárzi"}
+2466 = {"Daratós" "Tágmadis"}
+4568 = {"Demnáti" "Demnáti"}
+
+# Tafilalt
+
+346 = {"Sigilmýsion" "Sigilmýsion"}
+349 = {"Phíkygos" "Phíkygos"}
+2460 = {"Saoúria" "Pólis Vedouínon"}
+
+# Tripolitania
+
+354 = {"Trípolis" "Trípolis"}
+355 = {"Euphránti" "Euphránti"}
+2451 = {"Thouvaktís" "Thouvaktís"}
+2452 = {"Savráthi" "Savráthi"}
+
+# Tunisia
+
+341 = {"Karchidón" "Karchidón"} # real greek name
+2454 = {"Síkka" "Síkka"}
+2455 = {"Zarythós" "Diárrytos"} # real greek names
+2473 = {"Adrýmiton" "Adrýmiton"}
+4566 = {"Kamýnion" "Kamýnion"}
+
+## HORN OF AFRICA
+
+# Majeerteen
+
+2788 = {"Opóni" "Opóni"}
+
+### INDIA (names that correspond to eu4's provinces are denoted with e, all names are real)
+
+## BENGAL
+
+# West Bengal
+
+561 = {"Gángis" "Gángis"}
+
+## COROMANDEL
+
+# Andhra
+
+543 = {"Maísolos" "Maísolos"} # e
+
+# Kongu
+
+2085 = {"Árgaros" "Árgaros"} # e
+
+# Madura
+
+536 = {"Methóra" "Methóra"} # e
+2101 = {"Kolchí" "Kolchí"}
+
+# South Carnatic
+
+540 = {"Podýki" "Podýki"} # Pondicherry
+4417 = {"Sopátmi" "Sopátmi"}
+
+# Tanjore
+
+4415 = {"Nígama Mitrópolis" "Nígama Mitrópolis"} # e
+
+## DECCAN
+
+# Ahmednagar 
+
+4437 = {"Paithán" "Paithán"} # e
+
+# Kanara
+
+531 = {"Aurannovóas" "Aurannovóas"}
+2029 = {"Nitría" "Nitría"} # e
+2030 = {"Melizigára" "Melizigára"}
+4427 = {"Tógaron" "Tógaron"}
+
+# Konkan
+
+529 = {"Sypára" "Sypára"} # e
+530 = {"Mandagóra" "Mandagóra"}
+2089 = {"Semýlli" "Semýlli"} # e
+4429 = {"Palaiopátmoi" "Palaiopátmoi"}
+
+# Maidan
+
+4435 = {"Tagára" "Tagára"}
+
+# Malabar
+
+534 = {"Týndis" "Týndis"} # e
+535 = {"Mouzirís" "Mouzirís"} # e
+537 = {"Nelkýndi" "Nelkýndi"}
+4410 = {"Kottára" "Kottára"} 
+4413 = {"Naúra" "Naúra"} # e
+
+## WESTERN INDIA
+
+# Ahmedabad 
+
+4457 = {"Kamánes" "Kamánes"} # e
+4512 = {"Varýgaza" "Varýgaza"} # e
+
+# Malwa
+
+4461 = {"Ozíni" "Ozíni"} # e
+
+### ASIA
+
+## NORTH CHINA
+
+# North Henan
+
+1836 = {"Thínai" "Thínai"} # r
+
+### AFRICA
+
+## HORN OF AFRICA (all names are real)
+
+# Aussa
+
+2765 = {"Avalítes" "Avalítes"}
+
+# Ifat
+
+1212 = {"Málaon" "Málaon"}
+
+# Majeerteen
+
+1206 = {"Távi" "Távi"}
+2783 = {"Opóni" "Opóni"}
+
+# Mogadishu
+
+1205 = {"Sarápion" "Sarápion"}
+
+# Red Sea Coast
+
+1230 = {"Ádoulis" "Ádoulis"} 
+1232 = {"Ptolemaís Thirón" "Ptolemaís Thirón"}
+2324 = {"Vereníki Pánchrysos" "Vereníki Pánchrysos"} 
+
+# Somaliland
+
+1209 = {"Moúndos" "Moúndos"}
+2786 = {"Mósyllon" "Mósyllon"}
+
+# Tigray
+
+1227 = {"Axoúm" "Axoúm"}
+2766 = {"Kolói" "Kolói"}
+
+# Upper Nubia
+
+2797 = {"Merói" "Merói"}
+
+## EAST AFRICA
+
+# Central Swahili Coast
+
+1201 = {"Menouthiás" "Menouthiás"}
+
+# Mombasa
+
+1200 = {"Rápta" "Rápta"}
+
+# Northern Swahili Coast
+
+2796 = {"Níkon" "Níkon"}
+
+## CONGO
+
+# Angola
+
+1098 = {"Agía Eléni" "Iakovópolis"} # made up capital
+
+## GUINEA
+
+# Cap Verde
+
+1096 = {"Prásinon Akrotírion" "Praía"} # made up capital
+1111 = {"Árgynon" "Árgynon"} # made up
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = {"Angelópolis" "Angelópolis"}   
+869 = {"Pephkolímanon" "Pephkolímanon"}   
+2021 = {"Arminiakós Órmos" "Ágios Athanásios"}   
+2476 = {"Ágios Konstantínos" "Ágios Kostantínos"}   
+4637 = {"Zervochórion" "Zervochórion"}   
+     
+# APACHERIA    
+     
+879 = {"Drymakía" "Drymakía"}   
+2492 = {"Phoinikópetra" "Phoinikópetra"}   
+4634 = {"Isaurikía" "Thysaúria"}   
+     
+# ARIZONA    
+     
+867 = {"Kachýla" "Erímia"}   
+876 = {"Néa Poiníki" "Néa Phoiníki"}   
+877 = {"Asimópolis" "Asimópolis"}   
+2491 = {"Xirolivadeiá" "Néa Livadeiá"}   
+4633 = {"Oropós" "Néo Korópion"}   
+     
+# BAJA CALIFORNIA   
+     
+865 = {"Pyrríchos" "Pyrríchos"}   
+866 = {"Neotaínaron" "Geroliménas"}   
+2620 = {"Emília" "Emília"}   
+4639 = {"Romaneíon" "Romaneíon"}
+     
+# CENTRAL VALLEY   
+     
+870 = {"Kaména Óroi" "Antaía"}   
+2478 = {"Melanárktos" "Melanárktos"}   
+4635 = {"Katamáchi" "Katamáchi"}   
+4636 = {"Néa Sevásteia" "Néa Sevásteia"}   
+     
+# COLORADO PLATEU   
+     
+875 = {"Varvaroús" "Varvaroús"}   
+878 = {"Asprólithos" "Asprólithos"}   
+2493 = {"Ístion" "Ístion"}   
+2494 = {"Ágios Dimítrios" "Ágios Dimítrios"}   
+     
+# NEW MEXICO   
+     
+880 = {"Mavronéri" "Mavronéri"}   
+881 = {"Thirasía" "Tyrsákion"}   
+2495 = {"Glykonéra" "Glykonéra"}   
+4631 = {"Áktion" "Áktion"}   
+4632 = {"Kalamís" "Peraía"}   
+     
+# NORTH CALIFORNIA   
+     
+871 = {"Triantaphílli" "Triantaphílli"}   
+2477 = {"Theádora" "Giannópolis"}   
+2479 = {"Euridíki" "Euridíki"}   
+2480 = {"Petroúpolis" "Petroúpolis"}   
+4638 = {"Amygdália" "Amygdália"}   
+     
+# SONORA    
+     
+862 = {"Yákion" "Yákion"}   
+2616 = {"Néai Sérrai" "Néai Sérrai"}   
+4577 = {"Rematiá" "Rematiá"}   
+4649 = {"Adramýtion" "Adramýtion"}   
+4650 = {"Megaráchi" "Chananéa"}   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = {"Messatína" "Messatína"}   
+2576 = {"Aktí Theotókou" "Metóchion"}   
+2577 = {"Phokaía" "Néon Soúnion"}   
+2578 = {"Ýdra" "Ýdra"}   
+2579 = {"Néa Pýlos" "Néa Pýlos"}   
+     
+# GREENLAND    
+     
+1104 = {"Ypervóreia" "Níki"}   
+1105 = {"Ísmaros" "Maróneia"}   
+     
+# HURONIA    
+     
+988 = {"Choronís" "Neovárion"}   
+989 = {"Néa Vasilópolis" "Néa Vasilópolis"}   
+2585 = {"Áendros" "Áendros"}   
+2670 = {"Torodínon" "Torodínon"}   
+     
+# LABRADOR    
+     
+997 = {"Erythrós Órmos" "Kálimnos"}   
+2574 = {"Lavrantía" "Lávaron"}   
+2575 = {"Néa Erétria" "Néa Erétria"}   
+     
+# LAURENTIA    
+     
+992 = {"Drepánion Óros" "Néon Drépanon"}   
+2581 = {"Marathónas" "Marathónas"}   
+4894 = {"Polýdrosos" Polýdrosos}   
+     
+# LOWER ACADIA   
+     
+982 = {"Néa Méthana" "Néa Méthana"}   
+984 = {"Akkadía" "Néa Troizína"}   
+2568 = {"Néa Chalkís" "Néa Chalkís"}   
+2569 = {"Delphís" "Alipháx"}   
+4891 = {"Katastárion" "Katastárion"}   
+     
+# LOWER CANADA   
+     
+993 = {"Marianópolis" "Marianópolis"}   
+2584 = {"Telamóna" "Phtía"}   
+4895 = {"Elánion" "Elánion"}   
+     
+# NEWFOUNDLAND    
+     
+980 = {"Troigía" "Troigía"}   
+981 = {"Néon Akrotírion" "Néon Akrotírion"}   
+2573 = {"Ogygía" "Ogygía"}   
+     
+# OTTAWA VALLEY   
+     
+4890 = {"Amaroúsion" "Amaroúsion"}   
+4892 = {"Kálamos" "Kálamos"}   
+4897 = {"Kallithéa" "Kallithéa"}   
+     
+# QUEBEC    
+     
+986 = {"Akrotírion Krioú" "Kamárion"}   
+994 = {"Chrysostómia" "Chrysostómia"}   
+995 = {"Nektaría" "Nektaría"}   
+2582 = {"Aígion" "Aígion"}   
+2583 = {"Lívis" "Lívis"}   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = {"Néa Ioánnina" "Néa Ioánnina"}   
+2571 = {"Ortíkion" "Ortíkion"}   
+4896 = {"Skinarís" "Skinarís"}   
+     
+# TROIS_RIVIERES    
+     
+990 = {"Tripotamiá" "Leonídion"}   
+2012 = {"Ágios Benedíktios" "Ágios Benedíktios"}   
+2580 = {"Néon Nafplion" "Néon Náfplion"}   
+4893 = {"Georgikón" "Georgikón"}   
+     
+# UPPER ACADIA   
+     
+983 = {"Néos Póros" "Kyaní Aktí"}   
+985 = {"Galatás" "Galatás"}   
+2572 = {"Agía Sotiría" "Agía Sotiría"}   
+     
+# UPPER CANADA   
+     
+987 = {"Pentálimnos" "Néa Kateríni"}   
+2586 = {"Néa Proúsa" "Néa Proúsa"}   
+2587 = {"Mantolína" "Mantolína"}   
+     
+# UPPER ONTARIO   
+     
+991 = {"Ammókastron" "Ammókastron"}   
+1001 = {"Ormylía" "Ormylía"}   
+1007 = {"Vrontí" "Vrontí"}   
+2015 = {"Aphroditópolis" "Aphroditópolis"}   
+2671 = {"Valouklía" "Valouklía"}   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = {"Agía Kyriakí" "Agía Kyriakí"}   
+2658 = {"Potamoúpolis" "Potamoúpolis"}   
+2659 = {"Asimotí" "Asimotí"}   
+4620 = {"Néa Methóni" "Néa Methóni"}   
+4621 = {"Karavális" "Karavális"}   
+     
+# EAST CUBA   
+     
+486 = {"Néa Naúkratis" "Néa Naúkratis"}   
+2654 = {"Varikóa" "Varikóa"}   
+2655 = {"Levinthós" "Levinthós"}   
+2656 = {"Agía Marína" "Agía Marína"}   
+     
+# GREATER ANTILLES   
+     
+481 = {"Mikrá Kríti" "Néon Herákleion"}   
+487 = {"Iamaïkí" "Rígion"}   
+491 = {"Pharmakonísi" "Oroúvia"}   
+492 = {"Néa Ródos" "Néa Líndos"}   
+     
+# HAITI    
+     
+488 = {"Ermióni" "Ermióni"}   
+489 = {"Chelonákion" "Chelonákion"}   
+4618 = {"Euphrosíni" "Euphrosíni"}   
+4619 = {"Kyprolímanon" "Kyporlímanon"}   
+     
+# LEEWARD ISLANDS   
+     
+493 = {"Parthénai nísoi" "Ágios Thomás"}   
+494 = {"Ágios Eustáthios" "Ágios Eustáthios"}   
+495 = {"Ioánnion" "Ioánnion"}   
+496 = {"Néa Páros" "Mikrá Náousa"}   
+1881 = {"Agios Martínos" "Marigoúla"}   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = {"Triakontánisa" "Lidárion"}   
+483 = {"Tourkonísia" "Andrópolis"}   
+     
+# WEST CUBA   
+     
+484 = {"Epíneion" "Epíneion"}   
+485 = {"Panagípolis" "Panagípolis"}   
+4622 = {"Agía Theodóti" "Agía Theodóti"}   
+4623 = {"Kyrinthía" "Kyrinthía"}   
+4624 = {"Driás" "Driás"}   
+     
+# WINDWARD ISLANDS   
+     
+497 = {"Aeolía" "Aeolía"}   
+498 = {"Prassinonísi" "Aloprónoia"}   
+499 = {"Agía Loukía" "Moní"}   
+500 = {"Agía Eiríni" "Chóra"}   
+501 = {"Phaiákia" "Scherís"}   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 ={"Néai Pollaríai" "Ioulía"}   
+977 = {"Néai Keladoússai" "Korissía"}   
+2613 = {"Xerolithiá" "Néa Dryópi"}   
+     
+# COLUMBIA RIVER   
+     
+873 = {"Andrásteia" "Arogí"}   
+2486 = {"Thasótis" "Prophýtis Ilías"}   
+2487 = {"Pentíkteion" "Pentíkteion"}   
+2488 = {"Persís" "Néa Mákri"}   
+     
+# HECATE STRAIT   
+     
+975 = {"Limenariá" "Limenariá"}   
+2022 = {"Néa Kérkyra" "Néa Kérkyra"}   
+2609 = {"Ladókastron" "Ladókastron"}   
+     
+# INTERIOR PLATEAU   
+     
+2003 = {"Koutánis" "Chrysochoís"}   
+2604 = {"Prígips Aléxandros" "Alexandroúpolis"}   
+2605 = {"Zagórion" "Asprággeloi"}   
+2606 = {"Theókastron" "Theókastron"}   
+2607 = {"Pherogeía" "Pherogeía"}   
+     
+# OREGON    
+     
+872 = {"Eugenís Aktí" "Eirinópolis"}   
+2481 = {"Rodópolis" "Rodópolis"}   
+2482 = {"Milópolis" "Milópolis"}   
+2483 = {"Anastasía" "Anastasía"}   
+     
+# PUGET SOUND   
+     
+874 = {"Néon Artemísion" "Néon Artemíson"}   
+2484 = {"Kólax" "Kólax"}   
+2485 = {"Néa Olympía" "Néa Olympía"}   
+     
+# SNAKE RIVER   
+     
+2019 = {"Symvoulópolis" "Symvoulópolis"}   
+2020 = {"Phidopótamos" "Phidopótamos"}   
+2489 = {"Alvióna" "Alvióna"}   
+2490 = {"Alatolímni" "Pantánassa"}   	
+2506 = {"Megárimnos" "Néa Tríkala"}   
+     
+# STRAITS OF GEORGIA  
+     
+972 = {"Néa Eúvoia" "Eurípontos"}   
+973 = {"Vosporís" "Vosporís"}   
+974 = {"Ichormós" "Néa Lygía"}   
+2610 = {"Ormískos" "Ammoudiá"}   
+     
+# WESTERN ALASKA   
+     
+978 = {"Néa Párga" "Néa Párga"}   
+979 = {"Néoi Phoúrnoi" "Néoi Phoúrnoi"}   
+2611 = {"Vóreion Akrotírion" "Néon Orménion"}   
+2612 = {"Ekávi" "Ekávi"}   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = {"Ágios Lázaros" "Ágios Lázaros"}   
+2632 = {"Néa Lárissa" "Néa Lárissa"}   
+2650 = {"Kástron Andréa" "Kástron Andréa"}   
+     
+# CHIAPAS    
+     
+2635 = {"Lakadón" "Metamórphosis"}   
+2638 = {"Pylónai" "Pylónai"}   
+2649 = {"Aristolímanon" "Aristolímanon"}   
+4585 = {"Líthinon" "Líthinon"}   
+4586 = {"Ardosía" "Ardosía"}   
+     
+# COSTA RICA   
+     
+836 = {"Ágios Isídoros" "Ágios Isídoros"}   
+2663 = {"Nikogía" "Nikogía"}   
+4597 = {"Ágios Iosíph" "Ágios Iosíph"}   
+     
+# EAST YUCATAN   
+     
+2634 = {"Erythrodrymós" "Erythrodrymós"}   
+2652 = {"Kagýnion" "Kagýnion"}   
+4588 = {"Manteíon" "Manteíon"}   
+4591 = {"Photeiní" "Photeiní"}   
+     
+# GUATEMALA    
+     
+839 = {"Aktí Sotíros" "Ágios Sotíros"}   
+841 = {"Polydrýmion" "Polydrýmion"}   
+2653 = {"Péra Ekklisiaí" "Parekklísi"}   
+4587 = {"Zácharon" "Zácharon"}   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = {"Anthoúpolis" "Anthoúpolis"}   
+843 = {"Vélix" "Vélix"}   
+2636 = {"Éphyssos" "Éphyssos"}   
+4589 = {"Néa Monemvasiá" "Néa Monemvasiá"}   
+4594 = {"Chimáthion" "Chimáthion"}   
+     
+# HONDURAS    
+     
+840 = {"Ýpsala" "Ýpsala"}   
+2637 = {"Néos Limín" "Néos Limín"}   
+2640 = {"Ligía" "Ágios Kalliníkios"}   
+2662 = {"Spílaion" "Spílaion"}   
+4593 = {"Phaskomiliá" "Pháskis"}   
+     
+# NICARAGUA    
+     
+837 = {"Nikaría" "Kinamýtis"}   
+838 = {"Miskoutía" "Vilís"}   
+2660 = {"Maralimnía" "Maralimnía"}   
+2661 = {"Íppos" "Íppos"}   
+4592 = {"Koromiliá" "Koromiliá"}   
+     
+# WEST YUCATAN   
+     
+846 = {"Ágios Phílippos" "Ágios Phílippos"}   
+2633 = {"Emerítis" "Emerítis"}   
+2651 = {"Ophidía" "Ophidía"}   
+4590 = {"Polýdoron" "Polýdoron"}   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = {"Panavía" "Panavía"}   
+2664 = {"Verakoúsai" "Verakoúsai"}   
+2819 = {"Nea Chóra" "Néon Loutrákion"}   
+4595 = {"Cherissós" "Davíd"}   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = {"Metamórphosis" "Okaéla"}   
+916 = {"Egonía" "Egóni"}   
+917 = {"Grigorís" "Grigorís"}   
+4903 = {"Sikágion" "Sikágion"}   
+     
+# INDIANA    
+     
+942 = {"Ioustiniána" "Ioustiniána"}   
+943 = {"Agía Theodóra" "Agía Theodóra"}   
+2523 = {"Kynigópolis" "Kynigópolis"}   
+2524 = {"Ánthos" "Ántos"}   
+4922 = {"Mikrothívai" "Mikrothívai"}   
+     
+# LAKE SUPERIOR   
+     
+910 = {"Theíos Limín" "Asiménios Órmos"}   
+911 = {"Asprothéa" "Perígyros"}   
+2517 = {"Pheroúra" "Amólithos"}   
+2518 = {"Apostolía" "Apostolía"}   
+4898 = {"Nerómylos" "Nerómylos"}   
+     
+# MICHIGAN    
+     
+944 = {"Stenária" "Stenária"}   
+945 = {"Makenágia" "Néon Ríon"}   
+2521 = {"Pyrolithiá" "Pyrolithiá"}   
+2522 = {"Adrianókastron" "Adrianókastron"}   
+     
+# OHIO    
+     
+946 = {"Kryonéri" "Kryonéri"}   
+947 = {"Gremós" "Gremós"}   
+948 = {"Agía Glykería" "Agía Glykería"}   
+2525 = {"Kinkináteion" "Kinkináteion"}   
+4907 = {"Imerís" "Imerís"}   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = {"Anastassópolis" "Anastassópolis"}   
+2520 = {"Kalopótamos" "Kalopótamos"}    
+4904 = {"Esperís" "Esperís"}   
+     
+# WISCONSIN    
+     
+912 = {"Maúra Ýdata" "Maúra Ýdata"}   
+913 = {"Platýpolis" "Platýpolis"}   
+914 = {"Prásinos Órmos" "Milvákia"}   
+4899 = {"Mariníka" "Mariníka"}   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = {"Doukápolis" "Doukápolis"}   
+2504 = {"Ágios Dionýsios" "Ágios Dionýsios"}   
+2505 = {"Ágios Aléxandros" "Ágios Aléxandros"}   
+     
+# Central Plains   
+     
+901 = {"Eptástia" "Eptástia"}   
+903 = {"Peristerá" "Peristerá"}   
+2009 = {"Néa Týros" "Néa Týros"}   
+2508 = {"Rematiá" "Rematiá"}   
+4915 = {"Paunía" "Paunía"}   
+     
+# HIGH PLAINS   
+     
+889 = {"Kokkinópolis" "Kokkinópolis"}   
+2507 = {"Alaínis" "Alaínis"}   
+2625 = {"Ammótopos" "Ammótopos"}   
+     
+# IOWA    
+     
+905 = {"Ierón Kéntron" "Ierón Kéntron"}   
+2513 = {"Árpa" "Árpa"}   
+4900 = {"Limoneíka" "Limoneíka"}   
+4905 = {"Psaroúpolis" "Psaroúpolis"}   
+     
+# KANSAS   
+ 
+890 = {"Parádeisos" "Parádeisos"}   
+898 = {"Mélphis" "Mélphis"}   
+2672 = {"Veatríx" "Veatríx"}   
+4914 = {"Theológeion" "Theológeion"}   
+     
+# MINNESOTA    
+     
+904 = {"Sergía" "Sergía"}   
+908 = {"Kathará Nerá" "Kathará Nerá"}   
+2512 = {"Kouphoxyliá" "Kouphoxiliá"}   
+4901 = {"Sylivís" "Sylivís"}   
+     
+# NORTH DAKOTA   
+     
+906 = {"Ischyrón Pedíon" "Lévitha"}   
+909 = {"Parekklísion" "Parekklísion"}   
+2510 = {"Néa Lemesós" "Néa Lemesós"}   
+4918 = {"Kotikós" "Kotikós"}    
+     
+# SOUTH DAKOTA   
+     
+907 = {"Néa Kaisáreia" "Néa Kaisáreia"}   
+2007 = {"Ágios Tarásios" "Ágios Tarásios"}   
+2008 = {"Antíssa" "Antíssa"}   
+4916 = {"Monilía" "Monilía"}   
+     
+# SOUTHERN PLAINS   
+     
+891 = {"Néa Epídauros" "Néa Epídauros"}   
+892 = {"Chrysánthis" "Chrysántis"}   
+896 = {"Kokkinópetra" "Kokkinópetra"}   
+4908 = {"Prasomérion" "Prasomérion"}   
+     
+# UPPER MISSOURI   
+     
+2006 = {"Mithrákeion" "Mithrákeion"}   
+2501 = {"Simonía" "Simonía"}   
+2502 = {"Mikrá Dakía" "Argámeion"}   
+2503 = {"Mechadía" "Mechadía"}   
+4917 = {"Selís" "Selís"}   
+     
+## HUDSON BAY 
+     
+# ABITIBI    
+     
+1002 = {"Kástron Michaél" "Kástron Michaél"}   
+2588 = {"Koudoúni" "Koudoúni"}   
+2589 = {"Výris" "Vyris"}   
+2590 = {"Loutrá" "Loutrá"}   
+2591 = {"Kástron Aréos" "Kástron Aréos"}   
+     
+# ALBERTA    
+     
+2004 = {"Ágios Michaél" "Petróna"}   
+2017 = {"Néa Ammóchostos" "Néa Ammóchostos"}   
+2018 = {"Néa Alikarnassós" "Néa Alikarnassós"}   
+2602 = {"Élaphos" "Élaphos"}   
+     
+# ASSINIBOIA    
+     
+2005 = {"Aléndria" "Aléndria"}   
+2596 = {"Mirandélla" "Mirandélla"}   
+2598 = {"Gorgón Réma" "Gorgón Réma"}   
+4920 = {"Glaukópolis" "Glaukópolis"}
+     
+# ATHABASCA    
+     
+2599 = {"Petrókastron" "Petrókastron"}   
+2600 = {"Eirinopótamos" "Eirinopótamos"}   
+2601 = {"Néos Pýrgos" "Néos Pýrgos"}   
+2603 = {"Rodópolis" "Rodópolis"}   
+     
+# HUDSON BAY   
+     
+1005 = {"Kástron Andréa" "Limín Andréou"}   
+1006 = {"Chinopótamos" "Chinopótamos"}   
+1009 = {"Kapetanáton" "Amphilochía"}   
+2592 = {"Néa Sinópi" "Néa Sinópi"}   
+2594 = {"Yperlimnía" "Néa Kyparissós"}   
+     
+# JAMES BAY   
+     
+998 = {"Néa Vereníki" "Néa Vereníki"}   
+999 = {"Georgókastron" "Georgókastron"}   
+1000 = {"Panagítsa" "Panagítsa"}   
+1003 = {"Néa Alexándreia" "Néa Alexándreia"}   
+1004 = {"Néos Pánormos" "Néos Pánormos"}   
+     
+# MANITOBA    
+     
+1008 = {"Kokkinopotamos" "Néon Kotýaion"}   
+1010 = {"Phillipókastron" "Phillipókastron"}   
+1011 = {"Sphakiá" "Sphakiá"}   
+2593 = {"Thassolímanon" "Thassolímanon"}   
+4919 = {"Karavómylos" "Karavómylos"}   
+     
+# RED RIVER OF THE NORTH
+     
+2016 = {"Néa Erýmanthos" "Néa Erýmanthos"}   
+2511 = {"Tegaí" "Tegaí"}   
+4902 = {"Klepsís" "Klepsís"} 
+     
+# SASKATCHEWAN    
+     
+1813 = {"Néa Oxýrrynchos" "Néa Oxýrrynchos"}   
+2595 = {"Kathará Límni" "Kathará Límni"}   
+2597 = {"Amelánchia" "Amelánchia"}   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = {"Audamía" "Néa Árta"}   
+4646 = {"Triphís" "Triphís"}   
+4647 = {"Xylópolis" "Xylópolis"}   
+4648 = {"Anávriton" "Anávriton"}   
+     
+# GRAN CHICHIMECA   
+     
+857 = {"Michalópolis" "Michalópolis"}   
+2642 = {"Nisivátha" "Nisivátha"}   
+4642 = {"Karpérion" "Néon Karponísion"}   
+     
+# GUANAJUATO    
+     
+853 = {"Tylisós" "Tylisós"}   
+2615 = {"Aikateríni" "Aikateríni"}   
+4640 = {"Zíchnis" "Zíchnis"}   
+4641 = {"Phanárion" "Phanárion"}   
+     
+# GUERRERO    
+     
+2627 = {"Kalloneriá" "Kalloneriá"}   
+2645 = {"Marathókampos" "Marathókampos"}   
+2648 = {"Mégas Staurós" "Mégas Staurós"}   
+     
+# HUASTECA    
+     
+848 = {"Aztekolímanon" "Aztekolímanon"}   
+2641 = {"Néa Mégara" "Néa Mégara"}   
+4598 = {"Mégas Oropós" "Mégas Oropós"}   
+     
+# JALISCO    
+     
+854 = {"Segyalós" "Segyalós"}   
+2617 = {"Schoinólophos" "Schoinólophos"}   
+2621 = {"Konstantinókastron" "Konstantinókastron"}   
+2657 = {"Palamís" "Palamís"}   
+4576 = {"Néon Laúrion" "Néon Laúrion"}   
+     
+# MEXICO    
+     
+852 = {"Mexikón" "Pólis Mexikoú"}   
+2626 = {"Chrysochoís" "Chrysochoís"}   
+4570 = {"Maronís" "Maronís"}    
+4571 = {"Kotrónia" "Kotrónia"}   
+4572 = {"Loutrón" "Loutrón"}   
+     
+# MICHOAVAN    
+     
+2622 = {"Lérna" "Lérna"}   
+2623 = {"Néai Thespiaí" "Néai Thespiaí"}   
+2624 = {"Néon Métsovon" "Néon Métsovon"}   
+4573 = {"Leúkippos" "Leúkippos"}   
+4574 = {"Strými" "Strými"}   
+     
+# MIXTECA    
+     
+847 = {"Néa Attáleia" "Néa Attáleia"}   
+849 = {"Polemópolis" "Polemópolis"}   
+2646 = {"Perithós" "Perithós"}   
+4581 = {"Kornopholiá" "Kornopholiá"}   
+     
+# NAYARIT    
+     
+855 = {"Skylopótamos" "Skylopótamos"}   
+859 = {"Néa Latákia" "Néa Latákia"}   
+4578 = {"Pontokerasiá" "Pontokerasiá"}   
+     
+# Oaxaca    
+     
+844 = {"Néa Messíni" "Néa Messíni"}   
+2629 = {"Kevýli" "Kevýli"}   
+4584 = {"Léptis" "Léptis"}   
+     
+# PUEBLA    
+     
+850 = {"Thálax" "Mikrá Syrakoúsa"}   
+2628 = {"Kephaloídion" "Kephaloídion"}   
+2644 = {"Ágios Olýmpios" "Ágios Olýmpios"}   
+4582 = {"Protokklísion" "Protokklísion"}   
+4583 = {"Petroróta" "Petroróta"}   
+     
+# TIERRA CALIENTE   
+     
+851 = {"Ágios Lázaros" "Ágios Lázaros"}   
+2643 = {"Vasílissa Eiríni" "Vasílissa Eiríni"}   
+4575 = {"Oechália" "Oechália"}   
+4579 = {"Keramotí" "Keramotí"}   
+4580 = {"Agía Christína" "Agía Christína"}   
+     
+# VERACRUZ    
+     
+2630 = {"Tímios Staurós" "Tímios Staurós"}   
+2631 = {"Keramís" "Keramís"}   
+2647 = {"Stauroúla" "Stauroúla"}   
+     
+# ZACATECAS    
+     
+856 = {"Zakatékai" "Sývros"}   
+4643 = {"Néon Menídion" "Néon Menídion"}   
+4645 = {"Óssa" "Óssa"}   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = {"Kastaniá" "Kastaniá"}   
+925 = {"Myskogía" "Toskygía"}   
+2531 = {"Aristotéleia" "Aristotéleia"}   
+2532 = {"Platoneía" "Platoneía"}   
+4883 = {"Nydrís" "Nydrís"}   
+     
+# ARKANSAS    
+     
+894 = {"Néa Ioánnina" "Néa Ioánnina"}   
+895 = {"Ágios Vithisaréas" "Ágios Vithisaréas"}   
+897 = {"Terapotamía" "Terapótamos"}   
+4885 = {"Euporía" "Euporía"}
+4923 = {"Tyníkis" "Tynaïkón"}   
+     
+# KENTUCKY    
+     
+941 = {"Alatorycheíon" "Alatorycheíon"}   
+2526 = {"Néa Trípolis" "Néa Trípolis"}   
+4888 = {"Azoúra" "Azoúra"}   
+     
+# LOUISIANA    
+     
+893 = {"Néa Smýrni" "Néa Smýrni"}   
+2014 = {"Himaíra" "Himaíra"}   
+2516 = {"Athaís" "Athaís"}   
+     
+# MISSISSIPPI    
+     
+919 = {"Poseidonía" "Poseidonía"}   
+920 = {"Dekarchía" "Dekarchía"}   
+2528 = {"Néa Syvarís" "Néa Sybar"}   
+2529 = {"Karidiá" "Karidiá"}   
+4884 = {"Néa Kastoriá" "Néa Kastoriá"}   
+     
+# OZARKS    
+     
+899 = {"Apsís" "Apsís"}   
+2509 = {"Podandós" "Podandós"}   
+2515 = {"Thermopýlai" "Thermopýlai"}   
+4886 = {"Néa Pisidía" "Pythía"}   
+     
+# TENNESSEE    
+     
+918 = {"Pessinoús" "Pessinoús"}   
+934 = {"Nassochórion" "Nassochórion"}   
+939 = {"Pathouchiá" "Patouchiá"}   
+4913 = {"Komána" "Komána"}
+     
+# UPPER LOUISIANA   
+     
+900 = {"Ágios Konstantínos" "Ágios Konstantínos"}   
+902 = {"Néai Sárdeis" "Néai Sárdeis"}   
+2514 = {"Philomélion" "Philomélion"}   
+4906 = {"Gýri" "Gýri"}   
+     
+# VANDALIA    
+     
+951 = {"Ouranópolis" "Ouranópolis"}   
+2551 = {"Delphís" "Delphís"}   
+4889 = {"Mikrá Leivadiá" "Mikrá Leivadiá"}   
+     
+# WESTERN KENTUCKY   
+     
+940 = {"Néa Chalkidón" "Néa Chalkidón"}   
+4887 = {"Alínda" "Alínda"}   
+4921 = {"Prousías" "Prousías"}   
+     
+# WEST FLORIDA   
+     
+921 = {"Agalassós" "Agalassós"}   
+922 = {"Georgókastron" "Georgókastron"}   
+923 = {"Eúaissa" "Eúaissa"}   
+2530 = {"Zakolímanon" "Zakolímanon"}   
+2533 = {"Dáphni" "Dáphni"}   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = {"Éris" "Éris"}   
+2555 = {"Germanopótamos" "Néa Germanikeía"}   
+4875 = {"Pantánassa" "Pantánassa"}   
+     
+# CONNECTICUT    
+     
+967 = {"Néa Týros" "Néa Týros"}   
+2010 = {"Medía" "Epíneion"}   
+2560 = {"Leukopédion" "Lykomouriá"}   
+     
+# DELAWARE VALLEY   
+     
+956 = {"Phokaía" "Phokaía"}   
+957 = {"Dyvrís" "Dyvrís"}   
+962 = {"Ynáda" "Ynáda"}   
+2023 = {"Orthopédion" "Megapaláteion"}   
+     
+# EASTERN MAINE   
+     
+971 = {"Néa Níkaia" "Néa Níkaia"}   
+2566 = {"Krásos" "Krásos"}   
+2567 = {"Tarsós" "Tarsós"}   
+     
+# HUDSON VALLEY   
+     
+961 = {"Ydrochoís" "Ydrochoís"}   
+963 = {"Drymís" "Drymís"}   
+964 = {"Argyrópolis" "Argyrópolis"}   
+2559 = {"Koryphí" "Koryphí"}   
+4912 = {"Aramosáta" "Aramosáta"}    
+     
+# IRIQUOISIA    
+     
+958 = {"Tauroménion" "Tauroménion"}   
+959 = {"Néa Traianoúpolis" "Néa Traianoúpolis"}   
+960 = {"Dikaiosýni" "Dikaiosýni"}   
+4872 = {"Vouvália" "Polývoos"}   
+     
+# LAKE CHAMPLAIN   
+     
+969 = {"Metaxá" "Metaxá"}   
+2563 = {"Xanthovoúnia" "Verlameíon"}   
+4871 = {"Zarákas" "Kyvisía"}   
+     
+# MAINE    
+     
+2013 = {"Néa Adrianoúpolis" "Néa Adrianoúpolis"}   
+2565 = {"Galanós Staurós" "Alýsia"}   
+4873 = {"Konteíka" "Korón"}   
+     
+# MARYLAND    
+     
+953 = {"Néai Syrakoúsai" "Néai Syrakoúsai"}   
+2553 = {"Pyrasós" "Pyrasós"}   
+2554 = {"Katána" "Katána"}   
+     
+# MASSACHUSETTS    
+     
+966 = {"Laodíkea" "Laodíkea"}   
+968 = {"Demetriás" "Demetriás"}   
+2561 = {"Trikérion" "Trikérion"}   
+4874 = {"Aggelóna" "Aggelóna"}   
+     
+# NEW HAMPSHIRE   
+     
+970 = {"Adrýnion" "Adrýnion"}   
+2562 = {"Anníva" "Anníva"}   
+2564 = {"Asprovoúnia" "Tiressía"}   
+     
+# NEW YORK   
+     
+965 = {"Néa Thessaloníki" "Néa Thessaloníki"}   
+2558 = {"Siphóna" "Siphóna"}   
+2639 = {"Malagína" "Malagína"}   
+     
+# WESTYLVANIA    
+     
+955 = {"Leókastron" "Leókastron"}   
+2556 = {"Aianí" "Aianí"}   
+2557 = {"Léria" "Léria"}   
+4876 = {"Eléa" "Eléa"}   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = {"Simýs" "Iarésion"}   
+864 = {"Kichavía" "Pólis Kichavías"}   
+2618 = {"Agía Varvára" "Agía Varvára"}   
+4644 = {"Iokómi" "Iokómi"}   
+     
+# COAHUILA    
+     
+861 = {"Míandros" "Orestiás"}   
+864 = {"Limníotis" "Alisáchni"}   
+2666 = {"Parórion" "Paroikiá"}   
+2667 = {"Lareda" "Laréda"}   
+4606 = {"Petrochórion" "Petrochórion"}   
+     
+# COASTAL PRARIE   
+     
+884 = {"Theodóra" "Theodóra"}   
+888 = {"Ýstamos" "Ýstamos"}   
+2665 = {"Oía" "Oía"}   
+2669 = {"Kánava" "Kánava"}   
+     
+# LLANO ESTACADO   
+     
+882 = {"Néa Ammóchostos" "Néa Ammóchostos"}   
+885 = {"Xanthíppi" "Xanthíppi"}   
+2496 = {"Agathoúpolis" "Agathoúpolis"}   
+2497 = {"Mikrá Odyssós" "Mikrá Odyssós"}   
+4630 = {"Peráteia" "Peráteia"}   
+     
+# PECOS    
+     
+2498 = {"Pelágeion" "Márpha"}   
+4628 = {"Dráganon" "Dráganon"}   
+4629 = {"Ephédra" "Ephédra"}   
+     
+# TAMAULIPAS    
+     
+858 = {"Teíon" "Teíon"}   
+2499 = {"Ionópolis" "Ionópolis"}   
+2614 = {"Néa Nazará" "Néa Nazará"}   
+2668 = {"Euchaíti" "Euchaíti"}   
+     
+# TEXAS    
+     
+883 = {"Ágios Antónios" "Ágios Antónios"}   
+887 = {"Néon Didymóteichon" "Néon Didymóteichon"}   
+4627 = {"Thólos" "Períssa"}   
+4911 = {"Antimýlos" "Adámas"}   
+     
+# TEXAS PLAINS   
+     
+886 = {"Néa Spárti" "Néa Spárti"}   
+2500 = {"Prínos" "Avlínion"}   
+4909 = {"Polýegos" "Polýegos"}   
+4910 = {"Geniséa" "Geniséa"}   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = {"Ágios Augoustínos" "Ágios Augoustínos"}   
+928 = {"Ágioi Theódoroi" "Ágioi Theódoroi"}   
+2534 = {"Órnos" "Órnos"}   
+     
+# FLORIDA    
+     
+926 = {"Lýthnos" "Lýthnos"}   
+2535 = {"Tzimiskía" "Tzimiskía"}   
+2536 = {"Maiámion" "Maiámion"}   
+4625 = {"Maniákia" "Maniákia"}   
+4626 = {"Potavía" "Tamvís"}   
+     
+# GEORGIA    
+     
+929 = {"Agía Ánna" "Agía Ánna"}   
+2537 = {"Skorpiós" "Skorpiós"}   
+2538 = {"Amáltheia" "Amáltheia"}   
+2539 = {"Hýmera" "Hýmera"}   
+4880 = {"Néai Athínai" "Néai Athínai"}   
+     
+# GREAT VALLEY   
+     
+949 = {"Malakása" "Malakása"}   
+2011 = {"Pétra Mikrá" "Pétra Mikrá"}   
+2548 = {"Néa Mégara" "Néa Mégara"}   
+2552 = {"Patrónis" "Patrónis"}   
+     
+# NORTH CAROLINA   
+     
+937 = {"Kástron Alexándrou" "Kástron Alexándrou"}   
+938 = {"Paréntion" "Paréntion"}   
+2546 = {"Akrotírion Phóvou" "Néon Vesóntion"}   
+2547 = {"Stephaneía" "Antípolis"}   
+     
+# OVERMOUNTAIN    
+     
+935 = {"Narsípolis" "Narsípolis"}   
+936 = {"Amýklai" "Amýklai"}   
+2527 = {"Kámiros" "Kámiros"}   
+4879 = {"Oétylos" "Oétylos"}   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = {"Ketéa" "Ketéa"}   
+2545 = {"Chlorópolis" "Chlorópolis"}   
+4878 = {"Elís" "Pýrgos"}   
+     
+# SOUTH CAROLINA   
+     
+932 = {"Mantineía" "Mantineía"}   
+2542 = {"Kentaurís" "Néa Chersónysos"}   
+2543 = {"Mikrós Órmos" "Chrysós Gyalós"}   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = {"Iolkós" "Iolkós"}   
+2541 = {"Véla" "Véla"}   
+4882 = {"Kalývdi" "Kalývdi"}   
+     
+# UPPER GEORGIA   
+     
+930 = {"Kiphýs" "Kiphýs"}   
+931 = {"Rodalís" "Rodalís"}   
+2540 = {"Kérinthos" "Kérinthos"}   
+4881 = {"Thaumakía" "Thaumakía"}   
+     
+# VIRGINIA    
+     
+950 = {"Ikénia" "Norvikía"}   
+952 = {"Ploutórion" "Ploutórion"}   
+2549 = {"Emporía" "Emporía"}   
+2550 = {"Alexándreia Espéria" "Alexándreia Espéria"}   
+4877 = {"Agía Myrsíni" "Agía Myrsíni"}   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = {"Moloúpolis" "Moloúpolis"}   
+2935 = {"Marathón" "Vóthon"}   
+2938 = {"Agrónion" "Agrónion"}   
+     
+# AMAZON    
+     
+2889 = {"Anemópolis" "Anemópolis"}   
+2930 = {"Néa Eirinía" "Néa Eirinía"}   
+2933 = {"Stymphalía" "Sikyóna"}   
+2934 = {"Manaoúsa" "Manaoúsa"}   
+     
+# BAHIA    
+     
+756 = {"Ágioi Pántes" "Ágioi Pántes"}   
+757 = {"Kamárai" "Kamárai"}   
+760 = {"Kóthon" "Kóthon"}   
+2914 = {"Kínos" "Kínos"}   
+2916 = {"Argákeion" "Argákeion"}   
+     
+# CEARA    
+     
+750 = {"Kratísti" "Kratísti"}   
+751 = {"Alonís" "Alonís"}   
+753 = {"Perapóntion" "Perapóntion"}   
+     
+# DIAMANTINA    
+     
+759 = {"Diamantoúpolis" "Diamantoúpolis"}   
+2891 = {"Ágios Eudóxios" "Ágios Eudóxios"}   
+2898 = {"Kálanthos" "Kálanthos"}   
+     
+# GOIAS    
+     
+758 = {"Rimopótamos" "Egenís"}   
+2906 = {"Ippóra" "Ippóra"}   
+2907 = {"Veríni" "Veríni"}   
+2908 = {"Néa Ktesiphón" "Néa Ktesiphón"}   
+2919 = {"Aphaía" "Aphaía"}   
+     
+# GRAO PARA   
+     
+748 = {"Vithleém" "Vithleém"}   
+2890 = {"Néos Peiraieús" "Néos Peiraieús"}   
+2928 = {"Talandía" "Talandía"}   
+2929 = {"Mikrá Tríkala" "Mikrá Tríkala"}   
+     
+# GUAPORE    
+     
+2900 = {"Themískyra" "Themískyra"}   
+2901 = {"Álki" "Álki"}   
+2902 = {"Aglaópolis" "Aglaópolis"}   
+     
+# GUAYRA    
+     
+768 = {"Néa Kydonía" "Néa Kydonía"}   
+2895 = {"Kampánassa" "Kampánassa"}   
+2897 = {"Athinaía" "Athinaía"}   
+     
+# MARANHAO    
+     
+749 = {"Néai Thívai" "Néai Thívai"}   
+2923 = {"Ierothéa" "Ierothéa"}   
+2924 = {"Melandoúra" "Melandoúra"}   
+2926 = {"Varnáva" "Varnáva"}   
+2927 = {"Kalydón" "Kalydón"}   
+     
+# MATO GROSSO   
+     
+2888 = {"Lipsoí" "Lipsoí"}   
+2903 = {"Aimília" "Aimília"}   
+2904 = {"Stýx" "Stýx"}   
+2905 = {"Acheroúsia" "Acheroúsia"}   
+     
+# MINAS GERAIS   
+     
+765 = {"Elassonópolis" "Elassonópolis"}   
+2892 = {"Aráxa" "Aráxa"}   
+2894 = {"Kassianí" "Kassianí"}   
+2899 = {"Kasménai" "Kasménai"}   
+     
+# OFAIE    
+     
+2881 = {"Kallatís" "Kallatís"}   
+2893 = {"Képhalos" "Képhalos"}   
+2920 = {"Psilláti" "Psilláti"}   
+     
+# PERNAMBUCO    
+     
+754 = {"Parágeion" "Parágeion"}   
+755 = {"Ágios Staúros" "Ágios Staúros"}   
+2912 = {"Melanía" "Melanía"}   
+2921 = {"Mykóseion" "Mykóseion"}   
+2922 = {"Rimovoúnia" "Rimovoúnia"}   
+     
+# PIAUI  
+  
+752 = {"Aphídnaia" "Aphídnaia"}   
+2886 = {"Zéleia" "Zéleia"}   
+2925 = {"Levidós" "Levidós"}   
+     
+# PONTAL    
+     
+2909 = {"Vonópolis" "Vonópolis"}   
+2910 = {"Ládi" "Ládi"}   
+2911 = {"Péra Pýrgos" "Péra Pýrgos"}   
+     
+# RIO DE JANEIRO  
+     
+761 = {"Ágion Pneúma" "Níkaia"}   
+762 = {"Psychrós Órmos" "Psychrós Órmos"}   
+763 = {"Giannopótamos" "Giannousá"}   
+764 = {"Ágios Paúlos" "Ágios Paúlos"}   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = {"Néa Ioustinianópolis" "Néa Ioustinianópolis"}   
+2879 = {"Lésippos" "Lésippos"}   
+2884 = {"Spétsai" "Spétsai"}   
+2887 = {"Kardísion" "Kardísion"}   
+     
+# SAO FRANCISCO   
+     
+2885 = {"Váras" "Váras"}   
+2913 = {"Ierovóa" "Ierovóa"}   
+2915 = {"Pantikápaion" "Pantikápaion"}   
+2917 = {"Kárpasos" "Kárpasos"}   
+2918 = {"Sideroúpolis" "Sideroúpolis"}   
+     
+# SAO PAULO   
+     
+766 = {"Laskarópolis" "Laskarópolis"}   
+769 = {"Ýpanis" "Ýpanis"}   
+2896 = {"Saís" "Saís"}   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = {"Vakáta" "Vakáta"}   
+832 = {"Týngis" "Týngis"}   
+4602 = {"Néa Panópolis" "Néa Panópolis"}   
+4603 = {"Médyma" "Médyma"}   
+     
+# CENTRAL LLANOS   
+     
+834 = {"Voristhénis" "Voristhénis"}    
+2810 = {"Aspís" "Aspís"}   
+2813 = {"Argyrópolis" "Argyrópolis"}   
+4613 = {"Kartéra" "Kartéra"}   
+4614 = {"Thamianón" "Thamianón"}   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = {"Dióspolis" "Dióspolis"}   
+2816 = {"Leúktra" "Leúktra"}   
+4605 = {"Týria" "Týria"}   
+     
+# COQUIVACOA    
+     
+828 = {"Néa Karchidón" "Néa Karchidón"}   
+829 = {"Magdalá" "Magdalá"}   
+2806 = {"Sozoúsa" "Sozoúsa"}   
+4599 = {"Sinoússa" "Sinoúsa"}   
+4601 = {"Phýska" "Phýska"}   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = {"Galeriópolis" "Galeriópolis"}   
+827 = {"Néa Antiócheia" "Néa Antiócheia"}   
+2817 = {"Lámpsakos" "Lámpsakos"}   
+4600 = {"Makrá Édessa" "Makrá Édessa"}   
+4607 = {"Kalíndreia" "Kalíndreia"}   
+     
+# EASTERN LLANOS   
+     
+2805 = {"Monokéon" "Monokéon"}   
+2809 = {"Néa Kallípolis" "Néa Kallípolis"}   
+2939 = {"Damakínion" "Damakínion"}   
+4615 = {"Kyroús" "Kyroús"}   
+     
+# GUYANA    
+     
+502 = {"Néa Kíthyra" "Diakóptis"}   
+743 = {"Syvóta" "Syvóta"}   
+744 = {"Demerís" "Demerís"}   
+2803 = {"Ornikós" "Ornikós"}   
+     
+# MARACAIBO    
+     
+830 = {"Márgos" "Márgos"}   
+2807 = {"Anthíli" "Anthíli"}   
+4609 = {"Elassína" "Elassína"}   
+4610 = {"Taronís" "Taronís"}   
+4611 = {"Tithoréa" "Tithoréa"}   
+     
+# POPAYAN    
+     
+823 = {"Daurís" "Daurís"}   
+826 = {"Onéa" "Onéa"}   
+2818 = {"Ágios Vasíleios"}   
+4596 = {"Kýdneion" "Kýdneion"}   
+4604 = {"Agía Pelagía" "Agía Pelagía"}   
+     
+# SURINAME    
+     
+745 = {"Megapotamía" "Íra"}   
+746 = {"Kyanópolis" "Kyanópolis"}   
+2937 = {"Aravakía" "Kaiána"}   
+     
+# UPPER GUYANA   
+     
+742 = {"Agía María" "Agía María"}   
+2804 = {"Gerása" "Gerása"}   
+2811 = {"Voróva" "Voróva"}   
+2931 = {"Elpís" "Elpís"}   
+4617 = {"Pentaplátanon" "Pentaplátanon"}   
+     
+# VENEZUELA    
+     
+741 = {"Asidón" "Asidón"}   
+831 = {"Karákai" "Karákai"}   
+2808 = {"Máktaris" "Máktaris"}   
+4612 = {"Arímnion" "Arímnion"}   
+4616 = {"Aravisós" "Aravisós"}   
+     
+# WESTERN LLANOS   
+     
+2812 = {"Ágios Chrystóphoros" "Ágios Chrystóphoros"}   
+2814 = {"Néa Nikópolis" "Néa Nikópolis"}   
+2815 = {"Kardiolímanon" "Kardiolímanon"}   
+4608 = {"Achagía" "Achagía"}   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = {"Kalós Limín" "Kalós Limín"}   
+786 = {"Neápolis Patagonías" "Neápolis Patagonías"}   
+2868 = {"Oítylon" "Oítylon"}   
+     
+# BANDA ORIENTAL   
+     
+772 = {"Ourakouría" "Néa Pixoús"}   
+773 = {"Nótios Antiócheia" "Nótios Antiócheia"}   
+2850 = {"Visívis" "Visívis"}   
+2851 = {"Ioustinópolis" "Ioustinópolis"}   
+2852 = {"Álasmis" "Álasmis"}   
+     
+# BUENOS AIRES   
+     
+778 = {"Argyropótamos" "Argyropótamos"}   
+2846 = {"Néa Marioúpolis" "Néa Marioúpolis"}   
+2848 = {"Agía Sophía" "Agía Sophía"}   
+2849 = {"Rodalía" "Rodalía"}   
+     
+# CENTRAL CHILE   
+     
+784 = {"Thaddaía" "Thaddaía"}   
+787 = {"Levís" "Levís"}   
+2862 = {"Kirýkeion" "Kirýkeion"}   
+     
+# CUYO    
+     
+2843 = {"Ryákion" "Ryákion"}   
+2844 = {"Krísa" "Krísa"}   
+2845 = {"Xisós" "Xisós"}   
+2847 = {"Agía Charitíni" "Agía Charitíni"}   
+2877 = {"Vatátza" "Vatátza"}   
+     
+# MESOPOTAMIA    
+     
+777 = {"Rémata" "Rémata"}   
+2853 = {"Arvanópolis" "Arvanópolis"}   
+2855 = {"Agístrion" "Agístrion"}   
+2858 = {"Ágios Methódios" "Ágios Methódios"}   
+2859 = {"Iovéra" "Iovéra"}   
+     
+# NEHEUNKEN    
+     
+785 = {"Arámis" "Arámis"}   
+2867 = {"Vardópolis" "Vardópolis"}   
+2871 = {"Ágia Poulchería" "Ágia Poulchería"}   
+2872 = {"Ermónassa" "Ermónassa"}   
+     
+# PATAGONIA    
+     
+781 = {"Chrysós Limín" "Chrysós Limín"}   
+782 = {"Gí tou Pyrós" "Mégas Limín"}   
+2869 = {"Augéai" "Augéai"}   
+     
+# PATAGONIAN ANDES   
+     
+2863 = {"Mélas Potamós" "Ávelon"}   
+2870 = {"Gorgippía" "Gorgippía"}   
+2875 = {"Sísamos" "Sísamos"}   
+2876 = {"Amástris" "Amástris"}   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = {"Pelágiai" "Pelágiai"}   
+2025 = {"Nótios Kríti" "Mikrón Irákleion"}   
+     
+# SOUTHERN CHILE   
+     
+783 = {"Parthénos Limín" "Parthénos Limín"}   
+2873 = {"Alkyón" "Alkyón"}   
+2874 = {"Káto Nympheíon" "Káto Nympheíon"}   
+     
+# SOUTHERN PAMPAS   
+     
+779 = {"Leukós Aktí" "Elaía"}   
+2860 = {"Keránthi" "Keránthi"}   
+2861 = {"Péra Kaméni" "Néa Thérmi"}   
+2865 = {"Galaxídion" "Galaxídion"}   
+2866 = {"Stýra" "Stýra"}   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = {"Néa Apollonópolis" "Néa Apollonópolis"}   
+804 = {"Pindarís" "Pindarís"}   
+2831 = {"Kírynthos" "Kírynthos"}   
+2947 = {"Néai Phérai" "Néai Phérai"}   
+     
+# CAJAMARCA    
+     
+813 = {"Kamárka" "Kamárka"}   
+2824 = {"Gaïanópolis" "Gaïanópolis"}   
+2825 = {"Láskaris" "Láskaris"}   
+2943 = {"Áphydos" "Áphydos"}   
+     
+# CHIMOR    
+     
+812 = {"Episkópolis" "Episkópolis"}   
+2002 = {"Chelonísia" "Konstantína"}   
+2821 = {"Pioúra" "Pioúra"}   
+2822 = {"Ántandros" "Ántandros"}   
+2826 = {"Lyrnessós" "Lyrnessós	"}   
+     
+# HUANUCO    
+     
+809 = {"Íchthyma" "Íchthyma"}   
+810 = {"Triasós" "Triasós"}   
+811 = {"Soúsa" "Soúsa"}   
+814 = {"Amarílis" "Amarílis"}   
+2827 = {"Ouarákion" "Ouarákion"}   
+     
+# IQUITOS    
+     
+815 = {"Derróna" "Derróna"}   
+818 = {"Varánkas" "Varánkas"}   
+821 = {"Kolophón" "Kolophón"}   
+     
+# KUNTISUYU    
+     
+807 = {"Sikýon" "Sikýon"}   
+808 = {"Kýskos" "Kýskos"}   
+2829 = {"Alalía" "Alalía"}   
+2830 = {"Ágios Pétros" "Ágios Pétros"}   
+     
+# PERUAN COAST   
+     
+805 = {"Archýpa" "Archýpa"}   
+806 = {"Néa Naïssós" "Néa Naïssós"}   
+2828 = {"Kamýnion" "Kamýnion"}   
+     
+# QUITO    
+     
+816 = {"Týmvis" "Týmvis"}   
+817 = {"Phaiós Koryphí" "Phaíax"}   
+819 = {"Galákia" "Galákia"}   
+820 = {"Kítion" "Kítion"}   
+2820 = {"Smarágdis" "Smarágdis"}   
+     
+# UCAYALI    
+     
+2823 = {"Mýrinda" "Mýrinda"}   
+2944 = {"Néa Xánthi" "Néa Xánthi"}   
+2945 = {"Phillýra" "Phillýra"}   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = {"Pauromérion" "Ágios Iosíph"}   
+801 = {"Palagís" "Palagís"}   
+2834 = {"Ydroúsa" "Ydroúsa"}   
+     
+# CHACO    
+     
+790 = {"Nótios Sákia" "Mikrá Phokaía"}   
+2854 = {"Kentrikós Sákia" "Antístasis"}   
+2878 = {"Iákinthos" "Iákinthos"}   
+     
+# JUJUY    
+     
+794 = {"Levvaía" "Levvaía"}   
+2837 = {"Néa Aikateríni" "Néa Aikateríni"}   
+2839 = {"Áno Atakámi" "Perakórnithos"}   
+     
+# MOXOS    
+     
+803 = {"Triás" "Triás"}   
+2832 = {"Ágios Ioakím" "Ágios Ioakím"}   
+2833 = {"Theomítir" "Theomítir"}   
+     
+# NORTHERN CHILE   
+     
+792 = {"Chalkoráchi" "Chaldérion"}   
+793 = {"Ioannolímanon" "Ioannolímanon"}   
+796 = {"Ágios Markos" "Ágios Markos"}   
+2840 = {"Kálamos" "Kálamos"}   
+2841 = {"Antaugoústa" "Antaugoústa"}   
+     
+# PARAGUAY    
+     
+775 = {"Análipsis" "Análipsis"}   
+776 = {"Anástasis" "Anástasis"}   
+799 = {"Aríki" "Aríki"}   
+2882 = {"Kínyda" "Kínyda"}   
+2883 = {"Melothéa" "Melothéa"}   
+     
+# POTOSI    
+     
+795 = {"Melanópyrgos" "Melanópyrgos"}   
+797 = {"Platamón" "Platamón"}   
+2940 = {"Aetólophos" "Aetólophos"}   
+2946 = {"Tycheroúpolis" "Tycheroúpolis"}   
+     
+# TUCUMAN    
+     
+791 = {"Kamáris" "Kamáris"}   
+2836 = {"Prothenóra" "Prothenóra"}   
+2842 = {"Drymón" "Drymón"}   
+     
+# UPPER PERU   
+     
+2835 = {"Sákharis" "Sákharis"}   
+2838 = {"Ptérix" "Ptérix"}   
+2941 = {"Neméa" "Neméa"}   
+2942 = {"Chárax" "Chárax"}   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = {"Vrisía" "Vrisía"}   
+4852 = {"Týmvos" "Týmvos"}   
+4853 = {"Pantazeíka" "Pantazeíka"}   
+4854 = {"Dioskourís" "Dioskourís"}   
+     
+# CAPRICORNIA    
+     
+2730 = {"Rodopós" "Rodopós"}   
+2731 = {"Ágios Zacharías" "Ágios Zacharías"}   
+2732 = {"Polydóra" "Polydóra"}   
+4848 = {"Médousa" "Médousa"}   
+4849 = {"Alagonía" "Karón"}   
+     
+# ILLAWARA    
+     
+1090 = {"Skyllétion" "Skyllétion"}   
+4857 = {"Káto Neókastron" "Káto Neókastron"}   
+4858 = {"Edém" "Edém"}   
+4859 = {"Kámveira" "Kámveira"}   
+4860 = {"Pigáda" "Pigáda"}   
+     
+# NEW SOUTH WALES  
+     
+1091 = {"Leptokarýa" "Nikolaís"}   
+1092 = {"Kyphaíon" "Kyphaíon"}   
+4855 = {"Imás" "Imás"}   
+4856 = {"Phtélia" "Phtélia"}   
+     
+# PERTH    
+     
+1084 = {"Perithós" "Perithós"}   
+2727 = {"Pesaúria" "Pesaúria"}   
+4863 = {"Chálix" "Chálix"}   
+4864 = {"Phrinís" "Phrinís"}   
+     
+# PILBARA    
+     
+2726 = {"Aragána" "Exólynthos"}   
+4865 = {"Márdi" "Márdi"}   
+4866 = {"Ialysós" "Ialysós"}   
+4867 = {"Synárdai" "Synárdai"}   
+     
+# PRINCELAND    
+     
+1086 = {"Tardanís" "Tardanís"}   
+2735 = {"Rýthion" "Rýthion"}   
+2736 = {"Amaryneía" "Amaryneía"}   
+4862 = {"Varánga" "Varánga"}   
+     
+# QUEENSLAND    
+     
+1093 = {"Augoustína" "Augoustína"}   
+1094 = {"Ioúlios Órmos" "Ioúlios Órmos"}   
+2733 = {"Margaríta" "Margaríta"}   
+4850 = {"Ithómi" "Ithómi"}   
+     
+# TASMANIA    
+     
+1085 = {"Yvérti" "Yvérti"}   
+4868 = {"Christianópolis" "Christianópolis"}   
+4869 = {"Plissándra" "Plissándra"}   
+     
+# TOP END   
+     
+2728 = {"Dynisía" "Vatsiána"}   
+2729 = {"Chiliódentron" "Chiliódentron"}   
+4846 = {"Polýdrosos" "Polýdrosos"}   
+4847 = {"Vrethésna" "Vrethésna"}   
+     
+# VICTORIA    
+     
+1087 = {"Mylopótamos" "Mylopótamos"}   
+1088 = {"Rodomiliá" "Rodomiliá"}   
+1089 = {"Stephanía" "Stephanía"}   
+2734 = {"Avlemón" "Avlemón"}   
+4861 = {"Olisdón" "Olisdón"}   
+     
+## MOLUCCAS
+
+# PAPUAN PENINSULA
+
+1237 = {"Limín Neárchou" "Limín Neárchou"}
+2719 = {"Onesikríti" "Onesikríti"}
+2720 = {"Laophíli" "Laophíli"}
+2721 = {"Tamathýs" "Tamathýs"}
+2722 = {"Dareía" "Dareía"}
+
+# Vogelkop Peninsula
+
+1245 = {"Manacharís" "Manacharís"}
+2718 = {"Anthalsía" "Anthalsía"}
+2723 = {"Leonnáti" "Leonnáti"}
+2724 = {"Protéon" "Protéon"}
+
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+1244 = {"Tymotánai" "Ouranía"}   
+1987 = {"Synklitikái Nísoi" "Phaiákia"}   
+1988 = {"Nísos Páscha" "Ormískos"}   
+     
+# EAST MICRONESIA
+
+1241 = {"Týngaris" "Taráva"}
+1991 = {"Andromáchai" "Koúria"}
+1993 = {"Aelópiai" "Maouría"}
+1994 = {"Nísos Lazárou" "Néa Ióppi"}
+
+# FIJI    
+     
+1242 = {"Méga Vítion" "Sýva"}   
+4937 = {"Strophádai" "Árpia"}   
+4938 = {"Stampháni" "Petalás"}   
+     
+# MELANESIA    
+     
+1236 = {"Néa Kós" "Marmárion"}   
+1238 = {"Nísoi Solomóntos" "Onória"}   
+1239 = {"Néai Evoúdai" "Ýphira"}   
+1986 = {"Néa Kalidonía" "Nyméa"}   
+     
+# NORTHERN POLYNESIA   
+     
+1240 = {"Prokónnisos" "Ílion"}   
+1997 = {"Mesónisos" "Ammoudiá"}
+4934 = {"Alóni" "Elalcléa"}   
+4935 = {"Iachós" "Onýlinthos"}   
+4936 = {"Néa Ténedos" "Lykódromon"}   
+     
+# POLYNESIA    
+     
+1243 = {"Samóa" "Appía"}   
+1989 = {"Néa Skýros" "Nikólophon"}   
+1990 = {"Nísoi Elíkis" "Mikrá Phanagoría"}   
+1992 = {"Néa Pátmos" "Groikós"}   
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = {"Limenariá" "Melivóa"}   
+1107 = {"Komninópolis" "Komninópolis"}   
+2739 = {"Aukópolis" "Aukópolis"}   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = {"Tauríngi" "Tauríngi"}   
+2737 = {"Néa Anchialós" "Néa Anchialós"}   
+4939 = {"Melanochóri" "Melanochóri"}   
+     
+# TE WAIPOUNAMU   
+     
+1109 = {"Christópolis" "Christópolis"}   
+1246 = {"Phaiástia" "Phaíastia"}   
+2738 = {"Kassiópi" "Kassiópi"}   
+     
+# WEST MICRONESIA   
+     
+1235 = {"Gyána" "Agáthi"}   
+1995 = {"Mikronisía" "Palikardía"}   
+1996 = {"Velóa" "Oróra"}

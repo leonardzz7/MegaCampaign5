@@ -1,5 +1,5 @@
-owner = Z1J
-controller = Z1J
+owner = Z2S
+controller = Z2S
 capital = "Al Qusair"
 is_city = yes
 culture = al_misr_arabic
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = MAM
-add_core = Z1J
+add_core = Z2S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

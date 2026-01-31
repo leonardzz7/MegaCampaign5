@@ -1,5 +1,5 @@
-owner = Z0V
-controller = Z0V
+owner = Z2S
+controller = Z2S
 capital = "Al Minya"
 is_city = yes
 culture = al_misr_arabic
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = MAM
-add_core = Z0V
+add_core = Z2S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

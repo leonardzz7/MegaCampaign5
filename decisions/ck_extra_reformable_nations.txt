@@ -193,10 +193,350 @@ country_decisions = {
 		}
 		ai_importance = 400
 	}
+	
+	british_nation = {
+		major = yes
+		potential = {
+			OR = {
+				NOT = { has_government_attribute = english_parliament }	#Formation through the Parliament
+				ai = yes
+			}
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_great_britain_flag }
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = GBR }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = AVE }
+			NOT = { has_country_flag = eng_took_ave_branch }
+			OR = {
+				culture_group = british
+				primary_culture = highland_scottish
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 236		# London
+				province_id = 237		# Oxfordshire
+				province_id = 234		# Wessex
+				province_id = 248		# Lothian
+				province_id = 251		# Aberdeen
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 237		# Oxfordshire
+			owns_core_province = 234		# Wessex
+			owns_core_province = 248		# Lothian
+			owns_core_province = 251		# Aberdeen
+			owns_core_province = 236		# London
+			236 = {							# London
+				is_state = yes
+			}
+		}
+		effect = {
+			country_event = {
+				id = anglican_events.14
+			}
+			236 = {
+				move_capital_effect = yes
+			}
+			hidden_effect = {
+				complete_mission = eng_rb_war_of_roses
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						tag = SCO
+					}
+					complete_mission = eng_mighty_army
+					complete_mission = conquer_scotland
+				}	
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						tag = IRE
+					}
+					complete_mission = eng_mighty_army
+					complete_mission = conquer_scotland
+					complete_mission = conquer_ireland
+				}	
+			}
+			change_tag = GBR
+			restore_country_name = yes
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			british_isles_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = GBR
+			}
+			add_prestige = 25
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_country_flag = formed_great_britain_flag
+			if = {
+				limit = {
+					mission_completed = conquer_scotland
+					has_dlc = "Rule Britannia"
+				}
+				369 = {
+					add_permanent_claim = GBR
+				}
+				1978 = {
+					add_permanent_claim = GBR
+				}
+				1979 = {
+					add_permanent_claim = GBR
+				}
+				370 = { add_claim = GBR }
+				371 = { add_claim = GBR }
+			}
+			if = {
+				limit = {
+					mission_completed = eng_rb_spice_islands
+					has_dlc = "Rule Britannia"
+				}
+				west_bengal_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = GBR
+				}
+			}
+			if = {
+				limit = { 
+					has_custom_ideas = no
+					NOT = { has_idea_group = GBR_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				tag = SCO
+				NOT = { is_enemy = ENG }
+				NOT = { is_rival = ENG }
+			}
+		}
+		ai_importance = 400
+	}
 
 	
 	
 	
+
+
+	
+	bart_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_lotharingia_flag }
+			tag = BUR
+		}
+		provinces_to_highlight = {
+			province_id = 4721
+			province_id = 183
+			province_id = 188
+			province_id = 1866
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			NOT = { exists = LOT }
+			owns_core_province = 4721
+			owns_core_province = 183
+			owns_core_province = 188
+			owns_core_province = 1866
+		}
+		effect = {
+			change_tag = LOT
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			low_countries_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = LOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_country_flag = formed_lotharingia_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	celt_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = PLC }
+			tag = POM
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 279	# Krakow
+				province_id = 43	# Warszawa
+				province_id = 40	# Danzig
+				province_id = 276	# Marienburg
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			owns_core_province = 279				# Krakow
+			owns_core_province = 43				# Warszawa
+			owns_core_province = 40					# Danzig
+			owns_core_province = 276				# Marienburg
+		}
+		effect = {
+			change_tag = PLC
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 3 } }
+				set_government_rank = 3
+			}
+			if = {
+				limit = {
+					poland_region = {
+						NOT = { owned_by = POL }
+						NOT = { owned_by = LIT }
+						NOT = { owned_by = PLC }
+					}
+				}
+				poland_region = {
+					add_permanent_claim = PLC
+				}
+			}
+			if = {
+				limit = {
+					white_ruthenia_area = {
+						NOT = { owned_by = POL }
+						NOT = { owned_by = LIT }
+						NOT = { owned_by = PLC }
+					}
+				}
+				white_ruthenia_area = {
+					add_permanent_claim = PLC
+				}
+			}
+			if = {
+				limit = {
+					lithuania_area = {
+						NOT = { owned_by = POL }
+						NOT = { owned_by = LIT }
+						NOT = { owned_by = PLC }
+					}
+				}
+				lithuania_area = {
+					add_permanent_claim = PLC
+				}
+			}
+			if = {
+				limit = {
+					pripyat_area = {
+						NOT = { owned_by = POL }
+						NOT = { owned_by = LIT }
+						NOT = { owned_by = PLC }
+					}
+				}
+				pripyat_area = {
+					add_permanent_claim = PLC
+				}
+			}
+			random_owned_province = {
+				limit = { OR = { culture = polish culture = polish_new } }
+				add_base_tax = 1
+			}
+			set_country_flag = formed_plc_flag
+			add_prestige = 25
+			if = { 
+				limit = { 
+					has_dlc = "Lions of the North"
+					NOT = { has_estate_privilege = estate_nobles_golden_liberty }
+				}
+				complete_mission = pol_leverage_magnates
+				complete_mission = pol_great_sejm
+				complete_mission = plc_articles_agreement
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			} 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+		do_not_integrate = LIT
+	}
+
 	
 	aryan_serbia = {
 		major = yes

@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 176 81 111 }
+color = { 20 176 20 }
 revolutionary_colors = { 5 0 5 }
 historical_idea_groups = {
 	diplomatic_ideas
@@ -160,7 +160,7 @@ leader_names = {
 	"Grudzinski"
 	"Grzymultowski"
 	"Gurowski"
-	"Górka"
+	"G rka"
 	"Herburt"
 	"Hlebowicz"
 	"Houwaldt"
@@ -295,16 +295,16 @@ ship_names = {
 	"Kaunas"
 	"Kijowskie"
 	"Krakowskie"
-	"Kraków"
+	"Krak w"
 	"Kretinga"
 	"Kreva"
-	"Król Dawid"
+	"Kr l Dawid"
 	"Latajacy Jelen"
 	"Lazdijai"
 	"Leczyckie"
 	"Lubelskie"
 	"Lublin"
-	"Lwów"
+	"Lw w"
 	"Malborskie"
 	"Maly Bialy Orzel"
 	"Mazowieckie"
@@ -342,7 +342,7 @@ ship_names = {
 	"Wodnik"
 	"Wolynskie"
 	"Zwyciestwo"
-	"Zólty Lew"
+	"Z lty Lew"
 }
 army_names = {
 	"Armia z $PROVINCE$"

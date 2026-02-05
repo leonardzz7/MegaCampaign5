@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 125 255 51 }
+color = { 96 96 96 }
 monarch_names = {
 	"Aišï #0" = 0
 	"Alihemen #0" = 0

@@ -8396,7 +8396,7 @@ fire_temple_of_ateshgah = {
 	#can we build it?
 	build_trigger = {
 		province_is_or_accepts_religion = {
-			religion = zoroastrian
+			religion = mithraism
 		}
 	}
 
@@ -8413,14 +8413,14 @@ fire_temple_of_ateshgah = {
 	#can our country use it?
 	can_use_modifiers_trigger = {
 		province_is_or_accepts_religion = {
-			religion = zoroastrian
+			religion = mithraism
 		}
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
 		province_is_or_accepts_religion = {
-			religion = zoroastrian
+			religion = mithraism
 		}
 	}
 

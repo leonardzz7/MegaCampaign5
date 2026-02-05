@@ -1,5 +1,5 @@
-owner = Z3O
-controller = Z3O
+owner = SRV
+controller = SRV
 capital = "Shamakhi"
 is_city = yes
 culture = georgian
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 2
 base_manpower = 2
-add_core = Z3O
+add_core = SRV
 add_permanent_claim = KRY
 add_permanent_claim = SRV
 discovered_by = eastern

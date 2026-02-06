@@ -1,0 +1,364 @@
+### EUROPE
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Jula" "Jula"} # r
+1953 = {"Dobritân" "Dobritân"} # r (name used by the Romanian communities in Hungary)
+1954 = {"Becicherecu Mare" "Becicherecu Mare"} # r
+4125 = {"Solnoca" "Solnoca"} # r
+
+# Moldova
+
+268 = {"Suceava" "Suceava"} # r
+1756 = {"Basarabia" "Chilia Noua"} # r
+2405 = {"Tighina" "Tighina"} # r (old name)
+4529 = {"Iasi" "Iasi"} # r
+4530 = {"Bârlad" "Bârlad"} # r
+
+# Northern Transilvania
+
+157 = {"Oradea" "Oradea"} # r
+158 = {"Mures" "Târgu Mures"} # r
+1952 = {"Maramures" "Hust"} # r
+4127 = {"Turda" "Turda"} # r
+
+# Slovakia
+
+154 = {"Nitresti" "Nitresti"}
+162 = {"Casovia" "Casovia"} # r
+1318 = {"Spis" "Levotia"}
+1772 = {"Posoniu" "Posoniu"}
+4236 = {"Laugarici" "Laugarici"}
+
+# Southern Transilvania
+
+156 = {"Timis" "Timisoara"} # r
+1951 = {"Alba Iulia" "Alba Iulia"}
+4128 = {"Sibiu" "Sibiu"}
+
+# Transdanubia
+
+135 = {"Sopron" "Sopron"}
+153 = {"Pesta" "Buda"} # r
+1864 = {"Cetatea Rupertina" "Cetatea Rupertina"}
+4126 = {"Baci" "Baci"}
+4240 = {"Alba Regala" "Alba Regala"}
+
+# Wallachia
+
+160 = {"Oltenia" "Craiova"} # r
+161 = {"Târgoviste" "Târgoviste"} # r
+2998 = {"Buzeu" "Buzeu"} # Buzau, old name
+4531 = {"Giurgiu" "Giurgiu"}
+4532 = {"Turnu Severin" "Turnu Severin"} # old name
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naxos" "Naxos"} # r
+320 = {"Rodos" "Rodos"} # r
+2348 = {"Chiu" "Chiu"}
+3003 = {"Evia" "Calkis"} # or Chalchi
+4700 = {"Lesbos" "Mitilene"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Avlona" "Avlona"} # ar
+4174 = {"Durus" "Durus"} # ar
+4175 = {"Lis" "Lis"}
+4750 = {"Croia" "Croia"}
+
+# Bosnia
+
+139 = {"Zahumlia" "Monstar"}
+140 = {"Bosnia" "Canabe"} # from Latin Canabea
+1831 = {"Hertegovina" "Castel Nou"}
+3002 = {"Vishocea" "Vishocea"}
+4755 = {"Valea Drinei" "Vishgrad"}
+
+# Bulgaria
+
+150 = {"Nicopole" "Nicopole"}
+1765 = {"Sofia" "Sofia"} # r
+2746 = {"Diiu" "Diiu"} # r
+2750 = {"Filipopol" "Filipopol"}
+4703 = {"Kiustendil" "Kiustendil"} # r
+
+# Croatia
+
+131 = {"Zagreb" "Zagreb"} # r
+1826 = {"Iapudea" "Sinea"}
+1828 = {"Capetele Inferioare" "Iacia"}
+4752 = {"Tarsat" "Tarsat"} # from Latin Tarsatica
+
+# Dalmatia
+
+136 = {"Spalat" "Spalat"}
+137 = {"Ragush" "Ragush"}
+4753 = {"Iadar" "Iadar"}
+
+# Macedonia
+
+148 = {"Saruna" "Saruna"} # name from Saruna in Megleno-Romanian, Sãrunã in aromanian
+1853 = {"Kusturea" "Kusturea"} # ar
+3001 = {"Scopia" "Scopia"} # ar
+4702 = {"Nsiar" "Nsiar"} # ar
+4780 = {"Ohãrda" "Ohãrda"} # ar
+
+# Morea
+
+145 = {"Laconia" "Mizeatra"}
+146 = {"Atena" "Atena"} # Athinã in aromanian
+163 = {"Creta" "Heracleu"}
+1773 = {"Ahaia" "Patras"}
+4701 = {"Corint" "Corint"}
+
+# Northern Greece
+
+142 = {"Corfu" "Corfu"}
+144 = {"Epir" "Enina"} # capital is aromanian
+147 = {"Tesalia" "Larita"}
+4698 = {"Cephalonia" "Sfântul Gheorghe"}
+4699 = {"Arta" "Arta"}
+
+# Rascia
+
+138 = {"Valea Zetei" "Sablaciu"}
+1766 = {"Kosovo" "Pristina"}
+1827 = {"Rascia" "Târgoviste"}
+4754 = {"Ascriu" "Ascriu"}
+
+# Serbia
+
+141 = {"Semendria" "Semendria"}
+3000 = {"Nisha" "Nisha"}
+4176 = {"Viminat" "Viminat"} # from Latin Viminacium
+4239 = {"Belgrad" "Belgrad"}
+4757 = {"Valea Aurie" "Valea Aurie"} # from Latin Valis Aurea
+
+# Silistria
+
+159 = {"Dârstor" "Dârstor"} # r
+4704 = {"Ternobul" "Ternobul"} # from Latin Ternobum
+4706 = {"Tulcea" "Tulcea"} # belongs to Romania
+
+# Slavonia
+
+152 = {"Varadin" "Varadin"}
+1767 = {"Slavonia" "Mursa"}
+4173 = {"Sirmia" "Sfântului Dimitrie"} # from Latin Civitas Sancti Demetrii
+4756 = {"Belovari" "Belovari"}
+	
+# Thrace
+
+149 = {"Adrianopol" "Adrianopol"}
+151 = {"Tarigrad" "Tarigrad"} # ar
+1764 = {"Bourgas" "Bourgas"} # r, or Perontica
+4705 = {"Comotea" "Comotea"}
+4779 = {"Calipol" "Calipol"}
+
+## SOUTH GERMANY
+
+# Austria Proper
+
+133 = {"Austria Superioara" "Linz"} 
+134 = {"Viena" "Viena"}
+1770 = {"Krems" "Krems pe Dunare"}
+4761 = {"Traunia" "Steyr"} # from your polish names
+4762 = {"Vienezia" "Sfântul Ipolit"}
+
+# Carniola
+
+129 = {"Craina" "Ljubljana"}
+130 = {"Istria" "Pula"}
+1769 = {"Gorizia" "Gorizia"}
+4738 = {"Trieste" "Trieste"}
+4751 = {"Celje" "Celje"}
+
+# Inner Austria
+
+128 = {"Carintia de Jos" "Celovac"}
+132 = {"Stiria" "Zhidovgrad"} 
+1863 = {"Graz" "Graz"}
+4759 = {"Carintia de Sus" "Beljak"} # slovenian capital
+
+## PONTIC STEPPE
+
+# Crimea
+
+284 = {"Crimeea" "Ievpatoria"} # not a typo lol
+285 = {"Teodosia" "Teodosia"}
+2410 = {"Sevastopol" "Sevastopol"}
+2447 = {"Novorossiisk" "Novorossiisk"}
+
+# Yedisan 
+
+282 = {"Oceacov" "Oceacov"}
+1974 = {"Herson" "Herson"}
+2406 = {"Nicolaev" "Nicolaev"}
+
+# Zaporizhia
+
+283 = {"Zaporijjea" "Zaporijjea"}
+2411 = {"Novîi Kodak" "Novîi Kodak"}
+2412 = {"Mariupol" "Mariupol"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Cernihiv" "Cernihiv"}
+1945 = {"Severia" "Novgorodul de Nord"}
+4543 = {"Rylsk" "Rylsk"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Pereiaslav" "Pereiaslav"}
+4542 = {"Lubnî" "Lubnî"}
+
+# Podolia
+
+281 = {"Podilia" "Camenita Podoliei"}
+1943 = {"Bratslav" "Bratslav"}
+4540 = {"Vinnitsa" "Vinnitsa"}
+
+# Sloboda Ukraine
+ 
+291 = {"Harkov" "Harkov"} 
+298 = {"Kursk" "Kursk"}
+299 = {"Voronej" "Voronej"}
+2408 = {"Elets" "Elets"}
+
+# Volhynia
+
+279 = {"Volânia" "Volodîmîr"}
+2962 = {"Rivne" "Rivne"}
+4538 = {"Helm" "Helm"}
+4539 = {"Kremenets" "Kremenets"}
+
+# West Dniepr
+
+280 = {"Kiev" "Kiev"}
+1942 = {"Jitomir" "Jitomir"}
+1944 = {"Cerkasî" "Cerkasî"}
+4247 = {"Ovruci" "Ovruci"}
+
+## POLAND
+
+# Red Ruthenia
+
+261 = {"Halici" "Halici"}
+1940 = {"Belz" "Belz"} 
+2424 = {"Peremîshleanî" "Peremîshleanî"}
+2961 = {"Liov" "Liov"}
+4541 = {"Drohobîci" "Drohobîci"}
+
+## ITALY
+
+# Apulia
+
+122 = {"Salentu" "Tarent"} # rc
+1933 = {"Baria" "Baria"}
+2985 = {"Fova" "Fova"}
+4733 = {"Molisiu" "Câmpul Vasalilor"}
+
+# Calabria
+
+123 = {"Calabria" "Regiu din Calabria"}
+1934 = {"Acheront" "Potenta"}
+2984 = {"Cosenta" "Cosenta"}
+
+# Campania
+
+121 = {"Neapole" "Neapole"} # r
+2983 = {"Salerna" "Salerna"}
+4734 = {"Abelina" "Abelina"}
+
+# Eastern Sicily
+
+124 = {"Mesena" "Mesena"}
+126 = {"Malta" "Medina"} # r
+2982 = {"Siracuza" "Siracuza"} # r
+
+# Emilia-Romagna
+
+105 = {"Parma" "Parma"} # r
+106 = {"Mutin" "Mutin"}
+113 = {"Fieraria" "Fieraria"} # or Târgul Strainilor
+114 = {"Ravenna" "Ravenna"}
+4730 = {"Bolonia" "Bolonia"} # r (rarely used)
+
+# Lazio-Umbria
+
+118 = {"Roma" "Roma"} # r
+2976 = {"Perusa" "Perusa"}
+4731 = {"Spoletiu" "Spoletiu"}
+4732 = {"Taracina" "Taracina"}
+
+# Liguria
+
+101 = {"Genua" "Genua"} # r (rarely used)
+102 = {"Nisa" "Nisa"} # r
+2992 = {"Sava" "Sava"} # Savona
+
+# Lombardy
+
+104 = {"Milano" "Milano"} # r
+1862 = {"Cremona" "Cremona"}
+2979 = {"Nouavaria" "Novaria"}
+4728 = {"Pava" "Pava"}
+4740 = {"Comu" "Comu"}
+
+# Marche-Abruzzo
+
+119 = {"Ancoana" "Ancoana"}
+120 = {"Aprut" "Vulturul"} # L'Aquila
+2977 = {"Urbin" "Urbin"}
+
+# Piedmont
+
+103 = {"Taurinu" "Taurinu"}
+1875 = {"Cuneum" "Cuneum"}
+2981 = {"Mons Ferratus" "Burgus Casalis"}
+4727 = {"Salutiae" "Salutiae"}
+
+# Po Valley
+
+107 = {"Brixia" "Brixia"}
+109 = {"Mantua" "Mantua"}
+4739 = {"Bergomum" "Bergomum"}
+
+# Tuscany
+
+115 = {"Pisae" "Pisae"}
+116 = {"Florenta" "Florenta"} # r
+117 = {"Sena" "Sena Iulia"}
+2978 = {"Arretium" "Arretium"}
+2980 = {"Luca" "Luca"}
+
+# Tyrrhenian Isles
+
+127 = {"Sacerum" "Sacerum"}
+1247 = {"Corsica" "Mantinum"}
+2986 = {"Caralis" "Caralis"}
+4735 = {"Arborea" "Arborea"}
+
+# Venetia
+
+108 = {"Verona" "Verona"}
+111 = {"Forum Iulii" "Utinum"}
+112 = {"Venetia" "Venetia"} # r
+1774 = {"Tarvisium" "Tarvisium"}
+4729 = {"Patavium" "Patavium"}
+
+# Western Sicily
+
+125 = {"Panormus" "Panormus"}
+4736 = {"Drepanum" "Drepanum"}
+4737 = {"Agrigentum" "Agrigentum"}

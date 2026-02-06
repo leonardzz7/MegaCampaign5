@@ -1,0 +1,85 @@
+### This culture uses the Low German names
+
+### EUROPE
+
+## GERMANY
+
+# Alsace
+
+75 = {"Straatsborg" "Straatsborg"}
+1880 = {"Süüdgohe" "Oltkiärke"}
+4765 = {"Möhlhusen" "Möhlhusen"}
+
+# Austria Proper
+
+133 = {"Ob de Enns" "Linz"} # rc
+134 = {"Ween" "Ween"} # or Wien (r)
+1770 = {"Mannhardsbarg" "Kreems"}
+4761 = {"Troungohe" "Steur"}
+4762 = {"Weenerwold" "Sankt Pöölden"}
+
+# Baden
+
+72 = {"Breisgohe" "Friborg"}
+74 = {"Badun" "Badun"}
+4714 = {"Durlack" "Keerlsraue"}
+
+# Bohemia
+
+266 = {"Prag" "Prag"}
+2968 = {"Bodwies" "Bodwies"}
+2970 = {"Koningsborg" "Koningsborg"} # NEED HELP later on
+4724 = {"Pardubitsch" "Pardubitsch"}
+4725 = {"Nühuus" "Nühuus"}
+
+# Braunschweig (r)
+
+57 = {"Bronswiek" "Bronswiek"}
+1758 = {"Hannober" "Hannober"}
+2971 = {"De Haaien" "De Haaien"}
+4773 = {"Chöttingen" "Chöttingen"}
+
+# Carniola
+
+129 = {"Krain" "Loibeck"}
+130 = {"Istrien" "Pola"}
+1769 = {"Göerz" "Göerz"}
+4738 = {"Träest" "Träest"}
+4751 = {"Zelle" "Zelle"}
+
+# East Bavaria
+
+76 = {"Soltborg" "Soltborg"}
+4709 = {"Besoie" "Besoie"}
+4760 = {"Innveerdeel" "Bronau an Inn"}
+
+# East Swabia
+
+68 = {"Memmingen" "Memmingen"}
+1868 = {"Augsborg" "Augsborg"}
+1872 = {"Ulm" "Ulm"}
+4711 = {"Donauwörth" "Nardlicken"}
+
+# Erzgebirge
+
+
+
+4786 = {"Prignitz" "Pankow"}
+51 = {"Reppin" "Neureppin"}
+50 = {"Berlien" "Berlien-Kölln"}
+49 = {"Neemasch" "Landsbarg an de Warthe"}
+2969 = {"Steernbarg" "Frankfort an de Oder"}
+2964 = {"Ollmark" "Stendal"}
+52 = {"Meideborg" "Meideborg"}
+4748 = {"Brannenborg" "Brannenborg an de Havel"}
+1759 = {"Potsdam" "Potsdam"}
+4741 = {"Halle" "Halle"}
+58 = {"Anholt" "Dessau"}
+59 = {"Wittenbarg" "Wittenbarg"}
+4742 = {"Goslär" "Goslär"}
+62 = {"Leibz'sch" "Leibz'sch"}
+4744 = {"Zwickau" "Zwickau"}
+63 = {"Erfurt" "Erfurt"}
+4743 = {"Weimar" "Weimar"}
+2965 = {"Vogtland" "Plauen"}
+2993 = {"Uckermark" "Prentzlow"}

@@ -1,0 +1,4 @@
+# GREENLAND
+
+1104 = {"Tunugdliarfik" "Qaqortoq"} # Eiriksfjord, Greenlandish name
+1105 = {"Nûp Kangerdlua" "Nuuk"} # Vestbygden, Greenlandish name

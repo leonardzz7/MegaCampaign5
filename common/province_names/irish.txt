@@ -1,0 +1,102 @@
+## BRITAIN
+
+# Connacht
+
+375 = {"Tuadhmhumhain" "Luimneach"} # r
+376 = {"Connachta" "Gaillimh"} # r
+4119 = {"Sligeach" "Sligeach"} # r
+
+# East Anglia
+
+238 = {"Easóg" "Ford Ceolmund"}
+1860 = {"Nórafoc" "Nóraist"}
+4370 = {"Áth Bheada" "Áth Bheada"}
+
+# East Midlands
+
+243 = {"Lincólann" "Lincólann"}
+1861 = {"Dearbaí" "Dearbaí"}
+4376 = {"Dún na Lig" "Dún na Lig"}
+
+# Highlands
+
+250 = {"Peairt" "Peairt"} # r
+252 = {"Inbhir Nis" "Inbhir Nis"} # r
+369 = {"Inse Orc" "Bàgh na h-Eaglaise"} # r
+4110 = {"Cataibh" "Dòrnach"} # r
+4363 = {"Earra-Ghàidheal" "Inbhir Aora"} # r
+
+# Leinster
+
+373 = {"Baile Átha Cliath" "Baile Átha Cliath"} # r
+374 = {"Laighin" "Loch Garman"} # r
+4120 = {"Cill Dara" "Cill Dara"} # r
+4379 = {"Uíbh Fhailí" "Tulach Mhór"} # r
+
+# London
+
+235 = {"Ceinte" "Dún na gCanann"}
+236 = {"Londain" "Londain"} # r
+237 = {"Áth na nDamh" "Áth na nDamh"} # r
+4371 = {"Súiseach" "Muintir Hæsta"}
+
+# Lowlands
+
+248 = {"Dùn Èideann" "Dùn Èideann"} # r
+249 = {"Siorrachd Àir" "Inbhir Àir"} # r
+251 = {"Obar Dheathain" "Obar Dheathain"} # r
+4361 = {"Siorrachd Rosbroig" "Deadard"} # r
+4362 = {"Dùn Phris" "Dùn Phris"} # r
+
+# Munster
+
+4118 = {"Corcaigh" "Corcaigh"} # r
+4377 = {"Urmumhain" "Cill Chainnigh"} # r
+4378 = {"Deasmhumhain" "Cill Airne"} # r
+
+# Northern England
+
+244 = {"Ialoncaistár" "Loch Dubh"} 
+246 = {"Tír an Tuaiscirt" "Conairnua ar an Tine"}
+247 = {"Kembrea" "Ceatharlach"} # r
+4375 = {"Caistear" "Caistear"}
+
+# The Isles
+
+253 = {"Na hOileáin Siar" "Steòrnabhagh"} # r
+4364 = {"Na hOileáin Laistigh" "Port Rìgh"} # r
+4365 = {"Oileán Mhanann" "Balley Chashtal"} # r
+
+# Ulster
+ 
+372 = {"Tír Eoghain" "An Ómaigh"} # r
+4121 = {"Ulaidh" "Béal Feirste"} # r
+4380 = {"Dún na nGall" "Dún na nGall"} # r
+ 
+# Wales
+
+241 = {"Abertawe" "Abertawe"} # r
+242 = {"Gwynedd" "Bae Colwyn"} # r
+4366 = {"Trefaldwyn" "Trefaldwyn"} # r
+4368 = {"Caerfyrddin" "Caerfyrddin"} # r
+
+# Wessex
+
+233 = {"Corn na Breataine" "Truru"} # r
+234 = {"Contae Chaomh" "Sruaimsbrí"} 
+4130 = {"Somrhaséad" "Báth"}
+4373 = {"Dúinín" "Plíomhth"}
+4374 = {"Dóirséid" "Mhaoimh"}
+
+# West Midlands 
+
+239 = {"Cúntóir" "Cúntóir"}
+240 = {"Dún na Sceach" "Dún na Sceach"}
+4372 = {"Crann Chofa" "Crann Chofa"}
+
+# Yorkshire
+
+245 = {"Eabhrac" "Eabhrac"} # r
+4367 = {"Húil" "Húil"}
+4368 = {"Scardíbairg" "Scardíbairg"}
+4785 = {"Seafaild" "Seafaild"}

@@ -780,7 +780,7 @@ country_decisions = {
 			owns_core_province = 4515 #Madurai
 			owns_core_province = 429 #Tondainadu
 			owns_core_province = 430 #Vijayanagar
-			has_subject = SHR
+			
 		}
 		effect = {
 			remove_non_electors_emperors_from_empire_effect = yes

@@ -1,0 +1,3262 @@
+### EUROPE
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Limerick" "Limerick"}
+376 = {"Connaught" "Galway"}
+4119 = {"Sligo" "Sligo"}
+
+# East Anglia
+
+238 = {"Essex" "Chelmsford"}
+1860 = {"Norfolk" "Norwich"}
+4370 = {"Bedfordshire" "Cambridge"}
+
+# East Midlands
+
+243 = {"Lincolnshire" "Lincoln"}
+1861 = {"Derbyshire" "Derby"}
+4376 = {"Leicestershire" "Leicester"}
+
+# Highlands
+
+250 = {"Perth" "Perth"}
+252 = {"Inverness" "Inverness"}
+369 = {"Orkney" "Kirkwall"}
+4110 = {"Sutherland" "Dornoch"}
+4363 = {"Argyle" "Loch Awe"}
+
+# Leinster
+
+373 = {"Pale" "Dublin"}
+374 = {"Leinster" "Wexford"}
+4120 = {"Kildare" "Kildare"}
+4379 = {"King's County" "Tullamore"}
+
+# London
+
+235 = {"Kent" "Canterbury"}
+236 = {"London" "London"}
+237 = {"Oxfordshire" "Oxford"}
+4371 = {"Sussex" "Hastings"}
+
+# Lowlands
+
+248 = {"Lothian" "Edinburgh"}
+249 = {"Ayrshire" "Ayr"}
+251 = {"Aberdeen" "Aberdeen"}
+4361 = {"Roxburghshire" "Jedburgh"}
+4362 = {"Dumfries" "Dumfries"}
+
+# Munster
+
+4118 = {"Cork" "Cork"}
+4377 = {"Ormond" "Kilkenny"}
+4378 = {"Desmond" "Killarney"}
+
+# Northern England
+
+244 = {"Lancashire" "Lancaster"}
+246 = {"Northumberland" "Newcastle upon Tyne"}
+247 = {"Cumbria" "Carlisle"}
+4375 = {"Cheshire" "Chester"}
+
+# The Isles
+
+253 = {"Outer Hebrides" "Stornoway"}
+4364 = {"Inner Hebrides" "Portree"}
+4365 = {"Isle of Man" "Castletown"}
+
+# Ulster
+
+372 = {"Tyrone" "Londonderry"} # apologies to some Irish people
+4121 = {"Ulster" "Belfast"}
+4380 = {"Donegal" "Donegal"}
+
+# Wales
+
+241 = {"Glamorgan" "Swansea"}
+242 = {"Carnarvonshire" "Carnarvon"}
+4366 = {"Powys" "Montgomery"}
+4369 = {"Carmarthenshire" "Carmarthen"}
+
+# Wessex
+
+233 = {"Cornwall" "Treliver"}
+234 = {"Hampshire" "Salisbury"}
+4130 = {"Somerset" "Bath"}
+4373 = {"Devonshire" "Plymouth"}
+4374 = {"Dorset" "Weymouth"}
+
+# West Midlands
+
+239 = {"Gloucestershire" "Bristol"}
+240 = {"Shrewsbury" "Shrewsbury"}
+4372 = {"Warwickshire" "Coventry"}
+
+# Yorkshire
+
+245 = {"York" "York"}
+4367 = {"Hull" "Hull"}
+4368 = {"Scarborough" "Scarborough"}
+4785 = {"Sheffield" "Sheffield"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"} # rh
+770 = {"Braslaw" "Braslaw"}
+4535 = {"Wilkomeer" "Wilkomeer"}
+4536 = {"Leiden" "Leiden"}
+
+# Curonia
+
+35 = {"Oselia" "Ernesburgh"}
+39 = {"Goldingen" "Goldingen"}
+1935 = {"Mitaw" "Mitaw"}
+
+# East Prussia
+
+40 = {"Memel" "Memel"}
+41 = {"Kingsburgh" "Kingsburgh"}
+42 = {"Warmia" "Alston"}
+767 = {"Ortelsbury" "Ortelsbury"}
+2958 = {"Eastrode" "Eastrode"}
+
+# Estonia
+
+36 = {"Reval" "Reval"} # rh
+1834 = {"Dorpat" "Dorpat"} # or Terpate
+1842 = {"Narve" "Narve"}
+
+# Livonia
+
+37 = {"Livonia" "Villand"} # rp
+38 = {"Riga" "Riga"} # or Reeges, Reages
+273 = {"Latgalia" "Duneburgh"} # rp; or Dunebury
+4241 = {"Venden" "Venden"}
+
+# Samogitia
+
+270 = {"Tracken" "Tracken"}
+271 = {"Samogitia" "Warney"} # r
+1936 = {"Kovno" "Kovno"} # rh
+4534 = {"Upton" "Upton"}
+
+# West Prussia
+
+43 = {"Danzick" "Danzick"}
+1841 = {"Marybrough" "Marybrough"}
+2997 = {"Tuchel" "Tuchel"}
+
+## IBERIA
+
+# Alentejo
+
+227 = {"Lisbon" "Lisbon"} # r
+229 = {"Upper Alentay" "Begia"}
+230 = {"Alverton" "Lake City"}
+4150 = {"Lower Alentay" "Ebore"}
+4787 = {"Tagus Valley" "Saint Irene"}
+
+# Aragon
+
+211 = {"Pyrenees" "Oscay"}
+214 = {"Saragossa" "Saragossa"} # h
+2990 = {"Terwell" "Terwell"}
+4557 = {"Catalade" "Catalade"}
+
+# Asturias (Astúrias)
+
+207 = {"Asturies" "Oviedo"}
+1745 = {"Cantlebury" "Saint Andrew"} # Santander
+1746 = {"Burges" "Burges"}
+4552 = {"Palence" "Palence"}
+
+# Baleares
+
+333 = {"Mallorca" "Palms of Mallorca"} # rp
+4559 = {"Menorca" "Port Magon"} # rp
+4560 = {"Ibiza" "Ibiza"} # r
+
+# Beira
+
+228 = {"Inner Edge" "Viseigh"} # from etymology
+231 = {"Oporto" "Oporto"} # r
+232 = {"Braganza" "Braganza"} # r
+1851 = {"Coimbridge" "Coimbridge"}
+4556 = {"Averow" "Averow"}
+
+# Castille
+
+215 = {"Valdoley" "Valdoley"}
+217 = {"Madrid" "Madrid"}
+2755 = {"Soray" "Soray"}
+4551 = {"Avile" "Avile"}
+4789 = {"Segowy" "Segowy"}
+
+# Catalonia
+
+197 = {"Rousell" "Perpiny"}
+212 = {"Gerone" "Gerone"}
+213 = {"Barcelon" "Barcelon"}
+2987 = {"Urgell" "Urgell"}
+2988 = {"Tarregey" "Tarregey"}
+
+# Extremadura
+
+218 = {"Badaghost" "Badaghost"}
+1747 = {"Caesares" "Caesares"}
+4788 = {"Placentia" "Placentia"}
+
+# Galicia
+
+206 = {"The Groyne" "The Groyne"}
+4554 = {"Luggon" "Luggon"}
+4555 = {"Bridgeton" "Bridgeton"}
+4558 = {"Orense" "Orense"}
+
+# Leon
+
+208 = {"Lion" "Lion"}
+216 = {"Salemaign" "Salemaign"}
+4553 = {"Zamore" "Zamore"}
+
+# Lower Andalucia
+
+224 = {"Seville" "Seville"} # r
+225 = {"Cordove" "Cordove"}
+1748 = {"Jayen" "Jayen"}
+1749 = {"Cadice" "Cadice"}
+4548 = {"Huelve" "Huelve"}
+
+# Toledo
+
+219 = {"Tyldesley" "Tyldesley"}
+221 = {"Murcey" "Múrcia"}
+2751 = {"Quency" "Quency"}
+2754 = {"Realton" "Realton"}
+4547 = {"Albacet" "Albacet"}
+
+# Upper Andalucia
+
+222 = {"Almeria" "Almeria"}
+223 = {"Granade" "Granade"}
+226 = {"Gibraltar" "Gibraltar"} # Gibraltar is already owned by the UK
+4546 = {"Malagay" "Malagay"}
+
+# Valencia
+
+220 = {"Valentia" "Valentia"}
+1750 = {"Allicane" "Allicane"}
+4549 = {"Shative" "Shative"}
+4550 = {"Castleton" "Castleton"}
+
+# Vasconia
+
+209 = {"Biscay" "Billbow"}
+210 = {"Navarre" "Pamplune"}
+2989 = {"Rodge" "Logrogne"}
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Edwenshire" "Mulham"} # We have Alfordshire, Allfordshire, Allerfordshire, or Allenfordshire, named after the Allier river; and Edwenshire, named after the Celtic Éduen peoples. Our current name is Bourvonshire. 
+195 = {"Wynland" "Lunham"} # We have Wynfordshire or Wynland named after the Vienne river, and then rendering it into Vienne -> Vien -> Vyn -> Wyn; or Augston(shire), named after the Latin name for Limoges (Augustoritum); or Limewichshire.
+199 = {"Overny" "Clearmount-Ferdinands"} # By geographic features, we can name it Jervyshire after the Gergovia Plateau. Our current name is Auverny, so I guess we could also name it Overny or Overshire, using realistic and historical phonetic British adaptations.
+4697 = {"Vernham" "Gereck"} # The province was named after the Celtic Arverni peoples, and the capital name after the Guéret city.
+4777 = {"Wysham" "Mountbrion"} # We have Forrelandshire instead of Foreton (our current name); Wysham or Wysefordshire based on the Vizezy river ("Wyse"); Mountbrinshire; and Briseland, based on the Gaulish deity "Briso".
+
+# Brittany
+
+169 = {"Armreachshire" "Saint Malow"} # We could have Malowshire; Reaginshire, based on the Latin name Reginca, named after a Roman settlement in the same area; and Armereachshire or Armreachshire, based on the Latin Roman name for Brittany, "Armorica".
+170 = {"Penfieldshire" "Breston"} # Penfordshire is based on the Penfeld river; we also have Osimbyshire, based on the Osismii tribe; Brestockshire, based on the Legendary King Bristoc/Bristocus; and Brestonshire or Breston.
+171 = {"Wenethshire" "Weneth"} # Renaming Vannes (same name in French) to Wenton, from the Gaulish *Wenetoi. We can simply name the province name as Wenethshire. Or we can also change the province name to Darroghshire, based on the Roman name Dariorigum; or name it Caradockshire or Caradockland based on the Legendary King Caradoc Freichfras.
+172 = {"Condorland" "Nansburgh"} # Based on the Namnètes Tribe, we can adapt the province name to Namentshire or Namentland. We can also name it Conderchester or Condershire, based on the Roman name Condevicum -> Condor. We also have Portus Namnetum -> Portnam, where we could adapt it to Portnamshire, Portnamland, or Greater Portnam (following the example of Greater London or Greater Manchester).
+4384 = {"Redonshire" "Redon"} # We can adapt the province name to Cundonreddon(shire), based on the Celtic word Condate, meaning "confluence". Based on physical features of the river's confluence, we could have Twinfordshire or Meetfordland, and, based on a Celtic or Tribal Identity, we could adapt the province name to Redfolk or Redmere.
+
+# Champagne
+
+181 = {"Rothelshire" "Rothel"} # Based on the city of Rothel, we can have Rothelshire. We can also have The Ardens (even more anglicized from The Ardennes), Aynshire (based on the river Aisne, anglicizing as River Ayn), Reesteshire (based on one of the Celtic/Roman names, villa Reistete, to Reestate + -shire), Nantaleshire (anglicized from Nanteuil-sur-Aisne -> Nantale-on-Ayn).
+186 = {"Remonshire" "Remon"} # Based on the city of Rheims, we can have Rheimshire. We can also have Vessleshire or Vesle, from the river Vesle; Dorcourtshire, from the Latin name Durocortorum; and Aynfordshire, from the river Aisne -> Ayn + ford + shire
+4390 = {"Vyneham" "Troys"} # Renaming Troington to Troys (Troyes). We can have Vyneham from the river Vienne (Vyne) + -ham. Else, we can have Augsbournshire from Augustobona.
+
+# Eastern Burgundy
+
+192 = {"Didgenshire" "Didgen"} # Based on the capital name
+193 = {"Freshire" "Bisance"} # From the Celtic Sequani people
+4764 = {"Sealthshire" "Salens"} # named after the Senones people
+
+# Gascony
+
+173 = {"Athfordshire" "Boughtstead"} # named after the river
+175 = {"Oxshire" "Auch"} # named after the Ausci people
+176 = {"Tarbland" "Palborough"} # named after the Tarbelli people
+4694 = {"Ergefordshire" "Foak"} # named after the Ariège river
+
+# Guyenne
+
+174 = {"Burdshire" "Burdale"} # named after the Latin "Burdigala"
+194 = {"Brackhamshire" "Brackham"} # named after the Latin or Gaulish (Germaic) name Braccius; Braccius' house/settlement
+198 = {"Rogworthshire" "Rutherham"} # old name before the update conserved
+4112 = {"Carson" "Carridge"} # meaning "Cadurcians" from Old English (Cerscenas), and then phonetically adapting it to Carson
+
+# Ile-de-France
+
+182 = {"Dalland" "Sweshing"} # from the meaning of "Valois", giving dæl as the Old English word for "valley"
+183 = {"Paris" "Paris"} # keeping it
+185 = {"Senset" "Atholt"} # from the Celtic Senones people + "-set" meaning dwellers; the capital name comes from "æt þe holt", meaning "At the woods", reflecting Nemours' semantics.
+4388 = {"Carnset" "Carnton"} # from the Carnutes Gaulish tribe, adding "-set"; capital name means "settlement of the Carnutes people"
+
+# Languedoc
+
+196 = {"Garmouthshire" "Toolhouse"} # province name coming from the Garonne river + "mouth" meaning "the bank of"; phonetical adaptation of Toulouse for the capital name
+200 = {"Montellingshire" "Montelling"} # dyeing mountain, from the meaning of the Latin "Mons Pessulanus"
+2753 = {"Narbroughshire" "Narbrough"} # from Narburgh (Narbonne)
+4391 = {"Wivershire" "Wivery"} # adaptation from Old English Vivariensis into Wiwæringes; same done for the capital
+4695 = {"Carkanshire" "Carkanton"} # by folk etymology as "Carca's farm/settlement"
+
+# Loire Valley
+
+177 = {"Maine" "Senmore"} # keeping the province name
+178 = {"Angeland" "Ancham"} # from Angevin into Angeus in Middle French, and then into Angeland; Andecavi into Andecaf in Old english
+4389 = {"Tyshland" "Tourningham"} # province name from Old Norse Túskaland; capital name from Turonum
+
+# Lorraine
+
+187 = {"Kinchestershire" "Kinchester"} # "King's" + "chester" + "shire", referring to what "Bar-le-Duc" means (etymologically and semantically) in Old English
+188 = {"Mardon" "Mechester"} # after the Mediomatrici people
+189 = {"Lodringshire" "Nansy"} # from the Old English toponym for Lorraine + shire
+4766 = {"Norstfolk" "Verdon"} # Northeast Folk
+
+# Normandy
+
+167 = {"Rothamshire" "Rotham"} # from Old English Roðem
+168 = {"Cathamshire" "Catham"} # from Old English Caðom
+1879 = {"Allenshire" "Allenbrough"} # from German Allenburg
+4385 = {"Cottentry" "Cherbrough"} # from Old English Kiæresburh
+
+# Orleanais
+
+179 = {"Burgeshire" "Burge"} # from Beoranburg(scir), reflecting the etymology of Bourges
+184 = {"Arlshire" "Arlsey"} # Aurelius' settlemnt
+4776 = {"Blesstonshire" "Blesston"} # The shire of Blesu's settlement
+
+# Picardie
+
+87 = {"Pale of Cales" "Cales"} # Calais; Pale of Calais was a real name
+88 = {"Artesia" "Athrick"} # based on Atrecht
+89 = {"Picardy" "Amben"} # Based on an attested Old English name (Æmbean)
+1743 = {"Camerick" "Camerick"} # h
+
+# Poitou
+
+180 = {"Upper Pictland" "Picton"} # from etymology
+4111 = {"Sarthenset" "Sarnon"} # from the Santones peoples
+4386 = {"Lower Pictland" "Lussen"} # from etymology
+4387 = {"Ecklemshire" "Icklester"} # from the Latin toponym Iculisma
+
+# Provence
+
+201 = {"Axfordshire" "Axford"} # the shire of the ford of the river Ax (Æx)
+202 = {"Dunrodshire" "Avon"} # the shire of the river Durn and the river Rod (Durnance and Rhône)
+2991 = {"Furside" "Duncot"} # the province name means the area around the furnace, reflecting the etymology of Forcalquier; the capital name means "small building nearby low mountain ranges"
+4696 = {"Toolshire" "Toolon"} # phonetic adaptation
+
+# Savoy
+
+203 = {"Luddonshire" "Luddon"} # based on the historically recorded "Lugdon" toponym for Lyon
+204 = {"Delfinate" "Forshope"} # Delfinate for Dauphiné; Forshope would come from Inglis (Middle English) Forsborhop, from Anglo-Saxon (Old English) Forstborghap, a shortened version of Forstigumbeorgumheap, meaning "group of frosty mountains", reflecting the landscape and geography of the city of Grenoble
+205 = {"Camfrythshire" "Camfrythwick"} # from Inglis Camfrythweke, from Anglo-Saxon Cæmfriðweoce, from Latin Camefriacum
+4719 = {"Brightonshire" "Borough-upon-Brighton"} # from Anglo-Saxon Brictunscir, from Bricius' Land, etymologically cognate with Bresse; Borough-upon-Brighton was adapted from Bourg-en-Bresse
+
+# Western Burgundy
+
+191 = {"Nuffolk" "Nerham"} # province name meaning "New Folk", "New People", relating to the Aedui peoples; Nefram from Latin Nevirnum
+1877 = {"Twishire" "Twisley"} # province name meaning "the shire of the two-river confluence"; capital name based on the province name + "-ey" meaning "settlement of"
+4392 = {"Yonbridgeshire" "Buchester"} # capital name from Inglis Butwalchestre, from Butwælceaster, literally meaning "the fortified city without walls"; Yonbridgeshire was named after the river Yonne
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Prague" "Prague"} # r
+2968 = {"Boudwise" "Boudwise"}
+2970 = {"Kingsbury" "Kingsbury"}
+4724 = {"Porwich" "Porwich"}
+4725 = {"Newhouse" "Newhouse"}
+
+# Braunschweig (Brunswick)
+
+57 = {"Brownswick" "Brownswick"}
+1758 = {"Hanover" "Hanover"} # r
+2971 = {"Heagon" "Heagon"}
+4773 = {"Gothing" "Gothing"}
+
+# Erzgebirge
+
+267 = {"Pilsen" "Pilsen"} # h
+1771 = {"Lutterwich" "Lutterwich"}
+2967 = {"Egire" "Egire"}
+
+# Hesse
+
+78 = {"Mayence" "Mayence"} # r (archaic)
+81 = {"Upper Hessia" "Marborrow"} # rc (archaic)
+1762 = {"Lower Hessia" "Casle"}
+1876 = {"Frankfort" "Frankfort on the Maine"} # h
+4774 = {"Fuld" "Fuld"} # r (archaic)
+
+# Hinterpommern
+
+48 = {"Colbarrow" "Colbarrow"}
+2995 = {"Stolpen" "Stolpen"}
+4746 = {"Olton" "Stargate"}
+
+# Lower Rhineland
+
+80 = {"Treves" "Treves"} # r (archaic)
+1760 = {"Coblence" "Coblence"} # r (archaic)
+1878 = {"Acen" "Acen"} # or Aix-la-Chapelle (which isn't English)
+4768 = {"Ginlick" "Ginlick"} # r (archaic), or Juliers, which is also archaic (but sounds French)
+
+# Lower Saxony
+
+44 = {"Hambury" "Hambury"}
+53 = {"Lownbury" "Lownbury"}
+1857 = {"Lionsburgh" "Lionsburgh"}
+4772 = {"Celle" "Celle"}
+
+# Lusatia
+
+60 = {"Budsen" "Budsen"}
+1763 = {"Lower Lusatia" "Cottenbury"}
+4778 = {"Gorwich" "Gorwich"}
+
+# Mecklenburg
+
+45 = {"Liebrook" "Liebrook"}
+46 = {"Rostock" "Rostock"}
+2996 = {"Vismer" "Vismer"}
+4749 = {"Strewich" "New Strewich"}
+4786 = {"Prunnwich" "Prunnwich"}
+
+# Mittelmark
+
+50 = {"Bearlin" "Berlin"} # r
+51 = {"Ruppen" "New Ruppen"}
+1759 = {"Potsdom" "Potsdom"}
+2993 = {"Huckermarch" "Prentslaw"}
+4748 = {"Brandenburg" "Brandenburg-on-the-Haffel"}
+
+# Moravia
+
+265 = {"Brune" "Brune"}
+4237 = {"Olmwich" "Olmwich"}
+4726 = {"Ostraw" "Ostraw"}
+
+# Neumark
+
+49 = {"New March" "Landsbergh-on-the-Warthaw"} # rp
+2969 = {"Sternbergh" "Frankfort-on-the-Oder"}
+4747 = {"Drambrough" "Drambrough"}
+
+# North Rhine
+
+83 = {"Nassaw" "Windborough"}
+84 = {"Barrow" "Thusseldorp"}
+85 = {"Cologne" "Cologne"} # h
+2975 = {"Cliff" "Cliff"}
+
+# North Westphalia
+
+56 = {"Oakensbridge" "Oakensbridge"}
+69 = {"Droatenmouth" "Droatenmouth"}
+86 = {"Minster" "Minster"}
+2973 = {"Meppen" "Meppen"}
+
+# Saxony
+
+59 = {"Whittenbarrow" "Whittenbarrow"}
+61 = {"Droaden" "Droaden"}
+62 = {"Lipswich" "Lipswich"}
+4744 = {"Swickaw" "Swickaw"}
+
+# Saxony-Anhalt
+
+52 = {"Maidenburgh" "Maidenburgh"} # r (archaic)
+58 = {"Anhalt" "Dessaw"} # rc (archaic)
+2964 = {"Old March" "Stonely"} # rp
+4741 = {"Hawlone" "Hawlone"}
+4742 = {"Goselaw" "Goselaw"}
+
+# Schleswig-Holstein
+
+13 = {"Sleswick" "Sleswick"} # r (archaic)
+1775 = {"Holsatia" "Keele"} # rp (archaic)
+4141 = {"Theedmerse" "Moledorp"}
+
+# South Westphalia
+
+82 = {"Westphalia" "Ardlebarrow"} # rp
+2972 = {"Patherbourne" "Patherbourne"}
+4775 = {"Ravensbarrow" "Baylesfield"}
+
+# Thuringia
+
+63 = {"Erforth" "Erforth"}
+2965 = {"Fogland" "Plawen"}
+4743 = {"Weymere" "Weymere"}
+
+# Vorpommern
+
+47 = {"Strolesound" "Strolesound"}
+1858 = {"Stetton" "Stetton"}
+2994 = {"Wholegast" "Wholegast"}
+4745 = {"Rugia" "Barrow-upon-Rugia"} # rp
+
+# Weser
+
+54 = {"Stade" "Stade"}
+55 = {"Oldenburgh" "Oldenburgh"}
+1874 = {"Bremon" "Bremon"}
+4771 = {"Verdon" "Verdon"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Strasburgh" "Strasburgh"} # r (archaic)
+1880 = {"Southshire" "Altkirk"} # rc (archaic), or Old Church
+4765 = {"Millhouse" "Millhouse"}
+
+# Austria Proper
+
+133 = {"Upper Austria" "Lince"}
+134 = {"Vienna" "Vienna"} # r
+1770 = {"Crems" "Crems"}
+4761 = {"Hallstead" "Hallstead"}
+4762 = {"Lower Austria" "Saint Hippolytus"}
+
+# Baden
+
+72 = {"Brisgow" "Friburgh"} # r (archaic)
+74 = {"Bathen" "Bathen"}
+4714 = {"Durlack" "Charlesrow"} # rp (archaic)
+
+# Carniola
+
+129 = {"Carniola" "Lawbeach"} # rp
+130 = {"Istria" "Powlen"} # rp
+1769 = {"Gorice" "Gorice"}
+4738 = {"Triest" "Triest"}
+4751 = {"Sellen" "Sellen"}
+
+# East Bavaria
+
+76 = {"Saltsburgh" "Saltsburgh"} # r (archaic)
+4709 = {"Passaw" "Passaw"} # r (archaic)
+4760 = {"Inner Quarter" "Brownen-on-the-Inn"}
+
+# East Swabia
+
+68 = {"Memmings" "Memmings"} # or Memming
+1868 = {"Augsburgh" "Augsburgh"} # r (archaic)
+1872 = {"Oulme" "Oulme"} # or Oulm
+4711 = {"Danubeworth" "Northling"}
+
+# Inner Austria
+
+128 = {"Lower Carinthia" "Clagenford"}
+132 = {"Styria" "Yudenburgh"}
+1863 = {"Grats" "Grats"}
+4759 = {"Upper Carinthia" "Townsbrook"}
+
+# Lower Bavaria
+
+64 = {"Landsguard" "Landsguard"}
+1757 = {"Upper Palatinate" "Ambarrow"}
+2956 = {"Strupping" "Strupping"}
+2957 = {"Ratisbon" "Ratisbon"} # r (archaic)
+
+# Lower Franconia
+
+71 = {"Ansbrook" "Ansbrook"}
+79 = {"Wurzburgh" "Wurzburgh"} # r (archaic)
+4715 = {"Reddenbury" "Reddenbury"}
+4718 = {"Ashoffbury" "Ashoffbury"} # or "Ashoffburgh" 
+
+# Palatinate
+
+77 = {"Haydalbarrow" "Haydalbarrow"}
+1761 = {"Palatinate" "Vorms"}
+4767 = {"Two Bridges" "Two Bridges"}
+
+# Romandie
+
+165 = {"Bern" "Bern"} # r
+1867 = {"Losane" "Losane"}
+1871 = {"Sedune" "Sedune"}
+4720 = {"Geneva" "Geneva"}
+4721 = {"Freeburgh" "Freeburgh"}
+
+# Switzerland
+
+166 = {"Switch" "Switch"}
+1869 = {"Zurich" "Zurich"}
+1870 = {"Saint Gall" "Saint Gall"}
+1873 = {"Coire" "Coire"}
+4722 = {"Illance" "Illance"}
+
+# Tirol
+
+73 = {"Innvale" "Innsbridge"}
+110 = {"Trent" "Trent"}
+1768 = {"Lience" "Lience"}
+4710 = {"Breighdon" "Breighdon"}
+4758 = {"Atchdale" "Bolsen"}
+
+# Upper Bavaria
+
+65 = {"Munich" "Munich"} # r
+2955 = {"Englestead" "Englestead"}
+4707 = {"Waterbrough" "Waterbrough-on-the-Inn"}
+4708 = {"Freesing" "Freesing"}
+
+# Upper Franconia
+
+66 = {"Bambrow" "Bambrow"}
+67 = {"Nuremberg" "Nuremberg"} # r
+4716 = {"Cowbury" "Cowbury"}
+4717 = {"Barrute" "Barrute"}
+
+# West Swabia
+
+70 = {"Wirtemberg" "Stoutyard"} # r (archaic)
+4712 = {"Constance" "Constance"} # r (archaic)
+4713 = {"Uradge" "Rewling"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Sieradge" "Sieradge"}
+1939 = {"Lesnich" "Lesnich"}
+4533 = {"Velon" "Velon"}
+
+# Kuyavia
+
+1859 = {"Culm" "Culm"}
+4523 = {"Inner Breslaw" "Inner Breslaw"}
+4524 = {"Dobrin" "Dobrin-on-the-Vistula"}
+4528 = {"Kuyavia" "Kuyavian Berest"} # rp
+
+# Malopolska
+
+262 = {"Cracow" "Cracow"} # h
+2960 = {"New Sanch" "New Sanch"}
+4527 = {"Chesney" "Chesney"} # gpt
+
+# Mazovia
+
+256 = {"Plock" "Plock"}
+257 = {"Warsaw" "Warsaw"} # r (obviously)
+1938 = {"Wisney" "Wisney"}
+4525 = {"Rawe" "Rawe"}
+
+# Red Ruthenia
+
+261 = {"Halych" "Halych"}
+1940 = {"Bels" "Bels"}
+2424 = {"Premsel" "Premsel"}
+2961 = {"Lionburgh" "Lionburgh"}
+4541 = {"Drawbich" "Drawbich"}
+
+# Sandomierz
+
+259 = {"Sandomeer" "Sandomeer"}
+260 = {"Lublin" "Lublin"}
+2959 = {"Tarnow" "Tarnow"}
+
+# Silesia
+
+263 = {"Ratterborn" "Ratterborn"}
+264 = {"Breslaw" "Breslaw"}
+2966 = {"Great-Glogow" "Great-Glogow"} # just like with Great-Grimsby (from German Gross-Glogau)
+4238 = {"Lignich" "Lignich"}
+4723 = {"Opoley" "Opoley"}
+
+# Wielkopolska
+
+254 = {"Posen" "Posen"}
+255 = {"Calwich" "Calwich"}
+2963 = {"Neton" "Nakel-on-the-Neton"}
+4526 = {"Gnesney" "Gnesney"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Seeland" "Copenhagen"} # r
+14 = {"Funen" "Woodensey"} # rp
+1981 = {"Berghholm" "Ronne"}
+1983 = {"Lowland" "New Market"}
+
+# Finland
+
+27 = {"Eaboun" "Eaboun"}
+28 = {"New Land" "Burea"}
+29 = {"Tavastia" "Tavastenhouse"} # rp
+31 = {"Savonia" "Olafsburgh"} # rp
+4123 = {"Birkania" "Tammerfalls"} # rp
+
+# Laponia
+
+315 = {"Finmark" "Warrey"}
+1777 = {"Kola" "Kandabay"}
+4151 = {"Enare" "Sodanby"}
+
+# Norrland
+
+9 = {"Helsingia" "Geffel"} # rp
+11 = {"West Bothnia" "Hummea"}
+18 = {"Lapland" "Arvidsyore"}
+4114 = {"Yockmock" "Yockmock"}
+
+# North Atlantic Islands
+
+370 = {"Reeckenwick" "Reeckenwick"} # or Reekenwick
+371 = {"Acerey" "Acerey"}
+1978 = {"Shetland" "Lerwick"} # r
+1979 = {"Faroe Islands" "Thor's Haven"} # r
+
+# North Jutland
+
+15 = {"West Jutland" "Riben"}
+1984 = {"North Jutland" "Armburgh"}
+4142 = {"East Jutland" "Armouth"}
+4149 = {"Kolding" "Kolding"}
+
+# Østlandet
+
+17 = {"Aceham" "Oslo"} # or Osleigh
+22 = {"Upperlands" "Hammer"}
+4143 = {"Boroughshire" "Moss"}
+4144 = {"Brantsbury" "Sheen"}
+
+# Östra Götland
+
+2 = {"West Gothland" "Lingmarket"}
+3 = {"Calmere" "Calmere"}
+25 = {"Gothland" "Wisby"}
+4166 = {"Waysea" "Waysea"}
+
+# Östra Svealand
+
+1 = {"Stockholm" "Stockholm"}
+4 = {"Burghslake" "Western Rivers"}
+1930 = {"Oland" "Mary's Port"}
+
+# Ostrobothnia
+
+19 = {"Ostrobothnia" "Crossholm"} # rp
+4113 = {"Rowensby" "Rowensby"}
+4152 = {"Cajania" "Manselk"} # rp
+
+# Skåneland
+
+6 = {"Malmigh" "Malmigh"}
+26 = {"Halland" "Halmstead"}
+1982 = {"Paling" "Roneby"}
+4165 = {"Geinge" "Gladsaw"}
+
+# Trøndelag
+
+10 = {"Hemtland" "Froson"}
+20 = {"Trondlake" "Trondham"}
+21 = {"Hollowland" "Trumsaw"}
+
+# Västra Götaland
+
+7 = {"Shareland" "Scareigh"}
+16 = {"Bagenhouse" "Marlbeach"}
+4163 = {"Alfsbury" "Alfsbury"}
+4164 = {"Dale" "Dalesburgh"}
+
+# Västra Svealand
+
+5 = {"Warmland" "Carlstead"}
+8 = {"Dalecarlia" "Moray"} # rp
+1985 = {"Nerckey" "Orebridge"}
+
+# Vestlandet
+
+23 = {"Bergmouth" "Bergen"}
+24 = {"Staffanger" "Staffanger"}
+2752 = {"Romsdale" "Mould"}
+4145 = {"Agdeside" "Mandale"}
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brudge" "Brudge"}
+1865 = {"Gaunt" "Gaunt"} # r
+4769 = {"Risel" "Risel"}
+
+# Frisia
+
+99 = {"Guelders" "Arnham"} # rp
+100 = {"Frisia" "Leward"}
+1931 = {"West Frisia" "Eymouth"}
+4381 = {"Upper Issel" "Swellen"}
+4382 = {"Gruningham" "Gruningham"}
+
+# Holland
+
+96 = {"Zealand" "Middleborough"} # rp
+97 = {"Amsterdam" "Amsterdam"} # r
+98 = {"Outcross" "Outcross"}
+4383 = {"The Hague" "The Hague"} # r
+
+# North Brabant
+
+95 = {"Bredding" "Bredding"}
+1742 = {"Upper Guelders" "Rearmint"}
+4770 = {"The Bush" "The Heretog's Bush"}
+
+# South Brabant
+
+92 = {"Brussels" "Brussels"} # r
+1744 = {"Antwerp" "Antwerp"} # r
+2974 = {"Lown" "Lownfort"}
+
+# Wallonia
+
+91 = {"Henwold" "Bourwen"}
+93 = {"Lewk" "Lewk"}
+94 = {"Litebury" "Litebury"}
+1866 = {"Namens" "Namens"}
+
+## ITALY
+
+101 = {"Genoa" "Genoa"} # r
+102 = {"Nice" "Nice"} # r
+103 = {"Turin" "Turin"} # r
+104 = {"Milan" "Milan"} # r
+105 = { "Parme" "Parme" }
+106 = { "Moden" "Moden" }
+107 = { "Bresson" "Bresson" }
+108 = { "Verone" "Verone" }
+109 = { "Mantua" "Mantua" } # r
+110 = { "Trent" "Trent" } # r
+111 = { "Friule" "Uddin" }
+112 = { "Venice" "Venice" } # r
+113 = { "Ferrow" "Ferrow" }
+114 = { "Ravane" "Ravane" } # or Rovane
+115 = { "Pisa" "Pisa" }
+116 = { "Florence" "Florence" } # r
+117 = { "Sienna" "Sienna" } # rh
+118 = { "Rome" "Rome" } # r
+119 = { "Ancone" "Ancone" }
+120 = { "Abruse" "Pescar" }
+121 = { "Naples" "Naples" } # r
+122 = { "Salent" "Tarant" }
+123 = { "Calabria" "Regium of Calabria" }
+124 = { "Messine" "Messine" }
+125 = { "Palerm" "Palerm" }
+126 = { "Malta" "Medina" }
+127 = { "Sasser" "Sasser" }
+130 = { "Istria" "Pole" }
+1247 = { "Corsica" "Baste" }
+1769 = { "Gorce" "Gorce" }
+1774 = { "Trevice" "Trevice" }
+1862 = { "Cremone" "Cremone" }
+1875 = { "Cune" "Cune" }
+1933 = { "Barey" "Barey" }
+1934 = { "Basilicate" "Potence" }
+2976 = { "Peruge" "Peruge" }
+2977 = { "Urbine" "Urbine" }
+2978 = { "Aresson" "Aresson" }
+2979 = { "New Vare" "New Vare" } # or Novare
+2980 = { "Luke" "Luke" }
+2981 = { "Montferrat" "Casille" } # rp
+2982 = { "Syracuse" "Syracuse" } # r
+2983 = { "Salern" "Salern" }
+2984 = { "Cosence" "Cosence" }
+2985 = { "Fogia" "Fogia" }
+2986 = { "Caghlare" "Caghlare" }
+2992 = { "Savone" "Savone" }
+4727 = { "Saluce" "Saluce" }
+4728 = { "Pavia" "Pavia" }
+4729 = { "Padoa" "Padoa" } # r
+4730 = { "Bologne" "Bologne" }
+4731 = { "Spolet" "Spolet" } # or Spollet
+4732 = { "Terracine" "Terracine" }
+4733 = { "Molise" "Lower Fields" }
+4734 = { "Abeline" "Abeline" }
+4735 = { "Arbrey" "Oristane" }
+4736 = { "Trapane" "Trapane" }
+4737 = { "Agrigent" "Agrigent" }
+4738 = { "Triest" "Triest" } # r
+4739 = { "Bergham" "Bergham" }
+4740 = { "Comough" "Comough" } # or Com
+4758 = { "South Tyrol" "Meran" } # rp
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Becks" "Julia"}
+1953 = {"Sabolce" "Debrason"}
+1954 = {"Turrentale" "Great Betchereck"}
+4125 = {"Sollnock" "Sollnock"}
+
+# Moldova
+
+268 = {"Sochen" "Sochane"} # r
+1756 = {"Bessarabia" "New Cillia"} # rp
+2405 = {"Bender" "Bender"}
+4529 = {"Jassy" "Jassy"} # r
+4530 = {"Barlade" "Barlade"} # r
+
+# Northern Transylvania
+
+157 = {"Warden" "Great Warden"}
+158 = {"Mares" "New-Market-upon-Mares"}
+1952 = {"Marames" "Hust"}
+4127 = {"Thorenburgh" "Thorenburgh"}
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"}
+162 = {"Semmline" "Kashaw"}
+1318 = {"Sips" "Letchow"}
+1772 = {"Pressburgh" "Pressburgh"}
+4236 = {"Trenchin" "Trenchin"}
+
+# Southern Transylvania
+
+156 = {"Temesh" "Temeschwar"}
+1951 = {"Demrick" "Demrick"}
+4128 = {"Kingsbode" "Hermansby"}
+
+# Transdanubia
+
+135 = {"Odenburgh" "Odenburgh"}
+153 = {"Pesth" "Buda"}
+1864 = {"Shomody" "Copich"}
+4126 = {"Bach" "Bach"}
+4240 = {"Chayreburgh" "Chayreburgh"}
+
+# Wallachia
+
+160 = {"Oltenia" "Crayove"}
+161 = {"Tergovitch" "Tergovitch"}
+2998 = {"Bussow" "Bussow"}
+4531 = {"Gorge" "Gorge"}
+4532 = {"Severine" "Severine"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Valone" "Valone"}
+4174 = {"Durech" "Durech"}
+4175 = {"Lyses" "Lyses"}
+4750 = {"Croy" "Croy"}
+
+# Bosnia
+
+139 = {"Hume" "Mostare"}
+140 = {"Bosnia" "Doboy"} # rp
+1831 = {"Herzegovina" "Trebinia"} # rp
+3002 = {"Weysock" "Weysock"}
+4755 = {"Drina Valley" "Wisenton"} # rp
+
+# Bulgaria
+
+150 = {"Nickopol" "Nickopol"}
+1765 = {"Sofia" "Sofia"} # r
+2746 = {"Weddin" "Weddin"}
+2750 = {"Philippopole" "Philippopole"}
+4703 = {"Costendile" "Costendile"}
+
+# Croatia
+
+131 = {"Zagreb" "Zagreb"} # r
+1826 = {"Gospitch" "Gospitch"}
+1828 = {"Lower Ends" "Jace"}
+4752 = {"Saint Vitus" "Saint Vitus"}
+
+# Dalmatia
+
+136 = {"Spalate" "Spalate"}
+137 = {"Ragusa" "Ragusa"} # h
+4753 = {"Zara" "Zara"} # h
+
+# Macedonia
+
+148 = {"Macedonia" "Salonica"} # r (or Thessalonica)
+1853 = {"Castoria" "Castoria"} # r
+3001 = {"Scopey" "Scopey"}
+4702 = {"Serres" "Serres"}
+4780 = {"Ohride" "Ohride"}
+
+# Morea
+
+145 = {"Laconia" "Mystra"} # rp
+146 = {"Athens" "Athens"} # r
+163 = {"Crete" "Heracleon"} # rp
+1773 = {"Achaea" "Patras"} # rp
+4701 = {"Corinth" "Corinth"} # r
+
+# Northern Greece
+
+142 = {"Corcira" "Corcira"} # r
+144 = {"Epirus" "Saint John"} # r
+147 = {"Thessaly" "Larissa"} # r
+4698 = {"Cephalonia" "Sankt George"} # rp
+4699 = {"Arta" "Arta"} # r
+
+# Rascia
+
+138 = {"Shablack" "Shablack"}
+1766 = {"Kosovo" "Pristine"} # rp
+1827 = {"Rascia" "Tergovitch"} # rp
+4754 = {"Cotore" "Cotore"}
+
+# Serbia
+
+141 = {"Semendria" "Semendria"} # r
+3000 = {"Nish" "Nish"}
+4176 = {"Braniceve" "Crushewich"} # or Branisch
+4239 = {"Belgrade" "Belgrade"} # r
+4757 = {"Colben" "Losnitch"}
+
+# Silistria
+
+159 = {"Silistria" "Silistria"} # r
+4704 = {"Tarnow" "Great Tarnow"}
+4706 = {"Tulch" "Tulch"}
+
+# Slavonia (r)
+
+152 = {"Varashdine" "Varashdine"}
+1767 = {"Slavonia" "Osseck"} # rp
+4173 = {"Syrmia" "Metrowich"} # rp
+4756 = {"Bellwar" "Bellwar"}
+
+# Thrace
+
+149 = {"Adrianople" "Adrianople"}
+151 = {"Constantinople" "Constantinople"} # r
+1764 = {"Brughens" "Brughens"}
+4705 = {"Comotine" "Comotine"}
+4779 = {"Gallipole" "Gallipole"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrachan" "Astrachan"}
+466 = {"Saray" "Saray"}
+468 = {"Mannich" "Mannich"}
+2416 = {"Stavrople" "Stavrople"}
+2417 = {"Elister" "Elister"}
+
+# Azov
+
+286 = {"Azove" "Azove"}
+287 = {"Staffenburgh" "Staffenburgh"}
+2413 = {"Thune" "Thune"}
+2414 = {"Acksey" "Acksey"}
+
+# Crimea
+
+284 = {"Crimea" "Eupatoria"}
+285 = {"Cherson" "Cherson"}
+2410 = {"Theodosia" "Sevastople"}
+2447 = {"Eupatoria" "Eupatoria"}
+
+# Lower Don
+
+288 = {"Lower Don" "Voshenscow"}
+467 = {"Bernardslebe" "Bernardslebe"}
+1971 = {"Sarronbury" "Sarronbury"}
+2409 = {"Bachmut" "Bachmut"}
+
+# Yedisan
+
+282 = {"Ochenscow" "Ochenscow"}
+1974 = {"Cherson" "Cherson"}
+2406 = {"Berslaw" "Berslaw"}
+
+# Zaporizhzhia
+
+283 = {"Zaporishia" "Zaporishia"}
+2411 = {"Tore" "Tore"}
+2412 = {"Mariople" "Mariople"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Chernigow" "Chernigow"}
+1945 = {"Severia" "Newtown-in-Severia"}
+4543 = {"Reylsk" "Reylsk"} # look later
+
+# East Dniepr (Dnipro)
+
+290 = {"Poltow" "Poltow"}
+2407 = {"Pereslow" "Pereslow"}
+4542 = {"Lubney" "Lubney"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"}
+4115 = {"Mosyre" "Mosyre"}
+4242 = {"Ule" "Ule"}
+4544 = {"Bobrowsk" "Bobrowsk"}
+
+# Podlasie
+
+269 = {"Podlachia" "Drowich"}
+277 = {"Brest" "Brest-on-the-Bug"}
+1937 = {"Grodnow" "Grodnow"}
+
+# Podolia
+
+281 = {"Podolia" "Proscrow"}
+1943 = {"Bratslaw" "Bratslaw"}
+4540 = {"Vennitsy" "Vennitsy"}
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turrow" "Turrow"}
+4537 = {"New Grudock" "New Grudock"}
+4545 = {"Sloatsk" "Sloatsk"}
+
+# Red Ruthenia
+
+261 = {"Galicia" "Galicia"}
+1940 = {"Belce" "Belce"}
+2424 = {"Premissle" "Premissle"}
+2961 = {"Lemberick" "Lemberick"}
+4541 = {"Drogenbeach" "Drogenbeach"}
+
+# Sloboda Ukraine
+
+291 = {"Carcow" "Carcow"}
+298 = {"Cursk" "Cursk"}
+299 = {"Voronesh" "Voronesh"}
+2408 = {"Yelech" "Yelech"}
+
+# Smolensk
+
+293 = {"Smowlensk" "Smowlensk"}
+297 = {"Breensk" "Breensk"}
+4244 = {"Trubchow" "Trubchow"}
+4245 = {"Vysmare" "Vysmare"}
+
+# Volhynia
+
+279 = {"Volhynia" "Waldemar"}
+2962 = {"Rowney" "Rowney"}
+4538 = {"Kholm" "Kholm"}
+4539 = {"Cremeneach" "Cremeneach"}
+
+# West Dniepr
+
+280 = {"Kyiv" "Kyiv"}
+1942 = {"Zeitomeer" "Zeitomeer"}
+1947 = {"Circasey" "Circasey"}
+4247 = {"Obrowich" "Obrowich"}
+
+# White Ruthenia
+
+292 = {"Mohillow" "Mohillow"}
+771 = {"Vitepsk" "Vitepsk"}
+4246 = {"Mestislaw" "Mestislaw"}
+
+## CAUCASIA
+
+# Armenia
+
+419 = {"Yerevan" "Yerevan"}
+420 = {"Ganja" "Ganja"}
+2202 = {"Artsakh" "Hackendia"}
+2205 = {"Nauxane" "Nauxane"}
+4302 = {"Bayazite" "Bayazite"}
+
+# Circassia
+
+463 = {"Circassia" "Maycope"}
+2195 = {"Adygeia" "Sochy"}
+2197 = {"Cabardia" "Nalisk"}
+2201 = {"Alania" "Zaudicow"}
+
+# Dagestan
+
+425 = {"Dagestan" "Derbent"}
+2198 = {"Cundzia" "Grosny"}
+2199 = {"Petersfield" "Petersfield"}
+2208 = {"Mosdock" "Mosdock"}
+4306 = {"Lakia" "Cunsack"}
+
+# Imereti
+
+422 = {"Imeretia" "Kuttay"}
+462 = {"Megrelia" "Zugdey"}
+1856 = {"Abkhazia" "Sucumy"}
+
+# Kartli-Kakheti
+
+423 = {"Tiflis" "Tiflis"}
+2203 = {"Cahetia" "Televey"}
+4301 = {"Cartalinia" "Gory"}
+
+# Samtskhe
+
+2196 = {"Guria" "Batumy"}
+2204 = {"Lumsia" "Lumsia"}
+4303 = {"Olty" "Olty"}
+
+# Shirvan
+
+421 = {"Baku" "Baku"}
+4299 = {"Shamackey" "Shamackey"}
+4305 = {"Nukhe" "Nukhe"}
+4340 = {"Astare" "Astare"}
+
+### ASIA
+
+## WEST SIBERIA
+
+# Aqmola
+
+479 = {"Correy" "Correy"}
+2354 = {"Hastanes" "Hastanes"}
+2357 = {"Ackmoline" "Ackmoline"}
+4686 = {"Salt City" "Salt City"}
+
+## BENGAL
+
+# Assam
+
+566 = {"Charndy" "Charndy"}
+571 = {"Darron" "Colebare"}
+2040 = {"Sadey" "Sadey"}
+2042 = {"Cochay" "Gawty"}
+4440 = {"Narnper" "Narnper"}
+
+# East Bengal
+
+564 = {"Dacca" "Dacca"} # h
+2039 = {"Sunderbourne" "Bakeray"}
+4474 = {"Sundergon" "Sundergon"}
+4475 = {"Fathay" "Fathay"}
+4478 = {"Abney" "Abney"}
+
+# Garjat
+
+547 = {"Bester" "Jadalpore"}
+2048 = {"Jayper" "Jayper"}
+4445 = {"Cancore" "Cancore"}
+4446 = {"Calandy" "Calandy"}
+4448 = {"Parlcomey" "Parlcomey"}
+
+# Gaur
+
+563 = {"Gauds" "Pandon"} # Pandua
+2044 = {"Bhagulpore" "Bhagulpore"}
+4479 = {"Courgate" "Courgate"}
+
+# Jharkhand
+
+560 = {"Jarcand" "Pallamore"}
+2096 = {"Damming" "Deogore"}
+4450 = {"Mayorvange" "Mayorvange"}
+4470 = {"Somelpore" "Somelpore"}
+4471 = {"Bishnupore" "Bishnupore"}
+
+# Naga Hills
+
+570 = {"Nage" "Dimmore"}
+573 = {"Cachore" "Maybane"}
+2041 = {"Manypore" "Imphall"}
+
+# North Bengal
+
+562 = {"Coch" "Kammamore"}
+2045 = {"Rangemore" "Rangemore"}
+2046 = {"Naçiravade" "Naçiravade"}
+4486 = {"Púrnia" "Purnes"}
+
+# Orissa
+
+552 = {"Cutaque" "Cutaque"}
+2038 = {"Tameluca" "Tameluca"}
+2043 = {"Balaçorá" "Balaçorá"} # r
+2049 = {"Curda" "Curda"}
+4441 = {"Ganjão" "Ganjão"}
+
+# Tripura
+
+567 = {"Selheta" "Selheta"}
+2091 = {"Drípura" "Udapura"}
+4473 = {"Monguires" "Monguires"}
+
+# Upper Mahanadi
+
+553 = {"Savalpura" "Savalpura"}
+2082 = {"Rápora" "Rápora"}
+4447 = {"Pátena" "Pátena"}
+4451 = {"Sônpura" "Sônpura"}
+4452 = {"Ratenapura" "Ratenapura"}
+
+# West Bengal
+
+561 = {"Delta do Bengal" "Óvera"}
+2081 = {"Lacôra" "Lacôra"}
+4476 = {"Ugulim e Bandel" "Ugulim e Bandel"} # r
+4477 = {"Satacão" "Satacão"}
+
+## DECCAN
+
+# Ahmednagar
+
+544 = {"Amanágaro" "Amanágaro"}
+545 = {"Davacavade" "Davacavade"}
+4432 = {"Juvira" "Juvira"}
+4433 = {"Nasique" "Nasique"}
+4437 = {"Pádare" "Pádare"}
+
+# Berar
+
+546 = {"Verare Oriental" "Vairacare"}
+548 = {"Elichepura" "Elichepura"}
+2050 = {"Chanda" "Balaçá"}
+4442 = {"Vashim" "Vashim"}
+4443 = {"Caranja" "Caranja"}
+
+# Desh
+
+1946 = {"Sacara" "Sacara"}
+2034 = {"Põe" "Põe"}
+4431 = {"Colhapura" "Colhapura"}
+
+# Gondwana
+
+550 = {"Macochal" "Cara"}
+551 = {"Mândela" "Mândela"}
+2092 = {"Madeio" "Quérla"}
+4458 = {"Narvada" "Characar"}
+4460 = {"Ândia" "Ândia"}
+
+# Kanara
+
+531 = {"Cará do Norte" "Vatacal"}
+2029 = {"Mangalor" "Mangalor"} # r
+2030 = {"Goa" "Goa"} # r
+2032 = {"Maiado" "Equéria"}
+4427 = {"Baticalá" "Baticalá"} # r
+
+# Konkan
+
+529 = {"Bombaim" "Bombaim"} # r
+530 = {"Devole" "Devole"}
+2089 = {"Chaúl" "Chaúl"}
+4429 = {"Rajapura" "Rajapura"}
+
+# Maidan
+
+569 = {"Vijapura" "Vijapura"}
+1948 = {"Vídaro" "Vídaro"}
+2035 = {"Colvarga" "Colvarga"}
+4435 = {"Solhapura" "Solhapura"}
+
+# Malabar
+
+534 = {"Calecute" "Calecute"} # r
+535 = {"Cochim" "Cochim"} # r
+537 = {"Coulão" "Coulão"} # r
+4410 = {"Cúmaro" "Cúmaro"}
+4413 = {"Cananor" "Cananor"} # r
+
+# Mysore
+
+533 = {"Míçora" "Omatura"}
+2031 = {"Moraçado" "Moraçado"}
+4421 = {"Seringapatão" "Seringapatão"} # r
+4422 = {"Sira" "Sira"}
+4426 = {"Chitadonga" "Chitadonga"}
+
+# North Telingana
+
+2028 = {"Maôr" "Maôr"}
+4438 = {"Nandera" "Nandera"}
+4444 = {"Madurca" "Madurca"}
+
+# Raichur Doab
+
+532 = {"Rachôra" "Rachôra"}
+2033 = {"Savaôra" "Darvar"}
+4428 = {"Muguedal" "Muguedal"}
+
+# Rayalaseema
+
+541 = {"Bisnaga" "Bisnaga"} # r, Vijayanagar
+1949 = {"Paconda" "Paconda"}
+2090 = {"Cornól" "Srisaião"}
+4423 = {"Gotim" "Gotim"}
+4424 = {"Adevaim" "Adevaim"}
+
+# South Telingana
+
+542 = {"Golcônda" "Golcônda"}
+2037 = {"Varangal" "Varangal"}
+4436 = {"Davaconda" "Davaconda"}
+4439 = {"Camamete" "Camamete"}
+
+## COROMANDEL
+
+# Andhra
+
+543 = {"Masulipatão" "Masulipatão"} # r
+549 = {"Calagândria" "Vezagrão"}
+2080 = {"Sricacuão" "Sricacuão"}
+2084 = {"Coasema" "Rajamundra"}
+4425 = {"Condavidém" "Condavidém"}
+
+# Kongu
+
+538 = {"Congo Indiano" "Carore"}
+2085 = {"Truchapalhim" "Truchapalhim"}
+4414 = {"Saém" "Saém"}
+
+# Madura
+
+536 = {"Tuticorim" "Tuticorim"} # r
+2101 = {"Tervelim" "Tervelim"}
+4412 = {"Dandêgula" "Dandêgula"}
+
+# North Carnatic
+
+2083 = {"Udagerim" "Udagerim"}
+4418 = {"Nelhôres" "Nelhôres"}
+4419 = {"Adaquim" "Adaquim"}
+4420 = {"Chandraquire" "Chandraquire"}
+
+# North Lanka
+
+2100 = {"Jafanapatão" "Jafanapatão"} # r
+4408 = {"Sáveta" "Sáveta"}
+4409 = {"Triquinimale" "Trinquinimale"} # r; or either Gorcão or Gurcão as made up names
+
+# South Carnatic
+
+539 = {"Paliacate" "Paliacate"}
+540 = {"Cudaura" "Cudaura"}
+1947 = {"Gingé" "Gingé"}
+2027 = {"Arcota" "Arcota"}
+4417 = {"Meliapore" "São Tomé de Meliapore"} # r
+
+# South Lanka
+
+572 = {"Cota" "Cota"} # r; or "Seri Jaiavardenapura-Cota"
+2099 = {"Cândia" "Cândia"}
+4407 = {"Rona" "Rona"}
+
+# Tanjore
+
+2026 = {"Tânjora" "Tânjora"}
+4415 = {"Negapatão" "Negapatão"} # r
+4416 = {"Porto Novo" "Porto Novo"} # r
+
+## HINDUSTAN
+
+# Baghelkhand
+
+2097 = {"Bagalcândia" "Batagora"}
+2098 = {"Sorcuja" "Sorcuja"}
+4468 = {"Bavergão" "Bavergão"}
+
+# Baisi Rajya
+
+554 = {"Barrajão" "Barrajão"}
+4491 = {"Dângue" "Dângue"}
+4492 = {"Detim" "Detim"}
+
+# Bihar
+
+558 = {"Filho de Patália" "Filho de Patália"} # e
+4469 = {"Rotagarda" "Rotagarda"}
+4472 = {"Monguir" "Monguir"}
+4489 = {"Ajípora" "Ajípora"}
+
+# Bundelkhand
+
+559 = {"Janzim" "Janzim"}
+2059 = {"Calpim" "Calpim"}
+4459 = {"Sângora" "Sângora"}
+4466 = {"Maóvia" "Maóvia"}
+4467 = {"Calínare" "Calínare"}
+
+# Gird
+
+525 = {"Guevalião" "Guevalião"}
+528 = {"Dócia" "Dócia"}
+740 = {"Chandérria" "Chandérria"}
+4464 = {"Brúndes" "Brúndes"}
+4465 = {"Ratâmbora" "Ratâmbora"}
+
+# Himalayan Hills
+
+509 = {"Cângora" "Vale do Cângora"}
+511 = {"Gareval" "Deválgora"}
+2069 = {"Cumão" "Champáveta"}
+4493 = {"São Simão" "Maleião"}
+
+# Kashmir
+
+508 = {"Caxemira" "Cáspira"} # rp
+2073 = {"Sárguina" "Sárguina"}
+2074 = {"Ladaque" "Maraça"}
+4449 = {"Jama" "Jama"}
+4521 = {"Escarda" "Escarda"}
+
+# Katehar
+
+2061 = {"Cátara" "Badaião"}
+4498 = {"Sambal" "Sambal"}
+4499 = {"Bareilão" "Bareilão"}
+
+# Lahore
+
+507 = {"Laore" "Laore"} # capital of Pakistan
+2075 = {"Doava" "Jandá"}
+2076 = {"Sagá" "Sagá"}
+4510 = {"Shorcota" "Shorcota"}
+4513 = {"Depaôra" "Depaôra"}
+
+# Lower Doab
+
+524 = {"Duabe Central" "Madura"}
+556 = {"Baixo Duabe" "Alhavade"}
+2063 = {"Acava" "Acava"}
+4496 = {"Cora" "Cora"}
+
+# Mithila
+
+2047 = {"Terute" "Sucáva"}
+4484 = {"Macapão" "Macapão"}
+4487 = {"Sarão" "Sarão"}
+4488 = {"Champarão" "Champarão"}
+
+# Multan
+
+506 = {"Malhias" "Malhias"}
+2079 = {"Dera" "Dera"}
+2086 = {"Choistão" "Uche"}
+4508 = {"Baváia" "Baváia"}
+4509 = {"Carora" "Carora"}
+
+# Nepal
+
+557 = {"Catemando" "Catemando"}
+2070 = {"Ragia" "Gorca"}
+2071 = {"Lembuão" "Fedápe"}
+4483 = {"Merângues" "Rangei"}
+4485 = {"Pálpa" "Pálpa"}
+
+# Oudh
+
+523 = {"Luquenóvia" "Luquenóvia"}
+2094 = {"Barreiche" "Barreiche"}
+4494 = {"Cairavade" "Cairavade"}
+4495 = {"Feizavade" "Feizavade"}
+4497 = {"Canaím" "Canaím"}
+
+# Purvanchal
+
+555 = {"Janporão" "Janporão"}
+2055 = {"Gorachepão" "Gorachepão"}
+2095 = {"Varzim Indiano" "Varzim Indiano"}
+4490 = {"Gazepão" "Gazepão"}
+
+# Sind Sagar
+
+2077 = {"Margalha" "Píndio"}
+2078 = {"Vareias" "Vareias"}
+4511 = {"Véria" "Véria"}
+
+# Sirhind
+
+510 = {"Serinde" "Serinde"}
+2065 = {"Bátia" "Íçaro"}
+4411 = {"Samão" "Samão"}
+4463 = {"Vatenaíre" "Vatenaíre"}
+
+# Upper Doab
+
+522 = {"Déli" "Déli"} # r
+2060 = {"Alto Duabe" "Marruta"}
+2062 = {"Paipato" "Paipato"}
+
+## WESTERN INDIA
+
+# Ahmedabad
+
+516 = {"Varroda" "Varroda"}
+2051 = {"Goilvade" "Vanágara"}
+2054 = {"Amedabade" "Amedabade"} # r
+4457 = {"Cambaia" "Cambaia"} # r
+4512 = {"Depálpora" "Depálpora"}
+
+# Jaipur
+
+519 = {"Dúndare" "Anvera"}
+520 = {"Mauáte" "Álvaro"}
+2064 = {"Duarte Fernandes" "Duarte Fernandes"} # named after the Portuguese general Duarte Fernandes
+4500 = {"Varatapão" "Varatapão"}
+
+# Jangladesh
+
+512 = {"Jânguela" "Pôgalo"}
+2066 = {"Nagaura" "Nagaura"}
+4502 = {"Mértola d'Este" "Mértola d'Este"}
+4507 = {"Choures" "Choures"}
+
+# Khandesh
+
+527 = {"Vorpão" "Vorpão"}
+4434 = {"Dargaúna" "Dargaúna"}
+4453 = {"Tálnera" "Tálnera"}
+
+# Malwa
+
+526 = {"Mando" "Mando"}
+2056 = {"Revecanda" "Chambanão"}
+2057 = {"Velças" "Velças"}
+2093 = {"Mandação" "Mandação de Cristo"}
+4461 = {"Ujaim" "Ujaim"}
+
+# Marwar
+
+513 = {"Filipe d'Oliveira" "Filipe d'Oliveira"} # named after the Portuguese conquistador Filipe de Oliveira
+514 = {"Márvaro" "Mandora"}
+2067 = {"Gorvare" "Jáura"}
+4506 = {"Bermão" "Bermão"}
+
+# Mewar
+
+518 = {"Chítora" "Chítora"}
+2058 = {"Mévora" "Cutária"}
+2087 = {"Agamão" "Agamão"}
+4462 = {"Vagades" "Dongapão"}
+4501 = {"Bévera" "Bévera"}
+
+# Northern Sindh
+
+505 = {"Sandamão" "Sandamão"}
+2072 = {"Vácara" "Vácara"}
+4505 = {"Charpa" "Charpa"}
+
+# Patan
+
+503 = {"Cutecha" "Lancarvão"}
+2053 = {"Patão" "Patão"}
+4456 = {"Javadés" "Javadés"}
+4480 = {"Macadão" "Édaro"}
+
+# Saurashtra
+
+515 = {"Garnão" "Garnão"}
+521 = {"Rácota" "Rácota"}
+2052 = {"Nânhes" "Nânhes"}
+4454 = {"Puravândia" "Puravândia"}
+4455 = {"Diu" "Diu"} # r
+
+# Southern Sindh
+
+504 = {"Guzarata" "Guzarata"}
+2088 = {"Amacota" "Amacota"}
+4503 = {"Mânçora" "Mânçora"}
+4504 = {"Nazapão" "Nazapão"}
+
+# Tapti
+
+517 = {"Surate" "Surate"} # r
+2036 = {"Margarim" "Margarim"}
+4430 = {"Damão" "Damão"} # r
+
+
+#####################
+### NORTH AMERICA ###
+#####################
+
+## California
+
+# Alta California
+
+868 = "Angel City"
+869 = "Pineport"
+2021 = "King's Bay"
+2476 = "Tiffany"
+4637 = "Welshman's Bay"
+
+# Apacheria
+
+879 = "Lords"
+2492 = "Redrock"
+4634 = "Fort Apache"
+
+# Arizona
+
+867 = "Redstacks"
+876 = "Phoenix"
+877 = "Sentinel"
+2491 = "Desert Meadow"
+4633 = "Silver City"
+
+# Baja California
+
+865 = "Botany Peninsula"
+866 = "Dutchman's Cape"
+2620 = "Oakleigh"
+4639 = "Lemon Grove"
+
+# Central Valley
+
+870 = "Stockton"
+2478 = "Northopshire"
+4635 = "Fort Itwin"
+4636 = "Turlock"
+
+# Colorado Plateau
+
+875 = "Bullfrog"
+878 = "White Rock"
+2493 = "Flagstaff"
+2494 = "Fort Wingate"
+
+# New Mexico
+
+880 = "Stafford"
+881 = {"Garfield" "Meow"}
+2495 = "Shropshire"
+4631 = "Wagon Mound"
+4632 = "South Valley"
+
+# North California
+
+871 = "Port Cavendish"
+2477 = "Worcester"
+2479 = "Switzerberg"
+2480 = "Reading"
+4638 = "Oundhym"
+
+# Sonora
+
+862 = "Rocky Point"
+2616 = "Greekport"
+4577 = "Grantham Bay"
+4649 = "Western Mayo"
+4650 = "Sounghall"
+
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Mecatina"   
+2576 = "Harrington"   
+2577 = "Seven Islands"   
+2578 = "New Rathlin"   
+2579 = "Islington"   
+     
+# GREENLAND    
+     
+1104 = {"Erik's Ford" "Juliana's Hope"}
+1105 = {"Gilbert Sound" "Good Hope"}
+     
+# HURONIA    
+     
+988 = {"Simcoe" "Midhurst"}   
+989 = {"Ontario" "Kingston"}  
+2585 = "Ottawa"   
+2670 = "Toronto"   
+     
+# LABRADOR    
+     
+997 = "Red Bay"   
+2574 = "Nain"   
+2575 = "Melville"   
+     
+# LAURENTIA    
+     
+992 = "Hull"   
+2581 = "Sullivan Valley"   
+4894 = "Valley of Gold"
+     
+# LOWER ACADIA   
+     
+982 = "Cape Breton"   
+984 = "Fundy"   
+2568 = "Cape Sable"   
+2569 = "Halifax"   
+4891 = "Truro"
+     
+# LOWER CANADA   
+     
+993 = "Montreal"   
+2584 = "Wendover"   
+4895 = "Hawkesbury"
+     
+# NEWFOUNDLAND    
+     
+980 = "Avalon"   
+981 = "Cape Ray"   
+2573 = "Placentia"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Ottawa"   
+4892 = "Brockville"
+4897 = "Sudbury"
+     
+# QUEBEC    
+     
+986 = "Gaspe"   
+994 = "Quebec"   
+995 = "Ushant"   
+2582 = "Rimouski"   
+2583 = "St. Anselm"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "St. John"   
+2571 = "Fredericton"   
+4896 = "Woodstock"
+     
+# TROIS_RIVIERES    
+     
+990 = "Three Rivers"   
+2012 = "Memphremagog"   
+2580 = "Wemotaci"   
+4893 = "Sherbrooke"
+     
+# UPPER ACADIA   
+     
+983 = "Prince Edward Isl."   
+985 = "Moncton"   
+2572 = "Campbelton"   
+     
+# UPPER CANADA   
+     
+987 = "Windsor"   
+2586 = "Nottawasaga"   
+2587 = "Manitoulin"   
+     
+# UPPER ONTARIO   
+     
+991 = "Fort Tudor"   
+1001 = "Sault Ste. Marie"   
+1007 = "Thunder Bay"   
+2015 = "Peninsula Bay"   
+2671 = "Ronde"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "St. Dominic"   
+2658 = "Eden Rock"   
+2659 = "Ringwood"   
+4620 = "Port-of-Galicia"   
+4621 = "Walsingham"   
+     
+# EAST CUBA   
+     
+486 = "Windward City"   
+2654 = "Honey Bay"   
+2655 = "Eastchurch"   
+2656 = "King's Garden"   
+     
+# GREATER ANTILLES   
+     
+481 = "Bermuda"   
+487 = "Kingston"   
+491 = "New Ravenser"   
+492 = "Goldport"   
+     
+# HAITI    
+     
+488 = "Connah's Quay"   
+489 = "Turtle Island"   
+4618 = "Prince's Port"   
+4619 = "Christmas County"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "St. Thomas"   
+494 = "St. Kitts"   
+495 = "St. David"   
+496 = "St. Patrick"   
+1881 = "St. Martin"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Bahamas"   
+483 = "Turks Islands"   
+     
+# WEST CUBA   
+     
+484 = "Haven"   
+485 = "Tillerston"   
+4622 = "Sugar Bay"   
+4623 = "Winfordshire"   
+4624 = "Saint Christopher"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Lordsday Island"   
+498 = "Green Isle"   
+499 = "St. Lucy"   
+500 = "St. Vincent"   
+501 = "Bimshire"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Prince of Wales"   
+977 = "Mount Logan"   
+2613 = "Sitka"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Astoria"   
+2486 = "Wooded Mountains"   
+2487 = "Spokane House"   
+2488 = "Penticton"   
+     
+# HECATE STRAIT   
+     
+975 = "King Island"   
+2022 = "Charlotte Islands"   
+2609 = "Prince Rupert"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Kootenai"   
+2604 = "Prince George"   
+2605 = "Shuswap"   
+2606 = "Fort Alexandria"   
+2607 = "Peachland"   
+     
+# OREGON    
+     
+872 = "Portland"   
+2481 = "Crater Lake"   
+2482 = "Applegate"   
+2483 = "Fur Lodge"   
+     
+# PUGET SOUND   
+     
+874 = "Bellingham"   
+2484 = "Cape Flattery"   
+2485 = "Olympia"   
+     
+# SNAKE RIVER   
+     
+2019 = "Council City"   
+2020 = "Snake River"   
+2489 = "Albion"   
+2490 = "Salt Lake"   
+2506 = "Uncumber"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Quadra & Vancouver"   
+973 = "Vancouver"   
+974 = "Echo Bay"   
+2610 = "Earl's Cove"   
+     
+# WESTERN ALASKA   
+     
+978 = "Anchorage"   
+979 = "Aleut Islands"   
+2611 = "Dutch Harbour"   
+2612 = "Montague"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Campeachy"   
+2632 = "New Selsey"   
+2650 = "Fort Carmel"   
+     
+# CHIAPAS    
+     
+2635 = "Vanburgh"   
+2638 = "Mablethorpe"   
+2649 = "Shappshire"   
+4585 = "Swanfort"   
+4586 = "Lemonhills"   
+     
+# COSTA RICA   
+     
+836 = "St. Joseph"   
+2663 = "Morgansport"   
+4597 = "Rorford"   
+     
+# EAST YUCATAN   
+     
+2634 = "Fort Sian"   
+2652 = "Leominster"   
+4588 = "Wythenshawe"   
+4591 = "Twickenham"   
+     
+# GUATEMALA    
+     
+839 = "Cuscat"   
+841 = "Greenwoods"   
+2653 = "Church Wilton"   
+4587 = "New Wells"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Payton"   
+843 = "Wallace"   
+2636 = "Livingstone"   
+4589 = "Caledon"   
+4594 = "Winhunton"   
+     
+# HONDURAS    
+     
+840 = "Cunningham"   
+2637 = "Newport"   
+2640 = "Landan Bay"   
+2662 = "Catacombes"   
+4593 = "Devilswint"   
+     
+# NICARAGUA    
+     
+837 = "Endeavour"   
+838 = "Dunham"   
+2660 = "Warwick Sea"   
+2661 = "Ansontown"   
+4592 = "Bluefields"   
+     
+# WEST YUCATAN   
+     
+846 = "Whirling Cape"   
+2633 = "Bernard"   
+2651 = "Westwich"   
+4590 = "New Oxford"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Pila-Pala"   
+2664 = "Stamford"   
+2819 = "Scottshire"   
+4595 = "Debrotte"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Peoria"   
+916 = "Beardstown"   
+917 = "Peoria"   
+4903 = "Chicago"   
+     
+# INDIANA    
+     
+942 = "Sackville"   
+943 = "Fort Wayne"   
+2523 = "Vincennes"   
+2524 = "Indiana"   
+4922 = "Goldport"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Red Lake"   
+911 = {"Upper Peninsula" "Escanaba"}
+2517 = "Mille Lacs"   
+2518 = "Drummond"   
+4898 = "Houghton"   
+     
+# MICHIGAN    
+     
+944 = "Detroit"   
+945 = "Mackinac"   
+2521 = "Saginaw"   
+2522 = "Grand Rapids"   
+     
+# OHIO    
+     
+946 = "Toledo"   
+947 = "Cleveland"   
+948 = "Marietta"   
+2525 = "Losantiville"   
+4907 = "Dayton"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Effingham"   
+2520 = "Little Egypt"   
+4904 = "Edwardsville"   
+     
+# WISCONSIN    
+     
+912 = "Abbotsford"   
+913 = "Prairie du Chien"   
+914 = "Green Bay"   
+4899 = "Iron Mountain"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "MacDonald"   
+2504 = "Dunbannock"   
+2505 = "Rabyshire"   
+     
+# Central Plains   
+     
+901 = "Lincoln"   
+903 = "Omaha"   
+2009 = "Scottsbluff"   
+2508 = "Weatherfield"   
+4915 = "Grand Island"   
+     
+# HIGH PLAINS   
+     
+889 = "Windsor"   
+2507 = "Holyoke"   
+2625 = "Montrose"   
+     
+# IOWA    
+     
+905 = "Council Bluff"   
+2513 = "Fort Madison"   
+4900 = "Omaha"   
+4905 = "Sioux City"   
+     
+# KANSAS    
+890 = "Hastings"   
+898 = "Little Rock"   
+2672 = "Holton"   
+4914 = "Parsons"   
+     
+# MINNESOTA    
+     
+904 = "Fort Dodge"   
+908 = {"Minnesota" "St. Paul"}   
+2512 = "Traverse"   
+4901 = "Marshall"   
+     
+# NORTH DAKOTA   
+     
+906 = "Jamestown"   
+909 = "Rugby"   
+2510 = "Williston"   
+4918 = "Bowman"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Sioux Post"   
+2007 = "Les Cedres"   
+2008 = "Fort Clark"   
+4916 = "Aberdeen"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Dodge City"   
+892 = "Winfield"   
+896 = "Grand River"   
+4908 = "Leavenworth"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Yellowstone"   
+2501 = "Blackleaf"   
+2502 = "Scot's Plain"   
+2503 = "Ranchester"   
+4917 = "Twin Falls"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Fort Hudson"   
+2588 = "Cloche"   
+2589 = "Otter Rapids"   
+2590 = "Smoky Falls"   
+2591 = "Fort Hope"   
+     
+# ALBERTA    
+     
+2004 = "Crowsnest Pass"   
+2017 = "Edmonton"   
+2018 = "Jasper"   
+2602 = "Red Deer"   
+     
+# ASSINIBOIA    
+     
+2005 = "Harlechshire"   
+2596 = "Yorkton"   
+2598 = "Swift Current"   
+4920 = "Saskatoon"
+     
+# ATHABASCA    
+     
+2599 = "Fort McMurray"   
+2600 = "Vermillion"   
+2601 = "Dunvegan"   
+2603 = "Fort St. John"   
+     
+# HUDSON BAY   
+     
+1005 = "York Factory"   
+1006 = "Churchill"   
+1009 = "Berens River"   
+2592 = "Severn"   
+2594 = "Lake Factory"   
+     
+# JAMES BAY   
+     
+998 = "Fort Richmond"   
+999 = "Eastmain"   
+1000 = "Fort Rupert"   
+1003 = "Moose Factory"   
+1004 = "Fort Albany"   
+     
+# MANITOBA    
+     
+1008 = "Red River"   
+1010 = "Dauphin"   
+1011 = "The Pas"   
+2593 = "Lake of the Woods"   
+4919 = "Regina"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Great Forks"   
+2511 = "Lake Alice"   
+4902 = "Grand Forks"
+     
+# SASKATCHEWAN    
+     
+1813 = "Fort Sturgeon"   
+2595 = {"English River" "Ile a la Crosse"}   
+2597 = "South Branch"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Marlborough"   
+4646 = "Kingsport"   
+4647 = "Ringham Wood"   
+4648 = "Pidmill"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Crosby"   
+2642 = "Glendower"   
+4642 = "Beaconshill"   
+     
+# GUANAJUATO    
+     
+853 = "Westham Birk"   
+2615 = "Chetwynd"   
+4640 = "Longhill"   
+4641 = "Wembley"   
+     
+# GUERRERO    
+     
+2627 = "Cavendish"   
+2645 = "Rotherwich"   
+2648 = "Talburton"   
+     
+# HUASTECA    
+     
+848 = "Port Aztechs"   
+2641 = "Percyshire"   
+4598 = "Cranham"   
+     
+# JALISCO    
+     
+854 = "County Douglas"   
+2617 = "Dusty Hills"   
+2621 = "Bicester"   
+2657 = "Madison"   
+4576 = "Rawhead"   
+     
+# MEXICO    
+     
+852 = "Meseca"   
+2626 = "Astecia"   
+4570 = "Rosemount"   
+4571 = "Normanton"   
+4572 = "Tollook"   
+     
+# MICHOAVAN    
+     
+2622 = "New Winchester"   
+2623 = "Hotlands"   
+2624 = "Tenbyshire"   
+4573 = "Moorfields"   
+4574 = "Bridgeham"   
+     
+# MIXTECA    
+     
+847 = "Port Nutall"   
+849 = "Warrior Colony"   
+2646 = "Saundersfoot"   
+4581 = "Andersbank"   
+     
+# NAYARIT    
+     
+855 = "Fletchley"   
+859 = "Welshport"   
+4578 = "Dog River"   
+     
+# Oaxaca    
+     
+844 = "Shappochester"   
+2629 = "Exmoorshire"   
+4584 = "Kinderscout"   
+     
+# PUEBLA    
+     
+850 = "Stoke Brizeton"   
+2628 = "Kendal"   
+2644 = "Ballyree"   
+4582 = "Chotland"   
+4583 = "Looe"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Naseborough"   
+2643 = "Welshchester"   
+4575 = "Kings Town"   
+4579 = "Braefell"   
+4580 = "Palm City"   
+     
+# VERACRUZ    
+     
+2630 = "Caint"   
+2631 = "Head Stone"   
+2647 = "Crossways"   
+     
+# ZACATECAS    
+     
+856 = "Awston Common"   
+4643 = "Saughton"   
+4645 = "Sloane"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Ondwich"   
+925 = "Fort Jackson"   
+2531 = "Huntsville"   
+2532 = "Tuscaloosa"   
+4883 = "Florence"   
+     
+# ARKANSAS    
+     
+894 = "Ecore Fabre"   
+895 = "Pine Bluff"   
+897 = "Little Rock"   
+4885 = "Lake Village"
+4923 = "Forrest City"   
+     
+# KENTUCKY    
+     
+941 = "Harrodstown"   
+2526 = "Lexington"   
+4888 = "Prestonburg"   
+     
+# LOUISIANA    
+     
+893 = "New Orleans"   
+2014 = "Mansfield"   
+2516 = "Lake Arthur"   
+     
+# MISSISSIPPI    
+     
+919 = "New Albany"   
+920 = "Meridian"   
+2528 = "Fort Sarah"   
+2529 = "Port Gibson"   
+4884 = "Jackson"   
+     
+# OZARKS    
+     
+899 = {"Ozarks" "Springfield"}   
+2509 = "Fort Lawrence"   
+2515 = "Fort Smith"   
+4886 = "Texarkana"   
+     
+# TENNESSEE    
+     
+918 = "Memphis"   
+934 = "Nashborough"   
+939 = "Paducah"   
+4913 = "Lawrenceburg"
+     
+# UPPER LOUISIANA   
+     
+900 = "St. Louis"   
+902 = "Eagletown"   
+2514 = "Cape Girardeau"   
+4906 = "Quincy"   
+     
+# VANDALIA    
+     
+951 = "Hebburn"   
+2551 = "Fort Morgan"   
+4889 = "Summerville"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Louisville"   
+4887 = "Mayfield"   
+4921 = "Bowling Green"   
+     
+# WEST FLORIDA   
+     
+921 = "Baton Rouge"   
+922 = "Fort Charlotte"   
+923 = "Ferry Pass"   
+2530 = "Fort Henry"   
+2533 = "Seaside"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Erie"   
+2555 = "Pittsburgh"   
+4875 = "Bradford"   
+     
+# CONNECTICUT    
+     
+967 = {"Rhode Island" "Providence"}   
+2010 = "Connecticut"   
+2560 = "New Haven"   
+     
+# DELAWARE VALLEY   
+     
+956 = {"Philadelphia" "Philadelphia"}
+957 = "Delaware"   
+962 = "West Jersey"   
+2023 = "Wyoming Valley"   
+     
+# EASTERN MAINE   
+     
+971 = "Bangor"   
+2566 = "Castine"   
+2567 = "Eaton"   
+     
+# HUDSON VALLEY   
+     
+961 = "Fort Stanwix"   
+963 = "Albany"   
+964 = "Schenectady"   
+2559 = "Ticonderoga"   
+4912 = "Watertown"   
+     
+# IRIQUOISIA    
+     
+958 = {"Geneseo" "Geneseo"}
+959 = {"Rochester" "Rochester"}   
+960 = {"Oswego" "Oswego"}
+4872 = {"Buffalo" "Buffalo"}   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Bennington"   
+2563 = "Vermont"   
+4871 = "Montpelier"   
+     
+# MAINE    
+     
+2013 = "Casco"   
+2565 = "New Somersetshire"   
+4873 = "Lewistown"   
+     
+# MARYLAND    
+     
+953 = {"Maryland" "Annapolis"}   
+2553 = "Green Ridge"   
+2554 = "Baltimore"   
+     
+# MASSACHUSETTS    
+     
+966 = {"Berkshires" "Springfield"}   
+968 = {"Massachusetts" "Boston"}
+2561 = "Plymouth"   
+4874 = "Springfield"
+     
+# NEW HAMPSHIRE   
+     
+970 = {"New Hampshire" "Portsmouth"}   
+2562 = "Keene"   
+2564 = "White Mountains"   
+     
+# NEW YORK   
+     
+965 = {"New York" "New York City"}   
+2558 = "Catskills"   
+2639 = "East Jersey"   
+     
+# WESTYLVANIA    
+     
+955 = "Harrisborough"   
+2556 = "New Somerset"   
+2557 = "West Branch"   
+4876 = "Williamsport"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Saint Patrick"   
+864 = "Fort James"   
+2618 = "Hammond"   
+4644 = "Lennington"   
+     
+# COAHUILA    
+     
+861 = "Clovemount"   
+864 = "Fort James"   
+2666 = "Sanderson"   
+2667 = "Newmills"   
+4606 = "Riverbend"   
+     
+# COASTAL PRARIE   
+     
+884 = "Victoria"   
+888 = "Baytown"   
+2665 = "Beaumont"   
+2669 = "Longview"   
+     
+# LLANO ESTACADO   
+     
+882 = "White Sands"   
+885 = "Staked Plain"   
+2496 = "Formbyshire"   
+2497 = "Big Spring"   
+4630 = "Roswell"   
+     
+# PECOS    
+     
+2498 = "Fort Davis"   
+4628 = "Fort Hancock"   
+4629 = "Meriworth"   
+     
+# TAMAULIPAS    
+     
+858 = "Dunbar's Harbour"   
+2499 = "Kingsville"   
+2614 = "Ambridge"   
+2668 = "Oswestry"   
+     
+# TEXAS    
+     
+883 = "Austin"   
+887 = "Grapeland"   
+4627 = "College Station"   
+4911 = "Longview"   
+     
+# TEXAS PLAINS   
+     
+886 = "Fort Worth"   
+2500 = "Brownwood"   
+4909 = "Graham"   
+4910 = "Gatesville"   
+
+## SOUTHEAST
+
+# East Florida
+
+927 = "Atlantic Beach"
+928 = "Saint Marks"
+2534 = "Orion"
+
+# Florida
+
+926 = "Turkey Creek"
+2535 = "Port Charlotte"
+2536 = "River Glades"
+4625 = "Port Orange"
+4626 = "Fort Brooke"
+
+# Georgia
+
+929 = "Savannah"
+2537 = "Italy Vale"
+2538 = "Fidius"
+2539 = "Frederick"
+4880 = "Augusta"
+
+# Great Valley
+
+949 = "Blue Ridge"
+2011 = "Shedandoah"
+2548 = "New River"
+2552 = "Pearsall"
+
+# North Carolina
+
+937 = "Davidson's Fort"
+938 = "Clarendon County"
+2546 = "Cape Fear"
+2547 = "Granville"
+
+# Overmountain
+
+935 = "Watuga"
+936 = {"Overmountain" "Morristown"}
+2527 = {"Charedonville" "Chattanooga"}
+4879 = "Asheville"
+
+# Piedmont Plateau
+
+2544 = "Charlotte"
+2545 = "Campbelton"
+4878 = "Greensboro"
+
+# South Carolina
+
+932 = "Charleston"
+2542 = "Beaufort"
+2543 = "Long Bay"
+
+# South Carolina Piedmont
+
+933 = "Greenville"
+2541 = "Keowee"
+4882 = "Spartanburg"
+
+# Upper Georgia
+
+930 = "Peachtree"
+931 = "Fort Oglethorpe"
+2540 = "Augusta"
+4881 = "Bainbridge"
+
+# Virginia
+
+950 = "Jamestown"
+952 = {"James River" "Richmond"}
+2549 = "Charlottesville"
+2550 = "Rappahannock"
+4877 = "Danville"
+
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Applecross"   
+2935 = "Woodhall"   
+2938 = "Hykeham"   
+     
+# AMAZON    
+     
+2889 = "Rhins"   
+2930 = "Tarleton"   
+2933 = "Southallerton"   
+2934 = "Castle Bronford"   
+     
+# BAHIA    
+     
+756 = "All Saints Bay"   
+757 = "Wyndham"   
+760 = "Oldport"   
+2914 = "Middleton"   
+2916 = "Murless"   
+     
+# CEARA    
+     
+750 = "Ellesborough"   
+751 = "Newcastle"   
+753 = "Great Northern River"   
+     
+# DIAMANTINA    
+     
+759 = "Diamondton"   
+2891 = "Maybole"   
+2898 = "New Somerton"   
+     
+# GOIAS    
+     
+758 = "Desert River"   
+2906 = "Bedlingtonshire"   
+2907 = "Dorchester"   
+2908 = "New Morecambe"   
+2919 = "Saint George"   
+     
+# GRAO PARA   
+     
+748 = "Bethlehem"   
+2890 = "Creetown"   
+2928 = "Wigton"   
+2929 = "Stamforshire"   
+     
+# GUAPORE    
+     
+2900 = "Herbertcastle"   
+2901 = "Kesteven"   
+2902 = "Rooketower"   
+     
+# GUAYRA    
+     
+768 = "Awcester"   
+2895 = "Malmesbury"   
+2897 = "Wincombshire"   
+     
+# MARANHAO    
+     
+749 = "Grandvick"   
+2923 = "Fort Britannica"   
+2924 = "Gallantown"   
+2926 = "Burlington"   
+2927 = "Southport"   
+     
+# MATO GROSSO   
+     
+2888 = "Eccleshall"   
+2903 = "Procter"   
+2904 = "Hallam"   
+2905 = "Hallamshire"   
+     
+# MINAS GERAIS   
+     
+765 = "Minehead"   
+2892 = "Broughton"   
+2894 = "Harrogate"   
+2899 = "Aethelborough"   
+     
+# OFAIE    
+     
+2881 = "St. Davids"   
+2893 = "Dunsimline"   
+2920 = "Appleby"   
+     
+# PERNAMBUCO    
+     
+754 = "County Porto"   
+755 = "Wreckin"   
+2912 = "Saundershire"   
+2921 = "Duchie"   
+2922 = "Mount Misery"   
+     
+# PIAUI    
+752 = "White Woods"   
+2886 = "Newham Wells"   
+2925 = "Wolfeshire"   
+     
+# PONTAL    
+     
+2909 = "Astorfield"   
+2910 = "Werbergh"   
+2911 = "New Hastings"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Fawchester"   
+762 = "Burntwood"   
+763 = "King's Chester"   
+764 = "St. Paul's"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Mornmouth"   
+2879 = "Bodwin"   
+2884 = "Breconshire"   
+2887 = "Penzance"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Olston"   
+2913 = "Drakeshire"   
+2915 = "Old Brock"   
+2917 = "Cravenshire"   
+2918 = "Willoughby"   
+     
+# SAO PAULO   
+     
+766 = "Riseborough"   
+769 = "Fort Augustus"   
+2896 = "Salopia"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Cantelbergh"   
+832 = "Northwick"   
+4602 = "Warwick Pike"   
+4603 = "Barnsbury"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Hawthorn"   
+2810 = "Wilaverstan"   
+2813 = "Gorwickston"   
+4613 = "Laughing Gull"   
+4614 = "Church Linton"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Mount Stuart"   
+2816 = "Erry"   
+4605 = "Doverford"   
+     
+# COQUIVACOA    
+     
+828 = "Carthaginia"   
+829 = "Port Magdelene"   
+2806 = "Witham Point"   
+4599 = "Dutch Cottage"   
+4601 = "Cardigan"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Fernswick"   
+827 = "New Antioch"   
+2817 = "Montshire"   
+4600 = "Paddington"   
+4607 = "Peterfield"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Atiscross"   
+2809 = "Dunhamshire"   
+2939 = "Newark Regis"   
+4615 = "Basshire"   
+     
+# GUYANA    
+     
+502 = "Trinity"   
+743 = "Port Long"   
+744 = "Oughtham Rake"   
+2803 = "Terrmouth"   
+     
+# MARACAIBO    
+     
+830 = "Fort Charles"   
+2807 = "Lion"   
+4609 = "Foxton"   
+4610 = "Rushmede"   
+4611 = "Fort Miranda"   
+     
+# POPAYAN    
+     
+823 = "Stewartsburgh"   
+826 = "Jungle Fort"   
+2818 = "Saint Basil"   
+4596 = "Royston Vasey"   
+4604 = "Dunorwick"   
+     
+# SURINAME    
+     
+745 = "Fort Willoughby"   
+746 = "Middlesex"   
+2937 = "Surinam"   
+     
+# UPPER GUYANA   
+     
+742 = "Black Heath"   
+2804 = "Elmet"   
+2811 = "Hunstanton"   
+2931 = "Bishop Settle"   
+4617 = "Saxes"   
+     
+# VENEZUELA    
+     
+741 = "Fort Caesar"   
+831 = "Chatham"   
+2808 = "Eddisbury"   
+4612 = "Princetown"   
+4616 = "Neston"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Llanstephan"   
+2814 = "Ablemarle"   
+2815 = "Redheath"   
+4608 = "Saint Diallo"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Candlemaston"   
+786 = "Black River"   
+2868 = "Saint Ives"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Oriental Plate"   
+773 = "Alnwickshire"   
+2850 = "Adrianforth"   
+2851 = "Prestwich"   
+2852 = "Upstream"   
+     
+# BUENOS AIRES   
+     
+778 = "Fair Winds"   
+2846 = "Kisscat"   
+2848 = "New Pevensey"   
+2849 = "Wingfield"   
+     
+# CENTRAL CHILE   
+     
+784 = "Port William"   
+787 = "Saltcoats"   
+2862 = "Elliston"   
+     
+# CUYO    
+     
+2843 = "Sandwich"   
+2844 = "Hardewick"   
+2845 = "Saint John"   
+2847 = "Daventry"   
+2877 = "Cockermouth"   
+     
+# MESOPOTAMIA    
+     
+777 = "Hungerford"   
+2853 = "Yippeayoo"   
+2855 = "Holmhead"   
+2858 = "Saint James"   
+2859 = "New Mercia"   
+     
+# NEHEUNKEN    
+     
+785 = "Fort Petulia"   
+2867 = "Lincoln Baths"   
+2871 = "Fort Harlech"   
+2872 = "Kenilworth"   
+     
+# PATAGONIA    
+     
+781 = "Port Desire"   
+782 = "Burntisland"   
+2869 = "Helenscauld"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Warhawston"   
+2870 = "Frethenham"   
+2875 = "Beverly"   
+2876 = "Wressle"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Falklands"   
+2025 = "South Georgia"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Wellington"   
+2873 = "Letchfield"   
+2874 = "Waketon"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Tawndyle"   
+2860 = "Didsbury"   
+2861 = "Armadale"   
+2865 = "Church Olston"   
+2866 = "Wells"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Our Lady of Peace"   
+804 = "Busbridge"   
+2831 = "Busbridgeshire"   
+2947 = "Varrowshire"   
+     
+# CAJAMARCA    
+     
+813 = "Simonswyck"   
+2824 = "Carisbrooke"   
+2825 = "Brotheroe"   
+2943 = "Fromeshire"   
+     
+# CHIMOR    
+     
+812 = "Bishopchester"   
+2002 = "Cowley's Islands"   
+2821 = "Irish Cape"   
+2822 = "New Leicester"   
+2826 = "Solebay"   
+     
+# HUANUCO    
+     
+809 = "Fort George"   
+810 = "New Brighton"   
+811 = "Shawshank"   
+814 = "One Cove"   
+2827 = "Mowbray"   
+     
+# IQUITOS    
+     
+815 = "Lauretum"   
+818 = "Ambrosia"   
+821 = "Mount Fortune"   
+     
+# KUNTISUYU    
+     
+807 = "Kingstown"   
+808 = "Cusco"   
+2829 = "Ashby-on-the-Bend"   
+2830 = "Saint Peter's Mount"   
+     
+# PERUAN COAST   
+     
+805 = "Walmington-on-Sea"   
+806 = "Great Culster"   
+2828 = "Caister"   
+     
+# QUITO    
+     
+816 = "Tombess"   
+817 = "Carlisle"   
+819 = "Port Dampier"   
+820 = "Avonlea"   
+2820 = "Catherinesland"   
+     
+# UCAYALI    
+     
+2823 = "Eight Valleys"   
+2944 = "Crickhowell"   
+2945 = "Easton"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Little Wakeling"   
+801 = "Meadowdrie"   
+2834 = "Lansdowne"   
+     
+# CHACO    
+     
+790 = "Castle Henry"   
+2854 = "Central Chacko"   
+2878 = "Chillingham"   
+     
+# JUJUY    
+     
+794 = "Hoi-hoi"   
+2837 = "Saint Catherine"   
+2839 = "Georgian Desert"   
+     
+# MOXOS    
+     
+803 = "Glastonbury"   
+2832 = "Abingdon"   
+2833 = "Maldonshire"   
+     
+# NORTHERN CHILE   
+     
+792 = "Copper Bluff"   
+793 = "St. Conan"   
+796 = "St. Mark's"   
+2840 = "Jacobus"   
+2841 = "Scarbrough"   
+     
+# PARAGUAY    
+     
+775 = "Dormition"   
+776 = "Ninechurches"   
+799 = "Castle Douglas"   
+2882 = "Ludlow"   
+2883 = "Caerabon"   
+     
+# POTOSI    
+     
+795 = "Llantrisant"   
+797 = "Turtle Fort"   
+2940 = "Broadstairs"   
+2946 = "New Hereford"   
+     
+# TUCUMAN    
+     
+791 = "Catamarch"   
+2836 = "Bodely"   
+2842 = "New Westmorland"   
+     
+# UPPER PERU   
+     
+2835 = "Huntingdon"   
+2838 = "Winchilsea"   
+2941 = "Cinque Boroughs"   
+2942 = "Ventnor"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Sunshine Coast"   
+4852 = "Burnett"   
+4853 = "Paroo"   
+4854 = "Brisbane"   
+     
+# CAPRICORNIA    
+     
+2730 = {"Weipa" "Weipa Town"}  
+2731 = {"Hope Vale" "Cairns"}
+2732 = {"Townsville" "City of Townsville"}   
+4848 = "Burke"   
+4849 = "Carpentaria"   
+     
+# ILLAWARA    
+     
+1090 = {"Sydney" "Sydney"}
+4857 = "Newcastle"   
+4858 = "Wollongong"   
+4859 = "Canberra"   
+4860 = {"Tablelands" "Gouldburn"}
+     
+# NEW SOUTH WALES  
+     
+1091 = {"Orana" "Dubbo City"}   
+1092 = "Port Macquarie"   
+4855 = {"Moree Plains" "Moree"}   
+4856 = "Tamworth"   
+     
+# PERTH    
+     
+1084 = "Perth"   
+2727 = "Esperance"   
+4863 = "Marmion"   
+4864 = {"Murray" "Moora"}   
+     
+# PILBARA    
+     
+2726 = {"Gascoyne" "Geraldton"}  
+4865 = {"Ashburton" "Karratha"}
+4866 = {"Pilbara" "Port Hedland"}   
+4867 = {"Kimberley" "Easton"}   
+     
+# PRINCELAND    
+     
+1086 = {"Adelaide" "Port Adelaide"}   
+2735 = "Mount Gambier"   
+2736 = "Hopetown"   
+4862 = "Taunton"   
+     
+# QUEENSLAND    
+     
+1093 = {"Bulloo" "Thargomindah"}   
+1094 = {"Fraser Coast" "Hervey Bay"}   
+2733 = "Mackay"   
+4850 = "Gladstone"   
+     
+# TASMANIA    
+     
+1085 = "Hobart"   
+4868 = "Launceston"   
+4869 = "Queenstown"   
+     
+# TOP END   
+     
+2728 = {"Bathurst Island" "Nguiu"}   
+2729 = {"Arnhem" "East Arnhem"}   
+4846 = {"Palmerston" "Darwin"}
+4847 = {"Barkly" "Tennant Creek"}   
+     
+# VICTORIA    
+     
+1087 = "Melbourne"   
+1088 = "Bendigo"   
+1089 = {"Bathurst" "Orange"}   
+2734 = "Port Albert"   
+4861 = "Bogong"   
+     
+## OCEANIA    
+     
+# EASTERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+     
+# EAST MICRONESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# FIJI    
+     
+#N/A
+#N/A
+#N/A
+     
+# MELANESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# NORTHERN POLYNESIA   
+     
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# POLYNESIA    
+     
+#N/A
+#N/A
+#N/A
+#N/A
+     
+# TE IKA A MAUI HAUAURU
+     
+1106 = "Cape Reinga"   
+1107 = "Wellington"   
+2739 = "Auckland"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Hamilton"   
+2737 = "Eskdale"   
+4939 = "Gisborne"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Christchurch"   
+1246 = "Greymouth"   
+2738 = "Nelson"   

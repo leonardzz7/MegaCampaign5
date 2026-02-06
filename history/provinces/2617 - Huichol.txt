@@ -1,13 +1,13 @@
-owner = TON
-controller = TON
+owner = COH
+controller = COH
 capital = "Huichol"
-culture = tepic
+culture = aztek
 religion = nahuatl
 trade_goods = wool
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = TON
+add_core = COH
 discovered_by = mesoamerican
 native_size = 5
 native_ferocity = 1

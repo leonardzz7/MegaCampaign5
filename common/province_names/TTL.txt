@@ -1,0 +1,22 @@
+## SOUTHERN GERMANY
+
+# Romandie
+
+165 = {"Berna" "Berna"}
+1867 = {"Vad" "Losanna"}
+1871 = {"Vallais" "Sion"}
+4720 = {"Genevra" "Genevra"}
+4721 = {"Friburg" "Friburg"}
+
+# Switzerland
+
+166 = {"Sviz" "Sviz"}
+1869 = {"Turitg" "Turitg"}
+1870 = {"Son Gagl" "Son Gagl"}
+1873 = {"Cuira" "Cuira"}
+4722 = {"Glion" "Glion"}
+
+# Tirol
+
+73 = {"Val dl En" "Dispruch"}
+4758 = {"Maran" "Maran"}

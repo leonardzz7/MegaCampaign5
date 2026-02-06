@@ -1,0 +1,350 @@
+## CAUCASIA
+
+# Armenia
+
+419 = {"Irevan" "Irevan"}
+420 = {"Gence" "Gence"}
+2202 = {"Qarabagh" "Xankendi"}
+2205 = {"Naxçivan" "Naxçivan"}
+4302 = {"Beyazid" "Beyazid"}
+
+# Circassia
+
+463 = {"Çerkeziya" "Maykop"}
+2195 = {"Adigey" "Soçi"}
+2197 = {"Kabarda" "Nalçik"}
+2201 = {"Alaniya" "Orconikidze"}
+
+# Dagestan
+
+425 = {"Daghistan" "Derbend"}
+2198 = {"Xunziya" "Xunzax"}
+2199 = {"Terki" "Terki"}
+2208 = {"Terek" "Mozdok"}
+4306 = {"Lakiya" "Qumuq"}
+
+# Imereti
+
+422 = {"Imereti" "Kutaisi"}
+462 = {"Odishi" "Zuqdidi"}
+1856 = {"Abxaz" "Suxumv"}
+
+# Kartli-Kakheti
+
+423 = {"Tiflis" "Tiflis"}
+2203 = {"Qaxet" "Telavi"}
+4301 = {"Kartli" "Qori"}
+
+# Samtshke
+
+2196 = {"Quriya" "Ozurgeti"}
+2204 = {"Qars" "Qars"}
+4303 = {"Oltu" "Oltu"}
+
+# Shirvan
+
+421 = {"Shirvan" "Baki"}
+4299 = {"Shamaxi" "Shamaxi"}
+4305 = {"Sheki" "Sheki"}
+4340 = {"Astara" "Astara"}
+
+## ANATOLIA
+
+# Aegean Archipelago
+
+164 = {"Naksha" "Naksha"} # turkish name
+320 = {"Rodos" "Rodos"}
+2348 = {"Xios" "Xios"}
+3003 = {"Evbeya" "Halkis"}
+4700 = {"Midilli" "Midilli"} # turkish name
+
+# Ankara
+
+326 = {"Ankara" "Ankara"}
+4312 = {"Sultanönü" "Sultanönü"} # turkish name
+4313 = {"Çanqiri" "Çanqiri"}
+
+# Aydin
+
+318 = {"Izmir" "Izmir"}
+319 = {"Söke" "Söke"} 
+2297 = {"Balikäsir" "Balikäsir"}
+2298 = {"Antalya" "Antalya"} 
+4309 = {"Aydin" "Aydin"}
+
+# Çukurova
+
+321 = {"Kipr" "Lefkosha"}
+327 = {"Adana" "Adana"}
+2302 = {"Märsin" "Märsin"}
+
+# Dulkadir
+
+332 = {"Marash" "Marash"}
+2303 = {"Malatya" "Malatya"}
+2308 = {"Shanliurfa" "Shanliurfa"}
+4310 = {"Divrighi" "Divrighi"}
+
+# Erzurum
+
+330 = {"Trabzon" "Trabzon"}
+331 = {"Ärzurum" "Ärzurum"}
+2305 = {"Ärzincan" "Ärzincan"}
+
+# Germiyan
+
+322 = {"Kütahya" "Kütahya"}
+1848 = {"Hämîd-ili" "Isparta"}
+4308 = {"Tonguzlu" "Tonguzlu"}
+4311 = {"Qarahisar" "Qarahisar"}
+
+# Hüdavendigar
+
+316 = {"Izmit" "Izmit"}
+317 = {"Bursa" "Bursa"}
+2296 = {"Biga" "Biga"}
+
+# Karadeniz
+
+325 = {"Qastamonu" "Qastamonu"}
+328 = {"Sinop" "Sinop"}
+2299 = {"Bolu" "Bolu"}
+2304 = {"Caniq" "Caniq"} # made up
+
+# Karaman
+
+323 = {"Konya" "Konya"}
+324 = {"Qaraman" "Qaraman"}
+2301 = {"Kayseri" "Kayseri"}
+4307 = {"Aksaray" "Aksaray"}
+
+# Rum
+
+329 = {"Sivas" "Sivas"}
+1846 = {"Amasya" "Amasya"}
+2300 = {"Yozqat" "Yozqat"}
+4314 = {"Kirshähär" "Kirshähär"}
+4315 = {"Tokat" "Tokat"}
+
+# Kurdistan
+
+418 = {"Diyarbäkir" "Diyarbäkir"}
+2306 = {"Mush" "Mush"}
+2307 = {"Van" "Van"}
+4295 = {"Häsänkef" "Häsänkef"}
+4296 = {"Bitlis" "Bitlis"}
+
+## KHORASAN
+
+# Balkh
+
+450 = {"Bälx" "Bälx"}
+2227 = {"Künduz" "Künduz"}
+2228 = {"Mäymanä" "Mäymanä"}
+
+# Birjand
+
+436 = {"Bircänd" "Bircänd"}
+4334 = {"Täbäs" "Täbäs"}
+4336 = {"Tun" "Tun"}
+
+# Ghor
+
+447 = {"Qändähar" "Qändähar"}
+449 = {"Qövr" "Qövr"}
+2225 = {"Bamiyan" "Bamiyan"} # turkish name
+
+# Herat
+
+446 = {"Herat" "Herat"}
+4324 = {"Quriyan" "Quriyan"} # made up
+4325 = {"Säräxs" "Säräxs"}
+
+# Kabulistan
+
+448 = {"Qäzni" "Qäzni"}
+451 = {"Kabil" "Kabil"}
+452 = {"Bädäxshan" "Müncan"} # capital is made up
+578 = {"Roh" "Pishävär"}
+2226 = {"Cälalabad" "Cälalabad"}
+
+# Kalat
+
+576 = {"Kalat" "Kalat"} # turkish name
+577 = {"Kvetta" "Kvetta"}
+2068 = {"Sibi" "Sibi"}
+
+# Makran
+
+434 = {"Kuhistan" "Bämpur"}
+575 = {"Quvadar" "Quvadar"}
+2231 = {"Bela" "Bela"}
+2232 = {"Xaran" "Xaran"}
+2233 = {"Çabahar" "Çabahar"}
+
+# Mashhad
+
+2221 = {"Mäshhäd" "Mäshhäd"}
+2235 = {"Sebzevar" "Sebzevar"} # turkish name
+2236 = {"Bocnurd" "Bocnurd"}
+4326 = {"Nishapur" "Nishapur"}
+
+# Merv
+
+444 = {"Çarcuy" "Çarcuy"}
+445 = {"Märv" "Märv"}
+2350 = {"Ashqabat" "Ashqabat"}
+
+# Sistan
+
+435 = {"Zäränc" "Zäränc"}
+2224 = {"Färäh" "Färäh"}
+2229 = {"Büst" "Büst"}
+2230 = {"Çaxansur" "Çaxansur"}
+
+## MASHRIQ 
+
+# Aleppo
+
+377 = {"Häläp" "Häläp"}
+1849 = {"Häma" "Häma"}
+2313 = {"Äntakyä" "Äntakyä"}
+4298 = {"Qaziantep" "Qaziantep"}
+
+# Al Jazira
+
+407 = {"Räkkä" "Räkkä"}
+411 = {"Mosul" "Mosul"}
+2309 = {"Sincar" "Sincar"}
+2314 = {"Rahba" "El-Rahba"}
+4292 = {"Mardin" "Mardin"}
+
+# Basra
+
+408 = {"Bäsrä" "Bäsrä"}
+2311 = {"Äs-Sämavä" "Äs-Sämavä"}
+2312 = {"Vasit" "Vasit"}
+4288 = {"Shättül-Äräp" "El-Kurne"} # turkish capital
+
+# Iraq Arabi
+
+406 = {"Xadita" "Xadita"}
+409 = {"Kärbäla" "Kärbäla Shähäri"}
+410 = {"Baghdad" "Baghdad"}
+2310 = {"Tikrit" "Tikrit"}
+4291 = {"Qäzäniya" "Bakubä"} # province made up
+
+# Palestine
+
+364 = {"Qäzzä" "Qäzzä"}
+379 = {"Qüds" "Qüds"}
+1854 = {"Yäfa" "Yäfa"} # made up from turkish 
+
+# Syria
+
+378 = {"Tärabülüs" "Tärabülüs äs-Sham"}
+382 = {"Dämäshq" "Dämäshq"} 
+1855 = {"Sayda" "Sayda"}
+4297 = {"Hüms" "Hüms"}
+
+# Syrian Desert
+
+405 = {"Tädmur" "Tädmür"}
+4270 = {"Ezräk" "Ezräk"} # made up from turkish
+4271 = {"Äs-Süveyda" "Äs-Süveyda"}
+
+# Transjordan
+
+380 = {"Kerek" "Kerek"}
+381 = {"Aclon" "Aclon"} # made up from turkish
+2327 = {"Ma'an" "Ma'an"}
+
+## PERSIA
+
+# Azerbaijan
+
+416 = {"Täbriz" "Täbriz"}
+424 = {"Ärdäbil" "Ärdäbil"}
+2206 = {"Urmiyä" "Urmu"}
+2207 = {"Maragha" "Maragha"}
+4304 = {"Xoy" "Xoy"}
+
+# Farsistan
+
+2218 = {"Shiraz" "Shiraz"}
+4329 = {"Fäsa" "Fäsa"}
+4330 = {"Darab" "Darab"}
+4331 = {"Kazirun" "Kazirun"}
+
+# Gulf Coast
+
+430 = {"Däshtistan" "Bushehr"}
+2219 = {"Bändär Lingä" "Bändär Lingä"}
+2223 = {"Laristan" "Lar"}
+4332 = {"Siraf" "Bändär Siraf"}
+
+# Iraq-e-Ajam
+
+427 = {"Qümis" "Qümis"} # made up
+428 = {"Tehran" "Tehran"}
+2213 = {"Qum" "Qum"}
+2216 = {"Simnan" "Simnan"}
+4337 = {"Savä" "Savä"}
+
+# Isfahan
+
+429 = {"Isfahan" "Isfahan"}
+433 = {"Yäzd" "Yäzd"}
+2222 = {"Ärdäkan" "Ärdäkan"}
+4171 = {"Äbärkuh" "Äbärkuh"}
+4335 = {"Kashan" "Kashan"}
+
+# Kerman
+
+432 = {"Kirman" "Kirman"}
+2220 = {"Bäm" "Bäm"}
+2234 = {"Räfsäncan" "Räfsäncan"}
+4345 = {"Säidabad" "Säidabad"} # made up
+
+# Khuzestan
+
+412 = {"Ähvaz" "Ähvaz"}
+2217 = {"Yasuc" "Yasuc"}
+4289 = {"Shushtär" "Shushtär"}
+4290 = {"Huveysä" "Huveysä"}
+4342 = {"Izä" "Izä"}
+
+# Luristan
+
+413 = {"Xürrämabad" "Xürrämabad"}
+414 = {"Hämädan" "Hämädan"}
+2209 = {"Ilam" "Ilam"}
+2210 = {"Kirmanshah" "Kirmanshah"}
+
+# Mogostan
+
+431 = {"Cärundur" "Cärundur"}
+2999 = {"Hörmüz" "Hörmüz"}
+4327 = {"Cask" "Cask"}
+
+# Shahrizor
+
+415 = {"Kärkük" "Kärkük"}
+2211 = {"Sänändäc" "Sänändäc"}
+4293 = {"Ärbil" "Ärbil"}
+4294 = {"Süleymaniyyä" "Süleymaniyyä"}
+
+# Tabarestan
+
+417 = {"Lahican" "Lahican"}
+426 = {"Amül" "Amül"}
+2214 = {"Gülüstan" "Qorqan"}
+4339 = {"Räsht" "Räsht"}
+4341 = {"Sari" "Sari"}
+
+# Zanjan
+
+2212 = {"Zäncan" "Zäncan"}
+2215 = {"Qäzvin" "Qäzvin"}
+4300 = {"Miyana" "Miyana"}
+4338 = {"Sultaniyä" "Sultaniyä"}

@@ -1,0 +1,108 @@
+## Maghreb
+
+# Algiers
+
+336 = {"Tilmsan" "Tilmsan"} # from Taclhit
+2465 = {"Wujda" "Wujda"} # from Taclhit
+4562 = {"Amers Agemddar" "Amers Agemddar"} # made up as a direct translation
+
+# Barbary Coast
+
+337 = {"Wa-iharan" "Wa-iharan"} # original berber expression
+338 = {"Mitidja" "Dzayr"} # from Taclhit, province is made up
+2461 = {"Uzzara" "Amuskanem"} # made up
+
+# Central Morocco (Morrocan Tamazight)
+
+343 = {"Fas" "Fas"}
+344 = {"Murrakush" "Murrakush"} 
+2467 = {"Mknas" "Mknas"}
+2468 = {"Tadla" "Ayt Umllal"}
+
+# Djerba
+
+353 = {"Tittawin" "Tittawin"} # r
+2453 = {"Asfaks" "Asfaks"} # reconstructed
+2954 = {"Jrba" "Agadir n Usuq"} # Morrocan Tamazight, made up capital
+
+# Fezzan
+
+2448 = {"Fzzan" "Mrraksh"} # made up capital
+2449 = {"Jefra" "Hun"} # made up	
+2474 = {"Tijerhi" "Tijerhi"} # made up
+4567 = {"Sabha" "Sabha"} # r
+
+# Gharb
+
+342 = {"Agherbaz" "Rrbat"} # Morrocan Tamazight, made up province
+345 = {"'Abdah" "Asfi"} # Morrocan Tamazight, made up province
+2469 = {"Idukaln" "Mazagan"} # r
+4564 = {"Anaffa" "Anaffa"} # r
+
+# Hautes Plains
+
+2459 = {"Tittri" "Al-Madiya"} # rp
+2462 = {"Warsnis" "Lmida"} # rp
+2463 = {"Agriz" "Agriz"} 
+
+# Kabylia
+
+339 = {"Lqbayl" "Bjayt"} # Taclhit and Morrocan Tamazight
+340 = {"Kirta" "Kirta"} # r?
+1882 = {"Annaba" "Annaba"}
+
+# North Morocco
+
+334 = {"Tanja" "Tanja"} # morrocan tamazight
+335 = {"Mlilt" "Mlilt"} # morrocan tamazight
+1751 = {"Sebta" "Sebta"} # r
+4561 = {"Tittawin" "Tittawin"} # morrocan tamazight
+4563 = {"Sla" "Sla"} # morrocan tamazight
+
+# North Sahara
+ 
+352 = {"Gafsa" "Gafsa"}
+2450 = {"'Adames" "'Adames"} # Ghadamsi
+2456 = {"Tagherdayt" "Tagherdayt"} # r
+2457 = {"Aghlan" "Ghardaya"} # Mozabite
+2472 = {"Wargla" "Wargla"} # r?
+
+# Ouled Nail (made up)
+
+350 = {"Agwat" "Agwat"}
+351 = {"Biskra" "Biskra"}
+2458 = {"Hdna" "Tamasilt"}
+
+# Southern Morocco
+
+347 = {"Ifni" "Ifni"} # r
+1110 = {"Agadir" "Agadir"} # morrocan tamazight
+2470 = {"Ihahan" "Mugadur"} # morrocan tamazight
+
+# Sus
+
+348 = {"Sus" "Tarudant"} # morrocan tamazight 
+2464 = {"Warzazat" "Warzazat"} # morrocan tamazight 
+2466 = {"Dra" "Takamadert"} # rp (capital might already 
+4568 = {"Dmnat" "Dmnat"} # morrocan tamazight 
+
+# Tafilalt
+
+346 = {"Tafilalt" "Tafilalt"}
+349 = {"Figig" "Figig"} # r
+2460 = {"Asawer" "Ayt Mheddi"}
+
+# Tripoltania
+
+354 = {"Trables" "Trables"} # r or Oyat(ancient name)
+355 = {"Sirt" "Sirt"} 
+2451 = {"Msrata" "Msrata"} # r
+2452 = {"Zwara" "Zwara"} # morrocan tamazight
+
+# Tunisia
+
+341 = {"Tunas" "Tunas"} # r?
+2454 = {"Kaf" "Kaf"} # r?
+2455 = {"Bizerte" "Bizerte"}
+2473 = {"Susa" "Susa"} # r?
+4566 = {"Tikirwan" "Tikirwan"} # r

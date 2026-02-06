@@ -1,0 +1,49 @@
+## CAUCASIA (Circassian is obscure, unless stated otherwise the names are given by ChatGPT, who claims they are real)
+
+# Armenia
+
+419 = {"Erevan" "Erevan"} # r
+420 = {"Ganzhè" "Ganzhè"}
+2202 = {"Stepanèk'èrt" "Stepanèk'èrt"}
+2205 = {"Nèhch'ivan" "Nèhch'ivan"}
+4302 = {"Daruynk" "Daruynk"}
+
+# Circassia
+
+463 = {"Hèkuž" "Myek'uapè"} # r
+2195 = {"Adygèj" "Sh'achè"} # r
+2197 = {"K'èbèrdej" "Nalshyk"} # r
+2201 = {"Alanè" "Dzludzhyk'uè"} # r
+
+# Dagestan
+
+425 = {"Dèg'uèstan" "Dèrbènd"}
+2198 = {"H'undzyja" "H'unzah"}
+2199 = {"Tèrk'y" "Tèrk'y"}
+2208 = {"Mèzdègu" "Mèzdègu"}
+4306 = {"Lèk'a" "H'umuh"}
+
+# Imereti
+
+422 = {"K'utajs" "K'utajs"}
+462 = {"Zug'dyd" "Zug'dyd"}
+1856 = {"Abhazè" "Sh'è-h'um"}
+
+# Kartli-Kakheti
+
+423 = {"Tbilisi" "Tbilisi"} # r
+2203 = {"K'ahèty" "Tèlèu"}
+4301 = {"K'artly" "G'ory"}
+
+# Samtshke
+
+2196 = {"Gurijè" "Mah'aradzy"}
+2204 = {"K'ars" "K'ars"}
+4303 = {"Olty" "Olty"}
+
+# Shirvan
+
+421 = {"Baku" "Baku"} # r
+4299 = {"Šèmahy" "Shèmahy"}
+4305 = {"Šèky" "Shèky"}
+4340 = {"Astara" "Astara"}

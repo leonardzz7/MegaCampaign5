@@ -1,81 +1,325 @@
-364 = "Gaza"
-379 = { "Ierusalem" "Ierusalem" }
-411 = "Mosul"
-1854 = "Sihhem"
-908 = "Minnesota"
-952 = "James Êa"
-953 = "Marianland"
-963 = { "Albany" "Albany on Nîwum Eoforwîce" }
-965 = { "Nîweoforwîcburg" "Nîweoforwîcburg" }
-967 = { "Rhode Îeg" "Providence" }
-968 = { "Massachusetts" "Boston" }
-970 = { "Nîwu Hâmtûnscîr" "Portesmuða" }
-973 = { "Vancouver" "Vancouver" }
-982 = "Lidwicnæsîeg"
-983 = "Eadweardes Æþelinges Iegland"
-989 = "Ontario"
-993 = { "Cynelic Beorg" "Cynelic Beorg" }
-994 = { "Quebec" "Quebecbeorg" }
+## BRITAIN (see https://epns.nottingham.ac.uk/search)
 
-492 = "Puerto Rico"
-2524 = "Indiæna"
-2561 = { "Sûþtun" "Sûþtun" }
-2563 = { "Vermont" "Montpelier" }
-2569 = { "Halifax" "Halifax" }
-2585 = "Ottawa"
-2592 = "Sæfern"
-2670 = { "Toronto" "Toronto" }
+# Connacht
 
-#Ireland
-4379 = "Offalyscîr"
+375 = {"Lumnagh" "Lumnagh"}
+376 = {"Connaught" "Galwæg"} # old spelling of Connaught
+4119 = {"Sligagh" "Sligagh"}
 
-#Italy
-104 = { "Megelan" "Megelan" }
+# East Anglia
 
-#Germany
-134 = { "Uigenna" "Uigenna" }
-41 = "Cyningesbeorg"
+238 = {"East Seaxe" "Ceolmæresford"} # 823, c. 900 (province name)
+1860 = {"Norþfolc" "Norþwic"} # both names from Wiktionary
+4370 = {"Bedanfordscir" "Grantanbrycge"} # 1011, 1016; 900-1050 (respectively)
 
-#England proper
-375 = "Limerice"
-238 = "Êastseaxe"
-1860 = "Norþfolc"
-4370 = "Bêdesfordscîr"
-243 = "Lincolnscîr"
-1861 = "Dêoraby"
-4376 = "Ligeraceaster"
-250 = "Perþ"
-369 = "Orcanege"
-373 = "Difelinscîr" # Dublinshire
-235 = "Cent"
-236 = "Lunden"
-237 = "Oxnaford"
-4371 = "Suþseaxe"
-249 = "Ægrscîr"
-251 = "Aberdon"
-244 = "Lonceasterscîr"
-246 = "Norþhymbraland"
-247 = "Cumbraland"
-4375 = "Ceaster"
-253 = "Uterra Suðreyar"
-4364 = "Innera Suðreyar"
-233 = "Cornweall"
-234 = "Hâmtûnscîr"
-4130 = "Sumorsæte"
-4373 = "Defena"
-4374 = "Dorsæte"
-239 = "Glêawcaester"
-4372 = "Cofentreo"
-245 = "Eoforwîc"
-4367 = "Hul"
-4785 = "Scêaðfeld"
+# East Midlands
 
-# Low Countries
-90 = "Brycg"
-1865 = "Gænt"
-100 = "Fresland"
-1931 = "Uterra Fresland"
-96 = "Sæland"
-92 = "Brysel"
-93 = "Lêodic"
-94 = "Letseburg"
+243 = {"Lindcolnescire" "Lindcolne"} # 1016
+1861 = {"Deoraby" "Deoraby"} # 917, 942, 955, 1050
+4376 = {"Ligoraceaster" "Ligoraceaster"} # Leicester, from Wiktionary
+
+# Highlands
+
+250 = {"Feorgh" "Feorgh"} # Perth
+252 = {"Inbærnest" "Inbærnest"}
+369 = {"Oarhnaw" "Ciricewæg"} # or Oarhna (Orkney), Kirkwall
+4110 = {"Suþerlond" "Dærnog"} # Sutherland, Dornoch
+4363 = {"Argæl" "Logouw"} # Argyll, Loch Awe
+
+# Leinster
+ 
+373 = {"Blac" "Difelin"} # real name for dublin
+374 = {"Leinstede" "Veixford"}
+4120 = {"Cildara" "Cildara"}
+4379 = {"Middlandu" "Tulaghmor"}
+
+# London
+
+235 = {"Cent" "Cantwaraburg"} # both names from Wiktionary
+236 = {"Lunden" "Lunden"} # from Wiktionary
+237 = {"Oxnaforda" "Oxnaforda"} # 912, c. 925
+4371 = {"Suþseaxan" "Hæstingas"} # both names from Wiktionary; or Hastingas (790, 1317), Hæstinga, Hæstingaport (1066, c. 1100)
+
+# Lowlands
+
+248 = {"Loþan" "Edynburh"}
+249 = {"Ayrscir" "Ayr"}
+251 = {"Aperdon" "Aperdon"}
+4361 = {"Hrocburhscire" "Jedburh"}
+4362 = {"Dunfræs" "Dunfræs"}
+
+# Munster
+
+4118 = {"Corcaig" "Corcaig"}
+4377 = {"Kilkannig" "Kilkannig"}
+4378 = {"Killarne" "Killarne"}
+
+# Northern England
+
+244 = {"Lonceasterscire" "Lonceaster"} # r
+246 = {"Norþhymbraland" "Niewecastel uppan Tina"} # real province name
+247 = {"Cumberland" "Luel"} # r
+4375 = {"Ceaster" "Ceaster"} # r
+
+# The Isles
+
+253 = {"Utera Iegland" "Steorwæg"}
+4364 = {"Innra Iegland" "Port Cyning"}
+4365 = {"Manieg" "Casteltun"}
+
+# Ulster
+
+372 = {"Tirowen" "Derrig"} # old english spelling of Tyrone
+4121 = {"Uladstir" "Bealferst"} # real province name
+4380 = {"Dunagal" "Dunagal"} 
+
+# Wales
+
+241 = {"Gealdmerehand" "Sweinesewe"}
+242 = {"Cærnirvynscire" "Cærnirvyn"} # Carnarvonshire
+4366 = {"Pæwys" "Muntgumarick"}
+4369 = {"Kærmeretanscire" "Kærmeretan"}
+
+# Wessex
+
+233 = {"Cornwealas" "Þrelifer"} # province name from Wiktionary
+234 = {"Hamtunscir" "Searbyrig"} # prov name from Wiktionary, capital name from 1003, c. 1150
+4130 = {"Sumorsæte" "Baþan"} # both from Wiktionary
+4373 = {"Dæfenascir" "Plymuþ"} # 1017; made-up
+4374 = {"Dornwaraceaster" "Wymmuþ"} # prov name from Wiktionary, made-up
+
+# West Midlands
+
+239 = {"Glæaweceastrescire" "Brycgstowe"} # 1033-1038, city name from 1052 and 1063
+240 = {"Scrobbesburh" "Scrobbesburh"} # from Wiktionary
+4372 = {"Couentre" "Couentre"} # 1043; OR "Cofentreo", "Cofantreo" according to Wiktionary
+
+# Yorkshire
+
+245 = {"Eoforwic" "Eoforwic"} # r
+4367 = {"Wyke" "Cyngestun on Hul"} # r
+4368 = {"Scardaburh" "Scardaburh"}
+4785 = {"Sceadfeld" "Sceadfeld"} #r
+
+## FRANCE
+
+# Auvergne
+
+190 = {"Edwennascir" "Mulham"}
+195 = {"Winland" "Lunham"}
+199 = {"Ofereg" "Clærhyll-Ferdinandes"}
+4697 = {"Fearnham" "Gæric"}
+4777 = {"Weseham" "Breonmunt"}
+
+# Brittany
+
+169 = {"Armricescir" "Sanct Mæloh"}
+170 = {"Pennefordscir" "Breost"}
+171 = {"Wenðscir" "Wenð"}
+172 = {"Condreland" "Nansburg"}
+4384 = {"Retonscir" "Reton"}
+
+# Champagne
+
+181 = {"Ræddelscir" "Ræddel"}
+186 = {"Remanscir" "Reman"}
+4390 = {"Winham" "Treowes"}
+
+# Eastern Burgundy
+
+192 = {"Dicgenscir" "Dicgen"}
+193 = {"Freoschir" "Bisance"}
+4764 = {"Sealtbæþscir" "Salens"}
+
+# Gascony
+ 
+173 = {"Aþurfordscir" "Buhtstede"}
+175 = {"Oscscir" "Auch"}
+176 = {"Tærbellond" "Palburg"}
+4694 = {"Æregefordscir" "Foc"}
+
+# Guyenne
+
+174 = {"Burdiscir" "Burdigala"}
+194 = {"Bracchamscir" "Braccham"}
+198 = {"Rokweorþschir" "Roþerham"}
+4112 = {"Cerscenas" "Cærris"}
+
+# Île-de-France
+
+182 = {"Dælland" "Swescingas"}
+183 = {"Parisiace" "Parisiace"}
+185 = {"Senonsæte" "Æþolten"}
+4388 = {"Carnutsæte" "Carnutun"}
+
+# Languedoc
+ 
+196 = {"Gærmuþscir" "Tolose"}
+200 = {"Mongetelgendescir" "Mongetelgende"}
+2753 = {"Narburgscir" "Narburg"}
+4391 = {"Viværingescir" "Wifarie"}
+4695 = {"Carcanscir" "Carcantun"}
+
+# Loire Valley
+
+177 = {"Mans" "Cenomenor"} # rp
+178 = {"Angaland" "Andecaf"} # from Angevin into Angeus in Middle French, and then into Angeland; Andecavi into Andecaf in Old English
+4389 = {"Tyscaland" "Turingaham"}
+
+# Lorraine
+ 
+187 = {"Cyningceasterscir" "Bar-le-Duc"}
+188 = {"Middelmodringas" "Mecceaster"}
+189 = {"Hloðeringascir" "Nænzige"}
+4766 = {"Norþeastfolc" "Veredoun"}
+
+
+# Normandy
+
+167 = {"Roðem" "Roðem"} # r (https://ang.wikipedia.org/wiki/Ro%C3%B0em)
+168 = {"Caðum" "Caðum"} # r
+1879 = {"Eallenscir" "Eallenburg"}
+4385 = {"Cottentrige" "Kiæresburh"} # rp
+
+# Orleanais
+
+179 = {"Beorganburgscir" "Beoranburg"}
+184 = {"Orelescir" "Oreleseg"}
+4776 = {"Blæsatunscir" "Blæsatun"}
+
+# Picardie
+
+87 = {"Læð æf Ceales" "Ceales"}
+88 = {"Arteland" "Æðræc"}
+89 = {"Picardi" "Æmbean"}
+1743 = {"Camric" "Camric"}
+
+# Poitou
+ 
+180 = {"Ufera Peohtland" "Pictun"}
+4111 = {"Særtensæte" "Sarnum"}
+4386 = {"Niþre Peohtland" "Lussen"}
+4387 = {"Yclesmscir" "Yclesmceaster"}
+ 
+# Provence
+ 
+201 = {"Æxfordscir" "Æxford"}
+202 = {"Durnrodanesscir" "Afanon"}
+2991 = {"Fyrhuseside" "Dunecott"}
+4696 = {"Tolonscir" "Tolon"}
+ 
+# Savoy
+ 
+203 = {"Lugdunscir" "Lugdun"}
+204 = {"Dælfen" "Forstborghap"}
+205 = {"Cæmfriðscir" "Cæmfriðweoce"}
+4719 = {"Brictunscir" "Burg-uppan-Bricstun"}
+ 
+# Western Burgundy
+ 
+191 = {"Niewefolc" "Nefrenham"}
+1877 = {"Twisnescir" "Twisnege"}
+4392 = {"Ionanbrycgscir" "Butwælceaster"}
+
+
+## NORTH AMERICA
+
+## CANADA
+
+# Cote Nord
+996 = "Wintertarn"
+2576 = "Fælingard"
+2577 = "Eotheburg"
+2578 = "Ashenholm"
+2579 = "Thunorsby"
+
+# Greenland
+
+1104 = "Hrimgarthr"
+1105 = "Ískyn"
+
+# Huronia
+
+988 = "Wydholm"
+989 = "Hæfenwulf"
+2585 = "Eoforhild"
+2670 = "Hránby"
+
+# Labrador
+
+997 = "Hwitelund"
+2574 = "Æthelmere"
+2575 = "Winthrith"
+
+# Laurentia
+
+992 = "Wulfham"
+2581 = "Eadwinstow"
+4894 = "Æthelburg"
+
+# Lower Acadia
+
+982 = "Beornham"
+984 = "Wælstow"
+2568 = "Æscwudu"
+2569 = "Isenbyrig"
+4891 = "Hreodford"
+
+# Lower Canada
+
+993 = "Hæethwic"
+2584 = "Wudgripa"
+4895 = "Feldburna"
+
+# Newfoundland
+
+980 = "Hrothwic"
+981 = "Æscwara"
+2573 = "Wæstmere"
+
+# Ottawa Valley
+
+4890 = "Wulfricstow"
+4892 = "Aldenwic"
+4897 = "Hæthelholm"
+
+# Québec
+
+986 = "Fæstanwudu"
+994 = "Brynstow"
+995 = "Hæthelsceat"
+2582 = "Hrothburg"
+2583 = "Eadwigstun"
+
+# St John's Valley
+
+2570 = "Wulfherestun"
+2571 = "Ælfwaldham"
+4896 = "Beornwic"
+
+# Trois-Rivieres
+
+990 = "Hildenhall"
+2012 = "Thunorford"
+2580 = "Ashenby"
+4893 = "Winfridham"
+
+# Upper Acadia
+
+983 = "Wælwudu"
+985 = "Æthelburna"
+2572 = "Eormenscyr"
+
+# Upper Canada
+
+987 = "Cynewulfham"
+2586 = "Eoforwicceaster"
+2587 = "Winfridford"
+
+# Upper Ontario
+
+991 = "Æthelburghtun"
+1001 = "Hrothgardstead"
+1007 = "Cynricton"
+2015 = "Wælwulfbyrig"
+2671 = "Æthelgifuthorp"

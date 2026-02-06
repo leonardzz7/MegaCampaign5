@@ -356,18 +356,12 @@ country_decisions = {
 	ZZZ_enhanced_reform_baltic_pagan = {
 		major = yes
 		potential = {
-			NOT = { has_global_flag = ZZZ_enhanced_baltic_pagan_reformed }
-			NOT = { has_global_flag = ZZZ_enhanced_random_world }
 			religion = baltic_pagan
 		}
 
 		provinces_to_highlight = {
 			OR = {
 				province_id = 38   #Riga
-				province_id = 1859 #Kulm
-				province_id = 269  #Podlasie/Palenke
-				province_id = 297  #Bryansk/Brianskas
-				province_id = 47   #Stralsund
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -377,12 +371,7 @@ country_decisions = {
 
 		allow = {
 			government_rank = 2
-			stability = 2
 			owns_core_province = 38   #Riga
-			owns_core_province = 1859 #Kulm
-			owns_core_province = 269  #Podlasie/Palenke
-			owns_core_province = 297  #Bryansk/Brianskas
-			owns_core_province = 47   #Stralsund
 		}
 
 		effect = {

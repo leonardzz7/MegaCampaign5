@@ -1,5 +1,5 @@
-owner = GUR
-controller = GUR
+owner = Z05
+controller = Z05
 capital = "Bilanga"
 is_city = yes
 culture = mali
@@ -8,7 +8,7 @@ trade_goods = ivory
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = GUR
+add_core = Z05
 add_core = MAL
 discovered_by = sub_saharan
 native_size = 40

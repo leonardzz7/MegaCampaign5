@@ -1,0 +1,657 @@
+## BALTICS
+
+# Aukstaitija
+
+272 = {"Vilnius" "Vilnius"}
+770 = {"Breslauja" "Breslauja"}
+4535 = {"Vilkmerge" "Vilkmerge"}
+4536 = {"Lyda" "Lyda"}
+
+# Curonia
+
+35 = {"Sarema" "Kùresare"}
+39 = {"Kuldyga" "Kuldyga"}
+1935 = {"Mintauja" "Mintauja"}
+
+# East Prussia
+
+40 = {"Klaipeda" "Klaipeda"}
+41 = {"Karaliaucius" "Karaliaucius"}
+42 = {"Varme" "Olštynas"}
+767 = {"Šcytnas" "Šcytnas"}
+2958 = {"Ostruda" "Ostruda"}
+
+# Estonia
+
+36 = {"Talinas" "Talinas"}
+1834 = {"Tartu" "Tartu"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livonija" "Viljandis"}
+38 = {"Ryga" "Ryga"}
+273 = {"Latgala" "Daugpilis"}
+4241 = {"Kesys" "Kesys"}
+
+# Samogitia
+
+270 = {"Trakai" "Trakai"}
+271 = {"Zemaitija" "Varniai"}
+1936 = {"Kaunas" "Kaunas"}
+4534 = {"Upyte" "Upyte"}
+
+# West Prussia
+
+43 = {"Gdanskas" "Gdanskas"}
+1841 = {"Malborkas" "Malborkas"}
+2997 = {"Tucholia" "Tucholia"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Cernihivas" "Cernihivas"}
+1945 = {"Severšcina" "Naugardas Sievierskas"}
+4543 = {"Rylskas" "Rylskas"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Perejaslav" "Perejaslav"}
+4542 = {"Lubnai" "Lubnai"}
+
+# Minsk
+
+276 = {"Minskas" "Minskas"}
+4115 = {"Mozyrius" "Mozyrius"}
+4242 = {"Ulas" "Ulas"}
+4544 = {"Babrùiskas" "Babrùiskas"}
+
+# Podlasie
+
+269 = {"Palenke" "Drogicinas"}
+277 = {"Brasta" "Lietuvos Brasta"}
+1937 = {"Gardinas" "Gardinas"}
+
+# Podolia
+
+281 = {"Podole" "Podoles Kamenecas"}
+1943 = {"Braclavas" "Braclavas"}
+4540 = {"Vinica" "Vinica"}
+
+# Pripyat
+
+278 = {"Pinskas" "Pinskas"}
+1941 = {"Turava" "Turava"}
+4537 = {"Naugardukas" "Naugardukas"}
+4545 = {"Sluckas" "Sluckas"}
+
+# Sloboda Ukraine
+
+291 = {"Charkovas" "Charkovas"}
+298 = {"Kurskas" "Kurskas"}
+299 = {"Voronežas" "Voronežas"}
+2408 = {"Jelecas" "Jelecas"}
+
+# Smolensk
+
+293 = {"Smolenskas" "Smolenskas"}
+297 = {"Brianskas" "Brianskas"}
+4244 = {"Trubcevskas" "Trubcevskas"}
+4245 = {"Viazma" "Viazma"}
+
+# Volhynia
+
+279 = {"Voluine" "Vladimiras"}
+2962 = {"Rovnas" "Rovnas"}
+4538 = {"Chelmas" "Chelmas"}
+4539 = {"Kremenecas" "Kremenecas"}
+
+# West Dniepr
+
+280 = {"Kyjivas" "Kyjivas"}
+1942 = {"Žitomyras" "Žitomyras"}
+1944 = {"Cerkasai" "Cerkasai"}
+4247 = {"Ovrucas" "Ovrucas"}
+
+# White Ruthenia
+
+292 = {"Mogiliovas" "Mogiliovas"}
+771 = {"Vitebskas" "Vitebskas"}
+4246 = {"Mstislãvas" "Mstislãvas"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrachane" "Astrachane"}
+466 = {"Kamyšinas" "Kamyšinas"}
+468 = {"Manycius" "Volgodonskas"}
+2416 = {"Stavropolis" "Stavropolis"}
+2417 = {"Elista" "Elista"}
+
+# Azov
+
+286 = {"Azovas" "Azovas"}
+287 = {"Kubanšcina" "Antonodaras"} # Reference to the noble Antanas Tyzenhaus
+2413 = {"Novocerkaskas" "Naujasis Cerkaskas"}
+2414 = {"Tihorekas" "Tihorekas"}
+
+# Crimea
+
+284 = {"Krymas" "Eupatorija"}
+285 = {"Kerce" "Kerce"}
+2410 = {"Sevastopolis" "Sevastopolis"}
+2447 = {"Tamane" "Tamane"}
+
+# Lower Don
+
+288 = {"Cerkaskas" "Cerkaskas"}
+467 = {"Borisoglebskas" "Borisoglebskas"}
+1971 = {"Caricynas" "Caricynas"}
+2409 = {"Bachmutas" "Bachmutas"}
+
+# Yedisan
+
+282 = {"Edisanas" "Edisanas"}
+1974 = {"Chersònas" "Chersònas"}
+2406 = {"Mykolajivas" "Mykolajivas"}
+
+# Zaporizhia
+
+283 = {"Zaporože" "Zaporože"}
+2411 = {"Antonišlovas" "Antonišlovas"} # Reference to the noble Antanas Tyzenhaus
+2412 = {"Mariupolis" "Mariupolis"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Sèradzas" "Sèradzas"}
+1939 = {"Lencýca" "Lencýca"}
+4533 = {"Vèliunis" "Vèliunis"}
+
+# Kuyavia
+
+1859 = {"Kulmas" "Kulmas"}
+4523 = {"Inovroclavas" "Inovroclavas"}
+4524 = {"Dobre" "Dobre ant Vyslos"}
+4528 = {"Kujavija" "Kujavijos Brestas"}
+
+# Malopolska
+
+262 = {"Krokuva" "Krokuva"}
+2960 = {"Naujasis Soncas" "Naujasis Soncas"}
+4527 = {"Cencinai" "Cencinai"}
+
+# Mazovia
+
+256 = {"Plockas" "Plockas"}
+257 = {"Váršuva" "Váršuva"}
+1938 = {"Vizna" "Vizna"}
+4525 = {"Ravà" "Mazòvijos Ravà"}
+
+# Red Ruthenia
+
+261 = {"Halicas" "Halicas"}
+1940 = {"Belzas" "Belzas"}
+2424 = {"Peremislis" "Peremislis"}
+2961 = {"Lvivas" "Lvivas"}
+4541 = {"Drohobycas" "Drohobycas"}
+
+# Sandomierz
+
+259 = {"Sandomèžas" "Sandomèžas"}
+260 = {"Liùblinas" "Liùblinas"}
+2959 = {"Tarnuvas" "Tarnuvas"}
+
+# Silesia
+
+263 = {"Racibužas" "Racibužas"}
+264 = {"Vroclavas" "Vroclavas"}
+2966 = {"Gloguvas" "Gloguvas"}
+4238 = {"Legnica" "Legnica"}
+4723 = {"Opòle" "Opòle"}
+
+# Wielkopolska
+
+254 = {"Poznãne" "Poznãne"}
+255 = {"Kãlišas" "Kãlišas"}
+2963 = {"Notece" "Nakas prie Notecios"}
+4526 = {"Gnieznas" "Gnieznas"}
+
+## RUSSIA
+
+# Archangelsk
+
+1955 = {"Archangelskas" "Archangelskas"}
+4122 = {"Šenkurska" "Šenkurska"}
+4256 = {"Solvycegodska" "Solvycegodska"}
+4257 = {"Mezena" "Mezena"}
+
+# Beloozero
+
+312 = {"Beloozeras" "Beloozeras"}
+4259 = {"Velskas" "Velskas"}
+4261 = {"Ustiužna" "Ustiužna"}
+
+# Moscow
+
+295 = {"Maskva" "Maskva"}
+4251 = {"Možaiskas" "Možaiskas"}
+4252 = {"Kolomna" "Kolomna"}
+
+# North Karelia
+
+32 = {"Priozerskas" "Priozerskas"}
+309 = {"Olonecas" "Olonecas"}
+4124 = {"Karelija" "Lieksa"}
+
+# Novgorod
+
+310 = {"Naugardas" "Didysis Naugardas"}
+311 = {"Holma" "Holma"}
+1959 = {"Toržokas" "Toržokas"}
+2749 = {"Tichvinas" "Tichvinas"}
+4260 = {"Vyšnij Volociokas" "Vyšnij Volociokas"}
+
+# Oka
+
+296 = {"Kaluga" "Kaluga"}
+300 = {"Tula" "Tula"}
+4116 = {"Odojevas" "Odojevas"}
+
+# Pomorye
+
+313 = {"Belomorskas" "Belomorskas"}
+1776 = {"Baltoji Karelija" "Keme"}
+1958 = {"Kargopolis" "Kargopolis"}
+4258 = {"Onega" "Onega"}
+
+# Pskov
+
+274 = {"Pskovas" "Pskovas"}
+275 = {"Pòlockas" "Pòlockas"}
+1960 = {"Ostrovas" "Ostrovas"}
+4148 = {"Lukai" "Didieji Lukai"}
+
+# Ryazan
+
+301 = {"Riazane" "Pereslavlio Riazane"}
+1778 = {"Kasimovas" "Kasimovas"}
+4255 = {"Pronskas" "Pronskas"}
+
+# South Karelia
+
+30 = {"Vyborgas" "Vyborgas"}
+33 = {"Vytautogród" "Vytautogród"} # Reference to Vytautas the Great
+34 = {"Ingrija" "Koporje"}
+1961 = {"Ladoga" "Sortavala"}
+
+# Suzdal
+
+1754 = {"Muromas" "Muromas"}
+1956 = {"Suzdale" "Suzdale"}
+4254 = {"Starodubas" "Starodubas"}
+
+# Tambov
+
+302 = {"Tambovas" "Tambovas"} 
+304 = {"Penza" "Penza"}
+2415 = {"Atkarskas" "Atkarskas"}
+
+# Tver
+
+294 = {"Tvere" "Tvere"}
+1752 = {"Rževas" "Rževas"}
+4243 = {"Toropecas" "Toropiec"}
+4248 = {"Kašinas" "Kašinas"}
+4249 = {"Zubcovas" "Zubcovas"}
+
+# Vladimir
+
+307 = {"Vladimiras" "Vladimiras"}
+4147 = {"Rostovas" "Rostovas"}
+4253 = {"Jurjevas" "Jurjevas Polskis"}
+
+# Vologda
+
+314 = {"Vologoda" "Vologoda"}
+4262 = {"Totma" "Totma"}
+4263 = {"Soligalicas" "Soligalicas"}
+
+# Yaroslavl
+
+308 = {"Jaroslavlis" "Jaroslavlis"}
+1753 = {"Kostroma" "Kostroma"}
+4117 = {"Bežeckas" "Bežeckas"}
+4250 = {"Mologa" "Mologa"}
+
+## GERMANY ##
+
+# Alsace
+
+75 = {"Strasburas" "Strasburas"}
+1880 = {"Sungaujas" "Senas Bažnytas"} # Capital name derived from "Old" + "Church" (Altkirch)
+4765 = {"Miuluzas" "Miuluzas"}
+
+# Austria Proper
+
+133 = {"Žemutine Austrija" "Lincas"}
+134 = {"Viena" "Viena"}
+1770 = {"Kremsas" "Kremsas prie Dunojaus"}
+4761 = {"Šteiras" "Šteiras"}
+4762 = {"Aukštutine Austrija" "Šventasis Peltenas"}
+
+# Baden
+
+72 = {"Bregaujas" "Laisvpilis"} # Capital name derived from "Free" + "Castle" (Freiburg)
+74 = {"Badenas" "Badenas"}
+4714 = {"Durlachas" "Karlsruje"}
+
+# Bohemia
+
+266 = {"Praha" "Praha"}
+2968 = {"Budejovicai" "Budejovicai"}
+2970 = {"Karališkasis Pilis" "Karališkasis Pilis"} # Province name derived from "Royal" + "Castle" (Hradec Králové)
+4724 = {"Pardubices" "Pardubices"}
+4725 = {"Hradecas" "Jindržichuv Hradecas"}
+
+# Braunschweig
+
+57 = {"Braunšveigas" "Braunšveigas"}
+1758 = {"Hanoveris" "Hanoveris"}
+2971 = {"Hoja" "Hoja"}
+4773 = {"Getingenas" "Getingenas"}
+
+# Carniola
+
+129 = {"Kraina" "Liubliana"}
+130 = {"Istrija" "Pula"}
+1769 = {"Goricija" "Goricija"}
+4738 = {"Triestas" "Triestas"}
+4751 = {"Cele" "Cele"}
+
+# East Bavaria
+
+76 = {"Zalcburgas" "Zalcburgas"}
+4709 = {"Pasau" "Pasau"} # no it's not a typo
+4760 = {"Ino Ketvirtis" "Braunau prie Ino"} # Province name derived from "Inn Quarter", the literal name for the "Innviertel" in German
+
+# East Swabia
+
+68 = {"Memingenas" "Memingenas"}
+1868 = {"Augsburgas" "Augsburgas"}
+1872 = {"Ulmas" "Ulmas"}
+4711 = {"Dunojuvortas" "Dunojuvortas"}
+
+# Erzgebirge
+
+267 = {"Pilzenas" "Pilzenas"}
+1771 = {"Litomeržices" "Litomeržices"}
+2967 = {"Karolio Vonios" "Karolio Vonios"} # Name derived from "Charles'" + "baths" (Karlsbad, Karlovy Vary)
+
+# Hesse
+
+78 = {"Maincas" "Maincas"}
+81 = {"Aukštutinis Hesenas" "Marburgas prie Lano"}
+1762 = {"Žemutinis Hesenas" "Kaselis"}
+1876 = {"Frankfurtas" "Frankfurtas prie Maino"}
+4774 = {"Fulda" "Fulda"}
+
+# Hinterpommern
+
+48 = {"Kolobžegas" "Kolobžegas"}
+2995 = {"Slùpskas" "Slùpskas"}
+4746 = {"Stargardas" "Stargardas"}
+
+# Inner Austria
+
+128 = {"Žemutine Karintija" "Klagenfurtas"}
+132 = {"Štirija" "Žydupilis"} # Capital name derived from "Jewish" + "Castle" (Judenburg)
+1863 = {"Gracas" "Gracas"}
+4759 = {"Aukštutine Karintija" "Filachas"}
+
+# Lower Bavaria
+
+64 = {"Landshutas" "Landshutas"}
+1757 = {"Žemutinas Pfalcas" "Ambergas"} # made up name
+2956 = {"Štrubina" "Štrubina"} # made up name
+2957 = {"Regensburgas" "Regensburgas"}
+
+# Lower Franconia
+
+71 = {"Ansbachas" "Ansbachas"}
+79 = {"Viurcburgas" "Viurcburgas"}
+4715 = {"Rotenburgas" "Rotenburgas"} # made up name
+4718 = {"Ašafenburgas" "Ašafenburgas"}
+
+# Lower Rhineland
+
+80 = {"Tryras" "Tryras"}
+1760 = {"Koblencas" "Koblencas"}
+1878 = {"Achenas" "Achenas"}
+4768 = {"Julichas" "Julichas"}
+
+# Lower Saxony
+
+44 = {"Hamburgas" "Hamburgas"}
+53 = {"Liuneburgas" "Liuneburgas"} # made up name
+1857 = {"Lajenburgas" "Lajenburgas"} # made up name
+4772 = {"Cele" "Cele"}
+
+# Lusatia
+
+60 = {"Baucenas" "Baucenas"}
+1763 = {"Žemutine Lužica" "Kotbusas"} # or Žemutinas Lauzicas
+4778 = {"Giorlicas" "Giorlicas"}
+
+# Mecklemburg
+
+45 = {"Liubekas" "Liubekas"}
+46 = {"Rostokas" "Rostokas"}
+2996 = {"Vismaras" "Vismaras"}
+4749 = {"Strelica" "Nauja Strelica"} # made up name, possibly even the real one
+4786 = {"Prignicas" "Pankovas"} # made up names, the capital name may even be real
+
+# Mittelmark
+
+50 = {"Berlynas" "Berlynas-Ciolinas"} # made up capital name
+51 = {"Rupina" "Nauja Rupina"} # made up names
+1759 = {"Potsdamas" "Potsdamas"}
+2993 = {"Ukres Riba" "Prenclau"} # made up province name
+4748 = {"Brandenburgas" "Brandenburgas"} # the capital name is indeed the same as the province name
+
+# Moravia
+
+265 = {"Brno" "Brno"}
+4237 = {"Olomoucas" "Olomoucas"}
+4726 = {"Ostrava" "Ostrava"}
+
+# Neumark
+
+49 = {"Rytu Brandenburgas" "Gòžuvas"} # or "Didžiõsios Lénkijos Gòžuvas", but it doesn't fit, would be very interesting though
+2969 = {"Šternbergas" "Frankfurtas prie Oderio"}
+4747 = {"Drauwos" "Drauwos Pomeranija"} # made up names
+
+# North Rhine
+
+83 = {"Nasau" "Wilburgas"} # made up names
+84 = {"Bergas" "Diuseldorfas"}
+85 = {"Kelnas" "Kelnas"}
+2975 = {"Kleve" "Kleve"}
+
+# North Westphalia
+
+56 = {"Osnabriukas" "Osnabriukas"}
+69 = {"Dortmundas" "Dortmundas"}
+86 = {"Miunsteris" "Miunsteris"}
+2973 = {"Mepenas" "Mepenas"}
+
+# Palatinate
+
+77 = {"Heidelbergas" "Heidelbergas"}
+1761 = {"Pfalcas" "Vormsas"}
+4767 = {"Dvieji Tiltai" "Dvieji Tiltai"} # Capital name derived from "Two" + "Bridges" (Zweibrücken)
+
+# Romandie
+
+165 = {"Bernas" "Bernas"}
+1867 = {"Vo" "Lozana"} # nope the province name isn't a typo
+1871 = {"Vale" "Sionas"}
+4720 = {"Ženeva" "Ženeva"}
+4721 = {"Laisvpilis" "Laisvpilis"} # Name derived from "Free" + "Castle" (Fribourg)
+
+# Saxony
+
+59 = {"Vitenbergas" "Vitenbergas"}
+61 = {"Drezdenas" "Drezdenas"}
+62 = {"Leipcigas" "Leipcigas"}
+4744 = {"Cvikau" "Cvikau"}
+
+# Saxony-Anhalt
+
+52 = {"Magdeburgas" "Magdeburgas"}
+58 = {"Analtas" "Desau"} # made up province name
+2964 = {"Štendalis" "Štendalis"}
+4741 = {"Hale" "Hale"}
+4742 = {"Goslaras" "Goslaras"}
+
+# Schleswig-Holstein
+
+13 = {"Šlezvigas" "Šlezvigas"}
+1775 = {"Holšteinas" "Kylis"}
+4141 = {"Meldorfas" "Meldorfas"} # made up name
+
+# South Westphalia
+
+82 = {"Vestfalija" "Arnsbergas"}
+2972 = {"Paderbornas" "Paderbornas"}
+4775 = {"Ravensburgas" "Bylefeldas"}
+
+# Switzerland
+
+166 = {"Miško Vieta" "Švicas"} # Province name derived from "from the forest" + "Place" (Waldstätte)
+1869 = {"Ciurichas" "Ciurichas"}
+1870 = {"Sent Galenas" "Sent Galenas"}
+1873 = {"Kuras" "Kuras"}
+4722 = {"Ilancas" "Ilancas"} # made up name
+
+# Tirol
+
+73 = {"Intalas" "Insbrukas"} # made up province name
+110 = {"Trentas" "Trentas"}
+1768 = {"Lincas" "Lincas"}
+4710 = {"Forarlbergas" "Bregencas"}
+4758 = {"Etštalas" "Bolcanas"} # made up province name
+
+# Thuringia
+
+63 = {"Erfurtas" "Erfurtas"}
+2965 = {"Vogtlandas" "Plauenas"} # made up province name
+4743 = {"Veimaras" "Veimaras"}
+
+# Upper Bavaria
+
+65 = {"Miunchenas" "Miunchenas"}
+2955 = {"Ingolštatas" "Ingolštatas"}
+4707 = {"Vandenpilis" "Vandenpilis prie Ino"} # "Vandenpilis" is derived from "Water" + "Castle" (Wasserburg)
+4708 = {"Freizingas" "Freizingas"}
+
+# Upper Franconia
+
+66 = {"Bambergas" "Bambergas"}
+67 = {"Niurnbergas" "Niurnbergas"}
+4716 = {"Koburgas" "Koburgas"}
+4717 = {"Bairoitas" "Bairoitas"}
+
+# Vorpommern
+
+47 = {"Štralzundas" "Štralzundas"}
+1858 = {"Šcecinas" "Šcecinas"}
+2994 = {"Volgasta" "Volgasta"} # made up name
+4745 = {"Riugenas" "Bergenas Riugenas"} # made up capital name
+
+# Weser
+
+54 = {"Miestas" "Miestas"} # Stade, "city"
+55 = {"Oldenburgas" "Oldenburgas"}
+1874 = {"Bremenas" "Bremenas"}
+4771 = {"Ferdenas" "Ferdenas"} # made up name
+
+# West Swabia
+
+70 = {"Viurtembergas" "Štutgartas"}
+4712 = {"Konstancas" "Konstancas"}
+4713 = {"Uracas" "Roitlingenas"} # made up province name
+
+## SCANDIVANIA (Denmark from now)
+
+# Denmark
+
+12 = {"Zelandija" "Kopenhaga"}
+14 = {"Fiunas" "Odense"}
+1981 = {"Bornholmas" "Rione"}
+1983 = {"Lolandas" "Niukiobingas"}
+
+# North Jutland
+
+15 = {"Vakaru Jutlandija" "Ribe"}
+1984 = {"Šiaures Jutlandija" "Olborgas"}
+4142 = {"Rytu Jutlandija" "Orhusas"}
+4149 = {"Koldingas" "Koldingas"}
+
+## CARPATHIANS
+
+# Alföld
+
+155 = {"Diula" "Diula"}
+1953 = {"Debrecenas" "Debrecenas"}
+1954 = {"Didelis Becerekas" "Didelis Becerekas"}
+4125 = {"Solnokas" "Solnokas"}
+
+# Moldova
+
+268 = {"Sucava" "Sucava"}
+1756 = {"Besarabija" "Kilija"}
+2405 = {"Tigina" "Tigina"}
+4529 = {"Jasai" "Jasai"} # or Jašis
+4530 = {"Birladas" "Birladas"}
+
+# Northern Transilvania
+
+157 = {"Oradia" "Oradia"}
+158 = {"Murešas Rinkas" "Murešas Rinkas"} # or either "Murešas Turgavietes", "Murešas Turgus or Murešas Rinkose"; Târgu Mures, literally translated into Lithuanian
+1952 = {"Maramurešas" "Chustas"}
+4127 = {"Turda" "Turda"}
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"}
+162 = {"Zemplinas" "Košice"}
+1318 = {"Spišas" "Levoca"}
+1772 = {"Prešpurkas" "Prešpurkas"}
+4236 = {"Trencynas" "Trencynas"}
+
+# Southern Transilvania
+
+156 = {"Timišoara" "Timišoara"}
+1951 = {"Balgradas" "Balgradas"}
+4128 = {"Sibiu" "Sibiu"}
+
+# Transdanubia
+
+135 = {"Šopronas" "Šopronas"}
+153 = {"Peštas" "Buda"}
+1864 = {"Kapošvaras" "Kapošvaras"}
+4126 = {"Bacas" "Bacas"}
+4240 = {"Stãlas Balgradas" "Stãlas Balgradas"} # Székesféhervár
+
+# Wallachia
+
+160 = {"Oltenija" "Krajova"}
+161 = {"Tirgovište" "Tirgovište"}
+2998 = {"Buzeu" "Buzeu"} # real Lithuanian name
+4531 = {"Džurdžu" "Džurdžu"}
+4532 = {"Severinas" "Severinas"}

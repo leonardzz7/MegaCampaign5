@@ -1,5 +1,45 @@
 dependency=
 {
+	subject_type="vassal"
+	first="KOJ"
+	second="KCL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="KOJ"
+	second="KNI"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="KOJ"
+	second="KOS"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="EST"
+	second="COP"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="SWE"
+	second="JOM"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
 	subject_type="tributary_state"
 	first="Z00"
 	second="COR"

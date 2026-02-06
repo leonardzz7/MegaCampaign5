@@ -1,0 +1,8 @@
+## LANGUAGE: VALENCIAN
+
+# Valencia
+
+220 = {"València" "València"} # r
+1750 = {"Alacant" "Alacant"} # r
+4549 = {"Xàtiva" "Xàtiva"} # r
+4550 = {"Castelló" "Castelló de la Plana"} # r

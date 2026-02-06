@@ -1,5 +1,5 @@
-owner = KOJ
-controller = KOJ
+owner = KNI
+controller = KNI
 capital = "Mughla"
 is_city = yes
 culture = anatolian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 3
 base_production = 3
 base_manpower = 3
-add_core = KOJ
+add_core = KNI
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

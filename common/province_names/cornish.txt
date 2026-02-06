@@ -1,0 +1,102 @@
+## BRITAIN
+
+# Connacht
+
+375 = {"Lommneth" "Lommneth"} 
+376 = {"Konnacht" "Gelliw"}
+4119 = {"Slygov" "Slygov"} 
+
+# East Anglia
+
+238 = {"Pow Esek" "Rys Gwyls"}
+1860 = {"An Heledh Du" "An Heledh Du"}
+4370 = {"Caer Bedh" "Caer Bedh"} 
+
+# East Midlands
+
+243 = {"Lynkwlen" "Lynkwlen"}
+1861 = {"Tre an Dowrdhwy" "Tre an Dowrdhwy"}
+4376 = {"Caerlyr" "Caerlyr"} 
+
+# Highlands
+
+250 = {"Perth" "Perth"} 
+252 = {"Aber Nys" "Aber Nys"} 
+369 = {"Enysow Erch" "Kerkhal"}
+4110 = {"Kataf" "Tre an Dor"} 
+4363 = {"Aberawr" "Aberawr"}
+
+# Leinster
+
+373 = {"Dulyn" "Dulyn"} # r 
+374 = {"Leyn" "Lugh Garmon"} 
+4120 = {"Kildhar" "Kildhar"} 
+4379 = {"Tol Moer" "Tol Moer"}
+
+# London
+
+235 = {"Kint" "Penkellys"} # rp	
+236 = {"Loundres" "Loundres"} # r
+237 = {"Rysoghen" "Rysoghen"} # r
+4371 = {"Pow Suvek" "Kern Hestyn"}
+
+# Lowlands
+
+248 = {"Karedin" "Karedin"} # r
+249 = {"Swydd Ayr" "Inver Awr"} # r
+251 = {"Aberdonn" "Aberdonn"} 
+4361 = {"Rosbroik" "Dhe Dart"} 
+4362 = {"Caerferes" "Caerferes"} # r
+
+# Munster
+
+4118 = {"Corc" "Corc"} # r
+4377 = {"Dewran Mwyn" "Kyl Keyneg"} 
+4378 = {"Dehowel Mwyn" "Kyl Arna"}
+
+# Northern England
+
+244 = {"Konteth Karhirbre" "Caerhirvren"} # rp
+246 = {"Pow an Norvys" "Kastell Nowydh"}
+247 = {"Caerliwelyth" "Caerliwelyth"}
+4375 = {"Kardeva" "Kardeva"} # r
+
+# The Isles
+
+253 = {"Enysow Alanol Heledh" "Steornabhagh"} 
+4364 = {"Enysow Menol Heledh" "Porth Trev"}
+4365 = {"Ynys Manaw" "Trewarveneth"} # rp
+
+# Ulster
+ 
+372 = {"Ker Dherow" "Ker Dherow"} # r
+4121 = {"Gledh" "Belffast"}
+4380 = {"Dun an Gool" "Dun an Gool"} 
+ 
+# Wales
+
+241 = {"Abertawa" "Abertawa"} # r
+242 = {"Gwynedd" "Karnarvon"} # r
+4366 = {"Powys" "Trefaldwyn"} # rp
+4368 = {"Karvyrdhin" "Karvyrdhin"} # r
+
+# Wessex
+
+233 = {"Kernow" "Truru"} # r
+234 = {"Karsallek" "Karsallek"} # r
+4130 = {"Gwlas an Hav" "Kavath"} # r
+4373 = {"Dewnens" "Aberplymm"} # r
+4374 = {"Aberwae" "Aberwae"} # r
+
+# West Midlands 
+
+239 = {"Karlow" "Karlow"} # r
+240 = {"Amwithik" "Amwithik"} 
+4372 = {"Lan Kofyn" "Lan Kofyn"} 
+
+# Yorkshire
+
+245 = {"Evrek" "Evrek"} # r
+4367 = {"Hyldh" "Hyldh"}
+4368 = {"Sgarbowrch" "Sgarbowrch"}
+4785 = {"Sheffyldh" "Sheffyldh"}

@@ -1,0 +1,349 @@
+### EUROPE
+
+## ANATOLIA
+
+# Çukurova
+
+321 = {"Kýpur" "Nikósía"}
+
+## BALKANS
+
+# Macedonia
+
+148 = {"Saloníka" "Saloníka"}
+
+# Morea
+
+146 = {"Aþena" "Aþena"}
+163 = {"Kriti" "Iraklion"}
+
+# Thrace 
+
+151 = {"Mikligarður" "Mikligarður"}
+
+# Serbia
+
+4239 = {"Belgrað" "Belgrað"}
+
+## BALTIC
+
+# Curonia
+
+35 = {"Eysýsla" "Asni"}
+
+# Livonia
+
+37 = {"Lífland" "Fellin"}
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Hlymrek" "Hlymrek"}
+376 = {"Holverðr" "Holverðr"}
+4119 = {"Slaegó" "Slaegó"}
+
+# East Anglia
+
+238 = {"Kjólmsfjørð" "Kjólmsfjørð"}
+1860 = {"Norvík" "Norvík"}
+4370 = {"Kambabryggja" "Kambabryggja"}
+
+# East Midlands
+
+243 = {"Linðon" "Linðon"}
+1861 = {"Dýrbaer" "Dýrbaer"}
+4376 = {"Legsúlaður" "Legsúlaður"} 
+
+# Highlands
+
+250 = {"Pjerþ" "Pjerþ"} 
+252 = {"Íbarn" "Íbarn"} 
+369 = {"Orkneyjar" "Kijrkjuvöll"}
+4110 = {"Þornak" "Þornak"}
+4363 = {"Lokánni" "Lokánni"}
+
+# Leinster
+
+373 = {"Dyflinn" "Dyflinn"}
+374 = {"Veisafjörður" "Veisafjörður"}
+4120 = {"Kirkajúk" "Kirkajúk"}
+4379 = {"Luansfjorð" "Luansfjorð"}
+
+# London
+
+235 = {"Kantaraborg" "Kantaraborg"}
+236 = {"Lundúnir" "Lundúnir"}
+237 = {"Öxnafurða" "Öxnafurða"}
+4371 = {"Suðsaxar" "Heistings"}
+
+# Lowlands
+
+248 = {"Edynborg" "Edynborg"}
+249 = {"Aýr" "Aýr"}
+251 = {"Apardjón" "Apardjón"}
+4361 = {"Hroksborg" "Jædborg"}
+4362 = {"Dunfrís" "Dunfrís"}
+
+# Munster
+
+4118 = {"Korðak" "Korðak"}
+4377 = {"Kaennirkjuk" "Kaennirkjuk"}
+4378 = {"Tréalirkjuk" "Tréalirkjuk"}
+
+# Northern England
+
+244 = {"Lansúlaður" "Lansúlaður"}
+246 = {"Norðymbraland" "Nýrkastali á Þýja"}
+247 = {"Kumbaraland" "Hagið"}
+4375 = {"Kastalaður" "Kastalaður"}
+
+# The Isles
+
+253 = {"Ytri Suðureyjar" "Stýriflói"}
+4364 = {"Innri Suðureyjar" "Kastalabær"}
+4365 = {"Mön" "Dúglas"}
+
+# Ulster
+
+372 = {"Eóinsland" "Geanansborg"} 
+4121 = {"Uladztír" "Kletturfergus"}
+4380 = {"Dúnagal" "Dúnagal"}
+
+# Wales
+
+241 = {"Valdmarhún" "Sveinnsæ"}
+242 = {"Hekkíðon" "Hekkíðon"}
+4366 = {"Fagður" "Mundgumrík"}
+4369 = {"Hekkmartún" "Hekkmartún"}
+
+# Wessex
+
+233 = {"Kornbretaland" "Býliver"}
+234 = {"Hamtún" "Serkurborg"}
+4130 = {"Bað" "Bað"}
+4373 = {"Plómunnur" "Plómunnur"}
+4374 = {"Wejmunnur" "Wejmunnur"}
+
+# West Midlands
+
+239 = {"Bryggstó" "Bryggstó"}
+240 = {"Skroðesborg" "Skroðesborg"}
+4372 = {"Kofatré" "Kofatré"}
+
+# Yorkshire
+
+245 = {"Jórvík" "Jórvík"}
+4367 = {"Vyík" "Vyík"}
+4368 = {"Skarðaborg" "Skarðaborg"}
+4785 = {"Skjedvöllur" "Skjedvöllur"}
+
+## FRANCE
+
+# Normandy
+
+168 = "Norðmandí"
+
+## GERMANY
+
+# Austria
+
+134 = "Vínarborg"
+
+# Bohemia
+
+266 = "Prag"
+
+# Braunschweig
+
+57 = "Brúnsvík"
+
+# Erzgebirge
+
+267 = "Pilsen"
+
+# Hesse
+
+1876 = "Frakkafurða"
+
+# Lower Saxony
+
+44 = "Hamborg"
+
+# Schleswig-Holstein
+
+13 = "Jótland"
+1775 = "Holtsetaland"
+4141 = "Heiðabær"
+
+# Mecklemburg
+
+45 = "Lýbika"
+46 = "Rauðstokkur"
+
+# Mittelmark
+
+50 = "Berlín"
+
+# North Rhine
+
+83 = "Nassá"
+85 = "Kolni"
+
+# Vorpommern
+
+47 = "Stræla"
+
+# Weser
+
+55 = "Aldinborg"
+1874 = "Brimar"
+
+227 = "Lissabon"
+
+# Catalonia
+
+213 = "Barselóna"
+
+## LOW COUNTRIES
+
+# Holland
+
+96 = "Suðursjó"
+98 = "Trekt"
+
+## RUSSIA
+
+# Moscow
+
+295 = "Moskvu"
+
+# Novgorod
+
+310 = "Hólmgarður"
+311 = "Hæðina"
+
+# Pomorye
+
+313 = "Kvikindi"
+1776 = "Hvíta Karelía"
+
+# Pskov
+
+275 = "Palteskja"
+4148 = "Bogar"
+
+# Vladimir
+
+4147 = "Ráðstofa"
+
+## RUTHENIA
+
+# Chernigov
+
+1945 = "Hólmgarður-Severskí"
+
+# Smolensk
+
+293 = "Smáleskja"
+
+# West Dniepr
+
+280 = "Kænugarður"
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = "Sjáland"
+14 = "Fjón"
+1983 = "Láland"
+
+# Finland
+
+27 = "Turku"
+29 = "Häme"
+
+# Laponia
+
+315 = "Finnmörk"
+1777 = "Hrífa"
+4151 = "Unifier"
+
+# North Atlantic Islands
+
+370 = {"Reykjavík" "Reykjavík"}
+371 = {"Akureyri" "Akureyri"}
+1978 = {"Hjaltlandseyjar" "Leirvík"}
+1979 = {"Faereyjar" "Þórshöfn"}
+
+# North Jutland
+
+15 = "Rípar"
+1984 = "Álaborg"
+4142 = "Árósar"
+
+# Norrland
+
+18 = "Lapland"
+
+# Østlandet
+
+17 = "Akurshús"
+22 = "Heiðmörk"
+4143 = "Borgarsysla"
+4144 = "Bergheimur"
+
+# Östra Götaland
+
+2 = "Ostrogotland"
+
+# Östra Svealand
+
+1 = "Stokkhólmur"
+1930 = "Aland"
+
+# Ostrobothnia
+
+19 = "Ostrobothnia"
+
+# Skåneland
+
+6 = "Lundur"
+26 = "Helsingjaborg"
+
+# Trøndelag
+
+10 = "Jemtland"
+20 = "Þrændalög"
+21 = "Boðvin"
+
+# Västra Götaland
+
+16 = "Gautaborg"
+
+# Västra Svealand
+
+8 = "Dala Skógur"
+
+# Vestlandet
+
+23 = "Björgvin"
+24 = "Hörðaland"
+2752 = "Raumsdalur"
+4145 = "Arnardalur"
+
+### AFRICA
+
+## SOUTH AFRICA
+
+1460 = "Góðrarvonarhöfði"
+
+### NORTH AMERICA
+
+## CANADA
+
+# GREENLAND
+
+1104 = {"Eiríksfjörður" "Julíönuvon"}
+1105 = {"Vesturbygðin" "Góðurvon"}

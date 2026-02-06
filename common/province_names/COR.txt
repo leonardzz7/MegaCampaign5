@@ -1,0 +1,105 @@
+## CORSICAN LANGUAGE
+
+## ITALY
+
+# Apulia
+
+122 = {"Salentu" "Brìndisi"}
+1933 = {"Bari" "Bari"}
+2985 = {"Catapanata" "Foggia"}
+4733 = {"Mulise" "Campibassu"}
+
+# Calabria
+
+123 = {"Calabria" "Catanzaru"}
+1934 = {"Lucania" "Potenza"}
+2984 = {"Cosenza" "Cosenza"}
+
+# Campania
+
+121 = {"Napuli" "Napuli"}
+2983 = {"Salernu" "Salernu"}
+4734 = {"Avellinu" "Avellinu"}
+
+# Eastern Sicily
+
+124 = {"Messina" "Messina"}
+126 = {"Malta" "A Valetta"}
+2982 = {"Siracusa" "Siracusa"}
+
+# Emilia-Romagna
+
+105 = {"Parma" "Parma"}
+106 = {"Modena" "Modena"}
+113 = {"Ferrara" "Ferrara"}
+114 = {"Ravenna" "Ravenna"}
+4730 = {"Bulogna" "Bulogna"}
+
+# Lazio-Umbria
+
+118 = {"Roma" "Roma"}
+2976 = {"Perughja" "Perughja"}
+4731 = {"Spoleto" "Spoleto"}
+4732 = {"Terracina" "Terracina"}
+
+# Liguria 
+
+101 = {"Gènuva" "Gènuva"}
+102 = {"Nizza" "Nizza"}
+2992 = {"Savona" "Savona"}
+
+# Lombardy
+
+104 = {"Milanu" "Milanu"}
+1862 = {"Cremona" "Cremona"}
+2979 = {"Nuvara" "Nuvara"}
+4728 = {"Pavìa" "Pavìa"}
+4740 = {"Commu" "Commu"}
+
+# Marche-Abruzzo
+
+119 = {"Ancona" "Ancona"}
+120 = {"Abbruzzu" "Abbruzzu"}
+2977 = {"Orbinu" "Orbinu"}
+
+# Piedmont
+
+103 = {"Turinu" "Turinu"}
+1875 = {"Cunao" "Cunao"}
+2981 = {"Montferradu" "Lisòndria"}
+4727 = {"Saluzzo" "Saluzzo"}
+
+# Po Valley
+
+107 = {"Brescia" "Brescia"}
+109 = {"Mantova" "Mantova"}
+4739 = {"Bergamu" "Bergamu"}
+
+# Tuscany
+
+115 = {"Pisa" "Pisa"}
+116 = {"Fiurenza" "Fiurenza"}
+117 = {"Siena" "Siena"}
+2978 = {"Arezzu" "Arezzu"}
+2980 = {"Lucca" "Lucca"}
+
+# Tyrrhenian Isles
+
+127 = {"Sassari" "Sassari"}
+1247 = {"Corsica" "Aghjacciu"}
+2986 = {"Càgliari" "Càgliari"}
+4735 = {"Arborea" "Arborea"}
+
+# Venetia
+
+108 = {"Verona" "Verona"}
+111 = {"Friuli" "Udine"}
+112 = {"Venezia" "Venezia"}
+1774 = {"Trevisu" "Trevisu"}
+4729 = {"Padova" "Padova"}
+
+# Western Sicily
+
+125 = {"Palermu" "Palermu"}
+4736 = {"Tràpani" "Tràpani"}
+4737 = {"Agrigentu" "Agrigentu"}

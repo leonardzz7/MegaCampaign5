@@ -1,13 +1,13 @@
-owner = LOA
-controller = LOA
+owner = SGD
+controller = SGD
 capital = "Mayumba"
 is_city = yes
 culture = kongolese
-religion = shamanism
+religion = west_african_pagan_reformed
 trade_goods = ivory
 base_tax = 2
 base_production = 1
 base_manpower = 2
-add_core = LOA
+add_core = SGD
 discovered_by = central_african
 discovered_by = sub_saharan

@@ -1,0 +1,110 @@
+### ASIA
+
+## CENTRAL ASIA
+
+# Arys
+
+457 = {"Tashkent" "Tashkent"} # r
+2356 = {"Shymkent" "Shymkent"} # r
+2364 = {"Talas" "Fergana"} # r
+
+# Balclash
+
+477 = {"Nádim" "Balqash"} # rc
+478 = {"Arghyn" "Semei"} # r
+2355 = {"Naryn" "Aiagöz"} # r
+2360 = {"Tobyqty" "Tobyqty"} # Tobykty
+4685 = {"Qaraghandy" "Qaraghandy"} # r
+
+# Ferghana
+
+458 = {"Qoqan" "Qoqan"} # r
+460 = {"Ózgen" "Ózgen"} # r
+1967 = {"Hojant" "Hojant"} # r
+
+# Jetysuu
+
+459 = {"Taraz" "Taraz"} # r
+461 = {"Almaty" "Almaty"} # r
+2125 = {"Qoshqar" "Qoshqar"} # r
+2126 = {"Shý" "Naryn"} # r (already in Kyrgyzstan); Chuy, Naryn
+2368 = {"Qaramegdan" "Üshtöbe"} # rc
+
+# Kashgaria
+
+739 = {"Qashqar" "Qashqar"} # r
+2124 = {"Jarkent" "Jarkent"}
+2127 = {"Jasylkól" "Jasylkól"}
+4209 = {"Maralbesi" "Týmshýk"} # rc
+4210 = {"Janyshar" "Janyshar"} # Yangi Hissar
+
+# Kazakhstan
+
+476 = {"Qypshaq" "Núkis"} # r
+2351 = {"Shekti" "Qanbaqty"} # based on Turkish; Shekty, Kanbakti
+2353 = {"Tortqara" "Aqshiganaq"}
+2358 = {"Altyn" "Kosh-Kól"} # r
+2359 = {"Baganaly" "Baganaly"}
+
+# Khiva
+
+440 = {"Qaraqalpaqstan" "Shimbai"} # r
+441 = {"Hiýa" "Hiýa"} # r
+1973 = {"Úrgenish" "Úrgenish"} # r
+2362 = {"Gurganj" "Kóneúrgenish"} # rp
+2370 = {"Qonyrat" "Qonyrat"} # r
+
+# Khuttalan
+
+1968 = {"Kýliab" "Kýliab"} # r; or Kúláb
+4343 = {"Termez" "Termez"} # r
+4344 = {"Kish" "Kish"}
+
+# Kyzylkum
+
+455 = {"Qyzylqum" "Qyzylqum"} # r
+1970 = {"Syghanaq" "Syghanaq"}
+2363 = {"Atakent" "Jetisai"}
+
+# Lower Yik
+
+469 = {"Atyraý" "Atyraý"}
+474 = {"Inderbor" "Inderbor"}
+2365 = {"Algai" "Algai"}
+2367 = {"Tómengi Iik" "Qalmaq"}
+
+# Nogai
+
+465 = {"Nogai" "Kishi Saray"} # r
+470 = {"Baiuly" "Baiuly"} # r
+471 = {"Álimuly" "Álimuly"}
+472 = {"Aqtöbe" "Aqtöbe"} # r
+2366 = {"Toz-Túbe" "Toz-Túbe"} # r
+
+# Shanshan
+
+710 = {"Hotan" "Hotan"} # r
+711 = {"Qarqan" "Qarqan"}
+2123 = {"Shailaq" "Shailaq"} # borrowed from Turkish Çaylak (Qakilik)
+4693 = {"Kárie" "Kárie"} # from Turkish Keriye (Keriya)
+
+# Syr Darya
+
+456 = {"Türkistan" "Türkistan"} # r
+1969 = {"Sozaq" "Sozaq"} # r
+2352 = {"Alty-Kudyq" "Alty-Kudyq"}
+2361 = {"Betpaqdala" "Betpaqdala"} # r
+
+# Transcaspia
+
+437 = {"Kópettaý" "Kópettaý"} # r
+438 = {"Qaraqum" "Kókdepe"} # rp
+439 = {"Mañghystau" "Aqtau"} # r
+443 = {"Ústirt" "Beineu"} # r
+2349 = {"Qyzylsý" "Qyzylsý"}
+
+# Transoxiana
+
+442 = {"Buhara" "Buhara"} # r
+453 = {"Qarshy" "Qarshy"} # r
+454 = {"Samarqan" "Samarqan"} # r

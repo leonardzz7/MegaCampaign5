@@ -1,0 +1,18 @@
+## Mulhouse (Alsatian province names)
+
+## FRANCE
+
+# Lorraine
+ 
+187 = {"Bar" "Bar"}
+188 = {"Metz" "Metz"}
+189 = {"Lottringe" "Nancy"}
+4766 = {"Verdun" "Verdun"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Strossburi" "Strossburi"}
+1880 = {"Sungàu" "Àltkìrich"}
+4765 = {"Milhüsa" "Milhüsa"}

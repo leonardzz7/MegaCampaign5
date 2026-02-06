@@ -1,0 +1,1 @@
+4745 = {"Rujana" "Borga na Rujana"} # Rani province name

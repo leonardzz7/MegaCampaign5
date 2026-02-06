@@ -1,0 +1,1202 @@
+### EUROPE
+
+## RUTHENIA
+
+# Chernigov (Chernihiv)
+
+289 = {"Chernihiv" "Chernihiv"}
+1945 = {"Sivershchyna" "Novhorod-Siversky"} # or Novhorod-Siverskyi
+4543 = {"Rylsk" "Rylsk"}
+
+# East Dniepr (Dnipro)
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Pereyaslav" "Pereyaslav"}
+4542 = {"Lubny" "Lubny"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"}
+4115 = {"Mozyr" "Mozyr"}
+4242 = {"Ula" "Ula"}
+4544 = {"Bobruysk" "Bobruysk"}
+
+# Podlasie
+
+269 = {"Pidliashia" "Dorohychyn"}
+277 = {"Berestya" "Berestya"}
+1937 = {"Hrodno" "Hrodno"}
+
+# Podolia
+
+281 = {"Podillya" "Proskuriv"} # Khmelnytskyi
+1943 = {"Bratslav" "Bratslav"}
+4540 = {"Vinnytsia" "Vinnytsia"}
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turiv" "Turiv"}
+4537 = {"Novohrudok" "Novohrudok"}
+4545 = {"Slutsk" "Slutsk"}
+
+# Red Ruthenia
+
+261 = {"Halych" "Halych"}
+1940 = {"Belz" "Belz"}
+2424 = {"Peremyshl" "Peremyshl"}
+2961 = {"Lviv" "Lviv"}
+4541 = {"Drohobych" "Drohobych"}
+
+# Sloboda Ukraine
+
+291 = {"Kharkiv" "Kharkiv"}
+298 = {"Kursk" "Kursk"}
+299 = {"Voronizh" "Voronizh"}
+2408 = {"Yelets" "Yelets"}
+
+# Smolensk
+
+293 = {"Smolensk" "Smolensk"}
+297 = {"Bryansk" "Bryansk"}
+4244 = {"Trubchevsk" "Trubchevsk"}
+4245 = {"Vyazma" "Vyazma"}
+
+# Volhynia
+
+279 = {"Volyn" "Volodymyr"}
+2962 = {"Rivne" "Rivne"}
+4538 = {"Kholm" "Kholm"}
+4539 = {"Kremenets" "Kremenets"}
+
+# West Dniepr
+
+280 = {"Kyiv" "Kyiv"}
+1942 = {"Zhytomyr" "Zhytomyr"}
+1947 = {"Cherkasy" "Cherkasy"}
+4247 = {"Ovruch" "Ovruch"}
+
+# White Ruthenia
+
+292 = {"Mohylóv" "Mohylóv"}
+771 = {"Vítebsk" "Vítebsk"}
+4246 = {"Mstyslav" "Mstyslav"}
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Astrakhan" "Astrakhan"}
+466 = {"Dmytriyivsk" "Dmytriyivsk"}
+468 = {"Manych" "Elista"}
+2416 = {"Stavropol" "Stavropol"}
+2417 = {"Budonnovsk" "Budonnovsk"}
+
+# Azov
+
+286 = {"Oziv" "Oziv"}
+287 = {"Stavropol" "Stavropol"}
+2413 = {"Novocherkask" "Novocherkask"}
+2414 = {"Tykhoryetsk" "Tykhoryetsk"}
+
+# Crimea
+
+284 = {"Krym" "Yevpatoriya"}
+285 = {"Feodosiyia" "Feodosiyia"}
+2410 = {"Sevastopol" "Sevastopol"}
+2447 = {"Taman" "Taman"}
+
+# Lower Don
+
+288 = {"Nyzhniy Don" "Serafymovych"}
+467 = {"Borysohlyebsk" "Borysohlyebsk"}
+1971 = {"Sarysu" "Sarysu"}
+2409 = {"Bakhmut" "Bakhmut"}
+
+# Yedisan 
+
+282 = {"Ochakiv" "Ochakiv"}
+1974 = {"Kherson" "Kherson"}
+2406 = {"Mykolayiv" "Mykolayiv"}
+
+# Zaporizhia
+
+283 = {"Zaporizhzhya" "Zaporizhzhya"}
+2411 = {"Tor" "Tor"}
+2412 = {"Mariupol" "Mariupol"}
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Bekesh" "Bekesh"}
+1953 = {"Sabolch" "Nyiredhaza"}
+1954 = {"Voyevodyna" "Velykyi Bechkerek"}
+4125 = {"Silnohrad" "Silnohrad"} #adaptation of the bulgarian name
+
+# Moldavia
+
+268 = {"Suchava" "Suchava"}
+1756 = {"Bessarabiya" "Kiliya"}
+2405 = {"Bendery" "Bendery"}
+4529 = {"Jassy" "Jassy"} # r
+4530 = {"Byrlad" "Byrlad"}
+
+# Northern Transylvania
+
+157 = {"Oradia" "Oradia"} 
+158 = {"Muresh" "Tyrhu-Muresh"}
+1952 = {"Marmaroshchyna" "Chust"}
+4127 = {"Kluzh" "Kluzh"}
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"}
+162 = {"Zemplin" "Zemplin"}
+1318 = {"Spysh" "Poprad"}
+1772 = {"Bratyslava" "Bratyslava"}
+4236 = {"Trenchyn" "Trenchyn"}
+
+# Southern Transylvania
+
+156 = {"Temeshvar" "Temeshvar"} 
+1951 = {"Deva" "Deva"}
+4128 = {"Brashiv" "Brashiv"} # o turned to i
+
+# Transdanubia
+
+135 = {"Shopron" "Shopron"}
+153 = {"Pesht" "Pesht"} 
+1864 = {"Shomod" "Kapush"} # capital adapted from serbian
+4126 = {"Bach" "Kechkemet"}
+4240 = {"Stolnyi Bilohrad" "Stolnyi Bilohrad"} # from croatian
+
+# Wallachia
+
+160 = {"Olteniya" "Krayova"}
+161 = {"Tyrhovishte" "Tyrhovishte"}
+2998 = {"Buzeu" "Buzeu"}
+4531 = {"Dzhurdzhu" "Dzhurdzhu"}
+4532 = {"Severyn" "Drobeta-Turnu-Severyn"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Bashkortostan" "Ufa"}
+1965 = {"Buzuluk" "Buzuluk"}
+1966 = {"Cheliabinsk" "Cheliabinsk"}
+2420 = {"Ahidel" "Ahidel"}
+2444 = {"Ozersk" "Ozersk"}
+
+# Galich
+
+306 = {"Nyzhniy Novhorod" "Nyzhniy Novhorod"} 
+1079 = {"Viatska" "Kiriv"} # rp
+1083 = {"Vetluha" "Vetluha"} 
+1957 = {"Halych" "Halych"} 
+
+# Kama
+
+305 = {"Perm" "Perm"}
+1962 = {"Kudymkar" "Kudymkar"}
+1972 = {"Udmurtija" "Ahryz"}
+4266 = {"Izhevsk" "Izhevsk"} 
+
+# Kazan
+
+1082 = {"Kazan" "Kazan"}
+2422 = {"Shupashkar" "Shupashkar"}
+4264 = {"Tetiushi" "Tetiushi"}
+
+# Perm
+
+1077 = {"Solikamsk" "Solikamsk"} 
+1755 = {"Ustiuh" "Velyky Ustiuh"} 
+1963 = {"Cherdyn" "Cherdyn"}
+1964 = {"Syktyvkar" "Syktyvkar"}
+4129 = {"Vym" "Vym"}
+
+# Samara
+
+473 = {"Samara" "Samara"}
+1081 = {"Symbirsk" "Symbirsk"}
+2423 = {"Alatyr" "Alatyr"}
+
+# Saratov
+
+303 = {"Sarativ" "Sarativ"}
+2418 = {"Uvek" "Uvek"}
+2419 = {"Kanadey" "Kanadey"}
+
+# Ural
+
+1078 = {"Tura" "Tura"} 
+1080 = {"Pelym" "Pelym"}
+1780 = {"Komi" "Syktyvkar"}
+2427 = {"Yaroslavhorod" "Yaroslavhorod"} 
+2441 = {"Ihlino" "Ihlino"}
+
+# Volga 
+
+2421 = {"Zhukotyn" "Zhukotyn"} 
+4265 = {"Naberezhni Chelny" "Naberezhni Chelny"} 
+4267 = {"Bolhar" "Bolhar"}
+
+## WEST SIBERIA
+
+# Aqmola
+
+479 = {"Atbasarskyi" "Atbasarskyi"}
+2354 = {"Akmolyn" "Akmolyn"} # Astana, Nur-Sultan
+2357 = {"Kokshetausk" "Kokshetausk"}
+4686 = {"Ekibastuz" "Ekibastuz"}
+4690 = {"Korchyna Sloboda" "Korchyna Sloboda"}
+
+# Central Siberia
+
+1064 = {"Tom" "Tom"}
+1067 = {"Monastyrskyi" "Monastyrskyi"}
+1068 = {"Parabil" "Parabil"}
+1070 = {"Nizhniy Vartivsk" "Nizhniy Vartivsk"}
+2430 = {"Noryl" "Noryl"}
+
+# Irkutsk
+
+1060 = {"Irkut" "Irkut"}
+2442 = {"Brat" "Brat"}
+1063 = {"Sayany" "Malynivka"}
+1062 = {"Kan" "Kan"}
+2443 = {"Sirnoyarsk" "Sirnoyarsk"} # replaced the colour red with the colour gray (Gray Ukraine)
+
+# Ishim
+
+1074 = {"Tobil" "Tobil"}
+1075 = {"Tyumen" "Tyumen"}
+1076 = {"Hetmanove Horodyshche" "Hetmanove Horodyshche"}
+2369 = {"Kustany" "Kustany"}
+4692 = {"Turhai" "Akkain"}
+
+# Kara
+
+1069 = {"Surgut" "Surgut"}
+1072 = {"Yar-Sali" "Yar-Sali"}
+1073 = {"Obdorsk" "Obdorsk"}
+2445 = {"Manhaziya" "Manhaziya"}
+4691 = {"Tolmachevo" "Tolmachevo"}
+
+# Ob
+
+480 = {"Novomykhaylivka" "Novomykhaylivka"} # The city irl was named Novonikolayevsk, after Nicholas II (last Russian Tsar)
+2428 = {"Yuhan" "Yuhan"}
+2429 = {"Mehion" "Mehion"}
+2433 = {"Kemeriv" "Kemeriv"}
+
+# Tunguska
+
+1059 = {"Skhidna Tunhuska" "Kezhma"}
+1061 = {"Zakhidna Tunhuska" "Bohuchany"}
+2431 = {"Uchaminskyi" "Uchamo"}
+2432 = {"Yeniseisk" "Yeniseisk"}
+2436 = {"Vanavara" "Vanavara"}
+
+# Yrtesh
+
+1071 = {"Tara" "Tara"}
+2434 = {"Barnaul" "Barnaul"}
+4687 = {"Koryakivskyi" "Koryakivskyi"}
+4688 = {"Tatarsk" "Tatarsk"}
+4689 = {"Omsk" "Omsk"}
+
+## EAST SIBERIA
+
+# Buryatia
+
+1055 = {"Verkhnioanharsk" "Uoyan"}
+1056 = {"Burhuzin" "Burhuzin"}
+1057 = {"Udinskyi" "Udinskyi"}
+1058 = {"Chita" "Chita"}
+2446 = {"Bahdarin" "Bahdarin"}
+
+# Kamchatka
+
+1034 = {"Petropavlivsk" "Petropavlivsk-Kamchatskyi"}
+1035 = {"Penzhyna" "Kamyanske"}
+1038 = {"Keperviyem" "Keperviyem"}
+1041 = {"Kushkiv" "Kushka"}
+2440 = {"Novo-Mariyin" "Novo-Mariyin"}
+
+# Kolyma
+
+1036 = {"Kolima" "Nyzhniokolymsk"}
+1037 = {"Omolon" "Omolon"}
+1039 = {"Verkhoyan" "Verkhoyan"}
+1040 = {"Suntar-Khayita" "Kyubeme"}
+2439 = {"Yarmanka" "Kharba-Atit"}
+
+# Okhotsk
+
+1043 = {"Okhota" "Okhota"}
+1044 = {"Mahadan" "Mahadan"}
+1047 = {"Dzhuhdzhur" "Aian"}
+1052 = {"Stanovyi" "Neryunhry"}
+
+# Sakha
+
+1042 = {"Oymyakon" "Oymyakon"}
+1046 = {"Mayivka" "Mayivka"}
+2438 = {"Yakut" "Yakut"}
+
+# Yakutia
+
+1045 = {"Sin" "Sin"}
+1051 = {"Nezametne" "Nezametne"}
+1054 = {"Mukhtuya" "Mukhtuya"}
+2435 = {"Olokminsk" "Olokminsk"}
+2437 = {"Tyukanske" "Tyukanske"}
+
+## MANCHURIA (mostly adapted from Russian)
+
+# Central Heilongjiang
+
+727 = {"Aihun'" "Aihun'"}
+728 = {"Sukhiv" "Sukhiv"} # made up
+2185 = {"Mergen" "Mergen"}
+4200 = {"Ulan" "Ulan"} # made up
+4660 = {"Tiyiliv" "Tiyiliv"} 
+
+# East Heilongjiangord
+
+1049 = {"Oleksandrivske" "Oleksandrivske"}
+2103 = {"Udske" "Udske"}
+2104 = {"Kozlyane" "Kozlyane"} # shared etymology
+4659 = {"Lyutyanske" "Lyutyanske"} # shared etymology
+4662 = {"Vilnyi" "Vilnyi"} # shared etymology
+
+# Furdan
+
+1850 = {"Znakhidka" "Znakhidka"} # shared etymology
+2106 = {"Vladyskhid" "Vladyskhid"}
+2186 = {"Spaske" "Spaske"}
+4655 = {"Semenivka" "Semenivka"}
+4656 = {"Maksymivka" "Maksymivka"}
+
+# Liaoning
+
+704 = {"Niyansk" "Niyansk"}
+726 = {"Mudensk" "Mudensk"}
+2112 = {"Andunivka" "Andunivka"}
+2113 = {"Dalniy" "Dalniy"}
+4652 = {"Kayochensk" "Kayochensk"}
+ 
+# Ningguta
+
+2107 = {"Ninutyia" "Ninutyia"}
+2108 = {"Kunchansk" "Kunchansk"}
+4653 = {"Kinska" "Kinska"} # shared etymology
+4654 = {"Mudanyan" "Mudanyan"} # Mudanjiang
+
+# North Ilin Hala
+
+1048 = {"Chegdomin" "Chegdomin"}
+1050 = {"Mykolaivsk" "Mykolaivsk-na-Amuri"}
+4214 = {"Yevoron" "Yevoron"}
+4215 = {"Permske" "Permske"}
+4216 = {"Selykhine" "Selykhine"}
+
+# Sakhalin
+
+1033 = {"Volodymyrivka" "Volodymyrivka"}
+4658 = {"Okhe" "Okhe"}
+
+# South Ilin Hala
+
+729 = {"Achansk" "Achansk"}
+731 = {"Mulansk" "Mulansk"}
+2105 = {"Birobidzhan" "Birobidzhan"}
+4217 = {"Vyazemskyi" "Vyazemskyi"}
+4663 = {"Chysy" "Chysy"}
+
+# South Jilin
+
+730 = {"Tsylin" "Tsylin"}
+2110 = {"Kanchun" "Kanchun"}
+2111 = {"Etuliya" "Etuliya"}
+2188 = {"Kharybyn" "Kharybyn"}
+4201 = {"Dzyanivske" "Dzyanivske"}
+
+# West Heilongjiangord
+
+724 = {"Haylarsk" "Haylarsk"} # made up
+1053 = {"Zelenohrod" "Zelenohrod"}
+2102 = {"Albazin" "Albazin"}
+4664 = {"Orokhon" "Orokhon"}
+
+
+## IBERIA
+197 = "Lanhvedok"
+206 = "Korooniya"
+207 = "Astoor"
+208 = "Leon"
+209 = "Biskaya"
+210 = "Navarra"
+211 = "Guoeska"
+212 = "Hirnyk"
+213 = "Bars"
+214 = "Saragosar"
+215 = "Valyadolid"
+216 = "Salamanska"
+217 = "Madryd"
+218 = "Badyozh"
+219 = "Toled"
+220 = "Valensiya"
+221 = "Mukhytsya"
+222 = "Alimyer"
+223 = "Hranada"
+224 = "Sevillya"
+225 = "Kordova"
+226 = "Hibraltar"
+227 = "Lisabon"
+228 = "Bieraschtschyna"
+229 = "Beda"
+230 = "Alguar"
+231 = "Porthos"
+232 = "Bragansiya"
+333 = "Malorka"
+366 = "Kran-Kanariya"
+367 = "Azores"
+368 = "Madera"
+1745 = "Kantabriya"
+1746 = "Burguo"
+1747 = "Katser"
+1748 = "Yaen"
+1749 = "Kadyz"
+1750 = "Alikante"
+1751 = "Tzevta"
+1851 = "Kumbriya"
+2751 = "Kovenka"
+2754 = "Mancha"
+2755 = "Soriy"
+2987 = "Urzhel"
+2988 = "Tarragon"
+2989 = "Rioha"
+2990 = "Turel"
+4150 = "Yevora"
+4546 = "Malka"
+4547 = "Albas"
+4548 = "Guelva"
+4549 = "Khativa"
+4550 = "Kastelli"
+4551 = "Avilya"
+4552 = "Palenska"
+4553 = "Zamoro"
+4554 = "Luga"
+4555 = "Pontevedro"
+4556 = "Avyei"
+4557 = "Katalayd"
+4558 = "Orensiya"
+4559 = "Myenora"
+4560 = "Bizya"
+4565 = "Tenerivka"
+4787 = "Ribatyzh"
+4788 = "Plasentsiya"
+4789 = "Segoviya"
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Praha" "Praha"} # r
+2968 = {"Cheski Budyvovytsi" "Cheski Budyvovytsi"}
+2970 = {"Korolivskyi Hradets" "Korolivskyi Hradets"}
+4724 = {"Pardubytsi" "Pardibytsi"} # r
+4725 = "Yindrykhiv Hradets"
+
+# Braunschweig
+
+57 = "Brunsvik"
+1758 = "Hanyver"
+2971 = "Hoya"
+4773 = "Hettyngen"
+
+# Erzgebinge
+
+267 = "Plezhyn"
+1771 = "Erts"
+2967 = "Eher"
+
+# Hesse
+
+78 = "Maynts"
+81 = "Oberhesen"
+1762 = "Niderhesen"
+1876 = "Franfurt"
+4774 = "Fuldych"
+
+# Hinterpommern
+
+48 = "Kolhora"
+2995 = "Shtolp"
+4746 = "Starehorod"
+
+# Lower Rhineland
+
+80 = "Tryr"
+1760 = "Koblenz"
+1878 = "Akhin"
+4768 = "Yulikh"
+
+# Lower Saxony
+
+44 = "Hamhorod"
+53 = "Lyunenhrad"
+1857 = "Lauenhorod"
+4772 = "Tselen"
+
+# Lusatia
+
+60 = "Bavtsen"
+1763 = "Pidlauzets"
+4778 = "Gerlytsk"
+
+# Mecklenburg
+
+45 = "Lyubek"
+46 = "Rostok"
+2996 = "Vismar"
+4749 = "Novobrandenhrad"
+4786 = "Pryhnits"
+
+# Mittelmark
+
+50 = "Berlyn"
+51 = "Rupin"
+1759 = "Potsdam"
+2993 = "Vukermark"
+4748 = "Brandehrad"
+
+# Moravia
+
+265 = "Berno"
+4237 = "Olomuts"
+4726 = "Ostrava"
+
+# Neumark
+
+49 = "Novomarkiv"
+2969 = "Shternberh"
+4747 = "Dramhornivsk"
+
+# North Rhine
+
+83 = "Nassa"
+84 = "Hora"
+85 = "Keln"
+2975 = "Kleveskyi"
+
+# North Westphalia
+
+56 = "Osnavruk"
+69 = "Dortmund"
+86 = "Munsterburg"
+2973 = "Meppiv"
+
+# Saxony
+
+59 = "Vitenskyi"
+61 = "Drezden"
+62 = "Liayptsyg"
+4744 = "Zvytskav"
+
+# Saxony-Anhalt
+
+52 = "Mahdeburh"
+58 = "Anhaltivskyi"
+2964 = "Staromarkivskyi"
+4741 = "Hol"
+4742 = "Hoslarivka"
+
+# Schleswig-Holstein
+
+13 = "Slevykiv"
+1775 = "Holshtyn"
+4141 = "Ditmarske"
+
+# South Westphalia
+
+82 = "Vesfalenskyi"
+2972 = "Paderhorod"
+4775 = "Ravyne"
+
+# Thuringia
+
+63 = "Erfortivka"
+2965 = "Vohtalivka"
+4743 = "Veymare"
+
+# Vorpommern
+
+47 = "Stralske"
+1858 = "Stetyne"
+2994 = "Volhast"
+4745 = "Rugeniv"
+
+# Weser
+
+54 = "Stadyn"
+55 = "Starburg"
+1874 = "Bremsk"
+4771 = "Verdyne"
+
+## POLAND 
+
+# Central Poland
+
+258 = {"Seradz" "Seradz"}
+1939 = {"Lenchytsya" "Lenchytsya"}
+4533 = {"Velyun" "Velyun"}
+
+# Kuyavia
+
+1859 = {"Khelmno" "Khelmno"}
+4523 = {"Inovrotslav" "Inovrotslav"} 
+4524 = {"Dobzhyn" "Dobzhyn-nad-Visloyu"}
+4528 = {"Kuyaviya" "Berestya-Kuyavske"}
+
+# Malopolska
+
+262 = {"Krakiv" "Krakiv"}
+2960 = {"Novy Sonch" "Novy Sonch"}
+4527 = {"Khentsyny" "Khentsyny"}
+
+# Mazovia
+
+256 = {"Plotsk" "Plotsk"}
+257 = {"Varshava" "Varshava"}
+1938 = {"Vizna" "Vizna"}
+4525 = {"Rava" "Rava-Mazovetska"}
+
+# Red Ruthenia
+
+261 = {"Halych" "Halych"}
+1940 = {"Belz" "Belz"}
+2424 = {"Peremyshl" "Peremyshl"}
+2961 = {"Lviv" "Lviv"}
+4541 = {"Drohobych" "Drohobych"}
+
+# Sandomierz
+
+259 = {"Sandomyr" "Sandomyr"}
+260 = {"Lyublin" "Lyublin"}
+2959 = {"Tarniv" "Tarniv"}
+
+# Silesia
+
+263 = {"Ratybor" "Ratybor"}
+264 = {"Vrotslav" "Vrotslav"}
+2966 = {"Gloguv" "Gloguv"}
+4238 = {"Lehnytsya" "Lehnytsya"}
+4723 = {"Opole" "Opole"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"}
+255 = {"Kalish" "Kalish"}
+2963 = {"Notets" "Naklo-nad-Notetsem"} # Notec (Notets) is a river name so naming the capital name after that doesn't make much sense
+4526 = {"Hnezno" "Hnezno"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Arkhanhelsk" "Arkhanhelsk"} 
+4122 = {"Shenkursk" "Shenkursk"} 
+4256 = {"Solvychehodsk" "Solvychehodsk"}
+4257 = {"Mezen" "Mezen"}
+
+# Beloozero
+
+312 = {"Biloyozero" "Biloyozero"} 
+4259 = {"Velsk" "Velsk"}
+4261 = {"Ustjuzhna" "Ustjuzhna"}
+
+# Moscow
+
+295 = {"Moskva" "Moskva"}
+4251 = {"Mozhaysk" "Mozhaysk"}
+4252 = {"Kolomna" "Kolomna"}
+
+# North Karelia
+
+32 = {"Pryozersk" "Pryozersk"}
+309 = {"Olonets" "Olonets"}
+4124 = {"Kareliya" "Lieksa"}
+
+# Novgorod
+
+310 = {"Novhorod" "Novhorod"} 
+311 = {"Kholm" "Kholm"}
+1959 = {"Torzhok" "Torzhok"}
+2749 = {"Tykhvin" "Tykhvin"}
+4260 = {"Vyshniy Volochok" "Vyshniy Volochok"} 
+
+# Oka
+
+296 = {"Kaluha" "Kaluha"}
+300 = {"Tula" "Tula"}
+4116 = {"Oka" "Orel"}
+
+# Pomorye
+
+313 = {"Byelomorsk" "Byelomorsk"} 
+1776 = {"Bilomorska Kareliya" "Kem"}
+1958 = {"Karhopol" "Karhopol"}
+4258 = {"Oneha" "Oneha"}
+
+# Pskov
+
+274 = {"Pskov" "Pskov"}
+275 = {"Polotsk" "Polotsk"}
+1960 = {"Ostrov" "Ostrov"}
+4148 = {"Luks" "Luks"}
+
+# Ryazan
+
+301 = {"Ryazan" "Ryazan"}
+1778 = {"Kasymov" "Kasymov"}
+4255 = {"Pronsk" "Pronsk"}
+
+# South Karelia
+
+30 = {"Vyborh" "Vyborh"}
+33 = {"Petrohrad" "Petrohrad"}
+34 = {"Izhoriya" "Koporje"}
+1961 = {"Ladoha" "Ladoha"}
+
+# Suzdal
+
+1754 = {"Murom" "Murom"}
+1959 = {"Suzdal" "Suzdal"}
+4254 = {"Starodub" "Starodub"}
+
+# Tambov
+
+302 = {"Tambov" "Tambov"}
+304 = {"Penza" "Penza"}
+2415 = {"Etoka" "Etoka"}
+
+# Tver
+
+294 = {"Tver" "Tver"}
+1752 = {"Rzhev" "Rzhev"}
+4243 = {"Toropets" "Toropets"}
+4248 = {"Kashyn" "Kashyn"}
+4249 = {"Zubtsov" "Zubtsov"} 
+
+# Vladimir
+
+307 = {"Volodymyr" "Volodymyr"}
+4147 = {"Rostov" "Rostov"}
+4253 = {"Yuryev" "Yuryev-Polsky"}
+ 
+# Vologda
+ 
+314 = {"Volohda" "Volohda"}
+4262 = {"Totma" "Totma"}
+4263 = {"Solyhalych" "Solyhalych"}
+
+# Yaroslavl
+
+308 = {"Yaroslavl" "Yaroslavl"}
+1753 = {"Kostroma" "Kostroma"}
+4117 = {"Bežeck" "Bezhetsk"}
+4250 = {"Moloha" "Moloha"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vil'no" "Vil'no"} - official name in Ukrainian until 1939 (and adapted from Polish too)
+770 = {"Braslav" "Braslav"} 
+4535 = {"Ukmerhe" "Ukmerhe"} 
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Ezel" "Orlynohrad"}
+39 = {"Kuldyha" "Kuldyha"} 
+1935 = {"Yelhava" "Yelhava"}
+
+# East Prussia
+
+40 = {"Klaypeda" "Klaypeda"}
+41 = {"Korolevets" "Korolevets"} # old ukrainian name
+42 = {"Varmiya" "Olshtyn"}
+767 = {"Shchytno" "Shchytno"}
+2958 = {"Ostruda" "Ostruda"} 
+
+# Estonia
+
+36 = {"Revel" "Revel"} # old russian name
+1834 = {"Tartu" "Tartu"} 
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Livoniya" "Vilyandi"}
+38 = {"Ryha" "Ryha"}
+273 = {"Lathaliya" "Dvinsk"}
+4241 = {"Tsesis" "Tsesis"} 
+ 
+# Samogitia
+
+270 = {"Troky" "Troky"}
+271 = {"Zhmud" "Shyaulyay"} # same as the province ID 34 (South Karelia, in Russia)
+1936 = {"Kovno" "Kovno"}
+4534 = {"Upyte" "Upyte"}
+
+# West Prussia
+
+43 = {"Hdansk" "Hdansk"}
+1841 = {"Malbork" "Malbork"} 
+2997 = {"Tukholya" "Tukholya"}
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = "Strasburhiv"
+1880 = "Sundhav"
+4765 = "Mulin"
+
+# Austria Proper
+
+133 = "Obdernske"
+134 = "Viden"
+1770 = "Manharthor"
+4761 = "Traunske"
+4762 = "Vinerivske"
+
+# Baden
+
+72 = "Breisk"
+74 = "Badyk"
+4714 = "Durlatsk"
+
+# Carniola
+
+129 = "Kray"
+130 = "Istryya"
+1769 = "Gerts"
+4738 = "Triest"
+4751 = "Tsylly"
+
+# East Bavaria
+
+76 = "Solburh"
+4709 = "Pasav"
+4760 = "Innbayirniv"
+
+# East Swabia
+
+68 = "Memyhnem"
+1868 = "Avhrad"
+1872 = "Ulm"
+4711 = "Donavvert"
+
+# Inner Austria
+
+128 = "Nyzhnyokarnten"
+132 = "Shtayermark"
+1863 = "Hrats"
+4759 = "Verkhnyokarnten"
+
+# Lower Bavaria
+
+64 = "Landshutske"
+1757 = "Oberpaltseve"
+2956 = "Straubivske"
+2957 = "Doshchvoburg"
+
+# Lower Franconia
+
+71 = "Ansbikh"
+79 = "Vurtsburh"
+4715 = "Rotehnburh"
+4718 = "Ashafenburh"
+
+# Palatinate
+
+77 = "Haidelberh"
+1761 = "Faltsiya"
+4767 = "Dvomostove"
+
+# Romandie
+
+165 = "Berniv"
+1867 = "Vodava"
+1871 = "Vallyska"
+4720 = "Geniv"
+4721 = "Fryburh"
+
+# Switzerland
+
+166 = "Valdstet"
+1869 = "Tsiurych"
+1870 = "Sviatyi Holyn"
+1873 = "Khyr"
+4722 = "Ilanivka"
+
+# Tirol
+
+73 = "Inntalsk"
+110 = "Trentynsk"
+1768 = "Lients"
+4710 = "Brehents"
+4758 = "Eshtal"
+
+# Upper Bavaria
+
+65 = "Munkhen"
+2955 = "Ingolhrad"
+4707 = "Vodoburg"
+4708 = "Fraysinhrad"
+
+# Upper Franconia
+
+66 = "Bamberhiv"
+67 = "Niurnberhivkskyi"
+4716 = "Koburh"
+4717 = "Baierutivka"
+
+# West Swabia
+
+70 = "Stutthof"
+4712 = "Konstanska"
+4713 = "Urakhky"
+
+## FRANCE
+
+# Auvergne
+
+190 = "Bourbontal"
+195 = "Limovska"
+199 = "Avverno"
+4697 = "Marshovo"
+5777 = "Forezovychi"
+
+# Brittany
+
+169 = "Armoryn"
+170 = "Finisterka"
+171 = "Vannetivka"
+172 = "Nantiv"
+4384 = "Rennevych"
+
+# Champagne
+
+181 = "Retel"
+186 = "Reims"
+4390 = "Trua"
+
+# Eastern Burgundy
+
+192 = "Didjonivka"
+193 = "Franko-Komtensk"
+4764 = "Salinska"
+
+# Gascony
+
+173 = "Laburynske"
+175 = "Armahava"
+176 = "Bearna"
+4694 = "Foiksava"
+
+# Guyenne
+
+174 = "Bordovka"
+194 = "Perehrod"
+198 = "Rouerhiv"
+4112 = "Kvertsyk"
+
+# Île-de-France
+
+182 = "Valua"
+183 = "Paryzh"
+185 = "Nemur"
+4388 = "Shartur"
+
+# Languedoc
+
+196 = "Tuluz"
+200 = "Montpelye"
+2753 = "Narbon"
+4391 = "Vyvar"
+4695 = "Karkason"
+
+# Loire Valley
+
+177 = "Myan"
+178 = "Andzho"
+4389 = "Turan"
+
+# Lorraine
+
+187 = "Baroa"
+188 = "Metsiya"
+189 = "Lotorinhiya"
+4766 = "Verdiuniya"
+
+# Normandy
+
+167 = "Kausivka"
+168 = "Kainiv"
+1879 = "Alenske"
+4385 = "Kotentyn"
+
+# Orléans
+
+179 = "Yahidne"
+184 = "Orlaniv"
+4776 = "Blovsk"
+
+# Picardy
+
+87 = "Kales"
+88 = "Artva"
+89 = "Pikardiyivka"
+1743 = "Kambraiya"
+
+# Poitou
+
+180 = "Verkhnie-Poito"
+4111 = "Sentyonh"
+4386 = "Nyzhne-Poito"
+4387 = "Anhumois"
+
+# Provence
+
+201 = "Oks"
+202 = "Avhynon"
+2991 = "Forkalker"
+4696 = "Tulonivka"
+
+# Savoy
+
+203 = "Lyonniv"
+204 = "Daufin"
+205 = "Chamberiv"
+4719 = "Bressivka"
+
+# Western Burgundy
+
+191 = "Nivernes"
+1877 = "Charolivka"
+4392 = "Okser"
+
+# ANATOLIA
+
+4313 = {"Tsankiv" "Tsankiv"}
+
+### NORTH AMERICA
+
+## CANADA
+
+# Cote Nord
+
+996 = "Yaryshivka"
+2576 = "Zolotomisto"
+2577 = "Khrystynivka"
+2578 = "Lvivska Polyana"
+2579 = "Halitskyi Rid"
+
+# Greenland
+
+1104 = "Berezivska"
+1105 = "Yaremcheve"
+
+# Huronia
+
+988 = "Zeleneve"
+989 = "Holmovytsia"
+2585 = "Rozluch"
+2670 = "Verkhosylske"
+
+# Labrador
+
+997 = "Ruseniv"
+2574 = "Viterove"
+2575 = "Tysmene"
+
+# Laurentia
+
+992 = "Zelenoriv"
+2581 = "Bilohir"
+4894 = "Dubyne"
+
+# Lower Acadia
+
+982 = "Zoryane"
+984 = "Velykodolne"
+2568 = "Berehivka"
+2569 = "Myrohoshcha"
+4891 = "Zalishchy"
+
+# Lower Canada
+
+993 = "Rozhnivka"
+2584 = "Dovbush"
+4895 = "Dzvonytsya"
+
+# Newfoundland
+
+980 = "Rozhnyve"
+981 = "Khvorost"
+2573 = "Bohushiv"
+
+# Ottawa Valley
+
+4890 = "Vynohradne"
+4892 = "Dubrivka"
+4897 = "Kornyn"
+
+# Québec
+
+986 = "Hlynyane"
+994 = "Lypivka"
+995 = "Pidhoriv"
+2582 = "Shkilne"
+2583 = "Zabuzhko"
+
+# St John's Valley
+
+2570 = "Rozdilne"
+2571 = "Hnizdychiv"
+4896 = "Zhyvytske"
+
+# Trois-Riviers
+
+990 = "Kvitniv"
+2012 = "Nyzhnie Selo"
+2580 = "Horodysche"
+4893 = "Buzok"
+
+# Upper Acadia
+
+983 = "Zvynyache"
+985 = "Novoheivka"
+2572 = "Vesele"
+
+# Upper Canada
+
+987 = "Zoryane"
+2586 = "Trylysta"
+2587 = "Zaporzhets"
+
+# Upper Ontario
+
+991 = "Hryhovets"
+1001 = "Zymne"
+1007 = "Dobrynya"
+2015 = "Kovalivka"
+2671 = "Olyka"

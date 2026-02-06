@@ -1,0 +1,330 @@
+### EUROPE
+
+## MAGHREB
+
+# Macaronesia
+
+366 = {"Kanariansaaret" "Kanariansaarten Palmut"} # Gran Canaria, Las Palmas
+367 = {"Haukkasaari" "Hortankaupunki"} # Azores, Cidade da Horta
+368 = {"Puinensaari" "Puutarhakaupunki"} # Madeira, Funchal
+4565 = {"Tenerifi" "Tenerifi"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Vienankaupunki" "Vienankaupunki"} # r
+4122 = {"Senkurski" "Senkurski"}
+4256 = {"Solvitki" "Solvitki"}
+4257 = {"Metsen" "Metsen"}
+
+# Beloozero
+
+312 = {"Valkeajarvi" "Valkeajarvi"} # r
+4259 = {"Velkii" "Velkii"}
+4261 = {"Uustinaa" "Uustinaa"}
+
+# Moscow
+
+295 = {"Moskova" "Moskova"} # r
+4251 = {"Mohaiki" "Mohaiki"}
+4252 = {"Kolomna" "Kolomna"}
+
+# North Karelia
+
+32 = {"Käkisalmi" "Käkisalmi"} # r
+309 = {"Aunus" "Aunus"} # r
+4124 = {"Karjala" "Lieksa"} # r
+
+# Novgorod
+
+310 = {"Uuslinna" "Uuslinna"}
+311 = {"Holmi" "Holmi"}
+1959 = {"Torsokki" "Torsokki"}
+2749 = {"Tihvinä" "Tihvinä"} # r
+4260 = {"Ylävedonsalmi" "Ylävedonsalmi"} 
+
+# Oka
+
+296 = {"Kaluuka" "Kaluuka"}
+300 = {"Tuula" "Tuula"}
+4116 = {"Otova" "Otova"}
+
+# Pomorye
+
+313 = {"Sorokka" "Sorokka"} # r
+1776 = {"Vienan Karjala" "Kemi"} # r
+1958 = {"Kargopoli" "Kargopoli"}
+4258 = {"Ääninen" "Ääninen"} # r
+
+# Pskov
+
+274 = {"Pihkova" "Pihkova"} # r
+275 = {"Pollati" "Pollati"}
+1960 = {"Saari" "Saari"} # Island in Finnish (such as Ostrov in Russian)
+4148 = {"Luuki" "Luuki"}
+
+# Ryazan
+
+301 = {"Rjasaani" "Rjasaani"}
+1778 = {"Kaasimo" "Kaasimo"} 
+4255 = {"Pronski" "Pronski"}
+
+# South Karelia
+
+30 = {"Viipuri" "Viipuri"} # r
+33 = {"Nevanlinna" "Nevanlinna"} # r old fortress on the site
+34 = {"Inkerinmaa" "Kaprio"} # r
+1961 = {"Laatokka" "Olhava"} # r
+
+# Suzdal
+
+1754 = {"Muurami" "Muurami"}
+1956 = {"Suostala" "Suostala"}
+4254 = {"Starotupa" "Starotupa"}
+
+# Tambov
+
+302 = {"Tampovi" "Tampovi"}
+303 = {"Pentti" "Pentti"}
+2415 = {"Etkaara" "Etkaara"}
+
+# Tver
+
+294 = {"Tiheverä" "Tiheverä"} # r
+1752 = {"Rzeva" "Rzeva"}
+4243 = {"Toropetsi" "Toropetsi"}
+4248 = {"Kasiini" "Kasiini"}
+4249 = {"Suptsovi" "Suptsovi"}
+
+# Vladimir
+
+307 = {"Vladimir" "Vladimir"}
+4147 = {"Rostovi" "Donin Rostovi"}
+4253 = {"Juuriva" "Juuriva"}
+
+# Vologda
+
+314 = {"Valkola" "Valkola"} # from Old Veps "valgeda" (white) into Finnish
+4262 = {"Totima" "Totima"}
+4263 = {"Suolaniemi" "Suolaniemi"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Sjellanti" "Kööpenhamina"}
+14 = {"Viini" "Odensa"} # made up
+1981 = {"Porniholma" "Ränne"} # made up
+1983 = {"Lollanti" "Nakskova"} # rp
+
+# Finland
+
+27 = {"Turku" "Turku"}
+28 = {"Uusimaa" "Porvoo"}
+29 = {"Häme" "Hämeenlinna"}
+31 = {"Savo" "Olavinlinna"}
+4123 = {"Pirkanmaa" "Tampere"}
+
+# Laponia
+
+315 = {"Finnmark" "Vesisaari"}
+1777 = {"Kuola" "Kantalahti"}	
+4151 = {"Inari" "Sodankylä"}
+
+# Norrland
+
+9 = {"Helsinglanti" "Jäfle"} # rp
+11 = {"Länsipohja" "Uumaja"}
+18 = {"Lappi" "Arvitsaari"} # rp
+4114 = {"Jokimukka" "Jokimukka"}
+
+# North Atlantic Islands
+
+370 = {"Länsi-Islanti" "Savonlahti"}
+371 = {"Itä-Islanti" "Akuräyri"}
+1978 = {"Setlanti" "Lervikki"} # rp
+1979 = {"Färsaaret" "Thorsatama"}
+
+# North Jutland
+
+15 = {"Länsi-Jyllanti" "Riippa"} # rp
+1984 = {"Pohjois-Jyllanti" "Oolborg"} # rp
+4142 = {"Itä-Jyllanti" "Aarhuus"} # rp
+4149 = {"Etelä-Jyllanti" "Koldinka"} # rp
+
+# Ostlandet
+
+17 = {"Akershuus" "Kristiania"} # made up
+22 = {"Oplanti" "Hamar"} # made up
+4143 = {"Itäfolda" "Moossi"} # made up
+4144 = {"Skieeni" "Skieeni"} # made up
+
+# Ostra Gotaland
+
+2 = {"Itä-Götanmaa" "Linköppi"} # made up
+3 = {"Kalmar" "Kalmari"} # made up
+25 = {"Gotlanti" "Vispi"} # made up
+4166 = {"Smoolanti" "Väksiö"} # made up
+
+# Ostra Svealand
+
+1 = {"Tukholma" "Tukholma"}
+4 = {"Vuorimaa" "Vesteroos"} # rc
+1930 = {"Ahvenanmaa" "Maarianhamina"}
+
+# Ostrobothnia
+
+19 = {"Pohjanmaa" "Mustasaari"}
+4113 = {"Rovaniemi" "Rovaniemi"}
+4152 = {"Kainuu" "Kajaani"} #historically known as Cajanaburg
+
+# Skaneland
+
+6 = {"Lundi" "Lundi"} # made up
+26 = {"Hallanti" "Halmi"} # rp
+1982 = {"Blekingi" "Ronneby"} # rp
+4165 = {"Koinge" "Koinge"} # rp
+
+# Trondelag
+
+10 = {"Jämtlanti" "Fröysö"} # rp
+20 = {"Trondelaaki" "Trondhjem"} # rc
+21 = {"Halogalaanti" "Staikki"} # made up
+
+# Vastra Gotland
+
+7 = {"Skaaraborgi" "Skaara"} # made up
+16 = {"Bohuslaani" "Maarstranda"} # made up
+4163 = {"Boraas" "Boraas"} # Borås (made up)
+4164 = {"Daljoki" "Talaborgi"} # rp
+
+# Vastra Svealand
+
+5 = {"Vermlanti" "Kaarlista"} # rp
+8 = {"Taalainmaa" "Moora"} # rp
+1985 = {"Närke" "Ööripuro"} # rp
+
+# Vestlandet
+
+23 = {"Bergenhuus" "Bergenhuus"} # made up
+24 = {"Stavanki" "Stavanki"} # made up
+2752 = {"Romslahti" "Mooli"} # made up
+4145 = {"Agder" "Maantala"} # made up
+
+## URAL
+
+# Bashkiria
+
+475 = "Kaskorsto"
+1965 = "Busulukki"
+1966 = "Tsheljabinsk"
+2420 = "Ajdil"
+2444 = "Kaskirtti"
+
+# Galich
+
+306 = "Alahelmi"
+1079 = "Viavuori"
+1083 = "Vetlakyla"
+1957 = "Galijarvi"
+
+# Kama
+
+305 = "Permiharju"
+1962 = "Kudympuro"
+1972 = "Udmurtikaupunki"
+4266 = "Izhkarpuro"
+
+# Kazan
+
+1082 = "Kyyrola"
+2422 = "Vaahterakoski"
+4264 = "Turpeenpelto"
+
+# Perm
+
+1077 = "Solikkavaara"
+1755 = "Ustojoki"
+1963 = "Tserdunen"
+1964 = "Sysolskivaara"
+4129 = "Vymijarvi"
+
+# Samara
+
+473 = "Saamari"
+1081 = "Simalampi"
+2423 = "Alatunturi"
+
+# Saratov
+
+303 = "Saratovikko"
+2418 = "Ukekkila"
+2419 = "Kanadeyvesi"
+
+# Ural
+
+1078 = "Tuvamaki"
+1080 = "Polkky"
+1780 = "Komimaki"
+2427 = "Oslamaki"
+2441 = "Isolampi"
+
+# Volga
+
+2421 = "Juketavaara"
+4265 = "Arjankalli"
+4267 = "Bolgari"
+
+## BALTIC (real names are marked)
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"} # r
+770 = {"Braslovi" "Braslovi"}
+4535 = {"Ukmeri" "Ukmeri"}
+4536 = {"Liida" "Liida"}
+
+# Curonia
+
+35 = {"Saarenmaa" "Kuressaare"} # r
+39 = {"Kuldigaa" "Kuldigaa"}
+1935 = {"Jelgava" "Jelgava"}
+
+# East Prussia
+
+40 = {"Memeeli" "Memeeli"}
+41 = {"Kuninkaanvuori" "Kuninkaanvuori"} # r
+42 = {"Ermlanti" "Allenkivi"}
+767 = {"Ortilinna" "Ortilinna"}
+2958 = {"Ostrooda" "Ostrooda"}
+
+# Estonia
+
+36 = {"Rääveli" "Rääveli"} # r old finnish name for Tallinn
+1834 = {"Tartto" "Tartto"} # r
+1842 = {"Narva" "Narva"} # r
+
+# Livonia
+
+37 = {"Liivinmaa" "Viljanti"} # r
+38 = {"Riika" "Riika"} # r
+273 = {"Laatgalli" "Väinänlinna"} # rc
+4241 = {"Vonno" "Vonno"} # adapted from estonian Võnnu	
+
+# Samogitia
+
+270 = {"Tarkkaala" "Tarkkaala"}
+271 = {"Samaatti" "Suolinna"}
+1936 = {"Kaukama" "Kaukama"}
+4534 = {"Uppivaara" "Uppivaara"}
+
+# West Prussia
+
+43 = {"Kadankii" "Kadankii"}
+1841 = {"Maarianlinna" "Maarianlinna"}
+2997 = {"Tukola" "Tukola"}
+
+## AFRICA
+
+1139 = {"Kultaranta" "Kultaranta"}

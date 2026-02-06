@@ -1,0 +1,79 @@
+## WEST SIBERIA
+
+# Central Siberia
+
+1064 = {"Tüñ-Tora" "Tüñ-Tora"} # Siberian Tatar for Tomsk
+# 1067 = {"" ""} # not found (Monastyrskoye)
+1068 = {"Vargh Kará" "Vargh Kará"} # South Selkup language
+1070 = {"Narym" "Narym"} # Selkup for "marsh"
+2430 = {"Nerile" "Nerile"} # Yukagir, meaning "an earthen hill, consisting of some crags, cliffs"
+
+# Irkutsk
+
+1060 = {"Erhüü" "Erhüü"} # Buryat (and Mongol) name
+1062 = {"Khun'bu" "Khun'bu"} # From the Kamasin language for the Kan river
+1063 = {"Soyon" "Soyon"} # From the Mongol name for the Sayan mountains
+2442 = {"Kuta" "Kuta"} # named after the river Kuta, from the Evenk word meaning "peat bog"
+2443 = {"Kyzyl Char" "Kyzyl Char"} # Khakas language
+
+# Kara
+
+1069 = {"Serhanl" "Serhanl"} # Khanty for Surgut
+1072 = {"Yar-Sale" "Yar-Sale"} # already comes from Nenets
+1073 = {"Pulñawat" "Pulñawat"} # Khanty for Obdorsk
+2445 = {"Monkansi" "Monkansi"} # Nenets for Mangazeya
+4691 = {"As" "As"} # from vanilla
+
+# Tunguska
+
+1059 = {"Khezhme" "Khezhme"} # Buryat adaptation from the city of Kezhma
+1061 = {"Bukachan" "Bukachan"} # Evenk name for Boguchany
+# 2431 = {"" ""} # not found for Uchamin
+2432 = {"Khuk" "Khuk"} # Ket name for the Yenisey river
+2436 = {"Anavaren" "Anavaren"} # Evenki name for Vanavara
+
+## EAST SIBERIA
+
+# Buryatia
+
+# 1055 = {"" ""} # not found for neither Verkhneangarsk, Uoyan or the Kirenga river
+1056 = {"Bargajan" "Bargajan"} # Buryat name for the Barguzin river
+1057 = {"Üde" "Üde"} # Buryat name for the Uda river
+2446 = {"Çaara" "Sagaan Uula"} # Yakut name for the Chara river and Buryat name for Bagdarin
+
+# Kamchatka
+
+1034 = {"Konchachal" "Konchachal"} # Koryak name for Kamchatka
+1035 = {"Wegykiveem" "Wegykiveem"} # Koryak name for Penzhina
+1038 = {"Karalvaam" "Karalvaam"} # Chukchi name for Karalveyem
+# 1041 = {"" ""} # Not found for Gizhiga
+2440 = {"Winga" "Winga"} # Central Siberian Yupik name for Novo-Mariinsk
+
+# Kolyma
+
+1036 = {"Xalima" "Xalima"} # Yakut name for Kolima
+1037 = {"Omoloon" "Omoloon"} # Yakut name for Omolon
+1039 = {"Verhoyanskay" "Verhoyanskay"} # Yakut for Verkhoyansk
+1040 = {"Suntaar Xayata" "Kübüme"} # Yakut for Suntar Khayata and Kyubeme
+2439 = {"Orto Xalima" "Xarba Atax"} # Yakut for Yarmanka and Kharba-Atakh
+
+# Okhotsk
+
+1043 = {"Okat" "Okat"} # Evenk word for "river" (Okhota)
+1044 = {"Mongodan" "Mongodan"} # Evenk name for Magadan
+1047 = {"Jugjur" "Ayan"} # Yakut word for "big bulge"; and "path", "road", respectivelly
+1052 = {"Sir Kura" "Nüörüñgürü"} # Yakut name the Stanovoy range and for Neryungri
+
+# Sakha
+
+1042 = {"Öymököön" "Öymököön"} # Yakut for Oymyakon
+1046 = {"Maya" "Maya"} # Yakut for Mayya
+2438 = {"D'yokuuskay" "D'yokuuskay"} # Yakut for Yakutsk
+
+# Yakutia
+
+1045 = {"Siine" "Siine"} # Yakut for Sinsk
+1051 = {"Aldan" "Aldan"} # Yakut for Nezametny (now Aldan)
+1054 = {"Lienskey" "Lienskey"} # Yakut for Lensk (Mukhtuya)
+2435 = {"Ölüöxüme" "Ölüöxüme"} # Yakut for Olyokminsk
+2437 = {"Bülüü" "Bülüü"} # Yakut for Vilyuysk

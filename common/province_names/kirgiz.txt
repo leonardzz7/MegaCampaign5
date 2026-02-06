@@ -1,0 +1,110 @@
+### ASIA
+
+## CENTRAL ASIA
+
+# Arys
+
+457 = {"Tashken" "Tashken"} # r; Tashkent
+2356 = {"Chymken" "Chymken"} # r; Shymkent
+2364 = {"Talas" "Fergane"} # r; Talas, Fergana
+
+# Balclash
+
+477 = {"Nadym" "Balhash"} # r; Nadym, Balkhash
+478 = {"Argyn" "Semey"} # Argyn, Semey
+2355 = {"Naryn" "Ayagöz"} # r; Narym, Ayagoz
+2360 = {"Toboktu" "Toboktu"} # Tobykty
+4685 = {"Karagandy" "Karagandy"} # r; Karagandy
+
+# Ferghana
+
+458 = {"Kokon" "Kokon"} # r; Kokand
+460 = {"Özgön" "Özgön"} # r (already in Kyrgyzstan), Uzkend
+1967 = {"Khojent" "Khojent"} # r, Khujand
+
+# Jetysuu
+
+459 = {"Taraz" "Taraz"} # r, Taraz
+461 = {"Almata" "Almata"} # r, Almaty
+2125 = {"Kochkor" "Kochkor"} # r (already in Kyrgyzstan), Kochkor
+2126 = {"Chüy" "Naryn"} # r (already in Kyrgyzstan); Chuy, Naryn
+2368 = {"Karamegdan" "Üchtöbö"} # Karamegdan, Ushtobe
+
+# Kashgaria
+
+739 = {"Kashkar" "Kashkar"} # r, Kashgar
+2124 = {"Yarkend" "Yarkend"} # r, Yarkand
+2127 = {"Yashylköl" "Yashylköl"} # Yashilkul
+4209 = {"Maralbeshi" "Tümük"} # Maralbashi, Tumshuk
+4210 = {"Yanishar" "Yanishar"} # Yangi Hissar
+
+# Kazakhstan
+
+476 = {"Kypchaktar" "Nukus"} # rp (Kypshak), Nukus
+2351 = {"Shyekti" "Kanbakty"} # based on Turkish; Shekty, Kanbakti
+2353 = {"Tortkara" "Akshiganak"} # same
+2358 = {"Altyn" "Kosköl"} # rp; Altyn, Koskol
+2359 = {"Baganaly" "Baganaly"} # same
+
+# Khiva
+
+440 = {"Karakalpakstan" "Chymbay"} # r; Karakalpakstan, Chimbay
+441 = {"Khiva" "Khiva"} # r; Khiva
+1973 = {"Ürgönch" "Ürgönch"} # r; Urgench
+2362 = {"Gurganj" "Eski-Urgönch"} # rp; Gurganj, Konye-Urgench
+2370 = {"Kongurat" "Kongurat"} # r; Qonirat
+
+# Khuttalan
+
+1968 = {"Kölob" "Kölob"} # r; Kulob
+4343 = {"Termez" "Termez"} # r; Termez
+4344 = {"Kysh" "Kysh"} # Kish
+
+# Kyzylkum
+
+455 = {"Kyzyl-Kum" "Kyzyl-Kum"} # r; Kyzylkum
+1970 = {"Syganak" "Syganak"} # Syghnak
+2363 = {"Ataken" "Zhetisay"} # Atakent, Zhetisay
+
+# Lower Yik
+
+469 = {"Atyrau" "Atyrau"} # r; Atyrau
+474 = {"Inderbor" "Inderbor"} # same
+2365 = {"Algay" "Algay"} # based on the Kazakh name for Aleksandrov Gay (Algai)
+2367 = {"Tömönkü Yik" "Kalmak"} # Lower Yik, Kalmyk
+
+# Nogai
+
+465 = {"Nogoylor" "Sarayshik"} # rp; Nogai, Saraychik
+470 = {"Bayuly" "Baiuly"} # Bayuly
+471 = {"Älymuly" "Älymuly"} # Alimuly
+472 = {"Aktöbe" "Aktöbe"} # r, Aktobe
+2366 = {"Toz-Tübe" "Toz-Tübe"} # from Tatar, Utva
+
+# Shanshan
+
+710 = {"Khotan" "Khotan"} # Hotan
+711 = {"Karkan" "Karkan"} # Qarqan
+2123 = {"Chaylak" "Chaylak"} # borrowed from Turkish Çaylak (Qakilik)
+4693 = {"Keriye" "Keriye"} # from Turkish Keriye (Keriya)
+
+# Syr Darya
+
+456 = {"Türkstan" "Türkstan"} # r; Turkestan
+1969 = {"Süzek" "Süzek"} # r; Sozak
+2352 = {"Alty-Kuduk" "Alty-Kuduk"} # same
+2361 = {"Betpak-Talaa" "Betpak-Talaa"} # r; Betpak-Dala
+
+# Transcaspia
+
+437 = {"Kopetdag" "Kopetdag"} # Kopet Dag
+438 = {"Kara-Kum" "Kök-Tepe"} # Karakum, Geok-Tepe
+439 = {"Mangyshtak" "Ak-Too"} # r; Mangyshlak, Aktau
+443 = {"Usturt" "Beyneu"} # r; Ustyurt, Beyneu
+2349 = {"Kyzyl-Suu" "Kyzyl-Suu"} # r; Kizil-Su
+
+# Transoxiana
+
+442 = {"Bukar" "Bukar"} # r; Bukhara
+453 = {"Karshi" "Karshi"} # r; Qarshi
+454 = {"Samarkand" "Samarkand"} # same

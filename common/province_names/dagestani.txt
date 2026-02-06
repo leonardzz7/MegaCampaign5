@@ -1,0 +1,49 @@
+## CAUCASIA
+
+# Armenia
+
+419 = {"Erevan" "Erevan"}
+420 = {"Gjandža" "Gjandzha"}
+2202 = {"Hankendi" "Hankendi"}
+2205 = {"Nahcyvan" "Nahchyvan"}
+4302 = {"Bajazid" "Bajazid"}
+
+# Circassia
+
+463 = {"Cerkesija" "Majkop"}
+2195 = {"Adig'istan" "Sochi"}
+2197 = {"Kabarda" "Nal'chik"}
+2201 = {"Alana" "Dzhudzhikial"}
+
+# Dagestan
+
+425 = {"Dag'istan" "Derbend"}
+2198 = {"H'unzii" "Hunzah'"}
+2199 = {"Targ'u" "Targ'u"} # Kumyk name
+2208 = {"Mozdok" "Mozdok"}
+4306 = {"Laki" "G'umekib"}
+
+# Imereti
+
+422 = {"Imereti" "Kutaisi"}
+462 = {"Odishi" "Zugdidi"}
+1856 = {"Abhazija" "Suhum"}
+
+# Kartli-Kakheti
+
+423 = {"Tulpis" "Tulpis"}
+2203 = {"Kiaheti" "Telavur"}
+4301 = {"Kartli" "Gori"}
+
+# Samtshke
+
+2196 = {"Macaradze" "Macharadze"}
+2204 = {"Kars" "Kars"}
+4303 = {"Oltu" "Oltu"}
+
+# Shirvan
+
+421 = {"Širvan" "Baku"}
+4299 = {"Šamaha" "Shamaha"}
+4305 = {"Šeki" "Šeki"}
+4340 = {"Astara" "Astara"}

@@ -1,0 +1,2246 @@
+### EUROPE
+
+151 = {"Miklagård" "Miklagård"} # Constantinople
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Själland" "Köpenhamn"}
+14 = {"Fyn" "Odense"}
+1981 = {"Bornholm" "Rönne"}
+1983 = {"Laaland" "Nyköping"}
+
+# Finland
+
+27 = {"Åbo" "Åbo"}
+28 = {"Nyland" "Borgå"}
+29 = {"Tavastland" "Tavastehus"}
+31 = {"Savolax" "Olofsborg"}
+4123 = {"Birkaland" "Tammerfors"}
+
+# Laponia
+
+315 = {"Finnmark" "Vardö"}
+1777 = {"Kola" "Kandalaksja"}
+4151 = {"Enare" "Sodanby"}
+
+# Norrland
+
+9 = {"Hälsingland" "Gävle"}
+11 = {"Västerbotten" "Umeå"}
+18 = {"Lappland" "Arvidsjaur"}
+4114 = {"Jokkmokk" "Jokkmokk"}
+
+# North Atlantic Islands
+
+370 = {"Rökviken" "Rökviken"}
+371 = {"Åkerör" "Åkerör"}
+1978 = {"Hjaltland" "Lersund"}
+1979 = {"Färöarna" "Torshamn"}
+
+# North Jutland
+
+15 = {"Västjylland" "Ribe"}
+1984 = {"Nordjylland" "Ålborg"}
+4142 = {"Östjylland" "Århus"}
+4149 = {"Kolding" "Kolding"}
+
+# Østlandet
+
+17 = {"Akershus" "Oslo"}
+22 = {"Oppland" "Hamar"}
+4143 = {"Borgesyssel" "Moss"}
+4144 = {"Bratsberg" "Skedå"}
+
+# Östra Götland
+
+2 = {"Östergötland" "Linköping"}
+3 = {"Kalmar" "Kalmar"}
+25 = {"Gotland" "Visby"}
+4166 = {"Småland" "Vegsjø"}
+
+# Östra Svealand
+
+1 = {"Stockholm" "Stockholm"}
+4 = {"Bergslagen" "Västerås"}
+1930 = {"Åland" "Mariehamn"}
+
+# Ostrobothnia
+
+19 = {"Österbotten" "Korsholm"}
+4113 = {"Rovansby" "Rovansby"}
+4152 = {"Kajanaland" "Manselkä"}
+
+# Skåneland
+
+6 = {"Lund" "Malmö"}
+26 = {"Halland" "Halmstad"}
+1982 = {"Blekinge" "Ronneby"}
+4165 = {"Göinge" "Gladsax"}
+
+# Trøndelag
+
+10 = {"Jämtland" "Frösön"}
+20 = {"Tröndelagen" "Trondhjem"}
+21 = {"Hålogaland" "Tromsö"}
+
+# Västra Götaland
+
+7 = {"Skaraborg" "Skara"}
+16 = {"Bohuslän" "Marstrand"}
+4163 = {"Elfsborg" "Elfsborg"}
+4164 = {"Dal" "Dalaborg"}
+
+# Västra Svealand
+
+5 = {"Värmland" "Karlstad"}
+8 = {"Dalaskogen" "Mora"}
+1985 = {"Närke" "Örebro"}
+
+# Vestlandet
+
+23 = {"Bergenhus" "Bergen"}
+24 = {"Stavanger" "Stavanger"}
+2752 = {"Romsdal" "Molde"}
+4145 = {"Agdesiden" "Mandal"}
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilna" "Vilna"}
+770 = {"Braslau" "Braslau"}
+4535 = {"Ulmö" "Ulmö"} # made up from etymology
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Ösel" "Örnsborg"} # capital is made up from etymology
+39 = {"Guldinge" "Guldinge"} # made up from etymology
+1935 = {"Mitau" "Mitau"}
+
+# East Prussia
+
+40 = {"Memel" "Memel"} # german and older swedish name
+41 = {"Konungsberg" "Konungsberg"}  # made up from etymology
+42 = {"Ermland" "Alnsten"} # capital is made up from etymology
+767 = {"Ortelsborg" "Ortelsborg"} # made up from etymology
+2958 = {"Östrarode" "Östrarode"} # made up from etymology
+
+# Estonia
+
+36 = {"Reval" "Reval"}
+1834 = {"Dorpat" "Dorpat"}
+1842 = {"Narva" "Narva"}
+
+# Livonia
+
+37 = {"Liffland" "Fellin"}
+38 = {"Riga" "Riga"}
+273 = {"Lettgallen" "Dünaborg"} # capital is made up from etymology
+4241 = {"Venden" "Venden"}
+
+# Samogitia
+
+270 = {"Traken" "Traken"}
+271 = {"Samogitien" "Skjuta"}
+1936 = {"Kauen" "Kauen"}
+4534 = {"Upiten" "Upiten"}
+
+# West Prussia
+
+43 = {"Danzig" "Danzig"}
+1841 = {"Marborg" "Marborg"} # made up from etymology
+2997 = {"Tuchel" "Tuchel"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Ärkeängel" "Ärkeängel"} # Arkhangelsk
+4122 = {"Skänkenborg" "Skänkenborg"} # Shenkursk
+4256 = {"Saltvattsborg" "Saltvattsborg"} # Solvychegodsk
+4257 = {"Mösvik" "Klenköping"} # Mezen, Okladinovka Sloboda
+
+# Beloozero
+
+312 = {"Hvitsjö" "Hvitsjö"} # Beloozero. The Swedish word for white is "vit"; however, the pre-1906 spelling term was "hvit"
+4259 = {"Velsk" "Velsk"} # Velsk
+4261 = {"Munsby" "Munsby"} # Ustyuzhna
+
+# Moscow
+
+295 = {"Moskva" "Moskva"} # r
+4251 = {"Mosby" "Mosby"} # Mozhaisk
+4252 = {"Hjulsby" "Hjulsby"} # Kolomna
+
+# North Karelia
+
+32 = {"Kexholm" "Kexholm"} # r (Priozersk)
+309 = {"Olonäs" "Olonäs"} # Olonets
+4124 = {"Kirjalaland" "Mossby"} # Karelia (historical Swedish name), Lieksa
+
+# Novgorod
+
+311 = {"Loveå" "Loveå"} # named after the Lovat river (Kholm)
+1959 = {"Torsborg" "Torsborg"} # Torzhok
+2749 = {"Tikhven" "Tikhven"} # Tikhvin
+4260 = {"Överflod" "Överflod"} # from the etymology of Vyshny Volochyok
+
+# Oka
+
+296 = {"Kaluga" "Kaluga"} # already sounds Swedish enough
+300 = {"Tever" "Tever"} # Tver
+4116 = {"Ottilhem" "Ottilhem"} # Odoyev
+
+# Pomorye
+
+313 = {"Sördsjö" "Sördsjö"} # Sorotskaya
+1776 = {"Vitahavskirjalaland" "Kem"} # the real exonym for White Karelia in Swedish is Vitahavskarelen, but replacing the Modern Swedish "Karelen" with the historical Swedish "Kirjalaland" we end up getting "Vitahavskirjalaland"
+1958 = {"Korgslätte" "Korgslätte"} # Kargopol
+4258 = {"Omå" "Omå"} # Onega
+
+# Pskov
+
+274 = {"Peskeborg" "Peskeborg"} # Pskov
+275 = {"Polåtsk" "Polåtsk"} # Polotsk
+1960 = {"Öby" "Öby"} # Ostrov
+4148 = {"Locka" "Stor Locka"} # Velikiye Luki
+
+# Ryazan
+
+301 = {"Rysan" "Rysan"} # Ryazan
+1778 = {"Kassem" "Kassem"} # Kasimov
+4255 = {"Prönsby" "Prönsby"} # Pronsk
+
+# South Karelia
+
+30 = {"Viborg" "Viborg"} # r (Vyborg)
+33 = {"Nöteborg" "Nöteborg"} # r (Neva)
+34 = {"Ingermanland" "Koporje"} # r (Ingria, Koporye)
+1961 = {"Ladoga" "Folksby"} # Ladoga, Zvanka
+
+# Suzdal
+
+1754 = {"Mörom" "Mörom"} # Murom
+1956 = {"Sorsdal" "Sorsdal"} # from Old Norse Súrsdal
+4254 = {"Gamleka" "Gamleka"} # from the etymology of Starodub
+
+# Tambov
+
+302 = {"Tamme" "Tamme"} # Tambov
+304 = {"Penge" "Penge"} # Penza
+2415 = {"Hästenby" "Hästenby"} # Atkarsk
+
+# Tver
+
+294 = {"Tver" "Tver"}
+1752 = {"Rjev" "Rjev"} # Rzhev
+4243 = {"Truppen" "Truppen"} # Toropets
+4248 = {"Kärrskogen" "Kärrskogen"} # Kashin
+4249 = {"Zubskogen" "Zubskogen"} # Zubtsov
+
+# Vladimir
+
+307 = {"Välfredsby" "Välfredsby"} # from the etymology of Vladimir
+4147 = {"Rosted" "Rosted"} # Rostov
+4253 = {"Jörger" "Jörger"} # Yuriev
+
+# Vologda
+
+314 = {"Vålhänen" "Vålhänen"} # Vologda
+4262 = {"Tumen" "Timen"} # Totma
+4263 = {"Saltgallan" "Saltgallan"} # from the etymology of Sol Galitskaya
+
+# Yaroslavl
+
+308 = {"Järglans" "Järglans"} # Yaroslavl
+1753 = {"Kostrumen" "Kostrumen"} # Kostroma
+4117 = {"Bäseks" "Bäseks"} # Bezhetsk
+4250 = {"Mollak" "Mollak"} # Mologa
+
+## NORTH GERMANY
+
+# Bohemia
+
+266 = {"Prag" "Prag"} # r
+2968 = {"Budveis" "Budveis"} # phonetic adjustment
+2970 = {"Kunggräz" "Kunggräz"} # made up from etymology
+4724 = {"Pardubis" "Pardubis"}  # phonetic adjustment
+4725 = {"Nyhus" "Nyhus"} # made up from etymology
+
+# Braunschweig
+
+57 = {"Brunsvik" "Brunsvik"} # made up from etymology
+1758 = {"Hanöver" "Hanöver"} # made up from etymology
+2971 = {"Hoya" "Hoya"} 
+4773 = {"Gutengen" "Gutengen"} # made up from etymology
+
+# Erzgebirge
+
+267 = {"Pilsen" "Pilsen"} # r
+1771 = {"Leitmerits" "Leitmerits"} # phonetic adjustment
+2967 = {"Eger" "Eger"} # german name
+
+# Hesse 
+
+78 = {"Mäns" "Mäns"} 
+81 = {"Övre Hessen" "Marborg"} 
+1762 = {"Nedre Hessen" "Kassla"}
+1876 = {"Frankvad" "Frankvad"} # made up from etymology
+4774 = {"Fulda" "Fulda"} 
+
+# Hinterpommern
+
+48 = {"Kolberg" "Kolberg"} # r
+2995 = {"Stolpe" "Stolpe"} 
+4746 = {"Stjärngård" "Stjärngård"}
+
+# Lower Rhineland
+
+80 = {"Trever" "Trever"} # from latin
+1760 = {"Koblings" "Koblings"} 
+1878 = {"Aken" "Aken"}
+4768 = {"Jylik" "Jylik"}
+
+# Lower Saxony
+
+44 = {"Hamborg" "Hamborg"} # r (old)
+53 = {"Lundaborg" "Lundaborg"} # from etymology
+1857 = {"Lejonborg" "Lejonborg"} # from etymology
+4772 = {"Cella" "Cella"}
+
+# Lusatia
+
+60 = {"Båtsen" "Båtsen"}
+1763 = {"Nedre Lausitz" "Kottbuss"}
+4778 = {"Jörlits" "Jörlits"}
+
+# Mecklenburg
+
+45 = {"Lybeck" "Lybeck"} # r
+46 = {"Råstock" "Råstock"}
+2996 = {"Wismar" "Wismar"} # name under swedish rule
+4749 = {"Ny Brandenborg" "Ny Brandenborg"} 
+4786 = {"Prignits" "Prignits"}
+
+# Mittelmark
+
+50 = {"Berlin" "Berlin-Köln"} # r
+51 = {"Rupin" "Nyrupin"}
+1759 = {"Pottsdam" "Pottsdam"}
+2993 = {"Uckermark" "Prenzlå"} # direct translation
+4748 = {"Brandenborg" "Brandenborg Vid Havel"}
+
+# Moravia
+
+265 = {"Brynn" "Brynn"}
+4237 = {"Olmö" "Olmö"}
+4726 = {"Radis" "Radis"}
+
+# Neumark
+
+49 = {"Nymark" "Soldin"}
+2969 = {"Stjärnaberg" "Stjärnaberg"} 
+4747 = {"Dramborg" "Dramborg"}
+
+# North Rhine
+
+83 = {"Nasså" "Nasså"}
+84 = {"Dysseltorp" "Dysseltorp"} 
+85 = {"Köln" "Köln"}
+2975 = {"Klev" "Klev"}
+
+# North Westphalia
+
+56 = {"Osnabro" "Osnabro"}
+69 = {"Dortmun" "Dortmun"}
+86 = {"Mynster" "Mynster"}
+2973 = {"Meppen" "Meppen"}
+
+# Saxony
+
+59 = {"Vitenberg" "Vitenberg"}
+61 = {"Dresden" "Dresden"}
+62 = {"Leipzig" "Leipzig"}
+4744 = {"Zvikå" "Zvikå"}
+
+# Saxony-Anhalt
+
+52 = {"Magerborg" "Magerborg"}
+58 = {"Ånhald" "Desö"}
+2964 = {"Äldrebo" "Stendal"}
+4741 = {"Hallar" "Hallar"}
+4742 = {"Gåselar" "Gåselar"}
+
+# Schleswig-Holstein
+
+13 = {"Slesvik" "Slesvik"}
+1775 = {"Holtsten" "Kiel"}
+4141 = {"Ditmarsken" "Ditmarsken"}
+
+# South Westphalia
+
+82 = {"Västrafalen" "Örnsberg"}
+2972 = {"Paderbrunn" "Paderbrunn"}
+4775 = {"Ravensborg" "Ravensborg"}
+
+# Thuringia
+
+63 = {"Ervad" "Ervad"}
+2965 = {"Fogdland" "Plauen"} # from etymology
+4743 = {"Vajmar" "Vajmar"}
+
+# Vorpommern
+
+47 = {"Strålsund" "Strålsund"} # r
+1858 = {"Stettin" "Stettin"} # r
+2994 = {"Vålgård" "Vålgård"}
+4745 = {"Rygen" "Bergen på Rygen"} #rp
+
+# Weser
+
+54 = {"Stade" "Stade"}
+55 = {"Oldenburg" "Oldenburg"} # r from the swedish house of oldenburg
+1874 = {"Bremen" "Bremen"}
+4771 = {"Verden" "Verden vid Aller"}
+
+# SOUTH GERMANY
+
+# Alsace
+
+75 = {"Strasborg" "Strasborg"}
+1880 = {"Södergau" "Gammalkyrka"}
+4765 = {"Möllhus" "Möllhus"} # from your danish name
+
+# Austria Proper
+
+133 = {"Övre Österrike" "Linz"} # r
+134 = {"Wien" "Wien"} # r
+1770 = {"Kräms" "Kräms vid Donau"}
+4761 = {"Steyr" "Steyr"}
+4762 = {"Nedre Österrike" "Sankt Hippolytus"} # r
+
+# Baden
+
+72 = {"Bräsgau" "Friborg i Bräsgau"}
+74 = {"Baden" "Baden"}
+4714 = {"Durlåk" "Karlsro"}
+
+# Carniola
+
+129 = {"Krajland" "Lüblana"} # rc
+130 = {"Istrien" "Polä"} 
+1769 = {"Görse" "Görse"}
+4738 = {"Triest" "Triest"}
+4751 = {"Silli" "Silli"}
+
+# East Bavaria
+
+76 = {"Saltborg" "Saltborg"}
+4709 = {"Bödö" "Bödö"} # from your danish
+4760 = {"Enbayern" "Bröndå på En"} # Innviertel, Braunau am Inn
+
+# East Swabia
+
+68 = {"Memmingen" "Memmingen"}	
+1868 = {"Augsborg" "Augsborg"}
+1872 = {"Ölme" "Ölme"}  # from your danish
+4711 = {"Donauvärd" "Norrlang"} # from your danish
+
+# Inner Austria
+
+128 = {"Nedre Kärnten" "Klagavad"}
+132 = {"Steiermark" "Judeborg"} 
+1863 = {"Grätz" "Grätz"}
+4759 = {"Övre Kärnten" "Vilåk"}
+
+# Lower Bavaria
+
+64 = {"Landshut" "Landshut"} 
+1757 = {"Övre Pfalz" "Amberg"}
+2956 = {"Struping" "Struping"} # from danish
+2957 = {"Regensborg" "Regensborg"}
+
+# Lower Franconia
+
+71 = {"Onsbäck" "Onsbäck"}
+79 = {"Vurtborg" "Vurtborg"}
+4715 = {"Rödenborg" "Rödenborg"}
+4718 = {"Askälvborg" "Askälvborg"} 
+
+# Palatinate
+
+77 = {"Hedelberg" "Hedelberg"}
+1761 = {"Pfalz" "Vorms"}
+4767 = {"Tvåbroar" "Tvåbroar"} 
+
+# Romandie
+
+165 = {"Bern" "Bern"} # r
+1867 = {"Låssanen" "Låssanen"}
+1871 = {"Schvits" "Schvits"}
+4720 = {"Genève" "Genève"} # r
+4721 = {"Friborg" "Friborg"}
+
+# Switzerland
+
+166 = {"Skogsplats" "Sitten"}
+1869 = {"Zürik" "Zürik"} #r?
+1870 = {"Sankt Gallus" "Sankt Gallus"}
+1873 = {"Kur" "Kur"}
+4722 = {"Illans" "Illans"}
+
+# Tirol
+
+73 = {"Indal" "Insbro"}
+110 = {"Trient" "Trient"}
+1768 = {"Liens" "Liens"}
+4710 = {"Föralberg" "Bergens"}
+4758 = {"Ätsdal" "Botzen"}
+
+# Upper Bavaria
+
+65 = {"Munken" "Munken"} # gpt says it's historical
+2955 = {"Ingolstad" "Ingolstad"}
+4707 = {"Vattenborg" "Vattenborg på In"}
+4708 = {"Frisingen" "Frisingen"}
+
+# Upper Franconia
+
+66 = {"Bamberg" "Bamberg"}
+67 = {"Nyrnberg" "Nyrnberg"}
+4716 = {"Koborg" "Koborg"}
+4717 = {"Bajreut" "Bajreut"} 
+
+# West Swabia
+
+70 = {"Vürttemborg" "Stutgård"} 
+4712 = {"Konstans" "Konstans"}
+4713 = {"Orak" "Rytlingen"}
+
+## BRITAIN
+
+# Connacht
+
+375 = {"Limerik" "Limerik"}
+376 = {"Konnakt" "Galväg"}
+4119 = {"Slaigo" "Slaigo"}
+
+# East Anglia
+
+238 = {"Östersax" "Kjolmärsvad"}
+1860 = {"Norrfolk" "Norvik"}
+4370 = {"Bedavadskir" "Kambrygga"}
+
+# East Midlands
+
+243 = {"Lincolnskir" "Lincoln"}
+1861 = {"Dörby" "Dörby"}
+4376 = {"Lestä" "Lestä"}
+
+# Highlands
+
+250 = {"Pärt" "Pärt"}
+252 = {"Invernäs" "Invernäs"}
+369 = {"Orkneyöarna" "Kyrkoviken"} # rp
+4110 = {"Söderland" "Dornåk"}
+4363 = {"Argyll" "Låk Åv"} # rp
+
+# Leinster
+
+373 = {"Dublin" "Dublin"} # r
+374 = {"Länster" "Växvad"}
+4120 = {"Kildär" "Kildare"}
+4379 = {"Tullamår" "Tullamår"}
+
+# London
+
+235 = {"Kent" "Kantareborg"} # rp
+236 = {"London" "London"} # r
+237 = {"Oxevad" "Oxevad"}
+4371 = {"Södersax" "Hästing"}
+
+# Lowlands
+
+248 = {"Låthien" "Edinborg"}
+249 = {"Ärskir" "Är"}
+251 = {"Aberdin" "Aberdin"}
+4361 = {"Råkasborgskir" "Jedborg"}
+4362 = {"Dumfris" "Dumfris"}
+
+# Munster
+
+4118 = {"Kork" "Kork"}
+4377 = {"Kilkenni" "Kilkenni"}
+4378 = {"Killarny" "Killarny"}
+
+# Northern England
+
+244 = {"Lankaster" "Lankaster"}
+246 = {"Nordymbraland" "Nyborg"} # from norse
+247 = {"Kumbrien" "Karlajl"}
+4375 = {"Käster" "Käster"}
+
+# The Isles
+
+253 = {"Yttre Hebriderna" "Stjornavåg"} # rp
+4364 = {"Inre Hebriderna" "Portree"}
+4365 = {"Man" "Douglas"}
+
+# Ulster
+
+372 = {"Tyron" "Omå"} 
+4121 = {"Ullster" "Bälfast"}
+4380 = {"Donegål" "Donegål"}
+
+# Wales
+
+241 = {"Glamorgan" "Svansie"} # rp
+242 = {"Karnarvon" "Karnarvon"}
+4366 = {"Powis" "Montgomeri"}
+4369 = {"Karmarthen" "Karmarthen"}
+
+# Wessex
+
+233 = {"Cornvall" "Truroå"}
+234 = {"Hemtunskir" "Salisborg"}
+4130 = {"Sommarset" "Bad"}
+4373 = {"Devon" "Plymun"}
+4374 = {"Dorset" "Vejmuth"}
+
+# West Midlands
+
+239 = {"Gloster" "Bryggasto"}
+240 = {"Skrubbsborg" "Skrubbsborg"}
+4372 = {"Kofanträ" "Kofanträ"}
+
+# Yorkshire
+
+245 = {"Jorvik" "Jorvik"}
+4367 = {"Hull" "Hull"}
+4368 = {"Skardiborg" "Skardiborg"}
+4785 = {"Skedfält" "Skedfält"}
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brygge" "Brygge"} # r	
+1865 = {"Gent" "Gent"} # name already sounds good in swedish
+4769 = {"Risel" "Risel"} # from dutch
+
+# Frisia
+
+99 = {"Gälldern" "Arnhem"} 
+100 = {"Friesland" "Levärde"} # rp
+1931 = {"Ostfriesland" "Emden"} # r
+4381 = {"Överejsel" "Svålle"} 
+4382 = {"Groningen" "Groningen"} # already sounds good
+
+# Holland
+
+96 = {"Sjöland" "Mittenborg"}
+97 = {"Amsterdam" "Amsterdam"} # r
+98 = {"Utrecht" "Utrecht"} # already sounds good
+4383 = {"Haag" "Haag"} # r
+
+# North Brabant
+
+95 = {"Bräda" "Bräda"}
+1742 = {"Övregeldern" "Röramun"} 
+4770 = {"Hertogensbosh" "Hertogensbosh"}
+
+# South Brabant
+
+92 = {"Bryssel" "Bryssel"} # r
+1744 = {"Antvärpa" "Anvärpa"} 
+2974 = {"Burglohn" "Burglohn"} # made-up name
+
+# Wallonia
+
+91 = {"Henegoven" "Bergen"} 
+93 = {"Lyttik" "Lyttik"} 
+94 = {"Luxemburg" "Luxemburg"} # r
+1866 = {"Namyr" "Namyr"} 
+
+## POLAND
+
+# Central Poland
+
+258 = {"Schierats" "Schierats"} 
+1939 = {"Lentschitsa" "Lentschitsa"} 
+4533 = {"Velun" "Velun"}
+
+# Kuyavia
+
+1859 = {"Kulm" "Kulm"}
+4523 = {"Jungleslau" "Jungleslau"}
+4524 = {"Dobrin" "Dobrin vid Visla"}
+4528 = {"Kujavien" "Kujavien Brest"} # rp
+
+# Malopolska
+
+262 = {"Krakau" "Krakau"} # r
+2960 = {"Ny Sandets" "Ny Sandets"} 
+4527 = {"Kentjiny" "Kentjiny"} 
+
+# Mazovia
+
+256 = {"Plock" "Plock"} 
+257 = {"Varschau" "Varschau"}
+1938 = {"Visna" "Visna"} 
+4525 = {"Rava" "Rava i Masovien"} 
+
+# Red Ruthenia
+
+261 = {"Halytj" "Halytj"} # r
+1940 = {"Belz" "Belz"} 
+2424 = {"Peremysjl" "Peremysjl"} 
+2961 = {"Lejonberg" "Lejonberg"} 
+4541 = {"Drohobytj" "Drohobytj"} # r
+
+# Sandomierz
+
+259 = {"Sandomir" "Sandomir"}
+260 = {"Lublin" "Lublin"}
+2959 = {"Tarnau" "Tarnau"}
+
+# Silesia
+
+263 = {"Ratibor" "Ratibor"} 
+264 = {"Breslau" "Breslau"} 
+2966 = {"Glogau" "Glogau"}
+4238 = {"Liegnits" "Liegnits"} 
+4723 = {"Oppeln" "Oppeln"} 
+
+# Wielkopolska
+
+254 = {"Posen" "Posen"} # r
+255 = {"Kalisch" "Kalisch"} 
+2963 = {"Netze" "Nakel vid Netze"} 
+4526 = {"Gnesen" "Gnesen"} 
+
+### IBERIA
+
+# Upper Andalucia
+
+223 = {"Garna" "Garna"}
+
+### NORTH AMERICA   
+     
+## CALIFORNIA    
+     
+# ALTA CALIFORNIA   
+
+868 = "Jätte"   
+869 = "Fura Udde"   
+2021 = "Nya Malmö"   
+2476 = "Halmstad"   
+4637 = "Nya Karlskrona"   
+     
+# APACHERIA    
+     
+879 = "Najavostad"   
+2492 = "Rödsten"   
+4634 = "Mortelby"   
+     
+# ARIZONA    
+     
+867 = "Röda Pelare"   
+876 = "Fenix"   
+877 = "Flodfolksby"   
+2491 = "Nya Varberg"   
+4633 = "Sobajpuri"   
+     
+# BAJA CALIFORNIA   
+     
+865 = "Skarhult"   
+866 = "Svenstorp"   
+2620 = "Helgonsbukten"   
+4639 = "Brokind"   
+     
+# CENTRAL VALLEY   
+     
+870 = "Jokuts"   
+2478 = "Taschi"   
+4635 = "Folkeberg"   
+4636 = "Kungensflod"   
+     
+# COLORADO PLATEU   
+     
+875 = "Sankt Kristoffer "   
+878 = "Vitsten"   
+2493 = "Flaggstång"   
+2494 = "Västhammar"   
+     
+# NEW MEXICO   
+     
+880 = "Byn"   
+881 = "Fort af Månen"   
+2495 = "Akomaby"   
+4631 = "Jemesby"   
+4632 = "Keresby"   
+     
+# NORTH CALIFORNIA   
+     
+871 = "Ensteg"   
+2477 = "Tegner"   
+2479 = "Mansby"   
+2480 = "Fort Johan"   
+4638 = "Wintu"   
+     
+# SONORA    
+     
+862 = "Nya Paskau"   
+2616 = "Tiberusön"   
+4577 = "Sandfolksby"   
+4649 = "Majoby"   
+4650 = "Opata"   
+     
+## CANADA    
+     
+# COTE NORD   
+     
+996 = "Nordkusten"   
+2576 = "Boholm"   
+2577 = "Sju Öar"   
+2578 = "Frisland "   
+2579 = "Kronovallis"   
+     
+# GREENLAND    
+     
+1104 = {"Eriksfjord" "Julianenshopp"}
+1105 = {"Västernbygden" "Godhopp"}
+     
+# HURONIA    
+     
+988 = "Stromberg"   
+989 = "Hammarsted"   
+2585 = "Stjärnorden"   
+2670 = "Åkerö"   
+     
+# LABRADOR    
+     
+997 = "Marklän"   
+2574 = "Hellelän"   
+2575 = "Erikssonbukt"   
+     
+# LAURENTIA    
+     
+992 = "Ascheberg"   
+2581 = "Skotskborg"   
+4894 = "Hållbacken"   
+     
+# LOWER ACADIA   
+     
+982 = "Nya Karlö"   
+984 = "Salmis"   
+2568 = "Drottningskvarn"   
+2569 = "Sundsby"   
+4891 = "Rannåsen"   
+     
+# LOWER CANADA   
+     
+993 = "Kungliga Berget"   
+2584 = "Salneck"   
+4895 = "Tossberg"   
+     
+# NEWFOUNDLAND    
+     
+980 = "Vinland"   
+981 = "Leifsborg"   
+2573 = "Nya Wäsby"   
+     
+# OTTAWA VALLEY   
+     
+4890 = "Snöborg"   
+4892 = "Kånkbacken"   
+4897 = "Nytorp"   
+     
+# QUEBEC    
+     
+986 = "Gaspéhalvön"   
+994 = "Ericsberg"   
+995 = "Trosa"   
+2582 = "Harridsborg"   
+2583 = "Östhammar"   
+     
+# ST. JOHN'S VALLEY  
+     
+2570 = "Johannishus"   
+2571 = "Nya Skövde"   
+4896 = "Kvitsle"   
+     
+# TROIS_RIVIERES    
+     
+990 = "Tre Floder"   
+2012 = "Sankt Benedikt"   
+2580 = "Rosersberg"   
+2580 = "Rosersberg"   
+     
+# UPPER ACADIA   
+     
+983 = "Linköpingsö"   
+985 = "Södermöre"   
+2572 = "Straumfjärd"   
+     
+# UPPER CANADA   
+     
+987 = "Niagara"   
+2586 = "Söderberg "   
+2587 = "Nya Skokloster"   
+     
+# UPPER ONTARIO   
+     
+991 = "Bålby"   
+1001 = "Lindschöld"   
+1007 = "Åskbukten"   
+2015 = "Bååtvik"   
+2671 = "Älvsborg"   
+     
+## CARIBBEANS    
+     
+# DOMINICA    
+     
+490 = "Nya Uppsala"   
+2658 = "Stackelberg"   
+2659 = "Silfverstaden"   
+4620 = "Siguajo"   
+4621 = "Luthersholm"   
+     
+# EAST CUBA   
+     
+486 = "Bottenströmmen"   
+2654 = "Honungsbukten"   
+2655 = "Östkyrkan"   
+2656 = "Kungsträdgården"   
+     
+# GREATER ANTILLES   
+     
+481 = "Funning"   
+487 = "Tainö"   
+491 = "Hjärta"   
+492 = "Ull"   
+     
+# HAITI    
+     
+488 = "Bengtssonsvik"   
+489 = "Sköldpadsviken"   
+4618 = "Prinsenshamn"   
+4619 = "Mariasby"   
+     
+# LEEWARD ISLANDS   
+     
+493 = "Tyr"   
+494 = "Sankt Bartolomeus"   
+495 = "Siv"   
+496 = "Oden"   
+1881 = "Vidar"   
+     
+# LUCAYAN ARCHIPELAGO   
+     
+482 = "Engelbrekthamn"   
+483 = "Turkiska Öarna"   
+     
+# WEST CUBA   
+     
+484 = "Hamnstad"   
+485 = "Björnfästningen"   
+4622 = "Kanifloden"   
+4623 = "Eskambrej"   
+4624 = "Gunnarshamn"   
+     
+# WINDWARD ISLANDS   
+     
+497 = "Loke"   
+498 = "Idun"   
+499 = "Höder"   
+500 = "Heimdall "   
+501 = "Frigg"   
+     
+## CASCADIA    
+     
+# ALASKA PANHANDLE   
+     
+976 = "Kronprins Ö"   
+977 = "Liewenbjerg"   
+2613 = "Vithamn"   
+     
+# COLUMBIA RIVER   
+     
+873 = "Vänersborg"   
+2486 = "Skogsberg"   
+2487 = "Grönlän"   
+2488 = "Nya Enköping"   
+     
+# HECATE STRAIT   
+     
+975 = "Kungens Ö"   
+2022 = "Drottningöar"   
+2609 = "Prins Gustav"   
+     
+# INTERIOR PLATEAU   
+     
+2003 = "Adolphia"   
+2604 = "Stralenheim"   
+2605 = "Pechliningen"   
+2606 = "Svenskaborg"   
+2607 = "Sommarland"   
+     
+# OREGON    
+     
+872 = "Karlshamn"   
+2481 = "Kratersjön"   
+2482 = "Schlippenbach"   
+2483 = "Nya Lund"   
+     
+# PUGET SOUND   
+     
+874 = "Skara"   
+2484 = "Karlsborg"   
+2485 = "Olympia"   
+     
+# SNAKE RIVER   
+     
+2019 = "Malung"   
+2020 = "Ormflod"   
+2489 = "Nya Trosa"   
+2490 = "Saltsjö"   
+2506 = "Kungsbacka"   
+     
+# STRAITS OF GEORGIA  
+     
+972 = "Oxenstierna"   
+973 = "Nya Västerås"   
+974 = "Ekofjärd"   
+2610 = "Grevehåla"   
+     
+# WESTERN ALASKA   
+     
+978 = "Ankare"   
+979 = "Aleuterna"   
+2611 = "Tre Rosor"   
+2612 = "Morgonstierna"   
+     
+## CENTRAL AMERICA   
+     
+# CAMPECHE    
+     
+845 = "Lindholm"   
+2632 = "Lyckahamn"   
+2650 = "Carmelö"   
+     
+# CHIAPAS    
+     
+2635 = "Lakandon"   
+2638 = "Apostelhamn"   
+2649 = "Rönneholm"   
+4585 = "Kungstad"   
+4586 = "Jackaltek"   
+     
+# COSTA RICA   
+     
+836 = "Sankt Josef"   
+2663 = "Utö hus"   
+4597 = "Fort Erik"   
+     
+# EAST YUCATAN   
+     
+2634 = "Gyldenstolpe"   
+2652 = "Säfstaholm"   
+4588 = "Nya Boxholm"   
+4591 = "Tjiklaschel"   
+     
+# GUATEMALA    
+     
+839 = "Helgon Frälsare"   
+841 = "Skogsholm"   
+2653 = "Rynsa"   
+4587 = "Gröna Skogar"   
+     
+# GUATEMALA LOWLANDS   
+     
+842 = "Petersborg"   
+843 = "Belis"   
+2636 = "Fred Dal"   
+4589 = "Tokujo"   
+4594 = "Tsul"   
+     
+# HONDURAS    
+     
+840 = "Lågvik"   
+2637 = "Hästhamn"   
+2640 = "Trige"   
+2662 = "Sturehov"   
+4593 = "Kikaku"   
+     
+# NICARAGUA    
+     
+837 = "Stjärnfältet"   
+838 = "Myggfältet"   
+2660 = "Stora Sundby"   
+2661 = "Strömsholm"   
+4592 = "Ulfby"   
+     
+# WEST YUCATAN   
+     
+846 = "Bubbelpool"   
+2633 = "Fågelsång"   
+2651 = "Salnecke"   
+4590 = "Schiu"   
+     
+## COLOMBIA    
+     
+# PANAMA    
+     
+835 = "Fjärilsbukten"   
+2664 = "Ulriksdal"   
+2819 = "Alliansen"   
+4595 = "Ngäbe"   
+     
+## GREAT LAKES   
+     
+# ILLINOIS    
+     
+915 = "Skaraborg"   
+916 = "Skänninge"   
+917 = "Östergötsfästning"   
+4903 = "Östersund"   
+     
+# INDIANA    
+     
+942 = "Blåfontän"   
+943 = "Örnestedt"   
+2523 = "Höga Marken"   
+2524 = "Vänskap"   
+4922 = "Gunnarsbyn"   
+     
+# LAKE SUPERIOR   
+     
+910 = "Åskavik"   
+911 = "Övre Halvön"   
+2517 = "Ronneby"   
+2518 = "Skandia"   
+4898 = "Slagsån"   
+     
+# MICHIGAN    
+     
+944 = "Eldstierna"   
+945 = "Örneklou"   
+2521 = "Skövde"   
+2522 = "Stora Forsana"   
+     
+# OHIO    
+     
+946 = "Svanenborg"   
+947 = "Klovland"   
+948 = "Rålamb"   
+2525 = "Lindschölding"   
+4907 = "Munsvattnet"   
+     
+# SOUTHERN ILLINOIS   
+     
+2519 = "Biskopskulla"   
+2520 = "Galva"   
+4904 = "Östitorpen"   
+     
+# WISCONSIN    
+     
+912 = "Klartvatten"   
+913 = "Prärien av Hundar"   
+914 = "Nya Marstrand"   
+4899 = "Undersåker"   
+     
+## GREAT PLAINS   
+     
+# BADLANDS    
+     
+1809 = "Åminne"   
+2504 = "Ryningsted"   
+2505 = "Nya Strängnäs"   
+     
+# Central Plains   
+     
+901 = "Nya Arboga"   
+903 = "Nya Viborg"   
+2009 = "Jönköpingsborg"   
+2508 = "Nya Tunaborgen"   
+4915 = "Björkås"   
+     
+# HIGH PLAINS   
+     
+889 = "Magnhildskyrk"   
+2507 = "Nya Uleåborg"   
+2625 = "Grangesberg"   
+     
+# IOWA    
+     
+905 = "Nya Boxholm"   
+2513 = "Karlstad"   
+4900 = "Trillevallen"   
+4905 = "Ytterang"   
+     
+# KANSAS    
+890 = "Valhall"   
+898 = "Lilla Stenen"   
+2672 = "Lindsborg"   
+4914 = "Sjöland"   
+     
+# MINNESOTA    
+     
+904 = "Nya Kalmar"   
+908 = "Tjuvflod"   
+2512 = "Borgholm"   
+4901 = "Torråsen"   
+     
+# NORTH DAKOTA   
+     
+906 = "Nya Laholm"   
+909 = "Kapell"   
+2510 = "Nya Växjö"   
+4918 = "Klippen"   
+     
+# SOUTH DAKOTA   
+     
+907 = "Söderby"   
+2007 = "Swedeholme"   
+2008 = "Ingeborg"   
+4916 = "Ovrebjorknas"   
+     
+# SOUTHERN PLAINS   
+     
+891 = "Nya Södertälje"   
+892 = "Nya Visby"   
+896 = "Kungälv"   
+4908 = "Svaningen"   
+     
+# UPPER MISSOURI   
+     
+2006 = "Hastferbro"   
+2501 = "Krille"   
+2502 = "Danskaslot"   
+2503 = "Stavekyrkan"   
+4917 = "Joeström"   
+     
+## HUDSON BAY   
+     
+# ABITIBI    
+     
+1002 = "Handelspost"   
+2588 = "Klockaberg"   
+2589 = "Utterby"   
+2590 = "Rökiga Vattenfall"   
+2591 = "Sommarbäver"   
+     
+# ALBERTA    
+     
+2004 = "Kråknestdalen"   
+2017 = "Sankta Anna"   
+2018 = "Nötebom"   
+2602 = "Kronhjort"   
+     
+# ASSINIBOIA    
+     
+2005 = "Växjölän"   
+2596 = "Slotby"   
+2598 = "Blubergen"   
+4920 = "Gisselgård"
+     
+# ATHABASCA    
+     
+2599 = "Edenbladby"   
+2600 = "Fredflod"   
+2601 = "Nedre Sjön"   
+2603 = "Segerstad"   
+     
+# HUDSON BAY   
+     
+1005 = "Fogelvik"   
+1006 = "Danskflod"   
+1009 = "Saltzaflod"   
+2592 = "Rössjöholm"   
+2594 = "Sjölän"   
+     
+# JAMES BAY   
+     
+998 = "Nya Johannishus"   
+999 = "Torshälla"   
+1000 = "Nya Helsingborg"   
+1003 = "Björksund"   
+1004 = "Nya Bjarmaland "   
+     
+# MANITOBA    
+     
+1008 = "Rödafloden "   
+1010 = "Sankt Klemens"   
+1011 = "Friherrstad"   
+2593 = "Sjö i Skogen"   
+4919 = "Trefoten"
+     
+# RED RIVER OF THE NORTH
+     
+2016 = "Storgaffel"   
+2511 = "Djävulens Sjö"   
+4902 = "Västerede"
+     
+# SASKATCHEWAN    
+     
+1813 = "Nya Trelleborg"   
+2595 = "Klarsjö"   
+2597 = "Enborg"   
+     
+## MEXICO    
+     
+#DURANGO     
+     
+860 = "Fort Bergakungen"   
+4646 = "Tarahumaraby"   
+4647 = "Fort Najar"   
+4648 = "Handlareby"   
+     
+# GRAN CHICHIMECA   
+     
+857 = "Röda huvud"   
+2642 = "Kulla Gunnarstorp"   
+4642 = "Månstorp"   
+     
+# GUANAJUATO    
+     
+853 = "Osbyholm"   
+2615 = "Guamarby"   
+4640 = "Tungstensplats"   
+4641 = "Mannerheim"   
+     
+# GUERRERO    
+     
+2627 = "Brundlund"   
+2645 = "Nya Trollhättan"   
+2648 = "Stort Kors"   
+     
+# HUASTECA    
+     
+848 = "Kaninhamn"   
+2641 = "Grotthus"   
+4598 = "Vägkorsning"   
+     
+# JALISCO    
+     
+854 = "Främlingsholm"   
+2617 = "Hujschol"   
+2621 = "Tisapanäs"   
+2657 = "Vulkanstad"   
+4576 = "Kungensstad"   
+     
+# MEXICO    
+     
+852 = "Meksiko"   
+2626 = "Buddenbrock"   
+4570 = "Oxenstiernahamn"   
+4571 = "Fort Vincent"   
+4572 = "Uddenbrock"   
+     
+# MICHOAVAN    
+     
+2622 = "Vattendraget"   
+2623 = "Hetaländer"   
+2624 = "Klingspornsby"   
+4573 = "Magnusstad"   
+4574 = "Dagsnäs"   
+     
+# MIXTECA    
+     
+847 = "Grönvik"   
+849 = "Krigarkolonin"   
+2646 = "Heliga Birgitta"   
+4581 = "Hellinde"   
+     
+# NAYARIT    
+     
+855 = "Totorames"   
+859 = "Råbelöv"   
+4578 = "Hundflod"   
+     
+# Oaxaca    
+     
+844 = "Penningby"   
+2629 = "Herrevad"   
+4584 = "Roplatsen"   
+     
+# PUEBLA    
+     
+850 = "Nya Köping"   
+2628 = "Ridderstad"   
+2644 = "Sankt Andreas"   
+4582 = "Asberg"   
+4583 = "Kristinahamn"   
+     
+# TIERRA CALIENTE   
+     
+851 = "Näsby"   
+2643 = "Hel"   
+4575 = "Kungarna"   
+4579 = "Sajula"   
+4580 = "Stjärnaorp"   
+     
+# VERACRUZ    
+     
+2630 = "Barnstad"   
+2631 = "Hjularöd"   
+2647 = "Nya Kristinaopel"   
+     
+# ZACATECAS    
+     
+856 = "Vida Gräs"   
+4643 = "Xi'ui"   
+4645 = "Nya Gävle"   
+     
+## MISSISSIPPI    
+     
+# ALABAMA    
+     
+924 = "Thorsby"   
+925 = "Skanör"   
+2531 = "Jaktstaden"   
+2532 = "Nya Falköping"   
+4883 = "Brindåsen"   
+     
+# ARKANSAS    
+     
+894 = "Räddastad"   
+895 = "Nya Helsingborg"   
+897 = "Storfloden"   
+4885 = "Näsbodarna"
+4923 = "Nivsåsen"   
+     
+# KENTUCKY    
+     
+941 = "Saltöken"   
+2526 = "Dagby"   
+4888 = "Saltvik"   
+     
+# LOUISIANA    
+     
+893 = "Nya Söderköping"   
+2014 = "Köpingsted"   
+2516 = "Limingosoop"   
+     
+# MISSISSIPPI    
+     
+919 = "Sankt Olof"   
+920 = "Golawitz"   
+2528 = "Kalltvatten"   
+2529 = "Kaggfästning"   
+4884 = "Örskogen"   
+     
+# OZARKS    
+     
+899 = "Varberg"   
+2509 = "Nya Falun"   
+2515 = "Risinghsdal"   
+4886 = "Eldforsen"   
+     
+# TENNESSEE    
+     
+918 = "Dahlberg"   
+934 = "Nyhus"   
+939 = "Lundmark"   
+4913 = "Vallsjön"
+     
+# UPPER LOUISIANA   
+     
+900 = "Sankt-Ludvig"   
+902 = "Örnbyn"   
+2514 = "Åminneby"   
+4906 = "Vinklumpen"   
+     
+# VANDALIA    
+     
+951 = "Cronstierna"   
+2551 = "Nya Ulricehamn"   
+4889 = "Nordanaker"   
+     
+# WESTERN KENTUCKY   
+     
+940 = "Trelleborg"   
+4887 = "Grönalid"   
+4921 = "Vindelkroken"   
+     
+# WEST FLORIDA   
+     
+921 = "Roxendorff"   
+922 = "Charlottenborg"   
+923 = "Ellerntorp"   
+2530 = "Vadstena"   
+2533 = "Rosenfästning"   
+     
+## NORTHEAST    
+     
+# ALLEGHENIES    
+     
+954 = "Bottnaryd"   
+2555 = "Näslott"   
+4875 = "Aspasen"   
+     
+# CONNECTICUT    
+     
+967 = "Gustavia"   
+2010 = "Connecticutå"   
+2560 = "Nyahamn"   
+     
+# DELAWARE VALLEY   
+     
+956 = "Nya Götheborg"   
+957 = "Fort Kristina"   
+962 = "Nya Elfsborg"   
+2023 = "Ny Falsterbo"   
+     
+# EASTERN MAINE   
+     
+971 = "Nya Småland"   
+2566 = "Västmanland"   
+2567 = "Storälg"   
+     
+# HUDSON VALLEY   
+     
+961 = "Taberg"   
+963 = "Blommaertstad"   
+964 = "Klingsflod"   
+2559 = "Dannemora"   
+4912 = "Kroksjö"   
+     
+# IRIQUOISIA    
+     
+958 = "Trefaldigheten"   
+959 = "Fågelgrip"   
+960 = "Nyckelsby"   
+4872 = "Hörken"   
+     
+# LAKE CHAMPLAIN   
+     
+969 = "Rajalinby"   
+2563 = "Grönakullar"   
+4871 = "Björnberget"   
+     
+# MAINE    
+     
+2013 = "Simrishamn"   
+2565 = "Hästnäsby"   
+4873 = "Bringsjöberget"   
+     
+# MARYLAND    
+     
+953 = "Printzhof"   
+2553 = "Grönås"   
+2554 = "Flamländstad"   
+     
+# MASSACHUSETTS    
+     
+966 = "Friherresberg"   
+968 = "Flemingsborg"   
+2561 = "Drottningborg"   
+4874 = "Vannebo"   
+     
+# NEW HAMPSHIRE   
+     
+970 = "Leijonhufvud"   
+2562 = "Nya Halmstad"   
+2564 = "Vitaberg"   
+     
+# NEW YORK   
+     
+965 = "Nya Stockholm"   
+2558 = "Råbelövia"   
+2639 = "Sverigebro"   
+     
+# WESTYLVANIA    
+     
+955 = "Kalmar"   
+2556 = "Silverkulle"   
+2557 = "Ovesholm"   
+4876 = "Rosahöjden"   
+     
+## RIO GRANDE   
+     
+# CHIHUAHUA    
+     
+863 = "Zumaby"   
+864 = "Rydboholm"   
+2618 = "Hammondlanda"   
+4644 = "Jokomeby"   
+     
+# COAHUILA    
+     
+861 = "Flodkröket"   
+864 = "Rydboholm"   
+2666 = "Tvillingstäder"   
+2667 = "Nykvarn"   
+4606 = "Tobosoby"   
+     
+# COASTAL PRARIE   
+     
+884 = "Ludvigsvik"   
+888 = "Vikstad"   
+2665 = "Vallenby"   
+2669 = "Öster Malma"   
+     
+# LLANO ESTACADO   
+     
+882 = "Meskaleroby"   
+885 = "Hedlän"   
+2496 = "Nya Dahlberg"   
+2497 = "Lipanby"   
+4630 = "Natahendeby"   
+     
+# PECOS    
+     
+2498 = "Jumanoby"   
+4628 = "Nya Netahende"   
+4629 = "Nya Tranås"   
+     
+# TAMAULIPAS    
+     
+858 = "Bohus Fästning"   
+2499 = "Bränt Berg"   
+2614 = "Estridssonheim"   
+2668 = "Vrams Gunnarstorp"   
+     
+# TEXAS    
+     
+883 = "Västerås"   
+887 = "Tonkawaby"   
+4627 = "Nasaret"   
+4911 = "Vasterbotten"   
+     
+# TEXAS PLAINS   
+     
+886 = "Blommingkulle"   
+2500 = "Hjoby"   
+4909 = "Saxåmon"   
+4910 = "Norrby"   
+     
+## SOUTHEAST    
+     
+# EAST FLORIDA   
+     
+927 = "Gyllenhjerta"   
+928 = "Falsterbo"   
+2534 = "Orion"   
+     
+# FLORIDA    
+     
+926 = "Siöhielm"   
+2535 = "Vimmerby"   
+2536 = "Flodglänta"   
+4625 = "Adelswärd"   
+4626 = "Sauss"   
+     
+# GEORGIA    
+     
+929 = "Björnklouhamn"   
+2537 = "Lindstrom"   
+2538 = "Nora"   
+2539 = "Jungfrunsby"   
+4880 = "Kvarntjarnarna"   
+     
+# GREAT VALLEY   
+     
+949 = "Kudding"   
+2011 = "Säbyberg"   
+2548 = "Nyälv"   
+2552 = "Heligt Hjärta"   
+     
+# NORTH CAROLINA   
+     
+937 = "Gamlefortet"   
+938 = "Nyland"   
+2546 = "Nya Sigtuna"   
+2547 = "Laholm"   
+     
+# OVERMOUNTAIN    
+     
+935 = "Karlsflod"   
+936 = "Överberget"   
+2527 = "Observatoriskakullen"   
+4879 = "Varmland"   
+     
+# PIEDMONT PLATEAU   
+     
+2544 = "Kajbalahamn"   
+2545 = "Mora"   
+4878 = "Tjaderbygget"   
+     
+# SOUTH CAROLINA   
+     
+932 = "Karlsfästning"   
+2542 = "Broxvik"   
+2543 = "Långvik"   
+     
+# SOUTH CAROLINA PIEDMONT  
+     
+933 = "Katedralstaden"   
+2541 = "Stiernsköld"   
+4882 = "Tyfors"   
+     
+# UPPER GEORGIA   
+     
+930 = "Lillienhielm"   
+931 = "Persikaträd"   
+2540 = "Nya Örebro"   
+4881 = "Mjölnartorpet"   
+     
+# VIRGINIA    
+     
+950 = "Västervik"   
+952 = "Ystad"   
+2549 = "Nya Vänersborg"   
+2550 = "Eksjö"   
+4877 = "Lenhöjden"   
+     
+### SOUTH AMERICA   
+     
+## BRAZIL    
+     
+# AMAPA    
+     
+747 = "Äppelflod"   
+2935 = "Smalkalden"   
+2938 = "Stjernsted"   
+     
+# AMAZON    
+     
+2889 = "Faxeby"   
+2930 = "Fåhraeus? "   
+2933 = "Vestborg"   
+2934 = "Hildiskogen"   
+     
+# BAHIA    
+     
+756 = "Alla Helgon"   
+757 = "Överlän"   
+760 = "Storvik"   
+2914 = "Örtöfta"   
+2916 = "Leijonsted"   
+     
+# CEARA    
+     
+750 = "Sankt Göran"   
+751 = "Karlsämne"   
+753 = "Brahestad"   
+     
+# DIAMANTINA    
+     
+759 = "Diamantfortet"   
+2891 = "Gudeberg"   
+2898 = "Vannaröd"   
+     
+# GOIAS    
+     
+758 = "Vitakyrkan"   
+2906 = "Lunderskog"   
+2907 = "Östana"   
+2908 = "Skagge"   
+2919 = "Skjöldebrand"   
+     
+# GRAO PARA   
+     
+748 = "Betlehem"   
+2890 = "Tyrsö"   
+2928 = "Nordenskjöld"   
+2929 = "Fulkila"   
+     
+# GUAPORE    
+     
+2900 = "Sankt Phillipus"   
+2901 = "Sindal"   
+2902 = "Knorring"   
+     
+# GUAYRA    
+     
+768 = "Almnäs "   
+2895 = "Erstavik"   
+2897 = "Mykland"   
+     
+# MARANHAO    
+     
+749 = "Brattalid"   
+2923 = "Leijonsköld"   
+2924 = "Uexkull"   
+2926 = "Kyrkberg"   
+2927 = "Holbäkslot"   
+     
+# MATO GROSSO   
+     
+2888 = "Tureborg"   
+2903 = "Breitholtz"   
+2904 = "Stedingkdal"   
+2905 = "Anglö"   
+     
+# MINAS GERAIS   
+     
+765 = "Allmänna Gruvor"   
+2892 = "Västana"   
+2894 = "Svinningen"   
+2899 = "Rikstad"   
+     
+# OFAIE    
+     
+2881 = "Strömsbergen"   
+2893 = "Vik"   
+2920 = "Palmstiernaby"   
+     
+# PERNAMBUCO    
+     
+754 = "Warnsted"   
+755 = "Heliga Kors"   
+2912 = "Holsted"   
+2921 = "Nya Vallentuna"   
+2922 = "Sorgerberg"   
+     
+# PIAUI    
+752 = "Vita Skogar"   
+2886 = "Rödborg"   
+2925 = "Palander af Vega"   
+     
+# PONTAL    
+     
+2909 = "Skelligeborg"   
+2910 = "Igelström"   
+2911 = "Hästäng"   
+     
+# RIO DE JANEIRO  
+     
+761 = "Austrått"   
+762 = "Össeby "   
+763 = "Januarifloden"   
+764 = "Högstad"   
+     
+# RIO GRANDE DO SUL 
+     
+2857 = "Alnarp"   
+2879 = "Heliga Thekla"   
+2884 = "Allested"   
+2887 = "Synnelsö"   
+     
+# SAO FRANCISCO   
+     
+2885 = "Oksbö"   
+2913 = "Övedskloster"   
+2915 = "Ugglasen"   
+2917 = "Skärbäk"   
+2918 = "Lagerstråle? "   
+     
+# SAO PAULO   
+     
+766 = "Middenstad"   
+769 = "Blomma Län"   
+2896 = "Nya Klockrike"   
+     
+## COLOMBIA    
+     
+# BOGOTA    
+     
+825 = "Damensbro"   
+832 = "Hunza"   
+4602 = "Nya Motala"   
+4603 = "Badplatsen"   
+     
+# CENTRAL LLANOS   
+     
+834 = "Henriks Fortet"   
+2810 = "Pålsjöborg"   
+2813 = "Nyköping"   
+4613 = "Skrattande Mås"   
+4614 = "Månsby"   
+     
+# COLOMBIAN AMAZONAS   
+     
+822 = "Johannes Döparen"   
+2816 = "Återvinning"   
+4605 = "Thegner"   
+     
+# COQUIVACOA    
+     
+828 = "Kronoberg"   
+829 = "Magdala"   
+2806 = "Tjöloholm"   
+4599 = "Sinå"   
+4601 = "Tjimilla"   
+     
+# CORDILLERA OCCIDENTAL   
+     
+824 = "Kavaljershviloplats"   
+827 = "Estniskafästningen"   
+2817 = "Nya Kungsbacka"   
+4600 = "Flodarstaden"   
+4607 = "Pixao"   
+     
+# EASTERN LLANOS   
+     
+2805 = "Torpa"   
+2809 = "Hyddaby"   
+2939 = "Gyllenhaalsby"   
+4615 = "Fort Tigershufvud"   
+     
+# GUYANA    
+     
+502 = "Balder"   
+743 = "Gustavsborg"   
+744 = "Grönborg"   
+2803 = "Barima"   
+     
+# MARACAIBO    
+     
+830 = "Serpentinbukten"   
+2807 = "Hägernshus"   
+4609 = "Ljungby"   
+4610 = "Jukpa"   
+4611 = "Duborg"   
+     
+# POPAYAN    
+     
+823 = "Caucå"   
+826 = "Djungelborg"   
+2818 = "Trolleholm"   
+4596 = "Folkeby"   
+4604 = "Pastorsby"   
+     
+# SURINAME    
+     
+745 = "Berwaldsby"   
+746 = "Sankt Jakob"   
+2937 = "Suriname"   
+     
+# UPPER GUYANA   
+     
+742 = "Lodby"   
+2804 = "Ulricehamn"   
+2811 = "Atabapå"   
+2931 = "Örenäs"   
+4617 = "Guajå"   
+     
+# VENEZUELA    
+     
+741 = "Ålby"   
+831 = "Prinsstaden"   
+2808 = "Nya Augsburg"   
+4612 = "Takarigua"   
+4616 = "Vasastaden"   
+     
+# WESTERN LLANOS   
+     
+2812 = "Nya Piteå"   
+2814 = "Mälsåker"   
+2815 = "Rödljung"   
+4608 = "Ackaguas"   
+     
+## LA PLATA   
+     
+# BAHIA BLANCA   
+     
+780 = "Snorrifästning"   
+786 = "Svartälven"   
+2868 = "Kvarnborg"   
+     
+# BANDA ORIENTAL   
+     
+772 = "Bellinga "   
+773 = "Slottsstad"   
+2850 = "Säby"   
+2851 = "Bergkvara"   
+2852 = "Uppströms"   
+     
+# BUENOS AIRES   
+     
+778 = "Bra Vindar"   
+2846 = "Klinckoström"   
+2848 = "Börringe"   
+2849 = "Bjärka"   
+     
+# CENTRAL CHILE   
+     
+784 = "Vilhelmsfästning"   
+787 = "Grönbetesmark"   
+2862 = "Fullerörsby"   
+     
+# CUYO    
+     
+2843 = "Birgittaslot"   
+2844 = "Morgontimmarna"   
+2845 = "Sankt Johannes"   
+2847 = "Ludoviksby"   
+2877 = "Stjärnby"   
+     
+# MESOPOTAMIA    
+     
+777 = "Bjärsjölagårds "   
+2853 = "Strömmar"   
+2855 = "Missionärsby"   
+2858 = "Eriksberg"   
+2859 = "Sassenskogen"   
+     
+# NEHEUNKEN    
+     
+785 = "Fredriksborg"   
+2867 = "Hastfersborg"   
+2871 = "Södlaren"   
+2872 = "Gyllebo"   
+     
+# PATAGONIA    
+     
+781 = "Önskehamn"   
+782 = "Brandmark"   
+2869 = "Ellinge"   
+     
+# PATAGONIAN ANDES   
+     
+2863 = "Finspång"   
+2870 = "Salneckentuna"   
+2875 = "Smedstorp"   
+2876 = "Skokloster"   
+     
+# SOUTH ATLANTIC ISLANDS  
+     
+1095 = "Alnönar"   
+2025 = "Svea"   
+     
+# SOUTHERN CHILE   
+     
+783 = "Bolerup"   
+2873 = "Leufsta"   
+2874 = "Flinthamn"   
+     
+# SOUTHERN PAMPAS   
+     
+779 = "Lutandesten"   
+2860 = "Almaborg"   
+2861 = "Gåsevadholm"   
+2865 = "Wäsby"   
+2866 = "Fontänarna"   
+     
+## PERU    
+     
+# ANTISUYU    
+     
+802 = "Freden"   
+804 = "Sjöstrand"   
+2831 = "Häringensby"   
+2947 = "Källasborg"   
+     
+# CAJAMARCA    
+     
+813 = "Hovdala"   
+2824 = "Tristad"   
+2825 = "Kronovallsby"   
+2943 = "Vittskövle"   
+     
+# CHIMOR    
+     
+812 = "Biskopslott"   
+2002 = "Sköldpads Öarna"   
+2821 = "Toppeladugård"   
+2822 = "Pyramiden"   
+2826 = "Kristineberg"   
+     
+# HUANUCO    
+     
+809 = "Slottby"   
+810 = "Drottningholm"   
+811 = "Gröndal"   
+814 = "Göksholm"   
+2827 = "Vitta Handen"   
+     
+# IQUITOS    
+     
+815 = "Lagerväxter"   
+818 = "Glimmingehus"   
+821 = "Nya Linköping"   
+     
+# KUNTISUYU    
+     
+807 = "Länsstaden"   
+808 = "Cusco"   
+2829 = "Hovdalaborg"   
+2830 = "Petersberg"   
+     
+# PERUAN COAST   
+     
+805 = "Dybäck"   
+806 = "Djursholm"   
+2828 = "Vackstad"   
+     
+# QUITO    
+     
+816 = "Hörningsholm"   
+817 = "Nya Görväln"   
+819 = "Kärnan"   
+820 = "Läckö"   
+2820 = "Ny Götaland"   
+     
+# UCAYALI    
+     
+2823 = "Åtta Dalar"   
+2944 = "Oxenstiernaborg"   
+2945 = "Meyendorff"   
+     
+## UPPER PERU   
+     
+# BENI    
+     
+800 = "Dvärgstaden"   
+801 = "Fornborg"   
+2834 = "Hanaskog"   
+     
+# CHACO    
+     
+790 = "Jaktområde"   
+2854 = "Centralt-Sjakolanda"   
+2878 = "Sundbyholm"   
+     
+# JUJUY    
+     
+794 = "Kronstad"   
+2837 = "Glimminge"   
+2839 = "Rödsand"   
+     
+# MOXOS    
+     
+803 = "Heliga Treenigheten"   
+2832 = "Sankt Joachim"   
+2833 = "Guds Mor"   
+     
+# NORTHERN CHILE   
+     
+792 = "Kopparkullen"   
+793 = "Segern"   
+796 = "Sankt Markus"   
+2840 = "Drottningsby"   
+2841 = "Karlstenby"   
+     
+# PARAGUAY    
+     
+775 = "Mariaskyrka"   
+776 = "Avlelsen "   
+799 = "Eketorp"   
+2882 = "Trollenäs"   
+2883 = "Melodi"   
+     
+# POTOSI    
+     
+795 = "Guldkullen"   
+797 = "Bäckaskog"   
+2940 = "Yxtaholm"   
+2946 = "Vasaborg"   
+     
+# TUCUMAN    
+     
+791 = "Alsnö"   
+2836 = "Granhammarsborg"   
+2842 = "Borgeby"   
+     
+# UPPER PERU   
+     
+2835 = "Ny Gråborg"   
+2838 = "Ekenäs"   
+2941 = "Stenhammar"   
+2942 = "Sparreholm"   
+     
+### OCEANIA    
+     
+## Australia    
+     
+# BRISBANE    
+     
+4851 = "Gusjösätern"   
+4852 = "Färdkällan"   
+4853 = "Långstrand"   
+4854 = "Fiskarheden"   
+     
+# CAPRICORNIA    
+     
+2730 = "Brattås"   
+2731 = "Antjärn"   
+2732 = "Klappnäs"   
+4848 = "Synnanåt"   
+4849 = "Älvros"   
+     
+# ILLAWARA    
+     
+1090 = "Döviken"   
+4857 = "Tällberg"   
+4858 = "Hjortnäs"   
+4859 = "Karlsarvet"   
+4860 = "Västanvik"   
+     
+# NEW SOUTH WALES  
+     
+1091 = "Ammer"   
+1092 = "Hölleforsen"   
+4855 = "Altsarbyn"   
+4856 = "Kullsbjörken"   
+     
+# PERTH    
+     
+1084 = "Rötviken"   
+2727 = "Varglund"   
+4863 = "Sjöänden"   
+4864 = "Kroksätern"   
+     
+# PILBARA    
+     
+2726 = "Rävsön"   
+4865 = "Lisselåvallen"   
+4866 = "Öjvassla"   
+4867 = "Lofsdalen"   
+     
+# PRINCELAND    
+     
+1086 = "Torsgård"   
+2735 = "Myckeläng"   
+2736 = "Vålkojan"   
+4862 = "Barktorp"   
+     
+# QUEENSLAND    
+     
+1093 = "Mjällom"   
+1094 = "Björnån"   
+2733 = "Svenskär"   
+4850 = "Fridhult"   
+     
+# TASMANIA    
+     
+1085 = "Hökbäck"   
+4868 = "Rannsundet"   
+4869 = "Kastenhult"   
+     
+# TOP END   
+     
+2728 = "Kapellsberg"   
+2729 = "Ytterfälle"   
+4846 = "Fjatervalen"   
+4847 = "Höstsätern"   
+     
+# VICTORIA    
+     
+1087 = "Kompaniet"   
+1088 = "Stugun"   
+1089 = "Bomsund"   
+2734 = "Tynderö"   
+4861 = "Avradsberg"
+
+1106 = "Hammarn"   
+1107 = "Storfjäten"   
+2739 = "Holmtjärn"   
+     
+# TE IKA A MAUI WAHO
+     
+1108 = "Jutafallet"   
+2737 = "Vörderås"   
+4939 = "Roskknölen"   
+     
+# TE WAIPOUNAMU   
+     
+1109 = "Grängen"   
+1246 = "Vassgårda"   
+2738 = "Tuvängen"

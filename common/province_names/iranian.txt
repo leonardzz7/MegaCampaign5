@@ -1,0 +1,157 @@
+## KHORASAN
+
+# Balkh
+
+450 = {"Balkh" "Balkh"}
+2227 = {"Ghoondooz" "Ghoondooz"}
+2228 = {"Maimaneh" "Maimaneh"}
+
+# Birjand
+
+436 = {"Birjand" "Birjand"}
+4334 = {"Tabas" "Tabas"}
+4336 = {"Etoon" "Etoon"} # modern name Ferdows
+
+# Ghor
+
+447 = {"Ghandahar" "Ghandahar"}
+449 = {"Ghoor" "Firoozkooh"} # Chaghcharan is a modern name
+2225 = {"Bamiyan" "Bamiyan"} 
+
+# Herat
+
+446 = {"Harat" "Harat"}
+4324 = {"Ghoorian" "Ghoorian"} 
+4325 = {"Sarakhs" "Sarakhs"}
+
+# Kabulistan
+
+448 = {"Ghazni" "Ghazni"}
+451 = {"Kabl" "Kabl"}
+452 = {"Badakhshan" "Manjan"} 
+578 = {"Roh" "Pishavar"}
+2226 = {"Jalal-abad" "Jalal-abad"}
+
+# Kalat
+
+576 = {"Ghalat" "Ghalat"}
+577 = {"Koveiteh" "Koveiteh"}
+2068 = {"Sbi" "Sbi"}
+
+# Makran
+
+434 = {"Ghahestan" "Bampoor"}
+575 = {"Govadar" "Govadar"}
+2231 = {"Bileh" "Bileh"}
+2232 = {"Kharan" "Kharan"}
+2233 = {"Chabahar" "Chabahar"}
+
+# Mashhad
+
+2221 = {"Mashhad" "Mashhad"}
+2235 = {"Sabzevar" "Sabzevar"}
+2236 = {"Bojnoord" "Bojnoord"}
+4326 = {"Neyshaboor" "Neyshaboor"}
+
+# Merv
+
+444 = {"Amo" "Amo"} # Charjuy and Turkmenabat are modern names
+445 = {"Maro" "Maro"}
+2350 = {"'Eshgh-Abad" "'Eshgh-Abad"}
+
+# Sistan
+
+435 = {"Zaranj" "Zaranj"}
+2224 = {"Farah" "Farah"}
+2229 = {"Bust" "Bust"}
+2230 = {"Chekhansoor" "Chekhansoor"}
+
+## PERSIA (all names are real)
+
+# Azerbaijan
+
+416 = {"Tabriz" "Tabriz"}
+424 = {"Ardebil" "Ardebil"}
+2206 = {"Oroomieh" "Oroomieh"}
+2207 = {"Maragheh" "Maragheh"}
+4304 = {"Khooi" "Khooi"}
+
+# Farsistan
+
+2218 = {"Shiraz" "Shiraz"}
+4329 = {"Fasa" "Fasa"}
+4330 = {"Darab" "Darab"}
+4331 = {"Kazeroon" "Kazeroon"}
+
+# Gulf Coast
+
+430 = {"Dashtestan" "Booshehr"}
+2219 = {"Bandar Longeh" "Bandar Longeh"}
+2223 = {"Larestan" "Lar"}
+4332 = {"Siraf" "Bandar Siraf"}
+
+# Iraq-e-Ajam
+
+427 = {"Ghoomes" "Ghoomes"} 
+428 = {"Tehran" "Tehran"}
+2213 = {"Ghom" "Ghom"}
+2216 = {"Semnan" "Semnan"}
+4337 = {"Saveh" "Saveh"}
+
+# Isfahan
+
+429 = {"Esfahan" "Esfahan"}
+433 = {"Yazd" "Yazd"}
+2222 = {"Ardakan" "Ardakan"}
+4171 = {"Abarkooh" "Abarkooh"}
+4335 = {"Kashan" "Kashan"}
+
+# Kerman
+
+432 = {"Kerman" "Kerman"}
+2220 = {"Bam" "Bam"}
+2234 = {"Rafsanjan" "Refsencan"}
+4345 = {"Sa'dabad" "Sa'dabad"} 
+
+# Khuzestan
+
+412 = {"Ahvaz" "Ahvaz"}
+2217 = {"Yasooj" "Yasoojc"}
+4289 = {"Shooshtar" "Shooshtar"}
+4290 = {"Hoveyzeh" "Hoveyzeh"}
+4342 = {"Eeizeh" "Eeizeh"} # Malamir was used by the Qajars later
+
+# Luristan
+
+413 = {"Khoram-abad" "Khoram-abad"}
+414 = {"Hamedan" "Hamedan"}
+2209 = {"Eeilam" "Eeilam"}
+2210 = {"Kermanshah" "Kermanshah"}
+
+# Mogostan
+
+431 = {"Mogestan" "Bandar 'Abbas"}
+2999 = {"Hormoz" "Gheshm"}
+4327 = {"Jask" "Jask"}
+
+# Shahrizor
+
+415 = {"Kirkook" "Kirkook"}
+2211 = {"Ardelan" "Sanndaj"}
+4293 = {"A'rbil" "A'rbil"}
+4294 = {"Soleymaniyeh" "Soleymaniyeh"}
+
+# Tabarestan
+
+417 = {"Lahijan" "Lahijan"}
+426 = {"Amal" "Amal"}
+2214 = {"Golestan" "Gorgan"}
+4339 = {"Rasht" "Rasht"}
+4341 = {"Sari" "Sari"}
+
+# Zanjan
+
+2212 = {"Zanjan" "Zanjan"}
+2215 = {"Ghazvin" "Ghazvin"}
+4300 = {"Miyaneh" "Miyaneh"}
+4338 = {"Soltanieh" "Soltanieh"}

@@ -1,0 +1,619 @@
+### EUROPE
+
+## BALKANS (all names are real)
+
+# Albania
+
+143 = {"Vlor" "Vlor"} # r
+4174 = {"Dûrasî" "Dûrasî"} # r
+4175 = {"Shkodrê" "Shkodrê"}
+4750 = {"Kruyê" "Kruyê"}
+
+# Bosnia
+
+139 = {"Hûm" "Qelatê Pirdê"}
+140 = {"Bosniya" "Doboî"} # rp
+1831 = {"Herzegovîna" "Terebînyê"} # rp
+3002 = {"Vîzoka" "Vîzoka"} 
+4755 = {"Drînê" "Viçgradê"}
+
+# Bulgaria
+
+150 = {"Nîkopol" "Nîkopol"} # r
+1765 = {"Sofya" "Sofya"} # r
+2746 = {"Vîdîn" "Vîdîn"} # r
+2750 = {"Plovdîv" "Plovdîv"} # r
+4703 = {"Kiyustêndîl" "Kiyustêndîl"} # r
+
+# Croatia
+
+131 = {"Zagreb" "Zagreb"} # r
+1826 = {"Gospîç" "Gospîç"} # r
+1828 = {"Yayça" "Yayça"}
+4752 = {"Riyêka" "Riyêka"} # r
+
+# Dalmatia
+
+136 = {"Spiltê" "Spiltê"} 
+137 = {"Dubrovnik" "Dubrovnik"} # r
+4753 = {"Zadarê" "Zadarê"}
+
+# Macedonia
+
+148 = {"Tesalonîkî" "Tesalonîkî"} # r 
+1853 = {"Kesrîyê" "Kesrîyê"}
+3001 = {"Skopye" "Skopye"} # r
+4702 = {"Sîrozê" "Sîrozê"}
+4780 = {"Ohrîdê" "Ohrîdê"}
+
+# Morea
+
+145 = {"Anabolê" "Anabolê"}
+146 = {"Atîna" "Atîna"} # r
+163 = {"Krît" "Kandiye"} # rp
+1773 = {"Padrê" "Padrê"}
+4701 = {"Gordûs" "Gordûs"}
+
+# Northern Greece
+
+142 = {"Korfû" "Korfû"} 
+144 = {"Êpîros" "Ioannina"} # r
+147 = {"Tirxalê" "Tirxalê"} 
+4698 = {"Kêfalunya" "Sant Corc"} # r
+4699 = {"Nardê" "Nardê"}
+
+# Rascia
+
+138 = {"Çiyayê Resh" "Yablakê"} # rp
+1766 = {"Kosova" "Prishtîna"} # r
+1827 = {"Nûbazâr" "Nûbazâr"}
+4754 = {"Kotûr" "Kotûr"} # r
+
+# Serbia
+
+141 = {"Smêdêrêfpvu" "Smêdêrêfpvu"} # r
+3000 = {"Nîshê" "Nîshê"}
+4176 = {"Pojarêvats" "Pojarêvats"} # r
+4239 = {"Belgrad" "Belgrad"} # r
+4757 = {"Loznîçê" "Loznîçê"}
+
+# Silistria
+
+159 = {"Sîlîstira" "Sîlîstira"} # r
+4704 = {"Tarnovo" "Tarnovo"} # r
+4706 = {"Tulçayê" "Tulçayê"} # r
+
+# Slavonia
+
+152 = {"Varajdîn" "Varajdîn"} # r
+1767 = {"Slavonê" "Osiyêk"} # rc
+4173 = {"Sîrmiyê" "Sirêmska Mîtirovîtsa"} # rc
+4756 = {"Biyêlovar" "Biyêlovar"} # r
+
+# Thrace
+
+149 = {"Adrine" "Adrine"} # r
+151 = {"Qustentîne" "Qustentîne"} # r or Konstantînopolîs
+1764 = {"Burgas" "Burgas"} # r
+4705 = {"Gumilcinê" "Gumilcinê"}
+4779 = {"Gelîbolû" "Gelîbolû"}
+
+## ANATOLIA 
+
+# Aegean Archipelago
+
+164 = {"Naksos" "Naksos"}
+320 = {"Rodos" "Rodos"}
+2348 = {"Xiyos" "Xiyos"}
+3003 = {"Euboia" "Chalkida"}
+4700 = {"Lesbos" "Mîtîlîn"}
+
+# Ankara
+
+326 = {"Enqere" "Enqere"}
+4312 = {"Sultaniya" "Sultaniya"} # made up
+4313 = {"Çengir" "Çengir"} # made up
+
+# Aydin
+
+318 = {"Îzmîr" "Îzmîr"}
+319 = {"Sewkê" "Sewkê"} # made up
+2297 = {"Masîgezî" "Masîgezî"} # etymology of Balikesir
+2298 = {"Antalye" "Antalye"}
+4309 = {"Aydîn" "Aydîn"}
+
+# Çukurova
+
+321 = {"Kîpros" "Nîkosiye"}
+327 = {"Edene" "Edene"}
+2302 = {"Mêrsîn" "Mêrsîn"}
+
+# Dulkadir
+
+332 = {"Gurgum" "Gurgum"}
+2303 = {"Meletî" "Meletî"}
+2308 = {"Riha" "Riha"}
+4310 = {"Dîvrîgî" "Dîvrîgî"}
+
+# Erzurum
+
+330 = {"Trebzon" "Trebzon"}
+331 = {"Erzîrom" "Erzîrom"}
+2305 = {"Erzîngan" "Erzîngan"}
+
+# Germiyan
+
+322 = {"Koteh" "Koteh"} # made up
+1848 = {"Spartê" "Spartê"} # Sparta
+4308 = {"Tengûzlî" "Tengûzlî"} # made up
+4311 = {"Qelesîn" "Qelesîn"} # etymology of Karahisar
+
+# Hüdavendigar
+
+316 = {"Izmit" "Izmit"}
+317 = {"Prûsa" "Prûsa"} # or the turkish Bursa
+2296 = {"Begê" "Begê"} # made up
+
+# Karadeniz
+
+325 = {"Kastamonu" "Kastamonu"}
+328 = {"Sînob" "Sînob"} 
+2299 = {"Polê" "Polê"} # made up
+2304 = {"Samsûn" "Samsûn"}
+
+# Karaman
+
+323 = {"Qonye" "Qonye"}
+324 = {"Qerewan" "Qerewan"} # gpt says this is real
+2301 = {"Qeyserî" "Qeyserî"}
+4307 = {"Spîsar" "Spîsar"} # etymology of Aksaray
+
+# Rum
+
+329 = {"Sêwas" "Sêwas"}
+1846 = {"Amasya" "Amasya"}
+2300 = {"Yozgat" "Yozgat"}
+4314 = {"Qîrsehir" "Qîrsehir"}
+4315 = {"Toqad" "Toqad"}
+
+# Kurdistan
+
+418 = {"Amed" "Amed"}
+2306 = {"Mûsh" "Mûsh"}
+2307 = {"Wan" "Wan"}
+4295 = {"Heskîf" "Heskîf"}
+4296 = {"Bidlîs" "Bidlîs"}
+
+### ASIA
+
+## Caucasia 
+
+# Armenia
+
+419 = {"Rewan" "Rewan"} 
+420 = {"Ganzhè" "Ganzhè"}
+2202 = {"Qerebagh" "Xankendî"}
+2205 = {"Nexçivan" "Nexçivan"}
+4302 = {"Bazîd" "Bazîd"}
+
+# Circassia
+
+463 = {"Hèkuž" "Myek'uapè"} # r
+2195 = {"Adygèj" "Soci"} 
+2197 = {"K'èbèrdej" "Nalshyk"} # r
+2201 = {"Alanè" "Dzludzhyk'uè"} # r
+
+# Dagestan
+
+425 = {"Daxistan" "Dèrbènd"}
+2198 = {"H'undzyja" "H'unzah"}
+2199 = {"Tèrk'y" "Tèrk'y"}
+2208 = {"Mèzdègu" "Mèzdègu"}
+4306 = {"Lèk'a" "H'umuh"}
+
+# Imereti
+
+422 = {"K'utajs" "K'utajs"}
+462 = {"Zug'dyd" "Zug'dyd"}
+1856 = {"Abhazè" "Sh'è-h'um"}
+
+# Kartli-Kakheti
+
+423 = {"Tbilisi" "Tbilisi"} # r
+2203 = {"K'ahèty" "Tèlèu"}
+4301 = {"K'artly" "G'ory"}
+
+# Samtshke
+
+2196 = {"Gurijè" "Mah'aradzy"}
+2204 = {"K'ars" "K'ars"}
+4303 = {"Olty" "Olty"}
+
+# Shirvan
+
+421 = {"Bakû" "Bakû"} 
+4299 = {"Šèmahy" "Shèmahy"}
+4305 = {"Šèky" "Shèky"}
+4340 = {"Astara" "Astara"}
+
+## MASHRIQ
+
+# Aleppo
+
+377 = {"Heleb" "Heleb"}
+1849 = {"Hemê" "Hemê"} # made up
+2313 = {"Entakya" "Entakya"}
+4298 = {"Dîlok" "Dîlok"}
+
+# Al Jazira
+
+407 = {"Rheqe" "Rheqe"}
+411 = {"Mûsil" "Mûsil"}
+2309 = {"Shingal" "Shingal"}
+2314 = {"Rehbê" "Rehbê"} # made up
+4292 = {"Mêrdîn" "Mêrdîn"}
+
+# Basra
+
+408 = {"Besre" "Besre"}
+2311 = {"Semawê" "Semawê"} # made up
+2312 = {"Wasêt" "Wasêt"}
+4288 = {"Shetelereb" "Qornê"} # made up capital
+
+# Iraq Arabi
+
+406 = {"Hadîsê" "Hadîsê"} # made up
+409 = {"Qerbelaja" "Qerbelaja"}
+410 = {"Bexda" "Bexda"}
+2310 = {"Tikrît" "Tikrît"}
+4291 = {"Baxûbê" "Baxûbê"} # made up
+
+# Palestine
+
+364 = {"Xeze" "Xeze"}
+379 = {"Orshelîm" "Orshelîm"}
+1854 = {"Cefê" "Cefê"} # made up
+
+# Syria
+
+378 = {"Trablûs" "Trablûs"}
+382 = {"Sham" "Sham"} 
+1855 = {"Sayda" "Sayda"}
+4297 = {"Hims" "Hims"}
+
+# Syrian Desert
+
+405 = {"Palmîra" "Palmîra"}
+4270 = {"Ezreq" "Ezreq"} # made up
+4271 = {"Sûwêda" "Sûwêda"} # made up
+
+# Transjordan  (all made up)
+
+380 = {"Qereq" "Qereq"}
+381 = {"Eclûn" "Eclûn"}
+2327 = {"Me'ên" "Me'ên"}
+
+## ARABIA (real names were verifed via wikipedia maps, others are adapted from turkish)	
+
+# al-Qasim 
+
+392 = {"Riyad" "Riyad"} # r	
+2337 = {"Bureyde" "Bureyde"} # r
+4273 = {"Dûvedmî" "Dûvedmî"} 
+4274 = {"Sûdeyr" "Sûdeyr"}
+
+# al-Yamamah
+
+2335 = {"Devâsir" "Wadiya Devâsir"}
+2336 = {"Leyla" "Leyla"} # r
+2339 = {"Yûprin" "Yûprin"} 
+4275 = {"Xerc" "Xerc"}
+
+# An Nafud
+
+393 = {"Çiyayê Shemmer" "Haîl"} # rc
+2338 = {"Hefer" "Hefer Batîn"} 
+4272 = {"Cevf" "Sekaka"} # rc
+
+# Asir
+
+386 = {"Bîsha" "Qelatê Bîsha"} 
+391 = {"Necran" "Necran"} # r
+4282 = {"Sada" "Sada"} # r
+
+# Bahrain
+
+394 = {"Qetîf" "Qetîf"} # r
+395 = {"Qeter" "Doha"} # r
+396 = {"Behreyn" "Manama"} # r
+2340 = {"Kuweyt" "Kuweyt"} # r
+2347 = {"Ehsa" "Ehsa"} # r
+
+# Dhofar
+
+401 = {"Zufar" "Selale"}
+2341 = {"Mesîre" "Rêze Hilf"} 
+2342 = {"Navîn" "Heymâ"} 
+
+# Hadramut
+
+389 = {"Mukellê" "Mukellê"}
+2343 = {"Kesîr" "Seyûn"}
+4283 = {"Shihr" "Shihr"} 
+
+# Lower Yemen
+
+388 = {"'Eden" "'Eden"} # r
+2345 = {"Beyhan" "Beyhan"}
+4280 = {"Taîz" "Taîz"}
+
+# Mahra
+
+402 = {"Qishn" "Qishn"}
+1099 = {"Sokotirra" "Hadîbû"} # rp
+4284 = {"Geyda" "Geyda"}
+
+# Mecca
+
+385 = {"Meke" "Meke"} # r
+2331 = {"Cide" "Cide"} # r
+2332 = {"Tûrebe" "Tûrebe"}
+4277 = {"Taîf" "Taîf"} # r
+4278 = {"Kunfûza" "Kunfûza"} 
+
+# Medina
+
+384 = {"Medîne" "Medîne"} #r or Yesrîb?
+2329 = {"Yenbu'" "Yenbu'"} # r
+2330 = {"Madenê Silêm" "Madenê Silêm"} 
+
+# Muscat 
+ 
+399 = {"Batîne" "Suhâr"}
+400 = {"Mesqet" "Mesqet"} # r
+4286 = {"Rojhilatê" "Gelhat"}
+
+# Oman
+
+403 = {"Nîzewa" "Nîzewa"}
+4285 = {"Bûreymî" "Bûreymî"} 
+4287 = {"Îbra" "Îbra"}
+
+# Pirate Coast
+
+397 = {"Ebû Zebî" "Ebû Zebî"} # r
+398 = {"Shârika" "Shârika"} 
+404 = {"Liva" "Liva"}
+2333 = {"Es-Sila" "Es-Sila"}
+
+# Tabuk
+
+383 = {"Tebûk" "Tebûk"} # r
+2328 = {"Ulê" "Ulê"}
+4268 = {"'Eqebe" "'Eqebe"} # r
+4269 = {"Wecih" "Wecih"} # r
+
+# Tihama al-Yemen
+
+387 = {"Muha" "Muha"}
+2346 = {"Cîzan" "Cîzan"} # r
+4279 = {"Zebîd" "Zebîd"} 
+
+# Upper Yemen
+
+390 = {"Sana" "Sana"} # r
+2344 = {"Marîb" "Marîb"} 
+4281 = {"Zemar" "Zemar"} # r
+
+## Egypt (names are real unless stated otherwise)
+
+# al-Wahat
+
+1233 = {"Hêrca" "Hêrca"}
+2318 = {"Bahariyê" "Bahariyê"}
+4323 = {"Farafra" "Çolê Farafra"}
+
+# Bahari
+
+361 = {"Qahîre" "Qahîre"} # r
+2316 = {"Garbiyê " "Tanta"} # rc
+4316 = {"Sherqiyê" "Zagazîg"} 
+4317 = {"Buhayra" "Demenhur"}
+
+# Cyrenaica
+
+356 = {"Bingazî" "Bingazî"}
+357 = {"Dernê" "Dernê"}
+2325 = {"Mersa Matrûh" "Mersa Matrûh"}
+2326 = {"Bardiyê" "Bardiyê"}
+
+# Delta
+
+358 = {"Îskenderiye" "Îskenderiye"} # r	
+362 = {"Reshîd" "Reshîd"}
+363 = {"Dîmyat" "Dîmyat"}
+
+# Lower Nubia
+
+1234 = {"Qesra Îbrîm" "Qesra Îbrîm"}
+2322 = {"Wadî Hêlfa" "Wadî Hêlfa"} 
+2323 = {"Çolê Nubiyê" "Çolê Nubiyê"} #province is a direct translation
+
+# Red Sea Hills
+
+365 = {"Sîna" "Sîna"} # r
+2315 = {"Sûveys" "Sûveys"} 
+2320 = {"Rasê Gharîb" "Rasê Gharîb"} 
+2321 = {"El-Qusayr" "El-Qusayr"} 
+
+# Said
+
+360 = {"Qûs" "Qûs"}
+1231 = {"Eswan" "Eswan"} # r
+2319 = {"Minfelût" "Minfelût"} 
+4319 = {"Esna" "Esna"}
+4320 = {"Circa" "Circa"}
+
+# Vostani
+
+359 = {"Feyyûm" "Feyyûm"}
+2317 = {"El-Minye" "El-Minye"}
+4318 = {"Atfîh" "Atfîh"}
+
+## KHORASAN
+
+# Balkh
+
+450 = {"Belx" "Belx"} # r
+2227 = {"Kinduz" "Kinduz"} # r
+2228 = {"Mêymenê" "Mêymenê"}
+
+# Birjand
+
+436 = {"Bîrcend" "Bîrcend"} # r
+4334 = {"Tebes" "Tebes"} # r
+4336 = {"Fêrdos" "Fêrdos"} # r
+
+# Ghor
+
+447 = {"Qendehar" "Qendehar"} # r
+449 = {"Xhor" "Çagçaran"} # rp
+2225 = {"Bamiyan" "Bamiyan"} # r
+
+# Herat
+
+446 = {"Herat" "Herat"} # r
+4324 = {"Kuryan" "Kuryan"} 
+4325 = {"Serexs" "Serexs"} # r
+
+# Kabulistan
+
+448 = {"Gaznê" "Gaznê"}
+451 = {"Kabûl" "Kabûl"} # r
+452 = {"Bedexshan" "Fêyzabad"} # rp
+578 = {"Roh" "Pêshawer"} # rc
+2226 = {"Celalabêd" "Celalabêd"} # r
+
+# Kalat
+
+576 = {"Qelat" "Qelat"}
+577 = {"Kwête" "Kwête"} # r	
+2068 = {"Sibî" "Sibî"}
+
+# Makran
+
+434 = {"Kûhistan" "Bempûr"}
+575 = {"Guwadar" "Guwadar"}
+2231 = {"Belê" "Belê"}
+2232 = {"Harân" "Harân"}
+2233 = {"Çabehar" "Çabehar"} # r
+
+# Mashhad
+
+2221 = {"Meshhed" "Meshhed"} # r
+2235 = {"Sebzevar" "Sebzevar"} # r
+2236 = {"Neynikxane" "Neynikxane"} # r
+4326 = {"Nîshabûr" "Nîshabûr"} # r
+
+# Merv
+
+444 = {"Tirkmenabad" "Tirkmenabad"}
+445 = {"Merw" "Merw"}
+2350 = {"Ashgabad" "Ashgabad"} # r
+
+# Sistan
+
+435 = {"Zerenc" "Zerenc"}
+2224 = {"Ferah" "Ferah"}
+2229 = {"Bûst" "Bûst"}
+2230 = {"Çexansûr" "Çexansûr"}
+
+## PERSIA
+
+# Azerbaijan (real)
+
+416 = {"Tewrêz" "Tewrêz"}
+424 = {"Erdebîl" "Erdebîl"} 
+2206 = {"Wirmê" "Wirmê"} # or Urmê
+2207 = {"Meraxe" "Meraxe"} 
+4304 = {"Kelexwê" "Kelexwê"} # or Xoy
+
+# Farsistan (real)
+
+2218 = {"Shîraz" "Shîraz"} 
+4329 = {"Fesa" "Fesa"} 
+4330 = {"Darab" "Darab"}
+4331 = {"Kazerûn" "Kazerûn"}
+
+# Gulf Coast (real)
+
+430 = {"Deshtestan" "Bûshehr"}
+2219 = {"Bender Lenge" "Bender Lenge"}
+2223 = {"Laristan" "Lar"}
+4332 = {"Sîraf" "Bender Sîraf"}
+
+# Iraq-e-Ajam
+
+427 = {"Qûmis" "Qûmis"}
+428 = {"Taran" "Taran"} # r
+2213 = {"Qum" "Qum"} # r
+2216 = {"Simnan" "Simnan"} # r
+4337 = {"Save" "Save"} # r
+
+# Isfahan (real)
+
+429 = {"Îsfehan" "Îsfehan"}
+433 = {"Yezd" "Yezd"}
+2222 = {"Erdekan" "Erdekan"}
+4171 = {"Ebrkuh" "Ebrkuh"}
+4335 = {"Kashan" "Kashan"}
+
+# Kerman (real)
+
+432 = {"Kirman" "Kirman"}
+2220 = {"Bem" "Bem"}
+2234 = {"Refsencan" "Refsencan"}
+4345 = {"Seîdabad" "Seîdabad"} 
+
+# Khuzestan (real)
+
+412 = {"Ehvaz" "Ehvaz"}
+2217 = {"Yasûc" "Yasûc"}
+4289 = {"Shushter" "Shushter"}
+4290 = {"Hoveyze" "Hoveyze"}
+4342 = {"Îzeh" "Îzeh"}
+
+# Luristan (real)	
+
+413 = {"Xurramawe" "Xurramawe"}
+414 = {"Hemedan" "Hemedan"}
+2209 = {"Îlam" "Îlam"}
+2210 = {"Kirmanshan" "Kirmanshan"}
+
+# Mogostan (real)
+
+431 = {"Bender Ebbas" "Bender Ebbas"} 
+2999 = {"Hurmiz" "Hurmiz"}
+4327 = {"Cask" "Cask"}
+
+# Shahrizor (real)
+
+415 = {"Kerkûk" "Kerkûk"}
+2211 = {"Erdelan" "Sine"}
+4293 = {"Hewlêr" "Hewlêr"}
+4294 = {"Silêmanî" "Silêmanî"}
+
+# Tabarestan (real)
+
+417 = {"Lahîcan" "Lahîcan"}
+426 = {"Amol" "Amol"}
+2214 = {"Gulistan" "Gurgan"}
+4339 = {"Resht" "Resht"}
+4341 = {"Sarî" "Sarî"}
+
+# Zanjan (real)
+
+2212 = {"Zencan" "Zencan"}
+2215 = {"Qazwên" "Qazwên"}
+4300 = {"Miyane" "Miyane"}
+4338 = {"Sultaniye" "Sultaniye"}

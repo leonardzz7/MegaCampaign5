@@ -1,0 +1,108 @@
+## FRIULIAN LANGUAGE
+
+## ITALY (unnoted names are real)
+
+# Apulia
+
+122 = {"Salent" "Brindisi"} # made up
+1933 = {"Bari" "Bari"}
+2985 = {"Foggie" "Foggie"} # made up 
+4733 = {"Molîs" "Cjampbas"} # translated capital
+
+# Calabria
+
+123 = {"Calabrie" "Catanzaro"} # capital is unchanged
+1934 = {"Lucanie" "Potense"} # made up capital
+2984 = {"Cosense" "Cosense"} # made up 
+
+# Campania
+
+121 = {"Napuli" "Napuli"}
+2983 = {"Salern" "Salern"} # made up 
+4734 = {"Avelîn" "Avelîn"} # made up
+
+# Eastern Sicily
+
+124 = {"Messine" "Messine"}
+126 = {"Malte" "Medine"} # made up capital
+2982 = {"Syracuse" "Syracuse"} # made up
+
+# Emilia-Romagna
+
+105 = {"Parme" "Parme"}
+106 = {"Modene" "Modene"} # made up
+113 = {"Ferrare" "Ferrare"}
+114 = {"Ravenne" "Ravenne"} # made up
+4730 = {"Bologne" "Bologne"}
+
+# Lazio-Umbria
+
+118 = {"Rome" "Rome"}
+2976 = {"Perugie" "Perugie"} # made up
+4731 = {"Spolet" "Spolet"} # made up
+4732 = {"Terracine" "Terracine"} # made up
+
+# Liguria
+
+101 = {"Gjenue" "Gjenue"} 
+102 = {"Nise" "Nise"} # made up
+2992 = {"Albenge" "Albenge"} # made up
+
+# Lombardy
+
+104 = {"Milan" "Milan"}
+1862 = {"Cremone" "Cremone"} 
+2979 = {"Gnûvara" "Gnûvara"} # made up
+4728 = {"Pavie" "Pavie"}
+4740 = {"Com" "Com"} # made up
+
+# Marche-Abruzzo
+
+119 = {"Ancone" "Ancone"}
+120 = {"Abruç" "Pescjare"}
+2977 = {"Urbîn" "Ourvínon"} # made up
+
+# Piedmont
+
+103 = {"Turin" "Turin"} 
+1875 = {"Coni" "Coni"} # from french
+2981 = {"Montfiêrate" "Alissandrie"} # made up capital
+4727 = {"Salusse" "Salusse"} # piedmontese
+
+# Po Valley
+
+107 = {"Bresse" "Bresse di Milan"}
+109 = {"Mantue" "Mantue"} 
+4739 = {"Berghem" "Berghem"} 
+
+# Tuscany 
+
+115 = {"Pise" "Pise"} # french
+116 = {"Fiorence" "Fiorence"} # made up
+117 = {"Siene" "Siene"} 
+2978 = {"Arezzo" "Arezzo"}
+2980 = {"Lucca" "Lucca"} # made up
+
+# Tyrrhenian Isles
+
+127 = {"Sassari" "Sassari"}
+1247 = {"Corsica" "Ajaccio"}
+2986 = {"Cagliari" "Cagliari"}
+4735 = {"Oristane" "Oristane"} # made up
+
+# Venetia
+
+108 = {"Verone" "Verone"} 
+111 = {"Friûl" "Udin"} 
+112 = {"Vignesie" "Vignesie"}
+1774 = {"Trevîs" "Trevîs"} 
+4729 = {"Padue" "Padue"}
+
+# Western Sicily
+
+125 = {"Palermo" "Palermo"}
+4736 = {"Trapani" "Trapani"}
+4737 = {"Agrigent" "Agrigent"} # made up
+
+4759 = {"Vilac" "Vilac"}
+129 = {"Cragn" "Lubiane"}

@@ -1,0 +1,3 @@
+76 = {"Saltbaugs" "Saltbaugs"} # Reconstructed via Wiktionary
+2410 = {"Theodorao" "Theodorao"} # Corrupted Greek
+4707 = {"Watōbaurgs" "Watōbaurgs"} # Reconstructed via Wiktionary

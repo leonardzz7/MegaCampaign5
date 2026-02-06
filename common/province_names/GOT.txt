@@ -1,0 +1,4 @@
+## GUTNISH LANGUAGE
+
+25 = {"Gutland" "Böi"} # or Böin
+35 = "Oysl"

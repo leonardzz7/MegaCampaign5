@@ -1,0 +1,55 @@
+## FRANCE
+
+# Picardy
+
+87 = {"Calés" "Calés"}
+88 = {"Artoé" "Aros"}
+89 = {"Picardie" "Anmyin"} 
+1743 = {"Kimbré" "Kimbré"}
+
+# Champagne
+
+181 = {"Ritèle" "Ritèle"} # gpt says it's real
+186 = {"Rins" "Rins"}
+4390 = {"Troéïes" "Troéïes"}
+
+# Île-de-France
+
+182 = {"Valoés" "Soéchons"} # gpt says it's real
+183 = {"Paris" "Paris"}
+185 = {"Némour" "Némour"} # same as above
+4388 = {"Chates" "Chates"} # same as above
+
+# Normandy
+
+167 = {"Caux" "Rouen"}
+168 = {"Caen" "Caen"} # french name
+1879 = {"Alençon" "Alençon"}
+4385 = {"Cotentin" "Cherbourg"} # french capital
+
+## LOW COUNTRIES
+
+# Flanders
+
+90 = {"Brudje" "Brudje"}
+1865 = {"Gand" "Gand"}
+4769 = {"Lile" "Lile"}
+
+# South Brabant
+
+92 = {"Brusselle" "Brusselle"}
+1744 = {"Anvérse" "Anvérse"}
+2974 = {"Looz" "Looz"} # french name
+
+# Wallonia
+
+91 = {"Hénau" "Mont"}
+93 = {"Lidje" "Lidje"}
+94 = {"Lussimbourq" "Lussimbourq"}
+1866 = {"Nameur" "Nameur"}
+
+## BRITAIN
+
+# London
+
+236 = {"Londe" "Londe"}

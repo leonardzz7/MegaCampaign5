@@ -1,13 +1,13 @@
-owner = KAF
-controller = KAF
+owner = OOA
+controller = OOA
 capital = "Bonga"
 is_city = yes
 culture = sidamo
-religion = sunni
+religion = coptic
 trade_goods = coffee
 base_tax = 2
 base_production = 2
 base_manpower = 2
-add_core = KAF
+add_core = OOA
 discovered_by = east_african
 discovered_by = muslim

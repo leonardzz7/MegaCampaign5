@@ -1,0 +1,12 @@
+## KARELIA
+
+32 = {"Käkisalmi" "Käkisalmi"}
+309 = {"Anus" "Anus"} # yes it's real
+1776 = {"Vienan Karjala" "Kemi"} # r
+1777 = {"Kuolan Niemii" "Kannanlakši"} # r (GPT says the province name is real)
+4124 = {"Karjala" "Lieksä"} # r (GPT says Lieksä in Karelian)
+
+## OUTSIDE KARELIA
+
+4151 = {"Inari" "Šotankylä"} # very probable the province name in Karelian would be the same, and the capital name was adapted etymologically
+4152 = {"Kainuu" "Muanšelkä"} # same as above

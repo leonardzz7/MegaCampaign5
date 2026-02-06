@@ -1,0 +1,56 @@
+## POLAND
+
+# Central Poland
+
+258 = {"Sieradz" "Sieradz"}
+1939 = {"Leczyca" "Leczyca"}
+4533 = {"Wielun" "Wielun"}
+
+# Kuyavia
+
+1859 = {"Chelmno" "Torun"}
+4523 = {"Inowroclaw" "Inowroclaw"}
+4524 = {"Dobrzyn" "Dobrzyn nad Wisla"}
+4528 = {"Kujawy" "Brzesc Kujawski"}
+
+# Malopolska
+
+262 = {"Kraków" "Kraków"}
+2960 = {"Nowy Sacz" "Nowy Sacz"}
+4527 = {"Checiny" "Checiny"}
+
+# Mazovia
+
+256 = {"Plock" "Plock"}
+257 = {"Warszawa" "Warszawa"}
+1938 = {"Wizna" "Wizna"}
+4525 = {"Rawa" "Rawa"}
+
+# Red Ruthenia
+
+261 = {"Halicz" "Halicz"}
+1940 = {"Belz" "Belz"}
+2424 = {"Przemysl" "Przemysl"}
+2961 = {"Lwów" "Lwów"}
+4541 = {"Drohobycz" "Drohobycz"}
+
+# Sandomierz
+
+259 = {"Sandomierz" "Sandomierz"}
+260 = {"Lublin" "Lublin"}
+2959 = {"Tarnów" "Tarnów"}
+
+# Silesia
+
+263 = {"Raciborz" "Raciborz"}
+264 = {"Wroclaw" "Wroclaw"}
+2966 = {"Gloguw" "Gloguw"}
+4238 = {"Lignica" "Lignica"}
+4723 = {"Ôpole" "Ôpole"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"}
+255 = {"Kalisz" "Kalisz"}
+2963 = {"Notec" "Naklo nad Notecia"}
+4526 = {"Gniezno" "Gniezno"}

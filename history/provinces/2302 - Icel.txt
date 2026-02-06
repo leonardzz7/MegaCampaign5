@@ -1,5 +1,5 @@
-owner = KOJ
-controller = KOJ
+owner = KNI
+controller = KNI
 capital = "Ermenek"
 is_city = yes
 culture = anatolian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 2
 base_production = 2
 base_manpower = 2
-add_core = KOJ
+add_core = KNI
 add_permanent_claim = BYZ
 discovered_by = eastern
 discovered_by = muslim

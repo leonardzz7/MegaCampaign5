@@ -1,5 +1,5 @@
-owner = BYZ
-controller = BYZ
+owner = BHS
+controller = BHS
 capital = "Corfu"
 is_city = yes
 culture = greek
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = BYZ
+add_core = BHS
 add_core = GRE
 discovered_by = eastern
 discovered_by = muslim

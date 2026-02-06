@@ -1,0 +1,642 @@
+### EUROPE
+
+## NORTH GERMANY (all names were adapted from Polish unless stated otherwise)
+
+# Bohemia (real ofc)
+
+266 = {"Praha" "Praha"}
+2968 = {"Ceské Budejovice" "Ceské Budejovice"}
+2970 = {"Hradec Králové" "Hradec Králové"}
+4724 = {"Pardubice" "Pardubice"}
+4725 = {"Jindrichuv Hradec" "Jindrichuv Hradec"}
+
+# Braunschweig
+
+57 = {"Brunšvik" "Brunšvik"} # r
+1758 = {"Hanovr" "Hanovr"}
+2971 = {"Hoja" "Hoja"}
+4773 = {"Gotinky" "Gotinky"} # r
+
+# Erzgebirge (real ofc)
+
+267 = {"Plzen" "Plzen"}
+1771 = {"Litomerice" "Litomerice"}
+2967 = {"Cheb" "Cheb"}
+
+# Hesse
+
+78 = {"Mohuc" "Mohuc"} # r
+81 = {"Horní Hesensko" "Marburk"} # r
+1762 = {"Dolní Hesensko" "Kácel"} # rp
+1876 = {"Frankobrod" "Frankobrod nad Mohanen"} # h
+4774 = {"Fulda" "Fulda"} # r
+
+# Hinterpommern
+
+48 = {"Kolobreh" "Kolobreh"} # r
+2995 = {"Sloup" "Sloup"} # h
+4746 = {"Starhrad" "Starhrad"}
+
+# Lower Rhineland
+
+80 = {"Trevír" "Trevír"} # r
+1760 = {"Koblenec" "Koblenec"} # r
+1878 = {"Cáchy" "Cáchy"} # r (Aachen)
+4768 = {"Julianec" "Julie"}
+
+# Lower Saxony
+
+44 = {"Hamburk" "Hamburk"} # r
+53 = {"Luneburk" "Luneburk"} # r
+1857 = {"Lauenburk" "Lauenburk nad Labem"} # r (or Lébork, but that name is not real)
+4772 = {"Cela" "Cela"}
+
+# Lusatia
+
+60 = {"Budyšín" "Budyšín"} # r
+1763 = {"Dolní Lužice" "Chotebuz"} # r
+4778 = {"Zhorelec" "Zhorelec"} # r
+
+# Mecklemburg
+
+45 = {"Bukovec" "Bukovec"} # h (Lübeck}
+46 = {"Roztoky" "Roztoky"} # r
+2996 = {"Vesmir" "Vesmir"} # r
+4749 = {"Strelice" "Nové Strelice"} # h (Strelitz, Neustrelitz)
+4786 = {"Prignica" "Prignica"}
+
+# Mittelmark
+
+50 = {"Berlín" "Berlín-Kolín"} # rp
+51 = {"Rypín" "Nový Rypín"}
+1759 = {"Postupim" "Postupim"} # r
+2993 = {"Ukranská Marka" "Premyslav"} # province name named after after the Wkrzanie people
+4748 = {"Braniborsko" "Branibor nad Havolou"} # r
+
+# Moravia (all real ofc)
+
+265 = {"Brno" "Brno"}
+4237 = {"Olomouc" "Olomouc"}
+4726 = {"Ostrava" "Ostrava"}
+
+# Neumark
+
+49 = {"Východní Braniborsko" "Velkopolský Horov"} # r; or Nová Marka
+2969 = {"Frankobrod nad Odrou" "Frankobrod nad Odrou"} # r
+4747 = {"Drevsko" "Drevsko Pomorské"}
+
+# North Rhine
+
+83 = {"Nasava" "Valhrad"}
+84 = {"Monca" "Dušovice"}
+85 = {"Kolín" "Kolín"} # r
+2975 = {"Klevy" "Klevy"}
+
+# North Westphalia
+
+56 = {"Osnabruk" "Osnabruk"}
+69 = {"Horní Švábsko" "Tremena"}
+86 = {"Monastír" "Monastír"}
+2973 = {"Mepy" "Mepy"}
+
+# Saxony
+
+59 = {"Bílá Hora" "Bílá Hora"}
+61 = {"Drážd'any" "Drážd'any"} # r
+62 = {"Lipsko" "Lipsko"} # r
+4744 = {"Zvíkov" "Zvíkov"} # h, now Cvikov
+
+# Saxony-Anhalt
+
+52 = {"Devín" "Devín"} # h
+58 = {"Desava" "Desava"} # r
+2964 = {"Staré Marky" "Havolín"}
+4741 = {"Dobrosol" "Dobrosol"} # h, Halle nad Sálou can also be used
+4742 = {"Gošlár" "Gošlár"}
+
+# Schleswig-Holstein
+
+13 = {"Šlesvik" "Šlesvik"} # r
+1775 = {"Holštýnsko" "Kilonie"} # rp
+4141 = {"Ditmarsie" "Moricín"}
+
+# South Westphalia
+
+82 = {"Vestfálsko" "Lupie"} # rp
+2972 = {"Padeborn" "Padeborn"}
+4775 = {"Ravensberk" "Krížová Hora"}
+
+# Thuringia
+
+63 = {"Jarobrod" "Jarobrod"}
+2965 = {"Fojtsko" "Plavno"} # r
+4743 = {"Výmar" "Výmar"} # r
+
+# Vorpommern
+
+47 = {"Strelov" "Strelov"}
+1858 = {"Štetín" "Štetín"} # r
+2994 = {"Volehošt'" "Volehošt'"} # r
+4745 = {"Rujána" "Gorsko Ranské"} # rp
+
+# Weser
+
+54 = {"Stády" "Stády"}
+55 = {"Oldenburk" "Oldenburk"}
+1874 = {"Brémy" "Brémy"}
+4771 = {"Verdeny" "Verdeny"}
+
+## POLAND
+
+# Central Poland
+
+258 = {"Serac" "Serac"}
+1939 = {"Lencice" "Lencice"} # h
+4533 = {"Velun" "Velun"} # h
+
+# Kuyavia
+
+1859 = {"Chlumno" "Torun"} # h, r
+4523 = {"Mladá Vratislav" "Mladá Vratislav"} # h
+4524 = {"Dobrín" "Dobrín nad Vislou"}
+4528 = {"Kujavsko" "Berasce Kujavský"} # rp
+
+# Malopolska
+
+262 = {"Krakov" "Krakov"} # r
+2960 = {"Nový Sadec" "Nový Sadec"} # h
+4527 = {"Chenciny" "Chenciny"}
+
+# Mazovia
+
+256 = {"Plock" "Plock"}
+257 = {"Varšava" "Varšava"} # r
+1938 = {"Vizna" "Vizna"}
+4525 = {"Rava" "Rava Mazovská"}
+
+# Sandomierz
+
+259 = {"Sandomer" "Sandomer"} # r
+260 = {"Lublín" "Lublín"}
+2959 = {"Tarnov" "Tarnov"} # r
+
+# Silesia (all r)
+
+263 = {"Ratibor" "Ratibor"}
+264 = {"Vratislav" "Vratislav"}
+2966 = {"Hlohov" "Hlohov"}
+4238 = {"Lehnice" "Lehnice"}
+4723 = {"Opolí" "Opolí"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"} # r
+255 = {"Kališ" "Kališ"} # r
+2963 = {"Notec" "Naklo nad Notecí"}
+4526 = {"Hnezdno" "Hnezdno"} # r
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Štrasburk" "Štrasburk"} # r
+1880 = {"Suntgov" "Starý Kostel"}
+4765 = {"Mylhúzy" "Mylhúzy"} # r
+
+# Austria Proper
+
+133 = {"Horní Rakousko" "Linec"} # r
+134 = {"Víden" "Víden"} # r
+1770 = {"Kremže" "Kremže"} # r
+4761 = {"Travensko" "Štýr"} # r
+4762 = {"Dolní Rakousko" "Svatý Hypolit"} # r
+
+# Baden
+
+72 = {"Bresgov" "Volnýhrad"}
+74 = {"Badény" "Badény"}
+4714 = {"Karolov" "Karolov"}
+
+# Carniola
+
+129 = {"Kransko" "Lublan"} # r; or Krajina
+130 = {"Istrie" "Pula"} # r
+1769 = {"Gorice" "Gorice"} # r
+4738 = {"Terst" "Terst"} # r
+4751 = {"Celje" "Celje"} # r
+
+# East Bavaria
+
+76 = {"Solnohrad" "Solnohrad"} # h
+4709 = {"Pasava" "Pasava"}
+4760 = {"Innská Ctvrt" "Brunov nad Innou"}
+
+# East Swabia
+
+68 = {"Menínka" "Menínka"}
+1868 = {"Aukšpurk" "Aukšpurk"} # h
+1872 = {"Ulma" "Ulma"}
+4711 = {"Dunajov" "Nordlín"}
+
+# Inner Austria
+
+128 = {"Dolní Korutany" "Celovec"} # r
+132 = {"Štýrsko" "Židovhrad Štýrský"} # rp
+1863 = {"Hradec" "Hradec"}
+4759 = {"Horní Korutany" "Bílá Korutánská"}
+
+# Lower Bavaria
+
+64 = {"Lanžhot" "Lanžhot"} # r
+1757 = {"Horní Falc" "Amberk"} # r
+2956 = {"Štrubina" "Štrubina"} # r
+2957 = {"Rezno" "Rezno"} # r
+
+# Lower Franconia
+
+71 = {"Anšpach" "Anšpach"}
+79 = {"Vircpurk" "Vircpurk"} # r
+4715 = {"Rúzpurk" "Rúzpurk"}
+4718 = {"Ašafnhrad" "Ašafnhrad"}
+
+# Palatinate
+
+77 = {"Ankaberk" "Ankaberk"} # Heidelberg, from Portuguese "Ancarberga"
+1761 = {"Falc" "Vormáce"} # rp
+4767 = {"Dva Mosty" "Dva Mosty"}
+
+# Romandie
+
+165 = {"Bern" "Bern"} # r
+1867 = {"Lažan" "Lažan"}
+1871 = {"Valežy" "Sedun"}
+4720 = {"Ženeva" "Ženeva"} # r
+4721 = {"Friburk" "Friburk"}
+
+# Switzerland
+
+166 = {"Valdštát" "Švítov"}
+1869 = {"Curych" "Curych"} # r
+1870 = {"Svatý Gal" "Svatý Gal"}
+1873 = {"Grižone" "Grižone"}
+4722 = {"Ilianda" "Ilianda"}
+
+# Tirol
+
+73 = {"Inomostí" "Inomostí"} # r
+110 = {"Trident" "Trident"} # r
+1768 = {"Ljence" "Ljence"}
+4710 = {"Brežnice" "Brežnice"} # h
+4758 = {"Severní Tyrolsko" "Merán"}
+
+# Upper Bavaria
+
+65 = {"Mnichov" "Mnichov"} # r
+2955 = {"Ingolštát" "Ingolštát"}
+4707 = {"Vodníhrad" "Vodníhrad"}
+4708 = {"Frisinky" "Frisinky"} # h
+
+# Upper Franconia
+
+66 = {"Bamberk" "Bamberk"} # r
+67 = {"Norimberk" "Norimberk"} # r
+4716 = {"Koburk" "Koburk"} # r
+4717 = {"Barout" "Barout"} # r
+
+# West Swabia
+
+70 = {"Štíhrad" "Štíhrad"} # r
+4712 = {"Kostnice" "Kostnice"} # r
+4713 = {"Rotlínka" "Rotlínka"}
+
+## LOW COUNTRIES (adapted from Polish unless stated otherwise)
+
+# Flanders
+
+90 = {"Bruggy" "Bruggy"} # r (Bruges)
+1865 = {"Gandava" "Gandava"} # Gent
+4769 = {"Ryžel" "Ryžel"} # from Polish Ryzel, from Dutch Rijsel (Lille)
+
+# Frisia
+
+99 = {"Geldry" "Arnov"} # rp, Arnowo
+100 = {"Frísko" "Levárdy"} # rp, Leeuwarden
+1931 = {"Východní Frísko" "Emda"} # rp (East Frisia), Emden
+4381 = {"Vyžilí" "Svola"} # province name adapted from Polish Wyzyla, Zwolle
+4382 = {"Grunínek" "Grunínek"} # Groningen
+
+# Holland
+
+96 = {"Zéland" "Stredhrad"} # rp, Middelburg (etymologically)
+97 = {"Amstrdám" "Amstrdám"} # my attempt to "Czechify" Amsterdam
+98 = {"Utrech" "Utrech"} # Utrecht
+4383 = {"Haag" "Haag"} # r
+
+# North Brabant
+
+95 = {"Breda" "Breda"} # self explanatory
+1742 = {"Horní Geldry" "Rorušty"} # Upper Guelders, capital name from its etymology (Roermond)
+4770 = {"Knížecí Les" "Knížecí Les"} # from the etymology (’s-Hertogenbosch)
+
+# South Brabant
+
+92 = {"Brusel" "Brusel"} # r
+1744 = {"Antverpy" "Antverpy"} # r
+2974 = {"Borhlon" "Borhlon"} # Borgloon
+
+# Wallonia
+
+91 = {"Henegavsko" "Nahory"} # Henegouwen (Hainaut), Bergen
+93 = {"Lec" "Lec"} # Liege
+94 = {"Lucembursko" "Lucembursko"} # r
+1866 = {"Nemer" "Nemer"} # Namen
+
+## CARPATHIA
+
+# Alföld
+
+155 = {"Júla" "Júla"}
+1953 = {"Debrecín" "Debrecín"} # r
+1954 = {"Velký Beckerek" "Velký Beckerek"} # h
+4125 = {"Solník" "Solník"} # r
+
+# Moldavia
+
+268 = {"Sucava" "Sucava"} # r
+1756 = {"Besarábie" "Kilija"} # r
+2405 = {"Tehinie" "Tehinie"} # from Polish Tehinia
+4529 = {"Jasy" "Jasy"} # r
+4530 = {"Bárlad" "Bárlad"} # from Polish Barlad
+
+# Northern Transylvania
+
+157 = {"Velký Varadín" "Velký Varadín"} # r
+158 = {"Nový Trh" "Nový Trh nad Máruši"} # h
+1952 = {"Maramureš" "Chust"} # r
+4127 = {"Kluže" "Kluže"} # from Cluj-Napoca
+
+# Slovakia
+
+154 = {"Nitra" "Nitra"} # r
+162 = {"Zemplín" "Košice"} # r
+1318 = {"Spiš" "Levoca"} # r
+1772 = {"Prešpurk" "Prešpurk"} # r
+4236 = {"Trencín" "Trencín"} # r
+
+# Southern Transylvania
+
+156 = {"Temešvár" "Temešvár"} # r
+1951 = {"Belohrad" "Belohrad"} # from Ukrainian Bilhorod
+4128 = {"Sibin" "Sibin"} # r
+
+# Transdanubia
+
+135 = {"Šopron" "Šopron"} # r
+153 = {"Pest" "Budín"} # r
+1864 = {"Kapuš" "Kapuš"} # from Polish Kapusz
+4126 = {"Keckemet" "Keckemet"} # from the city of Kecskemét, whose Croatian name is Keckemet (c with caron)
+4240 = {"Belehrad" "Belehrad"} # r
+
+# Wallachia
+
+160 = {"Olténie" "Krajova"} # r
+161 = {"Trhovište" "Trhovište"} # r
+2998 = {"Buzov" "Buzov"}
+4531 = {"Bukurešt" "Bukurešt"} # r
+4532 = {"Séverin" "Séverin"} # r
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Cernigov" "Cernigov"} # r
+1945 = {"Severie" "Nový Hrad Siverský"} # rp, etymologically adapted (calque)
+4543 = {"Rylsk" "Rylsk"} # r
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"} # r
+2407 = {"Perejaslav" "Perejaslav"} # r
+4542 = {"Luben" "Luben"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"} # r
+4115 = {"Mazír" "Mazír"}
+4242 = {"Ula" "Ula"}
+4544 = {"Babrín" "Babrín"}
+
+# Podlasie
+
+269 = {"Podlesí" "Drohobice"}
+277 = {"Berasce" "Berasce"} # r
+1937 = {"Hradno" "Hradno"}
+
+# Podolia
+
+281 = {"Podolí" "Proskvér"} # rp
+1943 = {"Braclav" "Braclav"} # r
+4540 = {"Vinice" "Vinice"} # r
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"} # r
+1941 = {"Turov" "Turov"} # r
+4537 = {"Nový Hradec" "Nový Hradec"} # calque
+4545 = {"Sluk" "Sluk"}
+
+# Red Ruthenia (all r)
+
+261 = {"Halyc" "Halyc"}
+1940 = {"Belz" "Belz"}
+2424 = {"Premyšl" "Premyšl"}
+2961 = {"Lvov" "Lvov"}
+4541 = {"Drohobyc" "Drohobyc"} 
+
+# Sloboda Ukraine
+
+291 = {"Charkov" "Bílý Hradec"} # r, calque
+298 = {"Kursk" "Kursk"} # r
+299 = {"Voronež" "Voronež"} # r
+2408 = {"Jelec" "Jelec"} # r
+
+# Smolensk (all r)
+
+293 = {"Smolensk" "Smolensk"}
+297 = {"Brjansk" "Brjansk"}
+4244 = {"Trubcevsk" "Trubcevsk"}
+4245 = {"Vjazma" "Vjazma"}
+
+# Volhynia
+
+279 = {"Volyn" "Vladimír"} # rp
+2962 = {"Rovno" "Rovno"} # r
+4538 = {"Chelm" "Chelm"} # r
+4539 = {"Kremjanec" "Kremjanec"} # r
+
+# West Dniepr
+
+280 = {"Kyjev" "Kyjev"} # r
+1942 = {"Žitomer" "Žitomer"} # h, old-fashioned according to Czech Wikipedia
+1944 = {"Cerkasy" "Cerkasy"} # r
+4247 = {"Ovruc" "Ovruc"} # r
+
+# White Ruthenia
+
+292 = {"Mogilov" "Mogilov"}
+771 = {"Vitebsk" "Vitebsk"} # r
+4246 = {"Mstislav" "Mstislav"}
+
+## BALKANS
+
+# Albania
+
+143 = {"Vlára" "Vlára"} # r
+4174 = {"Drac" "Drac"} # r
+4175 = {"Lesh" "Lesh"} # h, or Leža
+4750 = {"Krujá" "Krujá"}
+
+# Bosnia
+
+139 = {"Cuma" "Mostár"}
+140 = {"Bosna" "Doboje"} # rp
+1831 = {"Hercegovina" "Nový Zámek"} # rp, calque of Herceg Novi
+3002 = {"Vysoký" "Vysoký"}
+4755 = {"Podrínia" "Vyššíhrad"} # capital name adapted from Proto-Slavic roots
+
+# Bulgaria
+
+150 = {"Nikopole" "Nikopole"}
+1765 = {"Sofie" "Sofie"} # r
+2746 = {"Vidín" "Vidín"}
+2750 = {"Plodiv" "Plovdiv"} # r
+4703 = {"Velbažd" "Velbažd"} # based on the Middle Age name for Kyustendil (Velbazhd)
+
+# Croatia
+
+131 = {"Záhreb" "Záhreb"} # r
+1826 = {"Licka" "Sení"}
+1828 = {"Dolní Konce" "Jajce"} # calque of the province name, rc
+4752 = {"Reka" "Reka"} # calque
+
+# Dalmatia
+
+136 = {"Split" "Split"} # r
+137 = {"Doubravník" "Doubravník"} # using Proto-Slavic reconstructions, or Dubrovník (r)
+4753 = {"Zadar" "Zadar"} # r
+
+# Macedonia
+
+148 = {"Makedonie" "Solun"} # r (or Tesalonika)
+1853 = {"Kostura" "Kostura"} # from Bulgarian and Serbian "Kostur"
+3001 = {"Skopje" "Skopje"} # r
+4702 = {"Séry" "Séry"}
+4780 = {"Ochrid" "Ochrid"} # r
+
+# Morea
+
+145 = {"Lakónie" "Místra"}
+146 = {"Athény" "Athény"} # r
+163 = {"Kréta" "Heráklion"} # r
+1773 = {"Achaia" "Patry"} # r, h
+4701 = {"Korint" "Korint"} # r
+
+# Northern Greece
+
+142 = {"Korfu" "Korfu"} # r
+144 = {"Epirus" "Janina"} # r
+147 = {"Thesálie" "Larisa"} # r
+4698 = {"Kefalonia" "Svatý Jirí"} # rp, calque of the province name
+4699 = {"Arta" "Arta"} # r
+
+# Rascia
+
+138 = {"Cerná Hora" "Záblak"} # rp
+1766 = {"Kosovo" "Priština"} # r
+1827 = {"Raška" "Targovište"} # rp
+4754 = {"Kotor" "Kotor"}
+
+# Serbia
+
+141 = {"Smederevo" "Smederevo"} # r
+3000 = {"Niš" "Niš"} # r
+4176 = {"Branicevo" "Kruševac"} # r
+4239 = {"Belehrad" "Belehrad"} # r
+4757 = {"Kolubara" "Valjevo"} # r
+
+# Silistria
+
+159 = {"Silistrie" "Silistrie"}
+4704 = {"Tarnovo" "Tarnovo"} # r
+4706 = {"Tulca" "Tulca"} # r
+
+# Slavonia
+
+152 = {"Varašdín" "Varašdín"}
+1767 = {"Slavonie" "Osík"} # rp
+4173 = {"Srem" "Mitrovice"} # r
+4756 = {"Belovár" "Belovár"} # r
+
+# Thrace
+
+149 = {"Adrianopol" "Adrianopol"} # r
+151 = {"Carihrad" "Carihrad"} # h
+1764 = {"Burgas" "Burgas"} # r
+4705 = {"Džumjurdžina" "Džumjurdžina"} # based on the Bulgarian name Gjumjurdžina
+4779 = {"Gallipoli" "Gallipoli"} # r (too famous to change)
+
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilno" "Vilno"}
+770 = {"Braclav" "Braclav"}
+4535 = {"Vlkovna" "Vlkovna"}
+4536 = {"Lída" "Lída"}
+
+# Curonia
+
+35 = {"Sárama" "Kuremes"}
+39 = {"Kuldyba" "Kuldyba"}
+1935 = {"Jelenice" "Jelenice"}
+
+# East Prussia
+
+40 = {"Klajpeda" "Klajpeda"}
+41 = {"Královec" "you probably know why"}
+42 = {"Varmie" "Olštýn"}
+767 = {"Štít" "Štít"}
+2958 = {"Ostród" "Ostród"}
+
+# Estonia
+
+36 = {"Revel" "Talin"}
+1834 = {"Tarta" "Tarta"}
+1842 = {"Narova" "Narova"}
+
+# Livonia
+
+37 = {"Livonsko" "Vilín"}
+38 = {"Riga" "Riga"}
+273 = {"Latgalsko" "Dvinohrad"}
+
+# Samogitia
+
+270 = {"Troky" "Troky"}
+271 = {"Dolní Litva" "Varny"}
+1936 = {"Kovno" "Kovno"}
+4534 = {"Upite" "Upite"}
+
+# West Prussia
+
+43 = {"Gdansk" "Gdansk"}
+1841 = {"Malbor" "Malbor"}
+2997 = {"Tuchola" "Tuchola"}
+
+## SCANDINAVIA
+
+# Denmark
+
+12 = {"Zéland" "Kodan"} # r
+
+### LETTERS WITH OTHER DIACRITICS that are supported here: S (š), Z (ž), Y (ý)

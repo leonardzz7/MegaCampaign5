@@ -1,0 +1,395 @@
+## BALTIC
+
+# Aukstaitija
+
+272 = {"Vilnia" "Vilnia"}
+770 = {"Braslau" "Braslau"}
+4535 = {"Vilkamir" "Vilkamir"}
+4536 = {"Lida" "Lida"}
+
+# Curonia
+
+35 = {"Eziel" "Arolhrad"} # capital is made up
+39 = {"Kuldyga" "Kuldyga"} 
+1935 = {"Mitava" "Mitava"}
+
+# East Prussia
+
+40 = {"Klaypieda" "Klaypieda"}
+41 = {"Karalaviec" "Karalaviec"}
+42 = {"Varmiya" "Olshtyn"}
+767 = {"Šchytna" "Shchytna"}
+2958 = {"Astruda" "Astruda"}
+
+# Estonia
+
+36 = {"Kalivan" "Kalivan"} # old russian name
+1834 = {"Tartu" "Tartu"} 
+1842 = {"Narva" "Nárva"}
+
+# Livonia
+
+37 = {"Liflandyja" "Vilyandzi"}
+38 = {"Ryga" "Ryga"}
+273 = {"Latgaliya" "Dzvinsk"}
+4241 = {"Cesis" "Cesis"} 
+ 
+# Samogitia
+
+270 = {"Troki" "Troki"}
+271 = {"Žamoyc" "Shauli"}
+1936 = {"Kouna" "Kouna"}
+4534 = {"Upyty" "Upyty"}
+
+# West Prussia
+
+43 = {"Gdansk" "Gdansk"}
+1841 = {"Malbark" "Malbark"} 
+2997 = {"Tuchola" "Tuchola"} 
+
+## POLAND 
+
+# Central Poland
+
+258 = {"Syeradz" "Syeradz"}
+1939 = {"Lenchyca" "Lenchyca"}
+4533 = {"Vyelun" "Vyelun"}
+
+# Kuyavia
+
+1859 = {"Chelmna" "Chelmna"}
+4523 = {"Inauroclau" "Inauroclau"} 
+4524 = {"Dobžyn" "Dobzhyn nad Vislan"}
+4528 = {"Kuyaviya" "Bzhesc Kuyauski"}
+
+# Malopolska
+
+262 = {"Krakau" "Krakau"}
+2960 = {"Novy Sonch" "Novy Sonch"}
+4527 = {"Chenciny" "Chenciny"}
+
+# Mazovia
+
+256 = {"Plock" "Plock"}
+257 = {"Varšava" "Varšava"}
+1938 = {"Vizna" "Vizna"}
+4525 = {"Rava" "Rava Mazaviecka"}
+
+# Red Ruthenia
+
+261 = {"Galich" "Galich"}
+1940 = {"Belz" "Belz"}
+2424 = {"Peremyšlany" "Peremyšlany"}
+2961 = {"Lvou" "Lvou"}
+4541 = {"Dragobych" "Dragobych"}
+
+# Sandomierz
+
+259 = {"Sandomiež" "Sandomiezh"}
+260 = {"Ljublin" "Ljublin"}
+2959 = {"Tarnau" "Tarnau"}
+
+# Silesia
+
+263 = {"Racibuž" "Racibuzh"}
+264 = {"Uroclau" "Uroclau"}
+2966 = {"Glogau" "Glogau"}
+4238 = {"Lyagnica" "Lyagnica"}
+4723 = {"Apole" "Apole"}
+
+# Wielkopolska
+
+254 = {"Poznan" "Poznan"}
+255 = {"Kališ" "Kalish"}
+2963 = {"Notac" "Nakla nad Natecian"}
+4526 = {"Gniezna" "Gniezna"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Archangyelsk" "Archangyelsk"}
+4122 = {"Šenkursk" "Shenkursk"}
+4256 = {"Salvychagodsk" "Salvychagodsk"} 
+4257 = {"Myazien" "Myazien"}
+
+# Beloozero
+
+312 = {"Byelaziersk" "Byelaziersk"} 
+4259 = {"Vyelsk" "Vyelsk"}
+4261 = {"Usciužna" "Usciuzhna"}
+
+# Moscow
+
+295 = {"Maskva" "Maskva"}
+4251 = {"Mozhaisk" "Mozhaisk"}
+4252 = {"Kalomna" "Kalomna"}
+
+# North Karelia
+
+32 = {"Pryaziersk" "Pryaziersk"}
+309 = {"Alaniec" "Alaniec"}
+4124 = {"Kareliya" "Liyeksa"}
+
+# Novgorod
+
+310 = {"Nougarad" "Nougarad"}
+311 = {"Cholm" "Cholm"}
+1959 = {"Taržok" "Tarzhok"}
+2749 = {"Cichvin" "Cichvin"}
+4260 = {"Vyšni Valachok" "Vyshni Valachok"} 
+
+# Oka
+
+296 = {"Kaluga" "Kaluga"}
+300 = {"Tyla" "Tyla"}
+4116 = {"Aka" "Adojeu"}
+
+# Pomorye
+
+313 = {"Byelamorsk" "Byelamorsk"} 
+1776 = {"Bjelaya Kareliya" "Kjem"} 
+1958 = {"Kargapal" "Kargapal"}
+4258 = {"Aniega" "Aniega"}
+
+# Pskov
+
+274 = {"Pskou" "Pskou"}
+275 = {"Polack" "Polack"}
+1960 = {"Ostrau" "Ostrau"}
+4148 = {"Luch" "Luch"} 
+
+# Ryazan
+
+301 = {"Razan" "Razan"}
+1778 = {"Kasimau" "Kasimau"}
+4255 = {"Pronsk" "Pronsk"}
+
+# South Karelia
+
+30 = {"Vybarg" "Vybarg"} 
+33 = {"Nyava" "Shlisielburg"}
+34 = {"Ingryja" "Kaporye"} # made up capital
+1961 = {"Ladaga" "Ladaga"}
+
+# Suzdal
+
+1754 = {"Muram" "Muram"}
+1959 = {"Suzdal" "Suzdal"}
+4254 = {"Staradub" "Staradub"} 
+
+# Tambov
+
+302 = {"Tambou" "Tambou"}
+304 = {"Pyenza" "Pyenza"}
+2415 = {"Etkara" "Etkara"}
+
+# Tver
+
+294 = {"Cvier" "Cvier"}
+1752 = {"Ržeu" "Rzheu"}
+4243 = {"Taropiec" "Taropiec"}
+4248 = {"Kašyn" "Kashyn"}
+4249 = {"Zubcou" "Zubcou"} 
+
+# Vladimir
+
+307 = {"Uladzimir" "Uladzimir"}
+4147 = {"Rastou" "Rastou-na-Donie"}
+4253 = {"Jurjeu" "Jurjeu"}
+ 
+# Vologda
+ 
+314 = {"Volagda" "Volagda"} 
+4262 = {"Tocma" "Tocma"}
+4263 = {"Saligalich" "Saligalich"}
+
+# Yaroslavl
+
+308 = {"Yaraslaul" "Yaraslaul"}
+1753 = {"Kastrama" "Kastrama"}
+4117 = {"Byežack" "Byezhack"}
+4250 = {"Maloga" "Maloga"}
+
+
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Charnigau" "Charnigau"}
+1945 = {"Syevieršchyna" "Nougarad-Syevierski"} 
+4543 = {"Rylsk" "Rylsk"}
+
+# East Dniepr
+
+290 = {"Paltava" "Paltava"}
+2407 = {"Pyerayaslau" "Pyerayaslau"}
+4542 = {"Lubny" "Lubny"}
+
+# Minsk
+
+276 = {"Mjensk" "Mjensk"}
+4115 = {"Mazyr" "Mazyr"}
+4242 = {"Ula" "Lyepiel"}
+4544 = {"Babruysk" "Babruysk"}
+
+# Podlasie
+
+269 = {"Padlašša" "Dragichyn-Nadbuzhski"}
+277 = {"Brest" "Brest"}
+1937 = {"Grodna" "Grodna"}
+
+# Podolia
+
+281 = {"Padolle" "Padolle"}
+1943 = {"Braslau" "Braslau"}
+4540 = {"Vinnica" "Vinnica"}
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turau" "Turau"}
+4537 = {"Navagrudak" "Navagrudak"}
+4545 = {"Sluchask" "Sluchask"}
+
+# Sloboda Ukraine
+ 
+291 = {"Charkau" "Charkau"}
+298 = {"Kursk" "Kursk"}
+299 = {"Varoniež" "Varoniezh"}
+2408 = {"Yalec" "Yalec"}
+
+# Smolensk
+
+293 = {"Smalensk" "Smalensk"}
+297 = {"Bransk" "Bransk"}
+4244 = {"Trubcheusk" "Trubcheusk"}
+4245 = {"Vyazma" "Vyazma"}
+
+# Volhynia
+
+279 = {"Valyn" "Uladzimir"}
+2962 = {"Rouna" "Rouna"}
+4538 = {"Chelm" "Chelm"}
+4539 = {"Kremieniec" "Kremieniec"}
+
+# West Dniepr
+
+280 = {"Kijeu" "Kijeu"}
+1942 = {"Žytomir" "Zhytomir"}
+1944 = {"Charkasy" "Charkasy"}
+4247 = {"Auruch" "Auruch"}
+
+# White Ruthenia
+
+292 = {"Magilou" "Magilou"}
+771 = {"Viciebsk" "Viciebsk"}
+4246 = {"Mscislau" "Mscislau"}
+
+## PONTIC STEPPE 
+
+# Astrakhan
+
+464 = {"Astrachan" "Astrachan"}
+466 = {"Kamyšyn" "Kamyshyn"}
+468 = {"Manych" "Ratanaís"}
+2416 = {"Staurapal" "Staurapal"}
+2417 = {"Elista" "Elista"}
+
+# Azov
+
+286 = {"Azou" "Azou"}
+287 = {"Krasnadar" "Krasnadar"}
+2413 = {"Novacharkask" "Novacharkask"}
+2414 = {"Cichareck" "Cichareck"}
+
+# Crimea
+
+284 = {"Krym" "Jeupatoryja"}
+285 = {"Fjeadosiya" "Kjerch"}
+2410 = {"Sjevastopal" "Sjevastopal"}
+2447 = {"Taman" "Taman"}
+
+# Lower Don
+
+288 = {"Nižni Don" "Charkask"}
+467 = {"Barysaglebsk" "Barysaglebsk"}
+1971 = {"Carycyn" "Carycyn"}
+2409 = {"Bachmut" "Bachmut"}
+
+# Yedisan 
+
+282 = {"Achakiu" "Achakiu"}
+1974 = {"Chjerson" "Chjerson"}
+2406 = {"Mikalajeu" "Mikalajeu"}
+
+# Zaporizhia
+
+283 = {"Zaparožža" "Zaparožža"}
+2411 = {"Tor" "Tor"}
+2412 = {"Maryupal" "Maryupal"}
+
+## URAL
+
+# Bashkiria
+
+475 = {"Baškartastan" "Ufa"}
+1965 = {"Buzuluk" "Buzuluk"}
+1966 = {"Chalabinsk" "Chalabinsk"} 
+2420 = {"Agidel" "Agidel"}
+2444 = {"Zlatavust" "Zlatavust"}
+
+# Galich
+
+306 = {"Nižni Nougarad" "Nizhni Nougarad"} 
+1079 = {"Vjatka" "Vjatka"}
+1083 = {"Vjatluga" "Vjatluga"} 
+1957 = {"Galich" "Galich"} 
+
+# Kama
+
+305 = {"Pjerm" "Pjerm"}
+1962 = {"Kudymkar" "Kudymkar"}
+1972 = {"Udmurcija" "Izheusk"}
+4266 = {"Ižkar" "Izhkar"} 
+
+# Kazan
+
+1082 = {"Kazan" "Kazan"}
+2422 = {"Chebaksary" "Chebaksary"}
+4264 = {"Cjeciušy" "Cjeciushy"}
+
+# Perm
+
+1077 = {"Salikamsk" "Salikamsk"}
+1755 = {"Usciug" "Vjaliki Usciug"} 
+1963 = {"Cherdyn" "Cherdyn"}
+1964 = {"Syktyukar" "Syktyukar"}
+4129 = {"Usc-Vym" "Usc-Vym"}
+
+# Samara
+
+473 = {"Samara" "Samara"}
+1081 = {"Uljanausk" "Uljanausk"}
+2423 = {"Alatyr" "Alatyr"}
+
+# Saratov
+
+303 = {"Saratau" "Saratau"}
+2418 = {"Pakrousk" "Pakrousk"}
+2419 = {"Syzran" "Syzran"}
+
+# Ural
+
+1078 = {"Jekaciarynburg" "Jekaciarynburg"} 
+1080 = {"Pjalym" "Pjalym"}
+1780 = {"Jarensk" "Jarensk"}
+2427 = {"Bjelajarsk" "Bjelajarsk"} 
+2441 = {"Iglino" "Iglino"}
+
+# Volga 
+
+2421 = {"Džukietau" "Dzhukietau"} 
+4265 = {"Nabiarežnyja" "Nabiarezhnyja"} 
+4267 = {"Bolgar" "Bolgar"}

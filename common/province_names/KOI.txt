@@ -1,0 +1,102 @@
+## ΒRITAIN
+
+# Connacht
+
+375 = {"Limmeragh" "Limmeragh"} # r
+376 = {"Connaghtey" "Galliu"} # r
+4119 = {"Shliggagh" "Shliggagh"} # r
+
+# East Anglia
+
+238 = {"Easog" "Ford Cheilmund"}
+1860 = {"Noravoc" "Noraist"}
+4370 = {"Agh Vead" "Agh Vead"}
+
+# East Midlands
+
+243 = {"Lincóllan" "Lincóllan"}
+1861 = {"Dearvai" "Dearvai"}
+4376 = {"Doon ny Lig" "Doon ny Lig"}
+
+# Highlands
+
+250 = {"Paairt" "Paairt"} 
+252 = {"Inver Nis" "Inver Nis"}  
+369 = {"Yn Orkaid" "Baie ny H-Eaglais"} # rp
+4110 = {"Cataigh" "Durnagh"}
+4363 = {"Earroo Ghael" "Inver Aura"} 
+
+# Leinster
+
+373 = {"Divlyn" "Divlyn"} # r
+374 = {"Lion" "Logh Garman"} # r
+4120 = {"Keeill Darey" "Keeill Darey"} # r
+4379 = {"Uíbh Fhailí" "Y Tullagh Vooar"} # r
+
+# London
+
+235 = {"Keyn" "Doon ny Cannan"}
+236 = {"Lunnin" "Lunnin"} # r
+237 = {"Agh ny Dam" "Agh ny Dam"} 
+4371 = {"Suisheag" "Muintir Hesta"}
+
+# Lowlands
+
+248 = {"Doon Edin" "Doon Edin"} # r
+249 = {"Sheearroo Ayr" "Inver Ayr"} 
+251 = {"Aberdon" "Aberdon"} # r
+4361 = {"Sheearroo Rosbroig" "Deadard"}
+4362 = {"Doon Phris" "Doon Phris"} 
+
+# Munster
+
+4118 = {"Corkee" "Corkee"} # r
+4377 = {"Keeill Chennee" "Keeill Chennee"} # r
+4378 = {"Keeill Airney" "Keeill Airney"} # r
+
+# Northern England
+
+244 = {"Ialoncaistaar" "Loch Dhoo"} 
+246 = {"Tir y Twooiskirt" "Conairnua er y Tine"}
+247 = {"Cearalagh" "Cearalagh"}
+4375 = {"Yn Çhaayr" "Yn Çhaayr"} # r
+
+# The Isles
+
+253 = {"Ellanyn Sheear ny h-Albey" "Steornavaie"} # r
+4364 = {"Ellanyn Sheear ny h-Heear" "Purt Roee"} # rp
+4365 = {"Mannin" "Balley Chashtal"} # r
+
+# Ulster
+ 
+372 = {"Çheer Eoin" "Doirrey"} # r
+4121 = {"Ullee" "Beeal Feirshtey"} # r
+4380 = {"Doon ny Ghoal" "Doon ny Ghoal"} # r
+ 
+# Wales
+
+241 = {"Abertawe" "Abertawe"} # r
+242 = {"Gwynedd" "Caernarfon"} # r
+4366 = {"Trefaldwyn" "Trefaldwyn"} # r
+4368 = {"Caerfyrddin" "Caerfyrddin"} # r
+
+# Wessex
+
+233 = {"Yn Chorn" "Truru"} # r
+234 = {"Contae Chaaym" "Sruaimsbree"} 
+4130 = {"Somrasead" "Baath"}
+4373 = {"Dooineen" "Plymth"}
+4374 = {"Dorshed" "Mowim"}
+
+# West Midlands 
+
+239 = {"Cuntoir" "Cuntoir"}
+240 = {"Doon ny Skeeagh" "Doon ny Skeeagh"}
+4372 = {"Cran Chofa" "Cran Chofa"}
+
+# Yorkshire
+
+245 = {"Eabhrac" "Eabhrac"}
+4367 = {"Huill" "Huill"}
+4368 = {"Scardibarg" "Scardibarg"}
+4785 = {"Seafaild" "Seafaild"}

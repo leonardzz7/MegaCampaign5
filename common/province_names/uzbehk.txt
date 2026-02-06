@@ -1,0 +1,2 @@
+2427 = {"Beloqirg'on" "Beloqirg'on"}
+2441 = {"Ignazor" "Ignazor"}

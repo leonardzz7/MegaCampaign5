@@ -1,0 +1,456 @@
+### EUROPE
+
+## PONTIC STEPPE
+
+# Astrakhan
+
+464 = {"Ästerxan" "Ästerxan"}
+466 = {"Saray äl-Mäxrus" "Saray äl-Mäxrus"}
+468 = {"Ideltin" "Ideltin"} # Volgodonsk
+2416 = {"Macar" "Macar"}
+2417 = {"Älista" "Älista"}
+
+# Azov
+
+286 = {"Azaq" "Azaq"}
+287 = {"Primorsqo-Axtarsk" "Primorsqo-Axtarsk"}
+2413 = {"Novoçerqassk" "Novoçerqassk"}
+2414 = {"Tixoretsk" "Tixoretsk"}
+
+# Crimea
+
+284 = {"Krym" "Jeupatoryja"}
+285 = {"Fjeadosiya" "Kjerç"}
+2410 = {"Sjevastopal" "Sjevastopal"}
+2447 = {"Taman" "Taman"}
+
+# Lower Don
+
+288 = {"Çerkessk" "Çerkessk"}
+467 = {"Borisoghlebsk" "Borisoghlebsk"}
+1971 = {"Sarisu" "Sarisu"}
+2409 = {"Baxmut" "Baxmut"}
+
+# Yedisan 
+
+282 = {"Äçe Qala" "Äçe Qala"}
+1974 = {"Çjerson" "Çjerson"}
+2406 = {"Mikalajeu" "Mikalajeu"}
+
+# Zaporizhia
+
+283 = {"Zaparožža" "Zaparožža"}
+2411 = {"Jekaciarynaslau" "Jekaciarynaslau"}
+2412 = {"Maryupal" "Maryupal"}
+
+## RUSSIA
+
+# Arkhangelsk
+
+1955 = {"Qolmogori" "Qolmogori"} # made up from crimean tatar
+4122 = {"Senqursk" "Senqursk"}
+4256 = {"Sol'viçeghodsk" "Sol'viçeghodsk"} 
+4257 = {"Mäzin" "Mäzin"} # made up
+
+# Beloozero
+
+312 = {"Aqkül" "Aqkül"} # white lake
+4259 = {"Ve'lsk" "Ve'lsk"}
+4261 = {"Ustujna" "Ustujna"}
+
+# Moscow
+
+295 = {"Mäskäw" "Mäskäw"}
+4251 = {"Mojaysk" "Mojaysk"}
+4252 = {"Qolomna" "Qolomna"}
+
+# North Karelia
+
+32 = {"Prjozersk" "Prjozersk"}
+309 = {"Ulanit" "Ulanit"}
+4124 = {"Qareliä" "Leksä"} # made up capital
+
+# Novgorod
+
+310 = {"Yañasähär" "Yañasähär"} # made up
+311 = {"Xolm" "Xolm"}
+1959 = {"Torjoq" "Torjoq"}
+2749 = {"Tixvin" "Tixvin"}
+4260 = {"Yughari Valaçok" "Yughari Valaçok"} 
+
+# Oka
+
+296 = {"Qalugha" "Qalugha"}
+300 = {"Tula" "Tula"}
+4116 = {"Uqa" "Udujev"} # capital is made up	
+
+# Pomorye
+
+313 = {"Aqmorza" "Aqmorza"} # made up
+1776 = {"Beliy Qareliä" "Kem'"} 
+1958 = {"Qarghopol'" "Qarghopol'"}
+4258 = {"Onegha" "Onegha"}
+
+# Pskov
+
+274 = {"Psqov" "Psqov"}
+275 = {"Bolit" "Bolit"} # made up
+1960 = {"Utiraw" "Utiraw"} # made up
+4148 = {"Luh" "Luh"} # from crimean tatar
+
+# Ryazan
+
+301 = {"Razan'" "Razan'"}
+1778 = {"Qasiym" "Qasiym"}
+4255 = {"Puran" "Puran"}
+
+# South Karelia
+
+30 = {"Bibär" "Bibär"} # made up
+33 = {"Niva" "Slissel'burg"} # real capital
+34 = {"Ingär" "Qopor'ye"} # real capital
+1961 = {"Ladogha" "Ladogha"}
+
+# Suzdal
+
+1754 = {"Möräm" "Möräm"}
+1959 = {"Süzdäl" "Süzdäl"}
+4254 = {"Iskedübä" "Iskedübä"} # made up
+
+# Tambov (all are made up)
+
+302 = {"Tamaq" "Tamaq"}
+304 = {"Bänsä" "Bänsä"}
+2415 = {"Yätkär" "Yätkär"}
+
+# Tver
+
+294 = {"Tübär" "Tübär"} # made up
+1752 = {"Rjev" "Rjev"}
+4243 = {"Tarapit" "Tarapit"} # made up
+4248 = {"Qasin" "Qasin"}
+4249 = {"Tissi" "Tissi"} # made up
+
+# Vladimir
+
+307 = {"Bulatmir" "Bulatmir"} # made up
+4147 = {"Rastuf" "Tindaghi Rastuf"}
+4253 = {"Yöräf" "Yöräf"} # made up
+ 
+# Vologda
+ 
+314 = {"Vulghida" "Vulghida"} 
+4262 = {"Tot'ma" "Tot'ma"}
+4263 = {"Solighäliç" "Solighäliç"}
+
+# Yaroslavl
+
+308 = {"Yarisli" "Yarisli"} # made up
+1753 = {"Qostroma" "Qostroma"}
+4117 = {"Bejetsk" "Bejetsk"}
+4250 = {"Malaq" "Malaq"} # made up
+
+## URAL
+
+# Bashkiria
+
+475 = {"Bashqort" "Öfe"}
+1965 = {"Bozawliq" "Bozawliq"}
+1966 = {"Çiläbe" "Çiläbe"} # Chelyabinsk
+2420 = {"Irinbur" "Irinbur"} # r
+2444 = {"Zilataus" "Zilataus"} # or Izlataltis
+
+# Galich
+
+306 = {"Tübänshähär" "Tübänshähär"} # Nizhny Novgorod
+1079 = {"Noqrat" "Xlinov"} # Viatka, Khlynov
+1083 = {"Vetlugha" "Vetlugha"}
+1957 = {"Gäreç" "Gäreç"}
+
+# Kama
+
+305 = {"Perm'" "Yeghoshixa"}
+1962 = {"Qudimqar" "Qudimqar"}
+1972 = {"Udmurtiä" "Alabugha"}
+4266 = {"Ijaw" "Ijaw"}
+
+# Kazan
+
+1082 = {"Qazan" "Qazan"}
+2422 = {"Çabaqsar" "Çabaqsar"}
+4264 = {"Tätesh" "Tätesh"}
+
+# Perm
+
+1077 = {"Usal Qamsa" "Usal Qamsa"}
+1755 = {"Böyek Ustug" "Böyek Ustug"}
+1963 = {"Üçpülkä" "Üçpülkä"}
+1964 = {"Siqtivqar" "Siqtivqar"}
+4129 = {"Ust-Vim" "Ust-Vim"}
+
+# Samara
+
+473 = {"Samar" "Samar"}
+1081 = {"Sember" "Sember"}
+2423 = {"Alatir" "Alatir"}
+
+# Saratov
+
+303 = {"Saritaw" "Saritaw"}
+2418 = {"Ükäk" "Ükäk"}
+2419 = {"Sizran" "Sizran"}
+
+# Ural
+
+1078 = {"Tsibar-tora" "Tsibar-tora"} # Siberian Tatar
+1080 = {"Pelim" "Pelim"}
+1780 = {"Jarensk" "Jarensk"}
+2441 = {"Iglin" "Iglin"}
+2447 = {"Zareçniy" "Zareçniy"}
+
+# Volga
+
+2421 = {"Cükätaw" "Cükätaw"}
+4265 = {"Çalli" "Yar Çalli"}
+4267 = {"Bolghar" "Bolghar"}
+
+## RUTHENIA
+
+# Chernigov
+
+289 = {"Çernigiv" "Çernigiv"} # r
+1945 = {"Tönyaq Yeri" "Ãñogrod Siver"} # from etymology
+4543 = {"Rilsk" "Rilsk"}
+
+# East Dniepr
+
+290 = {"Poltava" "Poltava"}
+2407 = {"Pereadan" "Pereadan"} # Pereyaslav
+4542 = {"Lubny" "Lubny"}
+
+# Minsk
+
+276 = {"Minsk" "Minsk"}
+4115 = {"Mozyr" "Mozyr"}
+4242 = {"Lepel'" "Lepel'"}
+4544 = {"Bobruysk" "Bobruysk"}
+
+# Podlasie
+
+269 = {"Ormanlar Artinda" "Droshin"}
+277 = {"Berastse" "Berastse"} # from Crimean Tatar
+1937 = {"Grodno" "Grodno"}
+
+# Podolia
+
+281 = {"Kamaniçe" "Kamenäts-Podol"} # from Ottoman Turkish
+1943 = {"Braslav" "Braslav"} # r
+4540 = {"Vinnitsa" "Vinnitsa"} # r
+
+# Pripyat
+
+278 = {"Pinsk" "Pinsk"}
+1941 = {"Turav" "Turav"} # r
+4537 = {"Navaghrudaq" "Navaghrudaq"} # r
+4545 = {"Slitk" "Slitk"}
+
+# Sloboda Ukraine
+
+291 = {"Belyj" "Belyj"}
+298 = {"Qursk" "Qursk"} # made up
+299 = {"Voronesh" "Voronesh"}
+2408 = {"Karasu" "Karasu"} # r
+
+# Smolensk
+
+293 = {"Smolenk" "Smolenk"} # made up
+297 = {"Bransk" "Bransk"}
+4244 = {"Trubçevsk" "Trubçevsk"}
+4245 = {"Bäjlänë" "Bäjlänë"} # from etymology (Vyazma)
+
+# Volhynia
+
+279 = {"Volinya" "Kullatyn"} # capital name from etymology (Vladimir)
+2962 = {"Rivne" "Rivne"}
+4538 = {"Khelm" "Khelm"}
+4539 = {"Kremenet" "Kremenet"} # made up
+
+# West Dniepr
+
+280 = {"Kiiyv" "Kiiyv"}
+1942 = {"Shitomir" "Shitomir"} # r
+1944 = {"Çerkäse" "Çerkäse"} # made up
+4247 = {"Ovruç" "Ovruç"}
+
+# White Ruthenia
+
+292 = {"Mogilöv" "Mogilöv"}
+771 = {"Vitepsk" "Vitepsk"}
+4246 = {"Mestidan" "Mestidan"} # from etymology (suffix)
+
+### ASIA
+
+## CENTRAL ASIA
+
+# Arys
+
+457 = {"Tashkänt" "Tashkänt"}
+2356 = {"Çimkänt" "Çimkänt"}
+2364 = {"Talas" "Talas"}
+
+# Balchash
+
+477 = {"Nadim" "Nadim"}
+478 = {"Arghin" "Simäy"} # province name is a kazakh clan? Capital is a major city where the province is
+2355 = {"Narim" "Üskämän"} # capital added by me (real)
+2360 = {"Balqash" "Balqash"} # unable to find original province name, Balkash is a major city
+4685 = {"Qaraghanda" "Qaraghanda"}
+
+# Central Altishahr
+
+# 712 = {""}
+# 2121 = {""}
+# 2192 = {""}
+
+# Ferghana
+
+458 = {"Quqan" "Quqan"}
+460 = {"Üzgän" "Üzgän"}
+1967 = {"Xucand" "Xucand"}
+
+# Jetysuu
+
+459 = {"Taraz" "Taraz"}
+461 = {"Almati" "Almati"}
+2125 = {"Qoçqor" "Qoçqor"} # Adapted from Kyrgyz
+2126 = {"Çu" "Kiçi-Kemin"} # Phonetic adaptations
+2368 = {"Qaramegdan" "Qaramegdan"} # Phonetic adaptation
+
+# Kashgaria
+
+739 = {"Qaggharghar" "Qaggharghar"}
+# 2124 = {""}
+# 2127 = {""}
+# 4209 = {""}
+# 4210 = {""}
+
+# Kazakhstan
+
+476 = {"Nökes" "Nökes"} # r
+# 2351 = {"" ""}
+# 2353 = {"" ""}
+2358 = {"Altin" "Altin"}
+2359 = {"Baghanaly" "Baghanaly"}
+
+# Khiva
+
+440 = {"Qaraqalpaqstan" "Muynaq"}
+441 = {"Xivä" "Xivä"}
+1973 = {"Ürgäneç" "Ürgäneç"}
+2362 = {"Köhnä Ürgäneç" "Köhnä Ürgäneç"}
+2370 = {"Qoñghirat" "Qoñghirat"}
+
+# Khuttalan
+
+1968 = {"Külab" "Külab"}
+4343 = {"Tirmez" "Tirmez"}
+4344 = {"Ürget" "Ürget"} # unable to find original province name
+
+# Kyzylkum
+
+455 = {"Qizylqum" "Agar"} # nearby city, province is a dessert
+1970 = {"Sighnaq" "Sighnaq"} # Kypchak name
+2363 = {"Cizzäx" "Cizzäx"} # major city
+
+# Lower Yik
+
+469 = {"Aqqistaw" "Aqqistaw"} # unable to find original province name
+474 = {"Cayiq" "Cayiq"} # Oralsk
+2365 = {"Orda" "Orda"}
+2367 = {"Tübän Cayik" "Yañaqala"}
+
+# Nogai
+
+465 = {"Sarayçiq" "Sarayçiq"} # capital of the Nogai
+470 = {"Bayüli" "Miäli"} # rc
+# 471 = {"" ""}
+472 = {"Aqtübä" "Aqtübä"} # r
+2366 = {"Toz-Tübä" "Toz-Tübä"} # r
+
+# Shanshan
+
+# 710 = {"" ""}
+# 711 = {"" ""}
+# 2123 = {"" ""}
+# 4693 = {"" ""}
+
+# Syr Darya
+
+456 = {"Yasi" "Yasi"}
+1969 = {"Sozaq" "Sholaqqorghan"} # pname from kazakh
+2352 = {"Alti Quduq" "Aral"} # this and 2361 are unknown
+2361 = {"Yaman Quduq" "Yañatash"}
+
+# Transcaspia
+
+437 = {"Köpet Tawlari" "Nusaw"} # capital is an adjustment of Nusay
+438 = {"Küktübä" "Küktübä" }
+439 = {"Manghishlaq" "Aqtaw"}
+443 = {"Östän" "Östän"}
+2349 = {"Qizil Su" "Qizil Su"}
+
+# Transoxiana
+
+442 = {"Boxara" "Boxara"}
+453 = {"Qarshi" "Qarshi"}
+454 = {"Sämärqand" "Sämärqand"}
+
+## CAUCASIA
+
+# Armenia
+
+419 = {"Yerevan" "Yerevan"}
+420 = {"Gäncä" "Gäncä"}
+2202 = {"Xankände" "Xankände"}
+2205 = {"Naxçivan" "Naxçivan"}
+4302 = {"Bayazit" "Bayazit"}
+
+# Circassia
+
+463 = {"Çerkes" "Mayqop"}
+2195 = {"Adigheyä" "Soçi"}
+2197 = {"Qabardiä" "Nalçiq"}
+2201 = {"Alaniä" "Dzawdjikaw"}
+
+# Dagestan
+
+425 = {"Daghstan" "Därbänt"}
+2198 = {"Xundziä" "Xundzä"}
+2199 = {"Tarki" "Tarki"}
+2208 = {"Terek" "Mäzdäk"}
+4306 = {"Qumux" "Qumux"}
+
+# Imereti
+
+422 = {"Qutaisi" "Qutaisi"}
+462 = {"Zughdidi" "Zughdidi"}
+1856 = {"Abxaziä" "Suxum"}
+
+# Kartli-Kakheti
+
+423 = {"Tiflis" "Tiflis"}
+2203 = {"Qaxeti" "Telavi"}
+4301 = {"Qartli" "Ghori"}
+
+# Samtshke
+
+2196 = {"Ghuriä" "Ozurgeti"}
+2204 = {"Qars" "Qars"}
+4303 = {"Oltu" "Oltu"}
+
+# Shirvan
+
+421 = {"Baqi" "Baqi"}
+4299 = {"Shämaxi" "Shämaxi"}
+4305 = {"Shäke" "Shäke"}
+4340 = {"Astara" "Astara"}

@@ -1,5 +1,5 @@
-owner = BRA
-controller = BRA
+owner = TEU
+controller = TEU
 capital = "Berlin-Cölln"
 is_city = yes
 culture = prussian
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
-add_core = BRA
+add_core = TEU
 add_core = PRU
 discovered_by = eastern
 discovered_by = muslim

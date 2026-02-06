@@ -1,5 +1,5 @@
-owner = Z72
-controller = Z72
+owner = Z05
+controller = Z05
 capital = "Lulama"
 is_city = yes
 culture = bozo
@@ -9,6 +9,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 add_core = Y2U
-add_core = Z72
+add_core = Z05
 add_permanent_claim = GUR
 discovered_by = sub_saharan

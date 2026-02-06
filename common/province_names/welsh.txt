@@ -1,0 +1,106 @@
+## ?RITAIN
+
+# Connacht
+
+375 = {"Gogledd Mwyn" "Lwimnech"} 
+376 = {"Connacht" "Gaellif"}
+4119 = {"Sligog" "Sligog"} 
+
+# East Anglia
+
+238 = {"Rhyd Gwyllt" "Rhyd Gwyllt"}
+1860 = {"Yr Heledd Ddu" "Yr Heledd Ddu"}
+4370 = {"Caer Beda " "Caer Beda "} 
+
+# East Midlands
+
+243 = {"Llyncwlen" "Llyncwlen"} # r
+1861 = {"Tre'r Dyfrdwy" "Tre'r Dyfrdwy"}
+4376 = {"Caerlyr" "Caerlyr"} # r
+
+# Highlands
+
+250 = {"Peirth" "Peirth"} 
+252 = {"Inver Nys" "Inver Nys"} 
+369 = {"Ynysoedd Erch" "Cyrchwal"} # r province
+4110 = {"Cataf" "Dornach"} 
+4363 = {"Arfordir y Gwyddelod" "Inver Awr"}
+
+# Leinster
+
+373 = {"Dulyn" "Dulyn"} # r 
+374 = {"Lein" "Llwch Garmon"} 
+4120 = {"Cil Dâr" "Cil Dâr"} 
+4379 = {"Wîf Ffaili" "Tulach Môr"}
+
+# London
+
+235 = {"Caint" "Caersallog"} # r
+236 = {"Llundain" "Llundain"} # r
+237 = {"Rhydychen" "Rhydychen"} # r
+4371 = {"Tre'r Harw" "Tre'r Harw"}
+
+# Lowlands
+
+248 = {"Caeredin" "Caeredin"} # r
+249 = {"Swydd Ayr" "Inver Awr"} # r
+251 = {"Aber Don" "Aber Don"} 
+4361 = {"Sir Rosbroig" "Dedard"} 
+4362 = {"Caerferes" "Caerferes"} # r
+
+# Munster
+
+4118 = {"Corc" "Corc"} # r
+4377 = {"Dwyrain Mwyn" "Cil Ceineg"} 
+4378 = {"Deheuol Mwyn" "Cil Arna"}
+
+# Northern England
+
+244 = {"Caerhirfryn" "Caerhirfryn"} # r
+246 = {"Y Gogledd" "Castell Newydd ar Dain"}
+247 = {"Caerliwelydd" "Caerliwelydd"} # r
+4375 = {"llion Fawr" "llion Fawr"} # r
+
+# The Isles
+
+253 = {"Ynysoedd Allanol Heledd" "Steòrnabhagh"} # r
+4364 = {"Ynysoedd Mewnol Heledd" "Port Rìgh"} # r
+4365 = {"Ynys Manaw" "Tre'r Gastell"} # r province name
+
+# Ulster
+ 
+372 = {"Tir Iwan" "Yr Omaig"} 
+4121 = {"Wledd" "Belffast"} # r
+4380 = {"Dun y Gôl" "Dun y Gôl"} 
+ 
+# Wales
+
+241 = {"Morgannwg" "Abertawe"} # r
+242 = {"Gwynedd" "Caernarfon"} # r
+4366 = {"Trefaldwyn" "Trefaldwyn"} # r
+4369 = {"Caerfyrddin" "Caerfyrddin"} # r
+
+# Wessex
+
+233 = {"Cernyw" "Truru"} # r
+234 = {"Caergradwg" "Caergradwg"} # r
+4130 = {"Gwlad-yr-haf" "Caerfaddon"} # r
+4373 = {"Dyfnaint" "Aberplym"} # r
+4374 = {"Sir Dwrst" "Aberwae"}
+
+# West Midlands 
+
+239 = {"Caerloyw" "Caerloyw"} # r
+240 = {"Amwythig" "Amwythig"} # r
+4372 = {"Cwyntry" "Cwyntry"} # r
+ 
+# Yorkshire
+
+245 = {"Efrog" "Efrog"} # r
+4367 = {"Hwll" "Hwll"}
+4368 = {"Sgarbwrch" "Sgarbwrch"}
+4785 = {"Sheffild" "Sheffild"}
+
+
+
+1987 = {"Ynys Llanfair­pwll" "Ynys Llanfair­pwll"}

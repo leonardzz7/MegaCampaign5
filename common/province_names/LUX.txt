@@ -1,0 +1,74 @@
+## LOW COUNTRIES
+
+# North Brabant
+
+95 = {"Breda" "Breda"}
+1742 = {"Uewer-Gelderland" "Limburg"}
+4770 = {"De Bësch" "De Bësch"}
+
+# South Brabant
+
+92 = {"Bréissel" "Bréissel"}
+1744 = {"Antwerpen" "Antwerpen"}
+2974 = {"Borgloon" "Borgloon"}
+
+# Wallonia
+
+91 = {"Hainaut" "Mons"}
+93 = {"Léck" "Léck"}
+94 = {"Lëtzebuerg" "Lëtzebuerg"}
+1866 = {"Namouer" "Namouer"}
+
+## FRANCE
+
+# Lorraine
+
+187 = {"Bar" "Bar"}
+188 = {"Metz" "Metz"}
+189 = {"Loutrengen" "Nanzeg"}
+4766 = {"Verdun" "Verdun"}
+
+# Île-de-France
+
+183 = {"Paräis" "Paräis"}
+
+## NORTH GERMANY
+
+# Lower Rhineland
+
+80 = {"Tréier" "Tréier"}
+1760 = {"Koblenz" "Koblenz"}
+1878 = {"Oochen" "Oochen"} 
+4768 = {"Jellich" "Jellich"} # made up
+
+## SOUTH GERMANY
+
+# Alsace
+
+75 = {"Stroosbuerg" "Stroosbuerg"}
+1880 = {"Südengéi" "Alkierch"} # made up from etymology
+4765 = {"Millhaus" "Millhaus"} # made up from etymology
+
+# Palatinate
+
+77 = {"Heidelbierg" "Heidelbierg"} # made up from etymology
+1761 = {"Pfalz" "Keeserslauter"} # capital is made up from etymology
+4767 = {"Zweebrécke" "Zweebrécke"} # made up from etymology
+
+## ITALY
+
+# Lazio-Umbria
+
+118 = {"Roum" "Roum"}
+
+# Lombardy
+
+104 = {"Mailand" "Mailand"}
+
+# Tuscany
+
+116 = {"Florenz" "Florenz"}
+
+# Veneto
+
+112 = {"Venedeg" "Venedeg"}

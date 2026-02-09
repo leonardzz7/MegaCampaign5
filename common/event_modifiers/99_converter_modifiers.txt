@@ -150,6 +150,11 @@ wonder_house_of_wisdom = {
 	advisor_cost = -0.15
 	diplomats = 1
 }
+MAD_syncretism = {
+	religious_unity = 0.1
+	local_culture_conversion_cost = -0.45
+	culture_conversion_time = -0.45
+}
 wonder_underground_city_petra = {
 	local_defensiveness = 0.5
 	local_development_cost = -0.15

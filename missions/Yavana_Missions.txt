@@ -1,0 +1,766 @@
+first_branch = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MAD } 
+
+	hindu_integration_mission01 = {
+		icon = byz_avenge_1071
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = {  
+			num_accepted_cultures = 2
+			owns_core_province = 2026
+			2026 = {
+				base_manpower = 6
+				has_state_edict = edict_encourage_development
+			}
+		} 
+		effect = {
+			add_country_modifier = {
+				name = "MAD_syncretism"
+				duration = 1475
+			}
+		}
+	}
+
+	hindu_integration_mission03 = {
+		icon = confront_the_lombards
+		position = 2
+		required_missions = { hindu_integration_mission01 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			if = {
+				limit = { has_estate = estate_burghers } 
+				estate_loyalty = {
+					estate = estate_burghers
+					loyalty = 55
+				}
+			}
+			if = {
+				limit = { has_estate = estate_nobles } 
+				estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 55
+				}
+			}
+			if = {
+				limit = { has_estate = estate_church } 
+				estate_loyalty = {
+					estate = estate_church
+					loyalty = 55
+				}
+			}
+			NOT = { num_of_loans = 1 } 
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "warrior_castes_promoted"
+				duration = 7300
+			}
+		}
+	}
+
+	hindu_integration_mission04 = {
+		icon = mission_parthenon
+		position = 3
+		required_missions = {
+			hindu_integration_mission03
+			hindu_integration_mission02
+		}
+		provinces_to_highlight = {
+					region = coromandel_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = coromandel_region
+				}
+				value = 18
+			}
+		}
+		effect = {	
+			add_dip_power = 200 
+			add_stability_or_adm_power = yes 
+			add_country_modifier = {
+				name = coromandel_traders
+				duration = -1
+			}
+		}
+	}
+
+	india_expansion_mission02 = {
+		icon = mission_conquer_bengal_dlh
+		position = 4
+		required_missions = { india_expansion_mission01 } 
+		provinces_to_highlight = {
+					region = bengal_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = bengal_region
+				}
+				value = 35
+			}
+		}
+		effect = {	
+			add_country_modifier = {
+				name = mug_conquest_of_bengal
+				duration = 7300
+			}
+		}
+	}
+}
+second_branch = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MAD } 
+
+	hindu_integration_mission02 = {
+		icon = mission_conquer_algiers
+		position = 2
+		required_missions = { hindu_integration_mission01 } 
+		provinces_to_highlight = {
+			OR = {
+				area = kongu_area
+				area = tanjore_area
+				area = malabar_area
+			}
+			OR = {
+				NOT = { religion = ROOT }
+				NOT = { owned_by = ROOT }
+				AND = {
+					owned_by = ROOT
+					has_owner_accepted_culture = no
+				}
+			}
+		}
+		trigger = {
+			kongu_area = { 
+				custom_trigger_tooltip = {
+					tooltip = swe_handle_the_sami_tt
+					owned_by = ROOT
+					religion = ROOT
+					if = {
+						limit = {
+							owned_by = ROOT
+						}
+					}
+				}
+				type = all
+			}
+			tanjore_area = { 
+				custom_trigger_tooltip = {
+					tooltip = swe_handle_the_sami_tt
+					owned_by = ROOT
+					religion = ROOT
+					if = {
+						limit = {
+							owned_by = ROOT
+						}
+					}
+				}
+				type = all
+			}
+			malabar_area = { 
+				custom_trigger_tooltip = {
+					tooltip = swe_handle_the_sami_tt
+					owned_by = ROOT
+					religion = ROOT
+					if = {
+						limit = {
+							owned_by = ROOT
+						}
+					}
+				}
+				type = all
+			}
+		}
+		effect = {
+			kongu_area = {
+				change_culture = yavana
+				add_base_manpower = 2
+			}
+			tanjore_area = {
+				change_culture = yavana
+				add_base_manpower = 2
+			}
+			malabar_area = {
+				change_culture = yavana
+				add_base_manpower = 2
+			}
+		}
+	}
+
+	india_expansion_mission01 = {
+		icon = mission_conquer_orissa_vij
+		position = 3
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			navy_size = MUG
+			army_size = MUG
+		}
+		effect = {
+			add_permanent_claim_multi_provinces = { target = garjat_area }
+			add_permanent_claim_multi_provinces = { target = andhra_area }
+			add_permanent_claim_multi_provinces = { target = tapti_area }
+		}
+	}
+
+	india_expansion_mission04 = {
+		icon = mission_unite_hindustan
+		position = 5
+		required_missions = {
+			india_expansion_mission02
+			india_expansion_mission03
+		}
+		provinces_to_highlight = {
+					region = west_india_region
+					region = hindusthan_region
+		}
+		trigger = {
+			owns_core_province = 522
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = west_india_region
+					region = hindusthan_region
+				}
+				value = 100
+			}
+		}
+		effect = {
+			add_claim_multi_provinces = { target = india_superregion }
+			add_dip_power = 200 
+			add_stability_or_adm_power = yes 
+			add_country_modifier = {
+				name = per_master_of_india_modifier
+				duration = -1
+			}
+		}
+	}
+}
+
+third_branch = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MAD } 
+
+	colonial_ambitions_mission02 = {
+		icon = colonize_australia
+		position = 3
+		required_missions = { colonial_ambitions_mission01 } 
+		provinces_to_highlight = {
+			region = australia_region
+			ROOT = {
+				NOT = {
+					any_subject_country = {
+						is_colonial_nation = yes
+						capital_scope = {
+							colonial_region = colonial_australia
+						}
+						any_owned_province = {
+							region = australia_region
+						}
+					}
+				}
+			}
+		}
+		trigger = {
+			any_subject_country = {
+				is_colonial_nation = yes
+				capital_scope = {
+					colonial_region = colonial_australia
+				}
+				any_owned_province = {
+					region = malaya_region
+				}
+			}
+		}
+		effect = {
+			4854 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 25
+					key = LAND_DOWNUNDER
+				}
+			}
+		}
+		ai_weight = {
+			factor = 0	#It's a meme mission.
+		}
+	}
+
+	india_expansion_mission03 = {
+		icon = mission_bengal_campaign
+		position = 4
+		required_missions = { india_expansion_mission01 } 
+		provinces_to_highlight = {
+					region = deccan_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = deccan_region
+				}
+				value = 35
+			}
+		}
+		effect = {	
+			add_country_modifier = {
+				name = mug_viceroyalty_of_the_deccan
+				duration = 7300
+			}
+		}
+	}
+}
+
+fourth_branch = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MAD } 
+
+	colonial_ambitions_mission01 = {
+		icon = mission_colonial
+		position = 2
+		required_missions = { somalia_expansion_mission01 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = miss_discover_west_africa
+				west_africa_coast_area = {
+					has_discovered = ROOT
+				}
+			}
+			num_of_colonists = 1
+		}
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = "the_unknown_frontier"
+				duration = 7300
+			}
+		}
+	}
+
+	colonial_ambitions_mission03 = {
+		icon = mission_african_soldier
+		position = 3
+		required_missions = { colonial_ambitions_mission01 } 
+		provinces_to_highlight = {
+			OR = {
+				area = southern_madagascar
+				area = madagascar_highlands_area
+				area = sakalava_area
+				area = betsimasaraka_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			southern_madagascar = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			madagascar_highlands_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			sakalava_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			betsimasaraka_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = { 
+			butua_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			zimbabwe_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			quelimane_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	colonial_ambitions_mission04 = {
+		icon = mission_african_gold
+		position = 4
+		required_missions = { colonial_ambitions_mission03 } 
+		provinces_to_highlight = {
+			OR = {
+				area = butua_area
+				area = zimbabwe_area
+				area = quelimane_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			butua_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			zimbabwe_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			quelimane_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_inflation = -3
+			1184 = {
+				add_province_modifier = {
+					name = hun_expand_mining_rights
+					duration = 10950
+				}
+			}
+			if = {
+				limit = {
+					gold_income_percentage = 0.4
+				}
+				custom_tooltip = hun_gold_income_tt_yes
+				tooltip = {
+					1184 = {
+						add_base_production = 2
+					}
+				}
+			}
+			else = {
+				custom_tooltip = hun_gold_income_tt_no
+				tooltip = {
+					1184 = {
+						add_base_production = 2
+					}
+				}
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						gold_income_percentage = 0.4
+					}
+					1184 = {
+						add_base_production = 2
+					}
+				}
+			}
+		}
+	}
+}
+fifth_branch = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MAD } 
+
+	somalia_expansion_mission01 = {
+		icon = mission_indian_empire
+		position = 1
+		provinces_to_highlight = {
+			OR = {
+				area = lanka_area
+				area = south_lanka_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			lanka_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			south_lanka_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			mahra_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			hadramut_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			yemen_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			upper_yemen_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	somalia_expansion_mission02 = {
+		icon = yem_unite_yemen
+		position = 2
+		required_missions = { somalia_expansion_mission01 } 
+		provinces_to_highlight = {
+			OR = {
+				area = yemen_area
+				area = upper_yemen_area
+				area = hadramut_area
+				area = mahra_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			yemen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			upper_yemen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			hadramut_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			mahra_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = orm_conquest_of_yemen
+				duration = 7300
+			}
+			somaliland_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			ajuuran_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			majarteen_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			mogadishu_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+			
+	somalia_expansion_mission03 = {
+		icon = mission_african_trade_post
+		position = 3
+		required_missions = { somalia_expansion_mission02 } 
+		provinces_to_highlight = {
+			OR = {
+				area = somaliland_area
+				area = ajuuran_area
+				area = majarteen_area
+				area = mogadishu_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			somaliland_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			ajuuran_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			majarteen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			mogadishu_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = gen_hoa_unify_horn_modifier
+				duration = -1
+			}
+			central_ethiopia_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			damot_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			aussa_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			shewa_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+			ifat_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+					NOT = { owned_by = PAP }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	somalia_expansion_mission04 = {
+		icon = mam_ethiopia
+		position = 4
+		required_missions = { somalia_expansion_mission03 } 
+		provinces_to_highlight = {
+			OR = {
+				area = central_ethiopia_area
+				area = damot_area
+				area = aussa_area
+				area = shewa_area
+				area = ifat_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			central_ethiopia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			damot_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			aussa_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			shewa_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			ifat_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = gen_hoa_horn_bravery_modifier
+				duration = 7300
+			}
+		}
+	}
+
+	somalia_expansion_mission05 = {
+		icon = mission_envoy_to_ethiopia
+		position = 5
+		required_missions = { somalia_expansion_mission04 } 
+		provinces_to_highlight = {
+			region = horn_of_africa_region
+		}
+		trigger = {
+			owns_core_province = 1227
+			owns_core_province = 1205
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = horn_of_africa_region
+				}
+				value = 85
+			}
+		}
+		effect = {
+			add_claim_multi_provinces = { target = horn_of_africa_region }
+			add_mil_power = 200  
+			add_country_modifier = {
+				name = eth_lord_of_the_horn
+				duration = -1
+			}
+		}
+	}
+}

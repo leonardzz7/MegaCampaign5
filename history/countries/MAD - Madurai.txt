@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = english_monarchy
 government_rank = 2
 technology_group = eastern
-religion = converted_dynamic_faith_140
+religion = hellenic_pagan_reformed
 primary_culture = yavana
 capital = 2026
 add_accepted_culture = tamil
@@ -14,7 +14,7 @@ add_accepted_culture = tamil
 		dip = 5
 		mil = 3
 		birth_date = 1413.8.24
-		religion = converted_dynamic_faith_140
+		religion = hellenic_pagan_reformed
 		culture = yavana
 	}
 	add_ruler_personality = intricate_web_weaver_personality

@@ -8,7 +8,7 @@ dom_cas_missions_1 = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		NOT = { was_tag = ARA } 
@@ -686,7 +686,7 @@ dom_cas_missions_1_c = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		
@@ -867,7 +867,7 @@ dom_cas_missions_2 = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		NOT = { was_tag = ARA } 
@@ -1398,7 +1398,7 @@ dom_cas_missions_2_c = {
 	potential = {
 		has_dlc = "Domination"
 		OR = { 
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		
@@ -1835,7 +1835,7 @@ dom_cas_missions_3 = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		NOT = { was_tag = ARA }
@@ -2569,7 +2569,7 @@ dom_cas_missions_3_c = {
 	potential = {
 		has_dlc = "Domination"
 		OR = { 
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		
@@ -2736,7 +2736,7 @@ dom_cas_missions_4 = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		NOT = { was_tag = ARA } 
@@ -2750,7 +2750,7 @@ dom_cas_missions_4 = {
 		trigger = {
 			if = {
 				limit = { 
-					tag = CAS 
+					tag = HLR 
 					NOT = { is_year = 1470 }
 				}
 				custom_trigger_tooltip = {
@@ -3274,7 +3274,7 @@ dom_cas_missions_4_c = {
 	potential = {
 		has_dlc = "Domination"
 		OR = { 
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		
@@ -3634,7 +3634,7 @@ dom_cas_missions_5 = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		NOT = { was_tag = ARA } 
@@ -4232,7 +4232,7 @@ dom_cas_missions_5_c = {
 	potential = {
 		has_dlc = "Domination"
 		OR = {
-			tag = CAS 
+			tag = HLR 
 			tag = SPA 
 		}
 		

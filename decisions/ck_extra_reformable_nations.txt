@@ -579,8 +579,504 @@ country_decisions = {
 
 	
 	
-	
+	perker_nation = {
+		major = yes
+		potential = {
+			tag = Z77
+			NOT = { has_country_flag = formed_mali_flag }
+			NOT = { tag = MAL }
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = futa_jallon_area
+				area = manding_area
+				area = massina_area
+				area = baghena_area
+				area = niger_bend_area
+				area = jenne_area
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			NOT = { exists = MAL }
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			futa_jallon_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+			manding_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+			massina_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+			baghena_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+			niger_bend_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+			jenne_area = {
+				is_core = ROOT
+				owned_by = ROOT
+				type = all
+			}
+		}
+		effect = {
+			change_tag = MAL
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 3 } }
+				set_government_rank = 3
+			}
+			set_capital = 1124
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = MAL_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_country_flag = formed_mali_flag
+			if = {
+				limit = { has_dlc = "Origins" }
+				swap_non_generic_missions = yes
+			}
+			on_change_tag_effect = yes
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400 #
+	}
 
+	perker2_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_andalusia_flag }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = SPA }
+			NOT = { tag = ADU }
+			tag = MAL
+		}
+		provinces_to_highlight = {
+				province_id = 1751	# Murcia
+				province_id = 4568	# Granada
+				province_id = 2462	# Andalucia
+				province_id = 341	# Cordoba
+		}
+		allow = {
+			NOT = { exists = ADU }
+			is_nomad = no
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			owns_core_province = 1751			# Murcia
+			owns_core_province = 4568			# Granada
+			owns_core_province = 2462			# Andalucia
+			owns_core_province = 341			# Gibraltar
+			
+		}
+		effect = {
+			change_tag = ADU
+			on_change_tag_effect = yes
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 3
+			}
+			add_prestige = 25
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+			if = {
+				limit = { 
+					NOT = { government = monarchy }
+					is_revolutionary = no
+				}
+				change_government = monarchy
+			}
+			if = {
+				limit = { is_revolutionary = no }
+				add_government_reform = al_andalusia_government
+			}
+			lower_andalucia_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ADU
+			}
+			upper_andalucia_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ADU
+			}
+			toledo_area = {
+				limit = {
+					NOT = {
+						owned_by = ROOT
+					}
+				}
+				add_permanent_claim = ADU
+			}
+			add_permanent_claim = 218
+			add_permanent_claim = 220
+			add_permanent_claim = 1750
+			add_permanent_claim = 1747
+			set_country_flag = formed_andalusia_flag
+			if = {
+				limit = {
+					mission_completed = gra_reconquer_sevilla
+					has_dlc = "Golden Century"
+				}
+				alentejo_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				beieras_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					mission_completed = gra_restore_trade_superiority
+					has_dlc = "Golden Century"
+				}
+				corsica_sardinia_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				baleares_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					mission_completed = gra_restore_faith_in_the_throne
+					has_dlc = "Golden Century"
+				}
+				algiers_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				hautes_plaines_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				barbary_coast_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				kabylia_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				tunisia_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				djerba_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				tripolitania_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					mission_completed = gra_restore_faith_in_the_throne
+					has_dlc = "Golden Century"
+				}
+				northern_morocco_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+						}
+						NOT = {
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				marrekesh_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+						}
+						NOT = {
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				western_morocco_area = {
+					limit = {
+						NOT = {
+							owned_by = ROOT
+						}
+						NOT = {
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 400
+		}
+	}
+
+	hans_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_manchu_flag }
+			tag = Z0M
+		}
+		provinces_to_highlight = {
+			province_id = 732	# Murcia
+			province_id = 4665	# Granada
+			province_id = 1048	# Andalucia
+			province_id = 1034	# Cordoba
+			province_id = 2440	# Cordoba
+			province_id = 1043	# Cordoba
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no			
+			owns_core_province = 732		#Huncun	
+			owns_core_province = 4665		#Girin
+			owns_core_province = 1048		#Huncun	
+			owns_core_province = 1034		#Girin
+			owns_core_province = 2440		#Girin
+			owns_core_province = 1043		#Girin
+		}
+		effect = {
+			add_prestige = 25
+			change_tag = MCH
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			set_country_flag = formed_manchu_flag
+			if = {
+				limit = { 
+					has_custom_ideas = no
+					NOT = { has_idea_group = MCH_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { owns_core_province = 2108 }
+				NOT = { owns_core_province = 730 }
+			}
+		}
+		ai_importance = 1000
+	}
+	
+	
+	
+	
+	cam_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_cam_flag }
+			tag = SPA
+		}
+		provinces_to_highlight = {
+			province_id = 118	# Murcia
+			province_id = 196	# Granada
+			province_id = 2462	# Andalucia
+			province_id = 4735	# Cordoba
+
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no			
+			owns_core_province = 118		#Huncun	
+			owns_core_province = 196		#Girin
+			owns_core_province = 2462		#Huncun	
+			owns_core_province = 4735		#Girin
+		}
+		effect = {
+			add_prestige = 25
+			change_tag = HLR
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			set_country_flag = formed_cam_flag
+			if = {
+				limit = { 
+					has_custom_ideas = no
+					NOT = { has_idea_group = HLR_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { owns_core_province = 2108 }
+				NOT = { owns_core_province = 730 }
+			}
+		}
+		ai_importance = 1000
+	}
+	
+	
+	balt_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = formed_balt_flag }
+			tag = EST
+		}
+		provinces_to_highlight = {
+			province_id = 1841	# Murcia
+			province_id = 31	# Granada
+			province_id = 4151	# Andalucia
+			province_id = 27	# Cordoba
+			province_id = 276	# Cordoba
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no			
+			owns_core_province = 1841		#Huncun	
+			owns_core_province = 31		#Girin
+			owns_core_province = 4151		#Huncun	
+			owns_core_province = 27		#Girin
+			owns_core_province = 276		#Girin
+		}
+		effect = {
+			add_prestige = 25
+			change_tag = RIG
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			set_country_flag = formed_balt_flag
+			if = {
+				limit = { 
+					has_custom_ideas = no
+					NOT = { has_idea_group = RIG_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { owns_core_province = 2108 }
+				NOT = { owns_core_province = 730 }
+			}
+		}
+		ai_importance = 1000
+	}
 
 	
 	bart_nation = {

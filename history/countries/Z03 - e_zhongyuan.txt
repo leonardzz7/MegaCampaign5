@@ -28,7 +28,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1423.6.27
 		death_date = 1483.6.27
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hellenic_pagan_reformed
 		culture = roman
 	}
 	add_queen_personality = silver_tongue_personality

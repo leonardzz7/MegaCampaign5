@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = feudal_tribe
 government_rank = 1
 technology_group = chinese
-religion = converted_dynamic_faith_140
+religion = hellenic_pagan_reformed
 primary_culture = filipino
 capital = 4351
 fixed_capital = 4351
@@ -16,7 +16,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 3
 		birth_date = 1404.7.31
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hellenic_pagan_reformed
 		culture = filipino
 	}
 	add_ruler_personality = fertile_personality

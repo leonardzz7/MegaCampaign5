@@ -161,3 +161,37 @@ wonder_underground_city_petra = {
 	local_hostile_attrition = 2
 	local_core_creation = 1
 }
+ely_colonial_focus = {
+	colonists = 1 
+	colony_cost_modifier = -0.1
+	may_explore = yes 
+}
+ely_free_trade = {
+	merchants = 1
+	trade_goods_size_modifier = 0.15
+	global_own_trade_power = 0.2
+}
+ely_economical_expansion = {
+	global_tax_modifier = 0.1
+	trade_efficiency = 0.1
+}
+ely_roman_legions = {
+	manpower_in_culture_group_provinces = 0.15
+	core_creation = -0.1
+}
+ely_rome_trust_military_establishment = {
+	army_tradition_decay = -0.01
+	army_tradition = 0.5
+}
+ely_japan_allies = {
+	colonist_placement_chance = 0.1
+	range = 0.15
+}
+ely_greek_allies = {
+	cav_to_inf_ratio = 0.25
+	navy_tradition_decay = -0.02
+}
+ely_gothic_allies = {
+	infantry_power = 0.05
+	land_morale = 0.1
+}

@@ -1,55 +1,127 @@
 ﻿l_english:
+ elysium_military_reforms01_title:0 "Civtas Romana"
+ elysium_military_reforms01_desc:0 "To be Roman is not merely to bear arms, but to belong to the eternal order of law and discipline. Civitas Romana binds farmer and noble alike to the defense of the Res Publica. Let recruitment be standardized, garrisons strengthened, and the duties of citizenship renewed. From these islands shall rise a people worthy of the eagle.""
+
+ elysium_military_reforms02_title:0 "Eastern Roman Legions"
+ elysium_military_reforms02_desc:0 "Far from the ruins of Old Rome, a new Rome stands beneath eastern skies. Our legions must reflect both tradition and adaptation — drilled in Roman discipline, hardened by tropical climate, and loyal beyond question. The Legions of the East shall march not as imitators, but as heirs."
+
+ elysium_military_reforms03_title:0 "Expand the Ranks"
+ elysium_military_reforms03_desc:0 "Empire demands manpower. Veterans must train recruits, settlements must provide soldiers, and every province must understand its obligation to the purple banner. Let the ranks swell so that our enemies see not scattered cohorts, but an unending tide of steel."
+
+ elysium_military_reforms04_title:0 "Roman Cohorts"
+ elysium_military_reforms04_desc:0 "The cohort is the heart of Roman warfare — flexible, disciplined, relentless. By refining command structures and elevating proven generals, we ensure that our armies fight as a unified instrument. The military establishment must be trusted, honored, and feared."
+
+ elysium_influence_missions01_title:0 "Indian Relations"
+ elysium_influence_missions01_desc:0 "In the south of India dwell Hellenic heirs — Greeks who preserved learning, commerce, and the memory of Alexander. Through diplomacy or presence, we shall bind them to us. Their ships, scholars, and mercenaries will strengthen our influence across the Indian Ocean."
+
+ elysium_influence_missions02_title:0 "Gothic Foederati"
+ elysium_influence_missions02_desc:0 "On the cold shores near Vladivostok stand the Gothic settlers — fierce, disciplined, and proud. As once in ancient times, let them serve as Foederati of Rome. In exchange for honor and gold, they shall fight beneath our banners, guarding the northern approaches of the Empire."
+
+ elysium_govermental_reforms02_title:0 "Ready the Army"
+ elysium_govermental_reforms02_desc:0 "Reform without readiness is weakness. Our administrative and military systems must work in harmony — funding officers, training troops, and maintaining reserves. The Empire must always stand prepared, for peace is secured only by visible strength."
+
+ elysium_expansionism_mission01_title:0 "Secure Indonesia"
+ elysium_expansionism_mission01_desc:0 "The islands of Indonesia are the natural frontier of our maritime empire. Whoever commands these straits commands the spice routes and the wealth of nations. Their submission will ensure Roman supremacy across the archipelago."
+
+ elysium_colonialism_ambitions03_title:0 "North Ambitions"
+ elysium_colonialism_ambitions03_desc:0 "Across the northern ocean lie vast and untamed territories. By planting colonies in these cold frontiers, we extend Roman law to the edge of the known world. Alaska shall not remain beyond the reach of civilization."
+
+ elysium_colonialism_ambitions07_title:0 "Colonia Califormina"
+ elysium_colonialism_ambitions07_desc:0 "On the distant western shores lies California — fertile, strategic, and open to settlement. Let a Colonia Califormina be founded, a beacon of Roman culture in the New World and a gateway to Pacific dominion."
+
+ elysium_govermental_reforms01_title:0 "Island of Java"
+ elysium_govermental_reforms01_desc:0 "Java is the jewel of our dominion — fertile, prosperous, and central to our authority. Its capital must rival the greatest cities of antiquity. Through development and stability, we shall transform it into a true Megalopolis of the Eastern Roman world."
+
+ elysium_colonialism_ambitions01_title:0 "New Pax Romana"
+ elysium_colonialism_ambitions01_desc:0 "Rome once brought peace to the Mediterranean. We shall bring peace to the oceans. Exploration and colonization are not mere ambition — they are destiny. A New Pax Romana shall stretch from Asia to distant continents."
+
+ elysium_colonialism_ambitions02_title:0 "South Ambitions"
+ elysium_colonialism_ambitions02_desc:0 "To the south lie lands rich in silver and gold. Their mountains and cities shall enrich our treasury and strengthen our global position. Overseas dominion will finance the eternal expansion of Rome."
+
+ elysium_colonialism_ambitions08_title:0 "Brake the Flower Wars"
+ elysium_colonialism_ambitions08_desc:0 "The lands of Mexico are divided by ritual conflict and flower wars. We shall break these endless struggles and impose Roman order. Through conquest and reform, the chaos of roses shall give way to imperial unity."
+
+ elysium_govermental_reforms03_title:0 "Secure Funds"
+ elysium_govermental_reforms03_desc:0 "Wars are not won by courage alone, but by coin. Trade must flourish, the capital must dominate commerce, and the treasury must be filled before campaigns begin. Let our primary city become the financial heart of the eastern seas."
+
+ elysium_expansionism_mission02_title:0 "Roman Japan"
+ elysium_expansionism_mission02_desc:0 "In Kyushu, a distant branch of Rome endures — warriors who have blended the discipline of the legion with the code of the samurai. Yet divided authority weakens us. The Shogun must acknowledge Elysium as the true center of Roman civilization. Whether through oath, alliance, or force, Roman Japan shall stand united under one imperial destiny."
+
+ elysium_economical_mission01_title:0 "Elysian Economy"
+ elysium_economical_mission01_desc:0 "Tolerance and commerce are pillars of prosperity. By encouraging trade infrastructure and empowering the merchant estates, we lay the foundation of lasting wealth. The seas must carry Roman goods to every horizon."
+
+ elysium_economical_mission02_title:0 "Expand Civitas"
+ elysium_economical_mission02_desc:0 "Prestige must be matched by productivity. Urban centers must grow, devastation must be reduced, and infrastructure must flourish. Wealth flows to those who invest wisely in their dominion."
+
+ elysium_economical_mission03_title:0 "Expand Royal City"
+ elysium_economical_mission03_desc:0 "Our capital shall surpass all rivals in splendor and strength. Manufactories, barracks, and grand markets will transform it into the Queen of Cities — the living symbol of Roman greatness reborn."
+
+ elysium_economical_mission04_title:0 "Trade Dominion"
+ elysium_economical_mission04_desc:0 "To rule trade is to rule the world. By strengthening mercantile traditions and ensuring supremacy in our home node, we secure dominance over global commerce. Let free exchange serve imperial ambition."
+
+ elysium_colonialism_ambitions06_title:0 "Secure Dai-Vet"
+ elysium_colonialism_ambitions06_desc:0 "Dai-Vet guards the Red River and commands vital trade routes. Whether through vassalage or conquest, its lands must fall under Roman influence. Control of Indochina will anchor our dominance in mainland Southeast Asia."
+
+ ely_roman_legions:0 "Elysian Legions"
+ ely_roman_legions_desc:0 "The armies of Elysium combine classical Roman doctrine with eastern adaptability, forming disciplined and professional legions feared across land and sea."
+
+ ely_rome_trust_military_establishment:0 "Elysian Military Establishing"
+ ely_rome_trust_military_establishment_desc:0 "The state places enduring trust in its military command structure, ensuring stability, professionalism, and unwavering loyalty to the imperial throne."
+
+ ely_gothic_allies:0 "Gothic Merecenaries"
+ ely_gothic_allies_desc:0 "Warriors from the northern Gothic settlements near Vladivostok serve as elite auxiliaries, bringing ferocity and resilience to our armies."
+
+ ely_greek_allies:0 "Greek Merecenariesc"
+ ely_greek_allies_desc:0 "Hellenic captains from Southern India bolster our fleets and armies, preserving ancient martial traditions in service to Rome."
+
+ ely_colonial_focus:0 "Imperial Order"
+ ely_colonial_focus_desc:0 "The Empire has committed itself to overseas expansion, organizing exploration and settlement under a unified imperial doctrine."
+
+ ely_japan_allies:0 "Roman Japanese Sailors"
+ ely_japan_allies_desc:0 "Romanized warriors and sailors of Kyushu merge samurai discipline with Roman command, strengthening our naval supremacy in the Pacific."
+
+ ely_free_trade:0 "Elysian Freehold"
+ ely_free_trade_desc:0 "With commerce flowing freely and merchants empowered, Elysium dominates trade networks across the eastern and western oceans alike."
+
+ elysium_colonialism_ambitions04_title:0 "Australia Ambitions"
+ elysium_colonialism_ambitions04_desc:0 ""
+ elysium_colonialism_ambitions09_title:0 "Mountain Kingdoms"
+ elysium_colonialism_ambitions09_desc:0 ""
+ elysium_anticolonialism_ambitions04_title:0 "Secure North Frontier"
+ elysium_anticolonialism_ambitions04_desc:0 ""
  hindu_integration_mission01_title:0 "Secure loyality of Hindi"
  hindu_integration_mission01_desc:0 "The lands of Hind are ancient, wealthy, and fiercely proud of their traditions. If we are to rule here not merely as conquerors but as sovereigns, we must earn the loyalty of the local elites and weave their customs into our own statecraft. Through careful administration and mutual respect, a new syncretic order may yet emerge."
-
  hindu_integration_mission03_title:0 "Integrate Hindu Estate"
  hindu_integration_mission03_desc:0 "The integration of Hindu society cannot succeed without the cooperation of its estates. By stabilizing the realm and ensuring the loyalty of nobles, merchants, and priests alike, we can bind the warrior castes to our cause and secure the foundations of long-term rule."
-
  hindu_integration_mission04_title:0 "Neos Makedonicon"
  hindu_integration_mission04_desc:0 "Far from the Aegean, the legacy of Hellenic civilization finds new soil in the East. The cities of Indos shall become a Neos Makedonicon — a new Macedonia — where Greek institutions, trade, and culture flourish amidst the riches of the Coromandel coast."
-
  india_expansion_mission02_title:0 "Secure Bengal"
  india_expansion_mission02_desc:0 "Bengal is the jewel of the eastern plains, a land of fertile fields, great cities, and immense wealth. Securing its submission will grant us both riches and prestige, and mark our arrival as a dominant power in India."
-
  hindu_integration_mission02_title:0 "Expand Greek Cities"
  hindu_integration_mission02_desc:0 "The Greek cities of southern India must not remain isolated outposts. By expanding their influence and integrating the surrounding lands, we shall transform them into thriving centers of Yavana culture, manpower, and prosperity."
-
  india_expansion_mission01_title:0 "The Decline of Aryavanta"
  india_expansion_mission01_desc:0 "The old powers of Aryavanta wane, their borders fragile and their armies divided. With a force to rival the greatest empires of India, the time has come to shatter the balance and claim our destiny upon the subcontinent."
-
  india_expansion_mission04_title:0 "Empire of Indos"
  india_expansion_mission04_desc:0 "From the Indus to the Ganges, no rival now stands unchallenged. By uniting the heartlands of India under our banner, we proclaim ourselves masters of Indos — heirs to empire, law, and universal sovereignty."
-
  india_expansion_mission03_title:0 "Secure Central India"
  india_expansion_mission03_desc:0 "The Deccan stands at the crossroads of India, commanding routes of trade, culture, and conquest. Establishing firm control over its plateaus will allow us to govern the subcontinent through loyal viceroys and disciplined administration."
-
  colonial_ambitions_mission02_title:0 "Terra Australis"
  colonial_ambitions_mission02_desc:0 "t the edge of the world lies Terra Australis, a land spoken of in rumor and speculation. By establishing a foothold there, we extend our influence into the furthest seas and secure new routes of trade and prestige."
-
  colonial_ambitions_mission01_title:0 "New Colonial Ambition"
  colonial_ambitions_mission01_desc:0 "Beyond the known horizons lie coasts uncharted and riches untold. With sailors, settlers, and ambition alike, we shall venture into the unknown and claim our place among the great colonial powers of the world."
-
  colonial_ambitions_mission03_title:0 "Secure Madagascar"
  colonial_ambitions_mission03_desc:0 "Madagascar stands as the key to the southern seas, a vital link between Africa and the Indian Ocean. Securing the island will grant us control over regional trade and a base for further expansion along the African coast."
-
  colonial_ambitions_mission04_title:0 "Gold of Africa"
  colonial_ambitions_mission04_desc:0 "The goldfields of southern Africa promise unimaginable wealth. By asserting control over these lands, we shall enrich our treasury, stabilize our economy, and transform conquest into lasting prosperity."
-
  somalia_expansion_mission01_title:0 "Secure South"
  somalia_expansion_mission01_desc:0 "To command the Indian Ocean, we must first secure its southern approaches. The islands and coasts to our south will serve as the foundation for dominance over the sea lanes that bind East and West."
-
  somalia_expansion_mission02_title:0 "Conquest of Yemen"
  somalia_expansion_mission02_desc:0 "Yemen guards the gates of the Red Sea. Its conquest will grant us mastery over vital trade routes and open the path toward influence along the shores of Arabia and Africa alike."
-
  somalia_expansion_mission03_title:0 "Secure Somali coast"
  somalia_expansion_mission03_desc:0 "The Somali coast is a chain of ports and markets that connects Africa to the wider oceanic world. By uniting these lands under our rule, we lay the groundwork for a maritime empire in the Horn of Africa."
-
  somalia_expansion_mission04_title:0 "Secure Abissynia"
  somalia_expansion_mission04_desc:0 "Abyssinia’s highlands are rich, resilient, and fiercely defended. Subduing them will test our armies, but victory shall secure our supremacy over the interior of the Horn."
-
  somalia_expansion_mission05_title:0 "Indian Ocean Hegemony"
  somalia_expansion_mission05_desc:0 "With the Horn of Africa firmly in our grasp, the Indian Ocean itself bends to our will. From Aden to Zanzibar, our fleets and armies enforce a new order — one in which we stand as undisputed hegemon of the seas."
- 
  MAD_syncretism:0 "Yavanan Syncretism"
  MAD_syncretism_desc:0 "By blending Yavana governance with the ancient traditions of Hind, our state has forged a unique syncretic identity. This fusion of cultures strengthens loyalty, stability, and the legitimacy of our rule across the subcontinent."
-

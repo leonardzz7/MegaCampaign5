@@ -1,0 +1,786 @@
+elysium_mission_branch_01 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MSA } 
+
+	elysium_military_reforms01 = {
+		icon = mission_mnd_dai_control_the_army
+		position = 1
+		provinces_to_highlight = {
+			owned_by = root
+			OR = {
+				NOT = { has_manpower_building_trigger = yes } 
+				NOT = { has_forcelimit_building_trigger = yes } 
+			}
+		}
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				has_manpower_building_trigger = yes
+			}
+			num_of_owned_provinces_with = {
+				value = 5
+				has_forcelimit_building_trigger = yes
+			}
+		}
+		effect = {  
+			add_army_tradition_or_mil_power = {
+				amount = 55
+			}
+		} 
+	}
+
+	elysium_military_reforms02 = {
+		icon = mission_unite_west_india
+		position = 2
+		required_missions = { elysium_military_reforms01 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			army_size = 73
+			OR = {
+				army_size_percentage = 0.9 
+				army_size = 60
+			}
+			num_of_generals = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ely_roman_legions"
+				duration = 9125
+			}
+		}
+	}
+
+	elysium_military_reforms03 = {
+		icon = establish_a_standing_army
+		position = 3
+		required_missions = { elysium_military_reforms02 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			if = {
+				limit = { ai = no } 
+				army_size_percentage = 0.5
+				manpower_percentage = 0.25
+			}
+			else = { army_size_percentage = 0.4 } 
+			num_of_generals = 1
+		}
+
+		effect = {
+			add_yearly_manpower = 2
+			distribute_base_dev_to_provinces = {
+				num = 5
+				amount = 1
+				type = manpower
+				tooltip = pf_rome_distribute_5_manpower_tt
+			}
+		}
+	}
+
+	elysium_military_reforms04 = {
+		icon = mission_mansure_army
+		position = 4
+		required_missions = { elysium_military_reforms03 } 
+		provinces_to_highlight = {
+			owned_by = ROOT
+			NOT = { has_forcelimit_building_trigger = yes }
+		} 
+
+		trigger = {
+			army_tradition = 80
+			num_of_generals_with_traits = 2
+			OR = {
+				num_of_owned_provinces_with = {
+					value = 200
+					has_forcelimit_building_trigger = yes
+				}
+				num_of_generals = 6
+			}
+		} 
+
+		effect = {
+			change_ruler_stat = {
+				amount = 3
+				type = mil
+			}
+			custom_tooltip = empty_line_tt
+			add_country_modifier = {
+				name = "ely_rome_trust_military_establishment"
+				duration = -1
+			}
+		} 
+	}
+
+	elysium_influence_missions01 = {
+		icon = mission_indian_stateman
+		position = 5
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			OR = {
+				any_owned_province = {
+					OR = {
+						area = tanjore_area
+					}
+				}
+				MAD = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ely_greek_allies"
+				duration = 1825
+			}
+		}
+	}
+
+	elysium_influence_missions02 = {
+		icon = gory_to_the_black_army
+		position = 6
+		required_missions = { elysium_influence_missions01 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			OR = {
+				any_owned_province = {
+					OR = {
+						area = ningguta_area
+					}
+				}
+				Z0M = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ely_gothic_allies"
+				duration = 1825
+			}
+		}
+	}
+}
+elysium_mission_branch_02 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MSA } 
+
+	elysium_govermental_reforms02 = {
+		icon = mission_assemble_an_army
+		position = 3
+		required_missions = {
+			elysium_military_reforms02
+			elysium_govermental_reforms01
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			army_size = 65
+			has_mil_advisor_2 = yes
+		}
+
+		effect = {
+			add_yearly_manpower = 4
+			add_army_tradition_or_mil_power = { amount = 10 } 
+		}
+	}
+
+	elysium_expansionism_mission01 = {
+		icon = mission_mnd_maj_rein_in_brunei
+		position = 4
+		required_missions = { elysium_govermental_reforms02 } 
+		provinces_to_highlight = {
+			region = malaya_region
+			region = indonesia_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				region = malaya_region
+				value = 40 #out of 45
+			}
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				region = indonesia_region
+				value = 40 #out of 45
+			}
+		}
+		effect = {
+			add_prestige_or_monarch_power = { amount = 15 }
+			malaya_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			indonesia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	elysium_colonialism_ambitions03 = {
+		icon = mission_ruler_of_north_america
+		position = 5
+		required_missions = { elysium_colonialism_ambitions01 } 
+		provinces_to_highlight = {
+			colonial_region = colonial_alaska
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		trigger = {
+			if = {
+				limit = {
+					has_dlc = "Golden Century"
+					religion = converted_dynamic_faith_140
+				}
+				874 = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+			else = {
+				2481 = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = ROOT
+				}
+			}
+			2481 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = ROOT
+			}
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				colonial_region = colonial_alaska
+				is_city = yes
+			}
+		}
+		effect = {
+			add_dip_power = 100
+			874 = {
+				add_base_tax = 3
+			}
+			2481 = { add_center_of_trade_level = 1  add_base_production = 4 } 
+			colonial_alaska = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	elysium_colonialism_ambitions07 = {
+		icon = mission_colonize_california
+		position = 6
+		required_missions = { elysium_colonialism_ambitions03 } 
+		provinces_to_highlight = {
+			colonial_region = colonial_california
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		trigger = {
+			if = {
+				limit = {
+					has_dlc = "Golden Century"
+					religion = converted_dynamic_faith_140
+				}
+				2021 = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+			else = {
+				2021 = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = ROOT
+				}
+			}
+			4637 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = ROOT
+			}
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				colonial_region = colonial_california
+				is_city = yes
+			}
+		}
+		effect = {
+			add_dip_power = 100
+			2021 = {
+				add_base_tax = 3
+			}
+			4637 = { add_center_of_trade_level = 1  add_base_production = 4 } 
+			colonial_california = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+}
+elysium_mission_branch_03 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MSA } 
+
+	elysium_govermental_reforms01 = {
+		icon = mng_jing_hang_grand_canal
+		position = 2
+		provinces_to_highlight = {
+			province_id = 2690
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { development = 20 }
+				NOT = { prosperity = 25 }
+			}
+		} 
+
+		trigger = {
+			owns_core_province = 2690
+			2690 = {
+				development = 20
+				OR = {
+					development = 25
+					prosperity = 25
+				}
+			}
+		} 
+		effect = {
+			2690 = {
+				add_province_modifier = {
+					name = BYZ_megalopolis_modifier_1
+					duration = -1
+				}
+				hidden_effect = {
+					add_province_triggered_modifier = BYZ_megalopolis_updater #hidden Ptm that updates the modifier
+				}
+			}	
+		}
+	}
+
+	elysium_colonialism_ambitions01 = {
+		icon = a_roman_empire
+		position = 4
+		required_missions = {
+			elysium_govermental_reforms02
+			elysium_govermental_reforms03
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = { custom_trigger_tooltip = { colonial_california = { has_discovered = ROOT }  }  } 
+
+		effect = {
+			create_explorer = { tradition = 50 } 
+			add_country_modifier = {
+				name = "ely_colonial_focus"
+				duration = 10950
+			}
+			add_country_modifier = {
+				name = "the_unknown_frontier"
+				duration = 5475
+			}
+			add_dip_power = 250
+		}
+	}
+
+	elysium_colonialism_ambitions02 = {
+		icon = mission_colonise_brazil
+		position = 5
+		required_missions = { elysium_colonialism_ambitions01 } 
+		provinces_to_highlight = {
+			OR = {
+				area = upper_peru
+				area = potosi_area
+				area = antisuyu_area
+				area = kuntisuyu_area
+				province_id = 794
+				province_id = 2837
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+
+		trigger = {
+			upper_peru = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			potosi_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			antisuyu_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			kuntisuyu_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			794 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			2837 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = spa_overseas_wealth_modifier
+				duration = 9125 
+			}
+			peru_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	elysium_colonialism_ambitions08 = {
+		icon = mission_aztecs_flower_wars
+		position = 6
+		required_missions = { elysium_colonialism_ambitions03 } 
+		provinces_to_highlight = {
+			OR = {
+				area = mexico_area
+				area = eastern_mexico_area
+				area = puebla_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+
+		trigger = {
+			mexico_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			eastern_mexico_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			puebla_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = spa_aztecs_conquest_modifier
+				duration = 7300
+			}
+			add_years_of_income = 1
+			mexico_region = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+}
+elysium_mission_branch_04 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MSA } 
+
+	elysium_govermental_reforms03 = {
+		icon = mission_war_chest
+		position = 3
+		required_missions = {
+			elysium_govermental_reforms01
+			elysium_economical_mission02
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			4815 = {
+				owned_by = ROOT
+				development = 10
+				has_trade_building_trigger = yes
+				has_production_building_trigger = yes
+				custom_trigger_tooltip = {
+					tooltip = BYZ_most_developed_city_in_the_world
+					NOT = {
+						any_province = {
+							higher_development_than = PREV
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			4815 = {
+				add_or_upgrade_trade_building = yes
+			
+				custom_tooltip = " "
+				
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = BYZ_megalopolitan_trade
+				}
+				
+				custom_tooltip = " "
+				
+				add_province_modifier = {
+					name = BYZ_primary_trade_capital
+					duration = -1
+				}
+				
+				set_center_level_2_center_of_trade = yes
+			}
+		}
+	}
+
+	elysium_expansionism_mission02 = {
+		icon = mission_to_japan
+		position = 4
+		required_missions = { elysium_govermental_reforms03 } 
+		provinces_to_highlight = {  } 
+
+		trigger = { 
+			OR = {
+				1818 = { 
+					owner = {
+						OR = {
+							alliance_with = ROOT 
+							is_subject_of = ROOT 
+						}
+						OR = {
+							trust = {
+								who = ROOT 
+								value = 100 
+							}
+							has_opinion = {
+								who = ROOT 
+								value = 190 
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ely_japan_allies"
+				duration = 1825
+			}
+		}
+	}
+}
+elysium_mission_branch_05 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = MSA } 
+
+	elysium_economical_mission01 = {
+		icon = mission_trade_company_region_abroad
+		position = 1
+		provinces_to_highlight = {
+			owned_by = ROOT
+			NOT = { has_tax_building_trigger = yes } 
+		}
+
+		trigger = {
+			tolerance_to_this = 5
+			num_of_owned_provinces_with = {
+				value = 5
+				has_trade_building_trigger = yes
+			}
+		}
+
+		effect = {
+			add_years_of_income = 1
+			capital_scope = { add_or_upgrade_trade_building = yes } 
+			add_estate_loyalty = {
+				estate = estate_burghers
+				loyalty = 15
+			}
+		}
+	}
+
+	elysium_economical_mission02 = {
+		icon = mission_early_game_buildings
+		position = 2
+		required_missions = { elysium_economical_mission01 } 
+		provinces_to_highlight = {
+			OR = {
+				NOT = { development = 6 } 
+				devastation = 1
+			}
+			owned_by = ROOT
+		}
+
+		trigger = {
+			prestige = 50
+			738 = {
+				owned_by = ROOT 
+				development = 12
+				has_tax_building_trigger = yes
+				has_trade_building_trigger = yes
+			}
+		}
+
+		effect = {
+			add_treasury = 250
+			add_stability_or_adm_power = yes
+			add_manpower = 20
+			add_sailors = 1500
+		}
+	}
+
+	elysium_economical_mission03 = {
+		icon = a_strong_government
+		position = 3
+		required_missions = { elysium_economical_mission02 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				has_manufactory_trigger = yes
+				value = 6
+			}
+			monthly_income = 45
+		}
+
+		effect = {
+			2690 = {
+				add_or_upgrade_tax_building = yes
+				add_or_upgrade_production_building = yes
+				add_or_upgrade_manpower_building = yes
+				custom_tooltip = " "
+				if = {
+					limit = { has_dlc = "Leviathan" } 
+					add_province_modifier = {
+						name = "BYZ_queen_of_cities"
+						duration = -1
+					}
+				}
+				else = {
+					add_province_modifier = {
+						name = "BYZ_queen_of_cities_no_dlc"
+						duration = -1
+					}
+				}
+			}
+			if = {
+				limit = { has_dlc = "Leviathan" } 
+				add_country_modifier = {
+					name = "BYZ_centralize_all_wealth"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	elysium_economical_mission04 = {
+		icon = mission_brahmin_administrators
+		position = 4
+		required_missions = { elysium_economical_mission03 } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			mercantilism = 50
+			monthly_trade_income = 150
+			home_trade_node = {
+				is_strongest_trade_power = ROOT
+				highest_value_trade_node = yes
+			}
+		}
+
+		effect = {
+			define_advisor = {
+				type = trader
+				skill = 3
+				cost_multiplier = 0.5
+			}
+			custom_tooltip = empty_line_tt
+			add_country_modifier = {
+				name = "ely_free_trade"
+				duration = -1
+			}
+		}
+	}
+
+	elysium_colonialism_ambitions06 = {
+		icon = french_indochina
+		position = 5
+		required_missions = { elysium_colonialism_ambitions01 } 
+		provinces_to_highlight = {
+			province_id = 1844
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			1844 = {
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = DAI
+					DAI = {
+						is_free_or_tributary_trigger = yes
+					}
+				}
+				add_casus_belli = {
+					target = DAI
+					type = cb_vassalize_mission
+					months = 120
+				}
+			}
+			else = {
+				vietnam_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+						NOT = { is_permanent_claim = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+				red_river_delta_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+						NOT = { is_permanent_claim = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+}
